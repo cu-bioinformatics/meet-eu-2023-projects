@@ -38,4 +38,7 @@ The teams are paired as follows:
 | Warsaw 3 - Milano 2 - Sorbone 4 |
 | Warsaw 2 - Sorbone 3 - Sorbonne 6 |
 
+## Troubleshooting
+GitHub allows me to grant you the access to your repository branch only after you accept the invitation to the repository. Therefore, don't hesitate to reach me out through [raising an Issue](https://github.com/cu-bioinformatics/meet-eu-2023-projects/issues), if it would take me too much time. 
 
+Also, you can use the [Issues](https://github.com/cu-bioinformatics/meet-eu-2023-projects/issues) for any other problem that might occur.
