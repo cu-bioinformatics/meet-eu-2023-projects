@@ -1,0 +1,21 @@
+# Requirements
+# all files should be in the same folder
+# filename should contain ligand name and conformation
+
+# import required module
+import os
+
+# assign directory
+directory = 'files' # contains all output files from AutoDock Vina
+
+# iterate over files in that directory
+scoring=dict()
+for filename in os.scandir(directory): 
+  f = open(filename, "r") 		
+  lines=list(f.readlines()) 		# list all lines
+  f.close()		
+  score = lines[26][13:17] 			# is the score
+  scoring[str(filename)]= float(score)
+
+# Find maximum
+top_n_keys = sorted(scoring, key=scoring.get, reverse=True)[:n])	 # name of n best scorers 
