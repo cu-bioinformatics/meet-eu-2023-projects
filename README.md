@@ -1,6 +1,9 @@
 # 2023-2024_Team5-SU
 Sorbonne University Team 5 
 [this is not the final version]
+Anna AUDIT
+Hortense BEAUSSANT
+Célia MESSAOUDI
 
 Approach : 
 Creating a basic pipeline to screen candidate ligands for a protein 
