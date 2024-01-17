@@ -1,9 +1,9 @@
 # 2023-2024_Team5-SU
 Sorbonne University Team 5 
-[this is no the final version]
+[this is not the final version]
 
 Approach : 
-Creating a basic pipeleine to screen candidate ligands for a protein 
+Creating a basic pipeline to screen candidate ligands for a protein 
 
 Pipeline :
 - Generate 3D conformations from SMILES formula using RDKit (3 conformers for each candidate)
@@ -16,4 +16,5 @@ Files and folders :
 - 'Team5_flowchart' : png file summing up our pipeline
 - 'docking_loop' : folder containing the code files to prepare ligands, protein and run and loop for all candidates
 - 'find_top_scorers' : finds best scorers in folder of docking results
+- 'top_docking_scores' : contains the list of the 29 best scoring compounds along with their score
 - articles : reference articles
