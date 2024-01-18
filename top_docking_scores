@@ -1,4 +1,4 @@
-This file contains the best ligands with their docking scores (default scoring method of Vina, affinity in kcal/mol). 
+This file contains the best ligands with their docking scores (default scoring method of Vina, affinity in kcal/mol). Zinc DataBase IDs and PubChem IDs are available a the end of the document.
 We used the 7nio conformation of nsp13, available on the website of Meet-U.
 The 29 bests have the same score
 ['C25H23N3O5_confo_2', -9.9],
@@ -30,3 +30,16 @@ The 29 bests have the same score
  ['C24H29N7O2_confo_2', -9.9],
  ['C25H32N8O_confo_0', -9.9],
  ['C24H25F2N3O4_confo_0', -9.9]
+
+ZINC DataBase IDs in order (duplicates due to multiple conformations were removed):
+['ZINC000006578083', 'ZINC000207101276', 'ZINC000003870412', 'ZINC000020603642', 'ZINC000011617039', 'ZINC000021664213', 'ZINC000020858587', 'ZINC000052509466',
+'ZINC000003938686', 'ZINC000003820043', 'ZINC000065101075', 'ZINC000017190650', 'ZINC000065097548', 'ZINC000145814743', 'ZINC000053119602', 'ZINC000035535235', 
+'ZINC000065258104', 'ZINC000035932981', 'ZINC000021928730', 'ZINC000009971427', 'ZINC000064889585', 'ZINC000003973984', 'ZINC000102930548', 'ZINC000116734639', 'ZINC000064889595', 'ZINC000065232480']
+
+PubChem IDs in order (duplicates due to multiple conformations were removed):
+['CID20873494', 'CID53129019', 'CID42873297', 'CID5330286', 'CID65064', 'CID27564317', 'CID5307358', 'CID46345335', 'CID57336276', 'CID53168620', 'CID52913813', 
+'CID53000781', 'CID72547959', 'CID46378824', 'CID10296883', 'CID10366136', 'CID53126472', 'CID53064700', 'CID20962455', 'CID53064710', 'CID10113978', 'CID16718576', 
+'CID2971609', 'CID53182258', nan, 'CID25262965']
+
+ChemBl IDs in order (duplicates due to multiple conformations were removed):
+['CHEMBL477772', 'CHEMBL1950289', 'CHEMBL3681419', 'CHEMBL565612', 'CHEMBL1522300', 'CHEMBL1801204', 'CHEMBL297453', 'CHEMBL3408248', 'CHEMBL2105728', 'CHEMBL564829', nan, 'CHEMBL3393333', 'CHEMBL189963']
