@@ -1,45 +1,41 @@
 This file contains the best ligands with their docking scores (default scoring method of Vina, affinity in kcal/mol). Zinc DataBase IDs and PubChem IDs are available a the end of the document.
-We used the 7nio conformation of nsp13, available on the website of Meet-U.
-The 29 bests have the same score
-['C25H23N3O5_confo_2', -9.9],
- ['C22H25ClN2O5S_confo_2', -9.9],
- ['C25H19N3O6_confo_1', -9.9],
- ['C22H25ClN6O2_confo_1', -9.9],
- ['C22H23N7O3_confo_1', -9.9],
- ['C22H16N4O4S_confo_2', -9.9],
- ['C25H23N5O4_confo_0', -9.9],
- ['C24H28N6O2_confo_2', -9.9],
- ['C24H29N5O3S_confo_1', -9.9],
- ['C21H23FN6O3S_confo_0', -9.9],
- ['C18H15N5O5S2_confo_2', -9.9],
- ['C21H22FN3O5S_confo_0', -9.9],
- ['C23H18N4O5_confo_0', -9.9],
- ['C23H18N4O5_confo_1', -9.9],
- ['C23H22N6O5_confo_0', -9.9],
- ['C21H23N3O6S_confo_0', -9.9],
- ['C21H20FN3O5S_confo_0', -9.9],
- ['C21H20FN3O5S_confo_2', -9.9],
- ['C23H26F2N6O_confo_1', -9.9],
- ['C26H29N5O2_confo_0', -9.9],
- ['C21H23F3N6O2_confo_2', -9.9],
- ['C25H31N5O4_confo_0', -9.9],
- ['C22H18O11_confo_1', -9.9],
- ['C22H18O11_confo_2', -9.9],
- ['C25H22N6O2_confo_2', -9.9],
- ['C21H23N7O2S_confo_1', -9.9],
- ['C24H29N7O2_confo_2', -9.9],
- ['C25H32N8O_confo_0', -9.9],
- ['C24H25F2N3O4_confo_0', -9.9]
+We used the 7nio conformation of nsp13, available on the website of Meet-U. Tested ligands were obtained from the ECBD database.
+The 15 best are below, some ligands appear multiple times (maximum of 3 times) because we generated 3 conformations for each ligand (confo_0, confo_1, confo_2)
+
+['C24H17N7O3_confo_0', 11.1],
+ ['C21H22FN3O5S_confo_2', 11.0],
+ ['C24H17N7O3_confo_2', 10.9],
+ ['C21H22ClN3O5S_confo_2', 10.9],
+ ['C24H17N7O3_confo_1', 10.8],
+ ['C24H33FO6_confo_1', 10.8],
+ ['C24H31FO6_confo_0', 10.8],
+ ['C24H32ClFO5_confo_0', 10.7],
+ ['C25H25N5O4_confo_0', 10.7],
+ ['C25H30N6O3_confo_1', 10.7],
+ ['C25H30N6O3_confo_0', 10.7],
+ ['C27H27N5O3_confo_2', 10.6],
+ ['C22H20F5N3O3_confo_2', 10.6],
+ ['C25H30N6O3_confo_2', 10.6],
+ ['C27H27N5O3_confo_1', 10.5]
+
+Keeping only the best conformation of each candidate to have different compounds : (10 candidates total)
+['C24H17N7O3_confo_0', 11.1],
+ ['C21H22FN3O5S_confo_2', 11.0],
+ ['C21H22ClN3O5S_confo_2', 10.9],
+ ['C24H33FO6_confo_1', 10.8],
+ ['C24H31FO6_confo_0', 10.8],
+ ['C24H32ClFO5_confo_0', 10.7],
+ ['C25H25N5O4_confo_0', 10.7],
+ ['C25H30N6O3_confo_1', 10.7],
+ ['C27H27N5O3_confo_2', 10.6],
+ ['C22H20F5N3O3_confo_2', 10.6],
 
 ZINC DataBase IDs in order (duplicates due to multiple conformations were removed):
-['ZINC000006578083', 'ZINC000207101276', 'ZINC000003870412', 'ZINC000020603642', 'ZINC000011617039', 'ZINC000021664213', 'ZINC000020858587', 'ZINC000052509466',
-'ZINC000003938686', 'ZINC000003820043', 'ZINC000065101075', 'ZINC000017190650', 'ZINC000065097548', 'ZINC000145814743', 'ZINC000053119602', 'ZINC000035535235', 
-'ZINC000065258104', 'ZINC000035932981', 'ZINC000021928730', 'ZINC000009971427', 'ZINC000064889585', 'ZINC000003973984', 'ZINC000102930548', 'ZINC000116734639', 'ZINC000064889595', 'ZINC000065232480']
+['ZINC000049006633', 'ZINC000064889585', 'ZINC000064889599', 'ZINC000004097308', 'ZINC000004097305', 
+'ZINC000004213474', 'ZINC000011677837', 'ZINC000059258964', 'ZINC000033173150', 'ZINC000043208642']
 
 PubChem IDs in order (duplicates due to multiple conformations were removed):
-['CID20873494', 'CID53129019', 'CID42873297', 'CID5330286', 'CID65064', 'CID27564317', 'CID5307358', 'CID46345335', 'CID57336276', 'CID53168620', 'CID52913813', 
-'CID53000781', 'CID72547959', 'CID46378824', 'CID10296883', 'CID10366136', 'CID53126472', 'CID53064700', 'CID20962455', 'CID53064710', 'CID10113978', 'CID16718576', 
-'CID2971609', 'CID53182258', nan, 'CID25262965']
+['CID49661830', 'CID53064700', 'CID53064714', 'CID15209', 'CID82153', 'CID443943', 'CID10182969', 'CID25262792', 'CID46396102', 'CID49867930']
 
 ChemBl IDs in order (duplicates due to multiple conformations were removed):
-['CHEMBL477772', 'CHEMBL1950289', 'CHEMBL3681419', 'CHEMBL565612', 'CHEMBL1522300', 'CHEMBL1801204', 'CHEMBL297453', 'CHEMBL3408248', 'CHEMBL2105728', 'CHEMBL564829', nan, 'CHEMBL3393333', 'CHEMBL189963']
+[nan, nan, nan, 'CHEMBL1201012', 'CHEMBL1512', 'CHEMBL1200845', 'CHEMBL231779', 'CHEMBL2336325', nan, 'CHEMBL4297422']
