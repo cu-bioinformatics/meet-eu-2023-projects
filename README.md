@@ -22,8 +22,6 @@ P2Rank
 AutoDock Vina  
 DiffDock  
 Glide  
-### Lead Improvement
-AutoGrow
 ### Toxicity Estimation
 *e*ToxPred
 ### MD Simulation
