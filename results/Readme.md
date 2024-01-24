@@ -2,7 +2,7 @@
 
 ## Guide to result file names
 
-- `filtr_out_[peptide_alias]_[tool_alias].txt` - text files with 
+- `filtr_out_[peptide_alias]_[tool_alias].txt` - text files with results of the docked site classification
 - `binding_pockets_1.txt` - input file for binding site classification, contains residues involved in the formation of the binding pockets
 
 ### Peptide aliases
