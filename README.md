@@ -23,4 +23,5 @@ Files and folders :
 - 'top_docking_scores' : contains the list of the 29 best scoring compounds along with their score
 - articles : reference articles
 
-![image](https://github.com/cu-bioinformatics/meet-eu-2023-projects/assets/148443412/00850a1f-d2cf-4024-b862-04b416547f1a)
+![Team5_flowchart (2)](https://github.com/cu-bioinformatics/meet-eu-2023-projects/assets/148443412/a4ed48b7-4925-4b36-969e-0783498d00bf)
+
