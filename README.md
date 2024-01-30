@@ -1,6 +1,6 @@
 # Meet-EU 2023
 
-Team members: Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu
+Team members: Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu <br>
 Supervisors : Juliana Silva Bernardes, Elodie Laine, Vaitea Opuu	
 
 ## The code
