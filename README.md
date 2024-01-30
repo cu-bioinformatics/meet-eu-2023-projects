@@ -1,44 +1,55 @@
 # Meet-EU 2023
 
-An international team-based course organised by five 4EU+ member universities (Heidelberg, Milan, Paris, Prague, Warsaw) as part of the 4EU+ joint educational offer during the academic year 2023/2024.
-![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
+Team members: Emilie Doan, Brenda Enriquez, Birsu Guzel and Isabelle Wu
+Supervisors : Juliana Silva Bernardes, Elodie Laine, Vaitea Opuu	
 
-## General
- “Meet-EU” is an international team-based course organised by five 4EU+ member universities (Heidelberg, Milan, Paris, Prague, Warsaw) as part of the 4EU+ joint educational offer during the academic year 2023/2024. Meet-EU has been designed to promote interdisciplinary training through research and welcomes students from different disciplines, from computer science, physics and mathematics to chemistry, biology and biotechnologies. 
+## The code
 
- Students are asked to address and solve a specific research problem under the supervision of tutors at each university. Students organize themselves in small groups of 4-5 students each. Each group works independently to propose a solution to the question. 
+- molzip_adapted.py : contains the functions needed to predict with the Molzip method.
+ This code has been adapted from https://github.com/daenuprobst/molzip.git
 
- ## Teams
- Each team has a separate branch placed within this repository.
-| Team Name | Link to the Github branch |
-| - | - |
-| Charles | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Charles) |
-| Heidelberg | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Heidelberg) |
-| Milano1 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Milano1) |
-| Milano2 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Milano2) |
-| Sorbonne1 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne1) |
-| Sorbonne2 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne2) |
-| Sorbonne3 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne3) |
-| Sorbonne4 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne4) |
-| Sorbonne5 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne5) |
-| Sorbonne6 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne6) |
-| Warsaw1 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw1) |
-| Warsaw2 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw2) |
-| Warsaw3 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw3) |
-| Warsaw4 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw4) |
-## Team Pairing
-At mid-course, a face-to-face meeting will be held, the activities completed by each group will be discussed and the groups will be paired to implement a joint second step of the project. Paired teams should be preferably belong to different countries. 
+- features.ipynb : code allows you to check the relevance of the feature prediction.
 
-The teams are paired as follows:
-| Pairs |
-| :-: |
-| Warsaw 4 - Paris 1 - Milano 1 |
-| Heidelberg 1 - Warsaw 1 - Sorbonne 5 |
-| Sorbonne 2 - Prag |
-| Warsaw 3 - Milano 2 - Sorbone 4 |
-| Warsaw 2 - Sorbone 3 - Sorbonne 6 |
+- pdbbind.ipynb : code allows you to check the relevance of the dataset of LP_PDBBind.csv.
 
-## Troubleshooting
-GitHub allows me to grant you the access to your repository branch only after you accept the invitation to the repository. Therefore, don't hesitate to reach me out through [raising an Issue](https://github.com/cu-bioinformatics/meet-eu-2023-projects/issues), if it would take me too much time. 
+- main_molzip_result.ipynb : contains code that predicts the affinity of potential ligands for our problem.
+  
+- neural_network.ipynb : contains code that predicts separately,  affinity values and categorized kd values of the LP_PDBind.csv dataset.
 
-Also, you can use the [Issues](https://github.com/cu-bioinformatics/meet-eu-2023-projects/issues) for any other problem that might occur.
+
+
+## The data
+The data needed to run our notebooks is in the data folder
+
+- test_feat.csv : dataset from rdkit, needed to test our algorithm
+
+- LP_PDBBind.csv : contains a ligand-pocket database that binds with a certain affinity which is in the 'value' column.
+This dataset is from https://github.com/THGLab/LP-PDBBind/blob/master/dataset/LP_PDBBind.csv
+
+- pilot_library.csv : contains more than 5000 potential ligands that could inhibit nsp13 that we want to predict the affinity.
+This dataset is given by our school and their features are known.
+
+- pocket.txt : the pockets we found for NSP 13
+
+- data_PDB_Kd.csv : dataset from "LP_PDBBind.csv" that we process to have only some ligand-pocket
+
+
+## Our goal
+
+To find fixation classifier of ligands by using Molzip to reduce the size of our database.
+
+Use different machine learning method with the idea of compress like Molzip.
+
+
+## Molzip
+
+Unconventional method based on the information theory. This method can predict different features relatively well based on the compression rate (Gzip). We accurately predict the solubility rate of different ligands and compared it to real solubility. We think that we can also use it to get other features as molecular weight.
+
+
+## Neural Network
+
+## Result
+
+- result_molzip.csv : result from main_molzip_result.ipynb
+
+
