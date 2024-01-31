@@ -20,7 +20,6 @@ Files and folders :
 - 'docking_loop' : folder containing the code files to prepare ligands, protein and run and loop for all candidates
 - 'find_top_scorers' : finds best scorers in folder of docking results
 - 'top_docking_scores' : contains the list of the 29 best scoring compounds along with their score
-- 'top_md_sim_scores' : contains table of ligands and their scores
 - 'Sorbonne5_long_report' : long version of the report
 - 'Sorbonne5_short_report' : chorter version of the report (2 pages)
 
