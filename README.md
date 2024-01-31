@@ -23,7 +23,8 @@ PRankWeb
 AutoDock Vina  
 DiffDock  
 Glide  
-### Toxicity Estimation
-*e*ToxPred
+### Ligand characterization
+*e*ToxPred  
+ChemmineR
 ### MD Simulation
 GROMACS
