@@ -1,0 +1,153 @@
+5DE
+  Mrv0541 02231216452D          
+
+ 19 20  0  0  0  0            999 V2000
+   -0.4285    1.8301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2859    1.4176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0004    1.8301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0004    2.6551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7149    3.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2859    0.5926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9534    0.1077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6984   -0.6769    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7380    0.3627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3815    0.1077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1661    0.3627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1266   -0.6769    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6115   -1.3443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2759   -2.0980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7608   -2.7655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4320   -1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9169   -1.9255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5813   -2.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0663   -3.3467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03183
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)C1=C(C)N(N=C1C)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17N3O2/c1-4-19-14(18)13-9(2)16-17(10(13)3)12-7-5-11(15)6-8-12/h5-8H,4,15H2,1-3H3
+
+> <INCHI_KEY>
+FIEYZIRYXYDMSK-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H17N3O2
+
+> <MOLECULAR_WEIGHT>
+259.3037
+
+> <EXACT_MASS>
+259.132076803
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.001958819526982167
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.711834065808887
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 1-(4-aminophenyl)-3,5-dimethyl-1H-pyrazole-4-carboxylate
+
+> <ALOGPS_LOGP>
+2.47
+
+> <JCHEM_LOGP>
+1.9213547790000005
+
+> <ALOGPS_LOGS>
+-2.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.294649118555332
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.14
+
+> <JCHEM_REFRACTIVITY>
+75.6352
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.48e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03183
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00243
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(4-Aminophenyl)-3,5-Dimethyl-1h-Pyrazole-4-Carboxylic Acid Ethyl Ester
+
+$$$$

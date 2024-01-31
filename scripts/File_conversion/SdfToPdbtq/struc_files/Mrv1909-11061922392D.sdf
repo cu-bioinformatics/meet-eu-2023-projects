@@ -1,0 +1,146 @@
+
+  Mrv1909 11061922392D          
+
+ 18 17  0  0  0  0            999 V2000
+    0.5787   -0.9033    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4366   -0.0783    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7220    1.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0076   -0.9033    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5646    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9936    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5787   -0.0783    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2931    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0076   -0.0783    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8502   -0.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7220    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2791   -0.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2791   -0.9033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5646   -1.1591    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4505   -1.1591    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4366    0.0783    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9936    0.8456    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 12  2  0  0  0  0
+ 10  4  1  1  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01835
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([H])[C@@H](C[C@@H](F)CC\N=C(/C)N([H])[H])C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16FN3O2/c1-5(10)12-3-2-6(9)4-7(11)8(13)14/h6-7H,2-4,11H2,1H3,(H2,10,12)(H,13,14)/t6-,7-/m0/s1
+
+> <INCHI_KEY>
+LTCJJIZTKXNFGK-BQBZGAKWSA-N
+
+> <FORMULA>
+C8H16FN3O2
+
+> <MOLECULAR_WEIGHT>
+205.233
+
+> <EXACT_MASS>
+205.12265493
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.47118051471714
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4S)-2-amino-6-[(E)-(1-aminoethylidene)amino]-4-fluorohexanoic acid
+
+> <ALOGPS_LOGP>
+-3.17
+
+> <JCHEM_LOGP>
+-3.177853011340149
+
+> <ALOGPS_LOGS>
+-2.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5425187055189555
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.837233697064612
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+49.32270000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.31e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3S,4R,5S)-2-{4-amino-3H,4H,5H-pyrrolo[3,2-d]pyrimidin-7-yl}-5-[(methylsulfanyl)methyl]pyrrolidine-3,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01835
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01816
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4R-Fluoro-N6-ethanimidoyl-L-lysine
+
+$$$$

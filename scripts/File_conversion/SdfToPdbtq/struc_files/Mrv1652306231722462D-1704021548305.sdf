@@ -1,0 +1,157 @@
+
+  Mrv1652306231722462D          
+
+ 21 22  0  0  0  0            999 V2000
+    3.5724   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -5.3625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7474   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3974   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -7.4250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -9.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 16 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13675
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C(C=C1N)S(=O)(=O)NC(=O)NC1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H21N3O3S/c1-10-7-8-12(9-13(10)15)21(19,20)17-14(18)16-11-5-3-2-4-6-11/h7-9,11H,2-6,15H2,1H3,(H2,16,17,18)
+
+> <INCHI_KEY>
+XXYTXQGCRQLRHA-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H21N3O3S
+
+> <MOLECULAR_WEIGHT>
+311.4
+
+> <EXACT_MASS>
+311.130362722
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.50851332762117
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(3-amino-4-methylbenzenesulfonyl)-1-cyclohexylurea
+
+> <ALOGPS_LOGP>
+2.02
+
+> <JCHEM_LOGP>
+1.9417813903333334
+
+> <ALOGPS_LOGS>
+-3.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+18.132556060867163
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.324815845953748
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.2080256846160404
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.28999999999999
+
+> <JCHEM_REFRACTIVITY>
+82.11099999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.28e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+metahexamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13675
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Metahexamide
+
+> <SYNONYMS>
+Metahexamide
+
+$$$$

@@ -1,0 +1,168 @@
+CA2
+  Mrv0541 02231217492D          
+
+ 25 26  0  0  0  0            999 V2000
+   -2.8760   -0.0339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5938   -0.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1241   -1.4412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7814   -0.9524    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0635   -1.7277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7814   -0.1274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0669    0.2851    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3524   -0.1274    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3620    0.2851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3524   -0.9524    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3620   -1.3649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0669   -1.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0669    1.1101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3524    1.5226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3620    1.1101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0765    1.5226    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910    1.1101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054    1.5226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2199    1.1101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2199    0.2851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -0.1274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910    0.2851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5726    0.5770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3524    0.4565    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1533   -0.6605    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  6  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  6  0  0  0
+  7 23  1  1  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+  8 24  1  6  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 10 25  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04656
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)C[C@@](O)(C[C@]([H])(CCCOC2=CC=CC=C2)[C@@]1([H])O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H22O6/c17-13-10-16(21,15(19)20)9-11(14(13)18)5-4-8-22-12-6-2-1-3-7-12/h1-3,6-7,11,13-14,17-18,21H,4-5,8-10H2,(H,19,20)/t11-,13+,14+,16-/m0/s1
+
+> <INCHI_KEY>
+SCUFESRLGCQXRX-DCDXPUDHSA-N
+
+> <FORMULA>
+C16H22O6
+
+> <MOLECULAR_WEIGHT>
+310.3423
+
+> <EXACT_MASS>
+310.141638436
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9996777748457122
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.833242595012354
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,3R,4R,5S)-1,3,4-trihydroxy-5-(3-phenoxypropyl)cyclohexane-1-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.35
+
+> <JCHEM_LOGP>
+0.6039909389999993
+
+> <ALOGPS_LOGS>
+-1.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.459912669331281
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.508882953267972
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1986380967728096
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+78.24950000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.11e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04656
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,3,4-TRIHYDROXY-5-(3-PHENOXYPROPYL)-CYCLOHEXANE-1-CARBOXYLIC A CID
+
+$$$$

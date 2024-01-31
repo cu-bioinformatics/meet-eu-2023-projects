@@ -1,0 +1,167 @@
+
+  Mrv0541 05041403172D          
+
+ 23 24  0  0  1  0            999 V2000
+    2.5559    5.2520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    5.6645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    8.9645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9684    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    4.4270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4125    8.1395    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3020    7.7270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3020    6.9020    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4125    6.4895    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1270    6.9020    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3020    9.3770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    8.1395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    6.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    5.6645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    6.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    7.7270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3528    4.6405    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4000    8.2827    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5841    8.5022    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    7.3145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020    6.0770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    6.0770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  5  1  1  1  0  0  0
+  5  4  1  0  0  0  0
+  6  3  1  1  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  3  1  0  0  0  0
+  7 12  1  6  0  0  0
+  8 13  1  1  0  0  0
+  9 14  1  6  0  0  0
+ 15  2  1  0  0  0  0
+ 10 15  1  6  0  0  0
+ 16  4  1  0  0  0  0
+ 16  5  1  0  0  0  0
+ 17  6  1  0  0  0  0
+ 17 10  1  0  0  0  0
+  5 18  1  6  0  0  0
+  6 19  1  6  0  0  0
+  7 20  1  1  0  0  0
+  8 21  1  6  0  0  0
+  9 22  1  1  0  0  0
+ 10 23  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02645
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CCO[C@@]2([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]2([H])O)CO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O7/c11-3-6-7(12)8(13)9(14)10(17-6)15-2-1-5-4-16-5/h5-14H,1-4H2/t5-,6+,7+,8-,9+,10-/m0/s1
+
+> <INCHI_KEY>
+RZSIARIQGABJJE-DLXYEPTOSA-N
+
+> <FORMULA>
+C10H18O7
+
+> <MOLECULAR_WEIGHT>
+250.2457
+
+> <EXACT_MASS>
+250.10525293
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-7.076879653377292e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.4012044642833
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-{2-[(2S)-oxiran-2-yl]ethoxy}oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-1.92
+
+> <JCHEM_LOGP>
+-2.3881863570000004
+
+> <ALOGPS_LOGS>
+0.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.200256004987104
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.210985660330712
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981083410590113
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.91000000000001
+
+> <JCHEM_REFRACTIVITY>
+54.2847
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.21e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02645
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01323
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,4-Epoxybutyl-Alpha-D-Glucopyranoside
+
+$$$$

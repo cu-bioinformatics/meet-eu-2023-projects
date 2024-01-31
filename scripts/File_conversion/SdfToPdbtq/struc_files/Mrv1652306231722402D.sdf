@@ -1,0 +1,151 @@
+
+  Mrv1652306231722402D          
+
+ 21 21  0  0  0  0            999 V2000
+    0.0953    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8097    0.9625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8097    0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5242   -0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5242   -1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8097   -1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0953   -1.1000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0953   -0.2750    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.6192    0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3337   -0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0482    0.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0482    0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3337    1.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6192    0.9625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2387   -1.5125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5958   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3103   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3103    0.2062    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3103    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1353    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4853    0.2062    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+M  CHG  2   8   1  21  -1
+M  END
+> <DATABASE_ID>
+DB13330
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COS([O-])(=O)=O.COC1=CC(N)=CN=[N+]1C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11N3O.CH4O4S/c1-15-11-7-9(12)8-13-14(11)10-5-3-2-4-6-10;1-5-6(2,3)4/h2-8,12H,1H3;1H3,(H,2,3,4)
+
+> <INCHI_KEY>
+ZEASXVYVFFXULL-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H15N3O5S
+
+> <MOLECULAR_WEIGHT>
+313.33
+
+> <EXACT_MASS>
+313.073241769
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.362381294234766
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-6-methoxy-1-phenyl-1lambda5-pyridazin-1-ylium methyl sulfate
+
+> <ALOGPS_LOGP>
+1.74
+
+> <JCHEM_LOGP>
+-1.8211027791384125
+
+> <ALOGPS_LOGS>
+-3.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.929577712082771
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.019999999999996
+
+> <JCHEM_REFRACTIVITY>
+59.179600000000015
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.17e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-amino-6-methoxy-1-phenyl-1lambda5-pyridazin-1-ylium methyl sulfate(1-)
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13330
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Amezinium metilsulfate
+
+> <SYNONYMS>
+Amezinium metilsulfate
+
+$$$$

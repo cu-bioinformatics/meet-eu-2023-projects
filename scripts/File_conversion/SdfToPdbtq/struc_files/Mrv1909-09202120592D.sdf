@@ -1,0 +1,175 @@
+
+  Mrv1909 09202120592D          
+
+ 21 22  0  0  0  0            999 V2000
+   -1.4256   -0.4162    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1527    0.0141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8566   -0.4162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1527    0.7798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6935    0.0141    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0103   -0.4162    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5862    0.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5784    0.8186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8566    1.2232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5862   -0.0141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4256   -1.2388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1476    0.0141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5784    0.0141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8514    1.2388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8592   -0.3957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1476    0.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7141   -0.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2901    1.2232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2901    1.2388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4256   -0.4162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7141    0.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9  4  2  0  0  0  0
+ 10  3  1  0  0  0  0
+  1 11  1  1  0  0  0
+ 12 20  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 16 12  2  0  0  0  0
+ 17  6  1  0  0  0  0
+ 18  7  1  0  0  0  0
+ 19  8  1  0  0  0  0
+ 20 17  1  0  0  0  0
+  5 21  1  1  0  0  0
+  7 10  2  0  0  0  0
+ 13  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00867
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H](NCCC1=CC=C(O)C=C1)[C@@H](O)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H21NO3/c1-12(17(21)14-4-8-16(20)9-5-14)18-11-10-13-2-6-15(19)7-3-13/h2-9,12,17-21H,10-11H2,1H3/t12-,17-/m1/s1
+
+> <INCHI_KEY>
+IOVGROKTTNBUGK-SJKOYZFVSA-N
+
+> <FORMULA>
+C17H21NO3
+
+> <MOLECULAR_WEIGHT>
+287.359
+
+> <EXACT_MASS>
+287.15214354
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9939587755278939
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.898961559916017
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(1S,2R)-1-hydroxy-2-{[2-(4-hydroxyphenyl)ethyl]amino}propyl]phenol
+
+> <ALOGPS_LOGP>
+1.53
+
+> <JCHEM_LOGP>
+1.8155849143994929
+
+> <ALOGPS_LOGS>
+-3.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+10.484191132091894
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.154391629740328
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.806609961013399
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.72
+
+> <JCHEM_REFRACTIVITY>
+83.01669999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.79e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2S,3S,4R,5S)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2S,3S,4R,5S)-2-[({[(2S,3S,4R,5S)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3R,4S,5R)-2-[({[(2R,3S,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3S,5R)-2-[({[(2R,3S,5R)-2-[({[(2R,3S,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3S,5R)-2-[({[(2R,3S,5R)-2-[({[(2R,3S,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3S,5R)-2-[({[(2R,3S,5R)-2-[({[(2R,3S,5R)-2-[({[(2R,3R,4S,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3R,4S,5R)-2-[({[(2R,3R,4S,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3R,4S,5R)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-2-[({[(2R,3R,4S,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-2-(hydroxymethyl)-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-4-(2-methoxyethoxy)-5-(5-methyl-2,4-dioxo-3H-pyrimidin-1-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(6-aminopurin-9-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(2-amino-6-oxo-1H-purin-9-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(5-methyl-2,4-dioxo-3H-pyrimidin-1-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(5-methyl-2,4-dioxo-3H-pyrimidin-1-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(2-amino-6-oxo-1H-purin-9-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(5-methyl-2,4-dioxo-3H-pyrimidin-1-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(5-methyl-2,4-dioxo-3H-pyrimidin-1-yl)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(2-amino-6-oxo-1H-purin-9-yl)-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-5-(6-aminopurin-9-yl)-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl(hydroxy)phosphoryl}oxy)methyl]-4-(2-methoxyethoxy)oxolan-3-yl]sulfanyl([(2S,3S,4S,5S)-5-(4-amino-5-methyl-2-oxopyrimidin-1-yl)-3-hydroxy-4-(2-methoxyethoxy)oxolan-2-yl]methoxy)phosphinic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00867
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00541
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Ritodrine
+
+> <SYNONYMS>
+p-Hydroxy-alpha-(1-((p-hydroxyphenethyl)amino)ethyl)benzyl alcohol; Ritodrina; Ritodrine; Ritodrinium
+
+> <PRODUCTS>
+Yutopar Inj 50mg/5ml; Yutopar Tab 10mg
+
+> <INTERNATIONAL_BRANDS>
+Yutopar
+
+> <SALTS>
+Ritodrine hydrochloride
+
+$$$$

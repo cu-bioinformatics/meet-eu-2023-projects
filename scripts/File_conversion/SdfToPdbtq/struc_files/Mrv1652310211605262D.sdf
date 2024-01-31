@@ -1,0 +1,172 @@
+
+  Mrv1652310211605262D          
+
+ 27 30  0  0  1  0            999 V2000
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    2.9750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992    3.2299    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992    4.0549    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8838    4.3099    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3687    3.6424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    5.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5867    5.7076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8416    6.4922    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.2896    7.1053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6486    6.6637    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.5683    4.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    2.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8371   -1.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0301   -1.5316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6176   -0.8171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1697   -0.2040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+ 10  7  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 12 20  1  6  0  0  0
+ 11 21  1  6  0  0  0
+  3 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 23 27  1  0  0  0  0
+M  CHG  2  17   1  19  -1
+M  END
+> <DATABASE_ID>
+DB13122
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@@H]1[C@@H](CO[N+]([O-])=O)O[C@H]([C@@H]1O)N1C=NC2=C(NC3CCCC3)N=CN=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H20N6O6/c22-11-9(5-26-21(24)25)27-15(12(11)23)20-7-18-10-13(16-6-17-14(10)20)19-8-3-1-2-4-8/h6-9,11-12,15,22-23H,1-5H2,(H,16,17,19)/t9-,11-,12-,15-/m1/s1
+
+> <INCHI_KEY>
+AQLVRTWKJDTWQQ-SDBHATRESA-N
+
+> <FORMULA>
+C15H20N6O6
+
+> <MOLECULAR_WEIGHT>
+380.361
+
+> <EXACT_MASS>
+380.144432388
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.74506188090572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2R,3S,4R,5R)-5-[6-(cyclopentylamino)-9H-purin-9-yl]-3,4-dihydroxyoxolan-2-yl]methyl nitrate
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+0.26395671766666695
+
+> <ALOGPS_LOGS>
+-2.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.97038622116434
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.454171258278205
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.70860558909707
+
+> <JCHEM_POLAR_SURFACE_AREA>
+157.69000000000003
+
+> <JCHEM_REFRACTIVITY>
+90.792
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.46e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4R,5R)-5-[6-(cyclopentylamino)purin-9-yl]-3,4-dihydroxyoxolan-2-yl]methyl nitrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13122
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Trabodenoson
+
+> <SYNONYMS>
+Trabodenoson
+
+$$$$

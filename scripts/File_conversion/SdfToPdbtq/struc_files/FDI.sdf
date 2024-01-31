@@ -1,0 +1,159 @@
+FDI
+  Mrv0541 02241213382D          
+
+ 21 21  0  0  0  0            999 V2000
+   -1.4283    1.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138    1.2496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138    0.4246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4283    0.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1427    0.4246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1427    1.2496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8572    0.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5717    0.4246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8572   -0.8129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0007    0.0121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0007   -0.8129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7152   -1.2254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138   -1.2254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7152   -2.0504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4296   -2.4629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4296   -0.8129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1441   -1.2254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0007    1.6621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0007    2.4871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7138    2.8996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7152    2.8996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07762
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(CC)C(=O)NC1=CC(=CC=C1NC(C)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H20N2O4/c1-4-10(5-2)14(19)17-13-8-11(15(20)21)6-7-12(13)16-9(3)18/h6-8,10H,4-5H2,1-3H3,(H,16,18)(H,17,19)(H,20,21)
+
+> <INCHI_KEY>
+USKXJFHTBQWXCS-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H20N2O4
+
+> <MOLECULAR_WEIGHT>
+292.3303
+
+> <EXACT_MASS>
+292.142307138
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9989479591728604
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.140871960074485
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-acetamido-3-(2-ethylbutanamido)benzoic acid
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+2.2389089139999996
+
+> <ALOGPS_LOGS>
+-3.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.68730743799196
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.02342121940109
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.296486621913841
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.5
+
+> <JCHEM_REFRACTIVITY>
+81.44359999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07762
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(N-ACETYLAMINO)-3-[N-(2-ETHYLBUTANOYLAMINO)]BENZOIC ACID
+
+$$$$

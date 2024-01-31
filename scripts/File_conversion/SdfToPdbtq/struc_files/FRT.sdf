@@ -1,0 +1,179 @@
+FRT
+  Mrv0541 02241213392D          
+
+ 30 32  0  0  0  0            999 V2000
+   -1.5062   -0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5062    0.6241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7917    1.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0772    0.6241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0772   -0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7917   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7917    1.8617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0772    2.2742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0772    3.0993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6373    3.5118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3518    3.0993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3518    2.2742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6373    1.8617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0663    3.5118    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7809    3.9243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4954    3.5118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2099    3.9243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9244    3.5118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6390    3.9243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2207   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3069   -1.4339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1140   -1.6055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5265   -0.8910    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9745   -0.2778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6938   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8654   -2.7930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9092   -1.7310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4496   -2.3591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6538    4.2264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4789    2.7974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 29  2  0  0  0  0
+ 14 30  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 24  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 28  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07790
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COCCNS(=O)(=O)C1=CC=C(NC2=NC(=CC=N2)C2=CN=C(C)N2C(C)C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H26N6O3S/c1-14(2)26-15(3)22-13-19(26)18-9-10-21-20(25-18)24-16-5-7-17(8-6-16)30(27,28)23-11-12-29-4/h5-10,13-14,23H,11-12H2,1-4H3,(H,21,24,25)
+
+> <INCHI_KEY>
+LDXLQEXLXZCYSR-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H26N6O3S
+
+> <MOLECULAR_WEIGHT>
+430.524
+
+> <EXACT_MASS>
+430.178709418
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.09151280554709854
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.877800738363135
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2-methoxyethyl)-4-({4-[2-methyl-1-(propan-2-yl)-1H-imidazol-5-yl]pyrimidin-2-yl}amino)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+2.21
+
+> <JCHEM_LOGP>
+1.905909144333334
+
+> <ALOGPS_LOGS>
+-3.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.575928167382266
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.610474521192875
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.004350653104507
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.03
+
+> <JCHEM_REFRACTIVITY>
+115.3539
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.37e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07790
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(2-METHOXYETHYL)-4-({4-[2-METHYL-1-(1-METHYLETHYL)-1H-IMIDAZOL-5-YL]PYRIMIDIN-2-YL}AMINO)BENZENESULFONAMIDE
+
+$$$$

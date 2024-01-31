@@ -1,0 +1,174 @@
+IHE
+  Mrv0541 02241213462D          
+
+ 27 30  0  0  0  0            999 V2000
+   -1.7453    2.0929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6412    3.3191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4482    3.4906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0002    2.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3863    2.5344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9383    1.9213    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7031    4.2752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6834    1.1367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1236    0.9652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3785    0.1806    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1064   -0.4869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3785   -1.1543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1632   -0.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8776    0.3381    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5921   -0.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5921   -0.8994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8776   -1.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1632   -0.8994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8776   -2.1369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1632   -2.5494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1632   -3.3744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4487   -3.7869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2658   -3.3744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2658   -2.5494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4487   -2.1369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0210    0.7506    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3066    0.3381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 26 27  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07965
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CCN(CCN2C=NC3=C(NC4CCCCC4)N=C(N=C23)C#N)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28N8/c1-25-7-9-26(10-8-25)11-12-27-14-21-17-18(22-15-5-3-2-4-6-15)23-16(13-20)24-19(17)27/h14-15H,2-12H2,1H3,(H,22,23,24)
+
+> <INCHI_KEY>
+OGODDSLNRULSMM-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H28N8
+
+> <MOLECULAR_WEIGHT>
+368.4792
+
+> <EXACT_MASS>
+368.243692936
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8938580502239497
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.32902654440303
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-(cyclohexylamino)-9-[2-(4-methylpiperazin-1-yl)ethyl]-9H-purine-2-carbonitrile
+
+> <ALOGPS_LOGP>
+2.18
+
+> <JCHEM_LOGP>
+2.1885280899999997
+
+> <ALOGPS_LOGS>
+-2.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.49849143292976
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.925326825513487
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.9
+
+> <JCHEM_REFRACTIVITY>
+107.4553
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.94e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07965
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(cyclohexylamino)-9-[2-(4-methylpiperazin-1-yl)-ethyl]-9H-purine-2-carbonitrile
+
+> <SYNONYMS>
+6-(Cyclohexylamino)-9-[2-(4-methyl-1-piperazinyl)ethyl]-9H-purine-2-carbonitrile
+
+$$$$

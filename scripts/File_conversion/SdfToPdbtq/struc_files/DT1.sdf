@@ -1,0 +1,176 @@
+DT1
+  Mrv0541 02241213352D          
+
+ 28 31  0  0  0  0            999 V2000
+   -4.6049   -3.6865    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8904   -3.2740    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4779   -3.9884    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3029   -2.5595    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1759   -2.8615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1759   -2.0365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4615   -3.2740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7470   -2.8615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4615   -1.6240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7470   -2.0365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0325   -1.6240    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0325   -0.7990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7470   -0.3865    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7470    0.4385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0325    0.8510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5316    0.6935    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0165    0.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5316   -0.6414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3181   -0.3865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3181    0.4385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3964    1.6760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3964    0.8510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1109    2.0885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1109    2.9135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8254    3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5398    2.9135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5398    2.0885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8254    1.6760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 20  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 28  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07685
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(NC2=CC(OCC3CCCCC3)=NC3=NC=NN23)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H22N6O3S/c19-28(25,26)15-8-6-14(7-9-15)22-16-10-17(23-18-20-12-21-24(16)18)27-11-13-4-2-1-3-5-13/h6-10,12-13,22H,1-5,11H2,(H2,19,25,26)
+
+> <INCHI_KEY>
+NMAZGYDYIYLSLJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H22N6O3S
+
+> <MOLECULAR_WEIGHT>
+402.471
+
+> <EXACT_MASS>
+402.14740929
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00017454657957400262
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.37027409148174
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[5-(cyclohexylmethoxy)-[1,2,4]triazolo[1,5-a]pyrimidin-7-yl]amino}benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+3.31
+
+> <JCHEM_LOGP>
+2.8988696786666663
+
+> <ALOGPS_LOGS>
+-4.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.876482849312332
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.757928542981574
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.4660164235550448
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.5
+
+> <JCHEM_REFRACTIVITY>
+116.024
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.31e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07685
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-{[5-(CYCLOHEXYLMETHOXY)[1,2,4]TRIAZOLO[1,5-A]PYRIMIDIN-7-YL]AMINO}BENZENESULFONAMIDE
+
+$$$$

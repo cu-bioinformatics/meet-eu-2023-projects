@@ -1,0 +1,165 @@
+369
+  Mrv0541 02231214382D          
+
+ 18 18  0  0  1  0            999 V2000
+    4.5080   -2.4751    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -3.3001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6830   -2.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.3001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0791    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 14  1  0  0  0  0
+ 11  2  1  1  0  0  0
+  2 14  1  0  0  0  0
+  3 13  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 18  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00369
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)N(C[C@@H](CO)OCP(O)(O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H14N3O6P/c9-7-1-2-11(8(13)10-7)3-6(4-12)17-5-18(14,15)16/h1-2,6,12H,3-5H2,(H2,9,10,13)(H2,14,15,16)/t6-/m0/s1
+
+> <INCHI_KEY>
+VWFCHDSQECPREK-LURJTMIESA-N
+
+> <FORMULA>
+C8H14N3O6P
+
+> <MOLECULAR_WEIGHT>
+279.187
+
+> <EXACT_MASS>
+279.062021707
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.1943068255238414
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.443744856112104
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+({[(2S)-1-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.12
+
+> <JCHEM_LOGP>
+-2.3811260412015978
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.90519086231744
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.262366798410201
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.705230050567989
+
+> <JCHEM_POLAR_SURFACE_AREA>
+145.68
+
+> <JCHEM_REFRACTIVITY>
+60.4279
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.15e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00369
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00148
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cidofovir
+
+> <SYNONYMS>
+({[(S)-1-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid; (S)-(3-(4-amino-2-Oxopyrimidin-1(2H)-yl)-1-hydroxypropan-2-yloxy)methylphosphonic acid; (S)-1-(3-Hydroxy-2-phosphonomethoxypropyl)cytosine; (S)-1-[3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; (S)-1-[3-Hydroxy-2-(phosphonylmethoxy)propyl]cytosine; (S)-HPMPC; [(S)-2-(4-Amino-2-oxo-2H-pyrimidin-1-yl)-1-hydroxymethyl-ethoxymethyl]-phosphonic acid; [[(S)-2-(4-amino-2-oxo-1(2H)-pyrimidinyl)-1-(hydroxymethyl)ethoxy]methyl]phosphonic acid; 1-(S)-[3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; 1-[(S)-3-Hydroxy-2-(phosphonomethoxy)propyl]cytosine; CDV; Cidofovir; Cidofovir anhydrous; Cidofovirum
+
+> <PRODUCTS>
+Cidofovir; Cidofovir Dihydrate; Mar-cidofovir; Vistide
+
+> <SALTS>
+Cidofovir dihydrate
+
+$$$$

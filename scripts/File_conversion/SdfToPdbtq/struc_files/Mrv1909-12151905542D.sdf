@@ -1,0 +1,152 @@
+
+  Mrv1909 12151905542D          
+
+ 19 19  0  0  0  0            999 V2000
+   -1.5366   -0.0048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5378   -0.8321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8230   -1.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1064   -0.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1093   -0.0011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8248    0.4079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2525   -1.2442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9666   -0.8310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6815   -1.2430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9660   -0.0060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6035    0.4140    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3194    0.0041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0324    0.4192    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8565    0.4200    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6815    0.4200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8523    1.2450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8523   -0.4048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6004    1.2390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3226   -0.8207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  1  0  0  0  0
+  8 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+ 11 12  1  0  0  0  0
+  6  1  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  2  7  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+ 14 16  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 11 18  1  1  0  0  0
+  8  9  1  0  0  0  0
+ 12 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12614
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NS(C)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H21NO3S/c1-10(2)9-12-5-7-13(8-6-12)11(3)14(16)15-19(4,17)18/h5-8,10-11H,9H2,1-4H3,(H,15,16)/t11-/m1/s1
+
+> <INCHI_KEY>
+KQDRVXQXKZXMHP-LLVKDONJSA-N
+
+> <FORMULA>
+C14H21NO3S
+
+> <MOLECULAR_WEIGHT>
+283.39
+
+> <EXACT_MASS>
+283.124214714
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9990099127980163
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.461244555005578
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-N-methanesulfonyl-2-[4-(2-methylpropyl)phenyl]propanamide
+
+> <ALOGPS_LOGP>
+2.84
+
+> <JCHEM_LOGP>
+2.5202627033333336
+
+> <ALOGPS_LOGS>
+-4.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.996103649204547
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.24
+
+> <JCHEM_REFRACTIVITY>
+75.72099999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.03e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aclerastide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12614
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Reparixin
+
+> <SYNONYMS>
+Reparixin; Reparixina; Réparixine; Reparixinum
+
+$$$$

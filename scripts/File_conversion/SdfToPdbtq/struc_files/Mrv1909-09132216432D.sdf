@@ -1,0 +1,165 @@
+
+  Mrv1909 09132216432D          
+
+ 21 24  0  0  1  0            999 V2000
+    0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 12 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16927
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12CC3=C(C(O)=C(O)C=C3)C3=C1C(CCN2C)=CC=C3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17NO2/c1-18-8-7-10-3-2-4-12-15(10)13(18)9-11-5-6-14(19)17(20)16(11)12/h2-6,13,19-20H,7-9H2,1H3/t13-/m0/s1
+
+> <INCHI_KEY>
+VMWNQDUVQKEIOC-ZDUSSCGKSA-N
+
+> <FORMULA>
+C17H17NO2
+
+> <MOLECULAR_WEIGHT>
+267.328
+
+> <EXACT_MASS>
+267.125928791
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8343256126182149
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.542435797280802
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(9S)-10-methyl-10-azatetracyclo[7.7.1.0^{2,7}.0^{13,17}]heptadeca-1(17),2(7),3,5,13,15-hexaene-3,4-diol
+
+> <ALOGPS_LOGP>
+2.51
+
+> <JCHEM_LOGP>
+2.877939980284464
+
+> <ALOGPS_LOGS>
+-2.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.67552037596164
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.255194516228293
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.720459090323013
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.7
+
+> <JCHEM_REFRACTIVITY>
+79.98810000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.10e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16927
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+S-Apomorphine
+
+> <SYNONYMS>
+(+)-10,11-Dihydroxyaporphine; (6as)-5,6,6a,7-tetrahydro-6-methyl-4h-dibenzo(de,g)quinoline-10,11-diol; 4h-dibenzo(de,g)quinoline-10,11-diol, 5,6,6a,7-tetrahydro-6-methyl-, (6as)-; Apomorphine, s-; S-(+)-apomorphine
+
+$$$$

@@ -1,0 +1,158 @@
+
+  Mrv0541 02231218012D          
+
+ 18 20  0  0  0  0            999 V2000
+    5.6654    1.4295    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5777    1.4494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929   -1.4580    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9508    0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9508    1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3798    0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6654   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3798    1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1173   -0.2492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1173    1.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219    0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8648    1.0341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8648    0.1748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219   -1.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04915
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(OC1)C=C(O)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12O3/c16-13-4-1-10(2-5-13)12-7-11-3-6-14(17)8-15(11)18-9-12/h1-8,16-17H,9H2
+
+> <INCHI_KEY>
+ZZUBHVMHNVYXRR-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H12O3
+
+> <MOLECULAR_WEIGHT>
+240.254
+
+> <EXACT_MASS>
+240.07864425
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.03255954082098041
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.7567376172344
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(4-hydroxyphenyl)-2H-chromen-7-ol
+
+> <ALOGPS_LOGP>
+2.82
+
+> <JCHEM_LOGP>
+3.0854854593333334
+
+> <ALOGPS_LOGS>
+-3.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.244704936634221
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.629510041711153
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.891480596865497
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.69
+
+> <JCHEM_REFRACTIVITY>
+69.73320000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.93e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04915
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Idronoxil
+
+> <SYNONYMS>
+(+/-)-cis-3-(4-hydroxyphenyl)-4-(4-methoxyphenyl)-3,4-dihydro-2H-cromen-7-ol; 3-(4-hydroxyphenyl)-2H-chromen-7-ol; Dehydroequol; Haginin E; Idronoxil; Phenoxodiol
+
+$$$$

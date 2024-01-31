@@ -1,0 +1,191 @@
+
+  Mrv0541 04191212122D          
+
+ 30 32  0  0  0  0            999 V2000
+    2.9836   -1.8063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7068   -2.2034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4123   -1.7757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3947   -0.9509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6715   -0.5538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9660   -0.9815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2429   -0.5844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5373   -1.0121    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5550   -1.8369    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2782   -2.2340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7760   -2.1085    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7474   -0.7740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2769   -1.4516    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6538    0.2710    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3593    0.6987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0824    0.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7936   -2.9333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0882   -3.3610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6350   -2.9639    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3405   -3.3916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0636   -2.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7691   -3.4221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4922   -3.0250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1977   -3.4527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7879    0.7293    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1001   -0.5232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5479   -1.4692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6526   -2.1391    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5726   -2.6617    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5197   -0.1872    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 11 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 16 26  2  0  0  0  0
+ 13 27  1  6  0  0  0
+ 19 28  1  6  0  0  0
+  9 29  1  1  0  0  0
+  8 30  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB00374
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12C[C@@H](O)[C@H](CC[C@@H](O)CCCCC)[C@@]1([H])CC1=C(C2)C(OCC(O)=O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H34O5/c1-2-3-4-7-17(24)9-10-18-19-11-15-6-5-8-22(28-14-23(26)27)20(15)12-16(19)13-21(18)25/h5-6,8,16-19,21,24-25H,2-4,7,9-14H2,1H3,(H,26,27)/t16-,17-,18+,19-,21+/m0/s1
+
+> <INCHI_KEY>
+PAJMKGZZBBTTOY-ZFORQUDYSA-N
+
+> <FORMULA>
+C23H34O5
+
+> <MOLECULAR_WEIGHT>
+390.5131
+
+> <EXACT_MASS>
+390.240624198
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+62
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9994243252168767
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.752223532128916
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[(1R,2R,3aS,9aS)-2-hydroxy-1-[(3S)-3-hydroxyoctyl]-1H,2H,3H,3aH,4H,9H,9aH-cyclopenta[b]naphthalen-5-yl]oxy}acetic acid
+
+> <ALOGPS_LOGP>
+3.53
+
+> <JCHEM_LOGP>
+4.004209447
+
+> <ALOGPS_LOGS>
+-4.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.931130677640278
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7604360397133454
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2797448535177371
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+108.00159999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.31e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00374
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01272
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Treprostinil
+
+> <SYNONYMS>
+Tréprostinil; Treprostinil; Treprostinilo; Treprostinilum
+
+> <PRODUCTS>
+Orenitram; Remodulin; Treprostinil; Treprostinil Injection; Trepulmix; Tyvaso; Tyvaso DPI
+
+> <SALTS>
+Treprostinil diolamine; Treprostinil sodium
+
+$$$$

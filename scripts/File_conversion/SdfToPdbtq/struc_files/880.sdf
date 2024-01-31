@@ -1,0 +1,164 @@
+880
+  Mrv0541 02231215042D          
+
+ 17 18  0  0  0  0            999 V2000
+    2.8075    1.0170    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.6885   -0.6617    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0927   -1.3808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2677   -1.3713    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -1.3475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    0.0814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6885    1.0456    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4360   -0.2377    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.0455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.6330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4360    0.6217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 17  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00880
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=C(Cl)C=C2NC=NS(=O)(=O)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6ClN3O4S2/c8-4-1-5-7(2-6(4)16(9,12)13)17(14,15)11-3-10-5/h1-3H,(H,10,11)(H2,9,12,13)
+
+> <INCHI_KEY>
+JBMKAUGHUNFTOL-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6ClN3O4S2
+
+> <MOLECULAR_WEIGHT>
+295.723
+
+> <EXACT_MASS>
+294.948824782
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.006349719877465103
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.546188424740727
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-chloro-1,1-dioxo-4H-1lambda6,2,4-benzothiadiazine-7-sulfonamide
+
+> <ALOGPS_LOGP>
+0.41
+
+> <JCHEM_LOGP>
+-0.4421814846666665
+
+> <ALOGPS_LOGS>
+-2.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.024317493436312
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.194485501052718
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.207054800788439
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.69
+
+> <JCHEM_REFRACTIVITY>
+62.508200000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.98e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00880
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00721
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Chlorothiazide
+
+> <SYNONYMS>
+6-Chloro-1,1-dioxo-1,2-dihydro-1lambda*6*-benzo[1,2,4]thiadiazine-7-sulfonic acid amide; 6-chloro-7-sulfamoyl-2H-1,2,4-benzothiadiazine 1,1-dioxide; Chlorothiazid; Chlorothiazide; Chlorothiazidum; Chlorthiazide; Clorotiazida
+
+> <PRODUCTS>
+Chlorothiazide; Chlorothiazide Sodium; DIURIL Sodium; Diupres; Diuril; Sodium Diuril; Supres 150 Tab; Supres 250 Tab
+
+> <SALTS>
+Chlorothiazide sodium
+
+$$$$

@@ -1,0 +1,157 @@
+8MR
+  Mrv0541 02241213192D          
+
+ 20 20  0  0  0  0            999 V2000
+   -1.3926   -2.3639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6781   -1.9514    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6781   -1.1264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0363   -0.7139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0363    0.1111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3926   -0.7139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3926    0.1111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6781    0.5236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6781    1.3486    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1469    1.3486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5031    1.3486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6781    2.1736    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0363    2.5861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7508    2.1736    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0363    3.4111    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3926    2.5861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3926    3.4111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1071    3.8236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6781    3.8236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1838    1.8816    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 12  9  1  6  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  1  0  0  0
+ 13 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07285
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC(O)=O)(C(F)F)S(=O)(=O)C1=CC=C(OC)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12F2O5S/c1-18-7-2-4-8(5-3-7)19(16,17)9(11(12)13)6-10(14)15/h2-5,9,11H,6H2,1H3,(H,14,15)/t9-/m1/s1
+
+> <INCHI_KEY>
+OBQLOVWIRUXBAW-SECBINFHSA-N
+
+> <FORMULA>
+C11H12F2O5S
+
+> <MOLECULAR_WEIGHT>
+294.272
+
+> <EXACT_MASS>
+294.037350594
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9997145460194554
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.9927039158588
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-4,4-difluoro-3-(4-methoxybenzenesulfonyl)butanoic acid
+
+> <ALOGPS_LOGP>
+1.60
+
+> <JCHEM_LOGP>
+1.2013603870000005
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.971731009165852
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.45582248357049
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.849477161549661
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.67
+
+> <JCHEM_REFRACTIVITY>
+61.16660000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.47e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07285
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R)-4,4-DIFLUORO-3-[(4-METHOXYPHENYL)SULFONYL]BUTANOIC ACID
+
+$$$$

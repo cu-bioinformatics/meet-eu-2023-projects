@@ -1,0 +1,152 @@
+MNS
+  Mrv0541 02231216312D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.8215   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5359   -0.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5359    0.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8215    0.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1070    0.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6075    0.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3220    0.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3220   -0.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6075   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1070   -0.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6075    1.4484    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3220    1.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1070    1.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8215   -1.8516    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8215   -2.6766    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6465   -1.8516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0035   -1.8516    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02866
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)C1=C2C=CC=C(C2=CC=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N2O2S/c1-14(2)11-7-3-6-10-9(11)5-4-8-12(10)17(13,15)16/h3-8H,1-2H3,(H2,13,15,16)
+
+> <INCHI_KEY>
+TYNBFJJKZPTRKS-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N2O2S
+
+> <MOLECULAR_WEIGHT>
+250.317
+
+> <EXACT_MASS>
+250.077598392
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.003176460830146773
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.788329463711598
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(dimethylamino)naphthalene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.92
+
+> <JCHEM_LOGP>
+1.6767972009999996
+
+> <ALOGPS_LOGS>
+-3.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.965947712108525
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.630942302987777
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.400000000000006
+
+> <JCHEM_REFRACTIVITY>
+69.0947
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02866
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02203
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dansylamide
+
+$$$$

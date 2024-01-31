@@ -1,0 +1,29 @@
+REMARK  Name = TYB
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  CB_5
+REMARK    3  A    between atoms: CB_5  and  CG_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CG  TYR A   1       0.093  -0.404   0.000  0.00  0.00    +0.000 A 
+ATOM      2  CD1 TYR A   1       0.093  -1.229   0.000  0.00  0.00    +0.000 A 
+ATOM      3  CD2 TYR A   1      -0.621   0.008   0.000  0.00  0.00    +0.000 A 
+ATOM      4  CE1 TYR A   1      -0.621  -1.642   0.000  0.00  0.00    +0.000 A 
+ATOM      5  CE2 TYR A   1      -1.336  -0.404   0.000  0.00  0.00    +0.000 A 
+ATOM      6  CZ  TYR A   1      -1.336  -1.229   0.000  0.00  0.00    +0.000 A 
+ATOM      7  OH  TYR A   1      -2.050  -1.642   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   8
+ATOM      8  CB  TYR A   1       0.808   0.008   0.000  0.00  0.00    +0.000 C 
+BRANCH   8  10
+ATOM      9  N   TYR A   1       0.093   1.246   0.000  0.00  0.00    +0.000 NA
+ATOM     10  CA  TYR A   1       0.808   0.833   0.000  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  C   TYR A   1       1.522   1.246   0.000  0.00  0.00    +0.000 C 
+ATOM     12  O   TYR A   1       1.522   2.071   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   1   8
+TORSDOF 3

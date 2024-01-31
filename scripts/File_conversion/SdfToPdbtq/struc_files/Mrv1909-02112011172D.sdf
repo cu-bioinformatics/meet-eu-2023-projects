@@ -1,0 +1,170 @@
+
+  Mrv1909 02112011172D          
+
+ 24 26  0  0  0  0            999 V2000
+    2.1678   -0.1682    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6786    0.4171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8640    0.4171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4228    1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5104    1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2430    0.6971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2430   -0.3464    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9189   -0.7961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9189   -1.5682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6147   -1.9868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2935   -1.5570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2935   -0.7452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6373   -0.3464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5387   -1.5682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5387   -0.8046    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1994   -0.3464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5104    1.9868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8102    1.8822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6503    1.8822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0999    1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2935    1.1581    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5513   -0.5755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7477    0.1965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6430   -0.7679    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13  8  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15  7  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 17  5  2  0  0  0  0
+ 18  4  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20  2  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22  1  2  0  0  0  0
+ 23  1  2  0  0  0  0
+ 24  1  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07467
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H]1CC2=C(C=CC=C2)N1NC(=O)C1=CC=C(Cl)C(=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16ClN3O3S/c1-10-8-11-4-2-3-5-14(11)20(10)19-16(21)12-6-7-13(17)15(9-12)24(18,22)23/h2-7,9-10H,8H2,1H3,(H,19,21)(H2,18,22,23)/t10-/m0/s1
+
+> <INCHI_KEY>
+NDDAHWYSQHTHNT-JTQLQIEISA-N
+
+> <FORMULA>
+C16H16ClN3O3S
+
+> <MOLECULAR_WEIGHT>
+365.835
+
+> <EXACT_MASS>
+365.06008979
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.013837626518049638
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.94782294823027
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-chloro-N-[(2S)-2-methyl-2,3-dihydro-1H-indol-1-yl]-3-sulfamoylbenzamide
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.6395443223333332
+
+> <ALOGPS_LOGS>
+-4.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.370952383251762
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.852896392953124
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.09714572471439903
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.5
+
+> <JCHEM_REFRACTIVITY>
+103.31339999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.42e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+decyl formate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07467
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(S)-Indapamide
+
+> <SYNONYMS>
+(+)-Indapamide; 3-(Aminosulfonyl)-4-chloro-N-((2S)-2,3-dihydro-2-methyl-1H-indol-1-yl)benzamide
+
+$$$$

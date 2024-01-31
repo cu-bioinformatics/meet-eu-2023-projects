@@ -1,0 +1,152 @@
+BPR
+  Mrv0541 02241213272D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.7311    0.9235    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9861    0.1389    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5011   -0.5285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8367   -1.2822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8111    0.1389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0660    0.9235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3986    1.4085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3129   -2.4144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3193   -0.4423    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7318    0.2722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8714   -1.0554    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6250   -0.7198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5388    0.1007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0848   -2.1173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6998   -1.8624    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4093    0.2303    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3073   -1.2065    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  5  1  0  0  0  0
+  2 16  1  1  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  1  0  0  0
+ 11 17  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07482
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CCCN1C(=O)[C@]1([H])CCCN1)B(O)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17BN2O3/c13-9(7-3-1-5-11-7)12-6-2-4-8(12)10(14)15/h7-8,11,14-15H,1-6H2/t7-,8-/m0/s1
+
+> <INCHI_KEY>
+XSBZZZGVAIXJLD-YUMQZZPRSA-N
+
+> <FORMULA>
+C9H17BN2O3
+
+> <MOLECULAR_WEIGHT>
+212.054
+
+> <EXACT_MASS>
+212.133222886
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9746848584961344
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.516438920759658
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R)-1-[(2S)-pyrrolidine-2-carbonyl]pyrrolidin-2-yl]boronic acid
+
+> <ALOGPS_LOGP>
+-0.52
+
+> <JCHEM_LOGP>
+-1.2760133027468525
+
+> <ALOGPS_LOGS>
+-0.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.052574715051652
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.612153974797101
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.845528637023572
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.8
+
+> <JCHEM_REFRACTIVITY>
+50.9088
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.02e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07482
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2R)-N-[(2R)-2-(DIHYDROXYBORYL)-1-L-PROLYLPYRROLIDIN-2-YL]-N-[(5R)-5-(DIHYDROXYBORYL)-1-L-PROLYLPYRROLIDIN-2-YL]-L-PROLINAMIDE
+
+$$$$

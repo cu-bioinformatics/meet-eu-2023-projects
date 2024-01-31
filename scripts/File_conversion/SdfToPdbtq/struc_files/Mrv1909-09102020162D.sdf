@@ -1,0 +1,159 @@
+
+  Mrv1909 09102020162D          
+
+ 19 19  0  0  0  0            999 V2000
+   -2.5088    0.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2233   -0.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2233   -0.8982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5088   -1.3107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7944   -0.8982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7944   -0.0732    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.3654   -0.8982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3654   -0.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0799    0.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3489   -1.3107    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0635   -0.8982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0635   -0.0732    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3489    0.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5088    1.1642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3489    1.1642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7943   -1.3107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5088   -0.8982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2233   -1.3107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0207    1.3107    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  8 13  1  0  0  0  0
+  1 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  CHG  2   6   1  19  -1
+M  END
+> <DATABASE_ID>
+DB11374
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Cl-].CCCC1=NC=C(C[N+]2=CC=CC=C2C)C(N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H19N4.ClH/c1-3-6-13-16-9-12(14(15)17-13)10-18-8-5-4-7-11(18)2;/h4-5,7-9H,3,6,10H2,1-2H3,(H2,15,16,17);1H/q+1;/p-1
+
+> <INCHI_KEY>
+LCTXBFGHZLGBNU-UHFFFAOYSA-M
+
+> <FORMULA>
+C14H19ClN4
+
+> <MOLECULAR_WEIGHT>
+278.78
+
+> <EXACT_MASS>
+278.1298243
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.177209018479835
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.633319025580978
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(4-amino-2-propylpyrimidin-5-yl)methyl]-2-methylpyridin-1-ium chloride
+
+> <ALOGPS_LOGP>
+-1.66
+
+> <JCHEM_LOGP>
+-2.3084050894717456
+
+> <ALOGPS_LOGS>
+-4.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.809544233946866
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.334555004522227
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.68
+
+> <JCHEM_REFRACTIVITY>
+75.0406
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.46e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11374
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Amprolium
+
+> <SYNONYMS>
+1-((4-amino-2-Propyl-5-pyrimidinyl)methyl)-2-picolinium chloride; Amprolio; Amprolium
+
+> <SALTS>
+Amprolium hydrochloride
+
+$$$$

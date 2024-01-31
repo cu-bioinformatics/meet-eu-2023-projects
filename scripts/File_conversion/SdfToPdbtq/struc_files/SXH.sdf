@@ -1,0 +1,176 @@
+SXH
+  Mrv0541 02241214112D          
+
+ 30 29  0  0  0  0            999 V2000
+   -6.3387    0.5077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5993    0.1417    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2334    0.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9652   -0.5977    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8599   -0.2242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1733    0.2332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4339   -0.1327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7998   -0.8721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0680    0.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6945   -0.4986    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.6417   -1.3219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0079   -0.0412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0607    0.7821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2685   -0.4071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5819    0.0503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1575   -0.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8441    0.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7913    0.9650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5836   -0.2242    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2701    0.2332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0096   -0.1327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6962    0.3247    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4356   -0.0412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4884   -0.8645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1222    0.4162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8616    0.0503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5482    0.5077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2876    0.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9742    0.5991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7319    0.0841    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  2  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 30  1  6  0  0  0
+ 10 11  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 17  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 23  1  0  0  0  0
+ 26 25  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 28 27  1  0  0  0  0
+ 29 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08585
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](O)(C(=O)NCCC(=O)NCCSC(=O)CCCCC)C(C)(C)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H33N2O8PS/c1-4-5-6-7-14(21)29-11-10-18-13(20)8-9-19-16(23)15(22)17(2,3)12-27-28(24,25)26/h15,22H,4-12H2,1-3H3,(H,18,20)(H,19,23)(H2,24,25,26)/t15-/m1/s1
+
+> <INCHI_KEY>
+KGMBPSVUBJAAEN-OAHLLOKOSA-N
+
+> <FORMULA>
+C17H33N2O8PS
+
+> <MOLECULAR_WEIGHT>
+456.491
+
+> <EXACT_MASS>
+456.169523244
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+62
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.7528335739028051
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.64151541345596
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(3S)-3-[(2-{[2-(hexanoylsulfanyl)ethyl]carbamoyl}ethyl)carbamoyl]-3-hydroxy-2,2-dimethylpropoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+0.52
+
+> <JCHEM_LOGP>
+0.21800163700000064
+
+> <ALOGPS_LOGS>
+-3.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.8173104927769606
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7936872113841635
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.0126508706024335
+
+> <JCHEM_POLAR_SURFACE_AREA>
+162.26
+
+> <JCHEM_REFRACTIVITY>
+109.47549999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+16
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.20e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08585
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-[2-({N-[(2S)-2-hydroxy-3,3-dimethyl-4-(phosphonooxy)butanoyl]-beta-alanyl}amino)ethyl] hexanethioate
+
+$$$$

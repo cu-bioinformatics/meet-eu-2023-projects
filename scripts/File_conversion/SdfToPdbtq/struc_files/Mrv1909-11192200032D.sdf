@@ -1,0 +1,181 @@
+
+  Mrv1909 11192200032D          
+
+ 28 33  0  0  0  0            999 V2000
+   -5.0376   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2126   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7277   -1.4924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9826   -2.2771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4977   -2.9445    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9826   -3.6119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7672   -3.3570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7672   -2.5320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3803   -3.9090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1649   -3.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7780   -4.2061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6065   -5.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8219   -5.2680    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2088   -4.7160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4242   -4.9709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8111   -4.4189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0265   -4.6738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8549   -5.4808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4680   -6.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2526   -5.7779    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9430   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9430   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7277   -0.1576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2286    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5141   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5141   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7996   -1.6500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2286   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+  6 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+  3 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+  2 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 21 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17143
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C2=NC3=C(N2)C2=CC=CN=C2C2=C3C=CC=N2)C2=C(N1)C=CC(F)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H14FN5/c1-11-17(15-10-12(23)6-7-16(15)26-11)22-27-20-13-4-2-8-24-18(13)19-14(21(20)28-22)5-3-9-25-19/h2-10,26H,1H3,(H,27,28)
+
+> <INCHI_KEY>
+NIRXBXIPHUTNNI-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H14FN5
+
+> <MOLECULAR_WEIGHT>
+367.387
+
+> <EXACT_MASS>
+367.123323634
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0032321031441893276
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.222338125262695
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-fluoro-3-{1H-imidazo[4,5-f]1,10-phenanthrolin-2-yl}-2-methyl-1H-indole
+
+> <ALOGPS_LOGP>
+4.17
+
+> <JCHEM_LOGP>
+4.040608811333334
+
+> <ALOGPS_LOGS>
+-4.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.427139681891934
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.716450421876825
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.536184027730302
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.25
+
+> <JCHEM_REFRACTIVITY>
+114.3653
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.14e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-{4-[2-(2,4-dichlorophenyl)ethyl]-3,6-dioxo-1-[2-(thiophen-2-yl)ethyl]piperazin-2-yl}-N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17143
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+APTO-253
+
+> <SYNONYMS>
+1h-imidazo(4,5-f)(1,10)phenanthroline, 2-(5-fluoro-2-methyl-1h-indol-3-yl)-; 2-(5-fluoro-2-methyl-1h-indol-3-yl)-1h-imidazo(4,5-f)(1,10)phenanthroline; Lor-253(former code); Lt-253(former code)
+
+$$$$

@@ -1,0 +1,176 @@
+
+  Mrv1909 09302015242D          
+
+ 24 26  0  0  0  0            999 V2000
+    1.1740    0.4361    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5892   -0.1392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2227    0.0556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7887   -0.5289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6007   -0.3155    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9070    0.4500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7330    0.3991    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.4383    0.8351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0741    0.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7910   -0.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9418   -0.3991    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2505   -0.8491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1801   -1.2884    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4946    1.2884    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4314    0.8583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8979    0.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8979   -0.7888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6263   -1.2064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316   -0.7888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316    0.0324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6078    0.4453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0741   -1.1972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6472    1.1229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5103    0.9651    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12  5  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 11 13  1  6  0  0  0
+  7 14  1  6  0  0  0
+ 15  3  2  0  0  0  0
+ 16  1  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 18  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 16  1  0  0  0  0
+ 22 19  1  0  0  0  0
+ 23  1  2  0  0  0  0
+ 24  1  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01120
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CCC[C@]1([H])CN(C2)NC(=O)NS(=O)(=O)C1=CC=C(C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H21N3O3S/c1-11-5-7-14(8-6-11)22(20,21)17-15(19)16-18-9-12-3-2-4-13(12)10-18/h5-8,12-13H,2-4,9-10H2,1H3,(H2,16,17,19)/t12-,13+
+
+> <INCHI_KEY>
+BOVGTQGAOIONJV-BETUJISGSA-N
+
+> <FORMULA>
+C15H21N3O3S
+
+> <MOLECULAR_WEIGHT>
+323.41
+
+> <EXACT_MASS>
+323.130362722
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9988283927938318
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.71612721368809
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(3aR,6aS)-octahydrocyclopenta[c]pyrrol-2-yl]-1-(4-methylbenzenesulfonyl)urea
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+1.7336410856666662
+
+> <ALOGPS_LOGS>
+-3.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.129428055678511
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.07045587014073
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.3823445842786881
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.50999999999999
+
+> <JCHEM_REFRACTIVITY>
+83.8761
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,2R,4S,5S,7S)-7-{[(2S)-3-hydroxy-2-phenylpropanoyl]oxy}-9,9-dimethyl-3-oxa-9-azatricyclo[3.3.1.0^{2,4}]nonan-9-ium bromide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01120
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00460
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Gliclazide
+
+> <SYNONYMS>
+1-(3-azabicyclo(3.3.0)oct-3-yl)-3-(p-tolylsulfonyl)urea; 1-(hexahydrocyclopenta(c)pyrrol-2(1H)-yl)-3-(p-tolylsulfonyl)urea; Gliclazida; Gliclazide; Gliclazidum
+
+> <PRODUCTS>
+Ag-gliclazide Mr; Apo-gliclazide; Apo-gliclazide Mr; Ava-gliclazide; Diamicron; Diamicron Mr; Glic; Gliclazide; Gliclazide -tab 80mg; Gliclazide Mr; Gliclazide-80; Jamp Gliclazide-MR; Mint-gliclazide Mr; Mylan-gliclazide; Mylan-gliclazide Mr; Nu-gliclazide; PMS-gliclazide; Sandoz Gliclazide; Sandoz Gliclazide Mr; Taro-gliclazide Mr; Teva-gliclazide
+
+$$$$

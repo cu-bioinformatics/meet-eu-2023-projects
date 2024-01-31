@@ -1,0 +1,155 @@
+
+  Mrv1718009041816252D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.2074    0.3923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074   -0.3922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5399    0.8772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5399   -0.8772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9524    0.3923    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9524   -0.3922    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1274    0.3923    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1274   -0.3922    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1274    1.2173    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1274   -1.2173    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5358   -0.9756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5358    0.9757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7733   -0.2611    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.3608   -0.9756    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.9442   -1.5590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9442    1.5590    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3608    0.9757    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7733    0.2612    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  3  7  1  0  0  0  0
+  1  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  4  2  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5 12  1  1  0  0  0
+  6 11  1  6  0  0  0
+  7  9  1  1  0  0  0
+  8 10  1  1  0  0  0
+ 11 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  CHG  4  13  -1  14   1  16  -1  17   1
+M  END
+> <DATABASE_ID>
+DB00883
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12OC[C@H](O[N+]([O-])=O)[C@@]1([H])OC[C@H]2O[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8N2O8/c9-7(10)15-3-1-13-6-4(16-8(11)12)2-14-5(3)6/h3-6H,1-2H2/t3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+MOYKHGMNXAOIAT-JGWLITMVSA-N
+
+> <FORMULA>
+C6H8N2O8
+
+> <MOLECULAR_WEIGHT>
+236.1363
+
+> <EXACT_MASS>
+236.028065242
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.147468185728947
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R,3aS,6S,6aS)-6-(nitrooxy)-hexahydrofuro[3,2-b]furan-3-yl nitrate
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+-0.009582421333333535
+
+> <ALOGPS_LOGS>
+-2.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.19328053202692
+
+> <JCHEM_POLAR_SURFACE_AREA>
+123.20000000000002
+
+> <JCHEM_REFRACTIVITY>
+42.763000000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isosorbide dinitrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00883
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00455
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Isosorbide dinitrate
+
+> <SYNONYMS>
+1,4:3,6-Dianhydrosorbitol 2,5-dinitrate; D-Isosorbide dinitrate; Dianhydrosorbitol 2,5-dinitrate; Dinitrate d'isosorbide; Dinitrato de isosorbida; Dinitroisosorbide; Dinitrosorbide; ISDN; Isosorbide 2,5-dinitrate; Isosorbide dinitrate; Isosorbidi dinitras; Sorbide nitrate; Sorbidnitrate
+
+> <PRODUCTS>
+BiDil; Cedocard-SR Srt 20mg; Cedocard-SR Srt 40mg; Coradur Tab 20mg; Coronex; Coronex 5mg Sublingual Tablets; Dilatrate SR; Dilatrate-SR; Isdn; IsoDitrate; Isorbide Dinitrate; Isordil; Isordil 10 Titradose Tab 10mg; Isordil 10 Titradose Tablets 10mg; Isordil 30 Titradose Tab 30mg; Isordil 30 Titradose Tablets 30mg; Isordil Sublingual Tab 5mg; Isordil Sublingual Tablets 5mg; Isordil Titradose; Isosorbide; Isosorbide 10 Tab 10mg; Isosorbide 30 Tab 30mg; Isosorbide Dinitrate; Isosorbide Dinitrate and Hydralazine Hydrochloride; Isosorbide Sublingual; Isosorbide Tab 30mg; Isosorbide dinitrate; Isosorbide dinitrate and hydralazine hydrochloride; Isosorbide-5 Tab 5mg; Isosorrbide Dinitrate; Novo-sorbide Tab 10mg; Novo-sorbide Tab 30mg; Nu-isdn Tablets; PMS-isosorbide Tab 10mg; Truemed Group LLC
+
+> <INTERNATIONAL_BRANDS>
+Carvasin; Flindix; Isoket; Isorbid; Nitrosorbide; Sorbidilat
+
+$$$$

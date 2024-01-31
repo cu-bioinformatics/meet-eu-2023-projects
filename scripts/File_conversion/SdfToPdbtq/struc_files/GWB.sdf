@@ -1,0 +1,158 @@
+GWB
+  Mrv0541 02241213422D          
+
+ 21 23  0  0  0  0            999 V2000
+    0.2765    1.0395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4380    1.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1524    1.8645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9774    1.8645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5649    2.5790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9910   -1.8480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2765   -1.4355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4380   -1.8480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2765   -0.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9910   -0.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9910    0.6270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7054   -1.4355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7054   -0.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4199   -0.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1344   -0.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1344   -1.4355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4199   -1.8480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8489   -0.1980    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4380   -0.1980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4380    0.6270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1524   -0.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07864
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C1=C(OC#CC2CC2)C2=CC(F)=CC=C2NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H16FNO2/c1-10(2)15-16(21-8-7-11-3-4-11)13-9-12(18)5-6-14(13)19-17(15)20/h5-6,9-11H,3-4H2,1-2H3,(H,19,20)
+
+> <INCHI_KEY>
+YVJFHKQYMKKIHK-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H16FNO2
+
+> <MOLECULAR_WEIGHT>
+285.3128
+
+> <EXACT_MASS>
+285.116506966
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.3123504813406362e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.6756666661179
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(2-cyclopropylethynyl)oxy]-6-fluoro-3-(propan-2-yl)-1,2-dihydroquinolin-2-one
+
+> <ALOGPS_LOGP>
+3.60
+
+> <JCHEM_LOGP>
+2.7999000000000014
+
+> <ALOGPS_LOGS>
+-4.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.88111066774219
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.595531951861764
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+79.78030000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.62e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB07864
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[(CYCLOPROPYLETHYNYL)OXY]-6-FLUORO-3-ISOPROPYLQUINOLIN-2(1H)-ONE
+
+$$$$

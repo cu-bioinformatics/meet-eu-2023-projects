@@ -1,0 +1,151 @@
+
+  Mrv1533004241523552D          
+
+ 18 19  0  0  0  0            999 V2000
+    3.5724   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0329   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6829   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -6.6000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11461
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NN=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9ClN4O2S/c11-9-5-6-10(14-13-9)15-18(16,17)8-3-1-7(12)2-4-8/h1-6H,12H2,(H,14,15)
+
+> <INCHI_KEY>
+XOXHILFPRYWFOD-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9ClN4O2S
+
+> <MOLECULAR_WEIGHT>
+284.72
+
+> <EXACT_MASS>
+284.0134744
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.936817053402454
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(6-chloropyridazin-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.97
+
+> <JCHEM_LOGP>
+0.8532221506666664
+
+> <ALOGPS_LOGS>
+-3.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.595339651724606
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0165685416392174
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+71.4766
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.33e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfachloropyridazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11461
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Sulfachlorpyridazine
+
+> <SYNONYMS>
+4-Amino-N-(6-chloro-3-pyridazinyl)benzenesulfonamide; 4-amino-N-(6-chloropyridazin-3-yl)benzenesulfonamide; N1-(6-Chloro-3-pyridazinyl)sulfanilamide; SCP; Sulfachloropyridazine; Sulfachlorpyridazine; Sulfachlorpyridazinum; Sulfacloropiridazina; Sulphachlorpyridazine
+
+> <SALTS>
+Sodium sulfachlorpyridazine monohydrate; Sulfachlorpyridazine sodium
+
+$$$$

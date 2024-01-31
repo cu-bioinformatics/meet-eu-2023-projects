@@ -1,0 +1,162 @@
+
+  Mrv1533004241522522D          
+
+ 23 24  0  0  0  0            999 V2000
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0329   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6829   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -6.6000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+M  CHG  2  21   1  23  -1
+M  END
+> <DATABASE_ID>
+DB11463
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC1=CC=C(C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H13N3O5S/c1-10(18)15-11-4-8-14(9-5-11)23(21,22)16-12-2-6-13(7-3-12)17(19)20/h2-9,16H,1H3,(H,15,18)
+
+> <INCHI_KEY>
+GWBPFRGXNGPPMF-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H13N3O5S
+
+> <MOLECULAR_WEIGHT>
+335.33
+
+> <EXACT_MASS>
+335.057591705
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.197137123551204
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-{4-[(4-nitrophenyl)sulfamoyl]phenyl}acetamide
+
+> <ALOGPS_LOGP>
+1.90
+
+> <JCHEM_LOGP>
+1.6386056566666665
+
+> <ALOGPS_LOGS>
+-3.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.893292250125274
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.435424391314546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.4244483030925235
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.41
+
+> <JCHEM_REFRACTIVITY>
+84.0737
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.43e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfanitran
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11463
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Sulfanitran
+
+> <SYNONYMS>
+Sulfanitran
+
+$$$$

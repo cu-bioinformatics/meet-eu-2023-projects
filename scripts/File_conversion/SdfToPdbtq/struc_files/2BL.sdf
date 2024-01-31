@@ -1,0 +1,160 @@
+2BL
+  Mrv0541 02241213062D          
+
+ 23 23  0  0  0  0            999 V2000
+    1.6136   -1.6209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6136   -0.7959    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8991   -0.3834    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8991    0.4416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3281   -0.3834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0425   -0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2443    0.0291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9588   -0.3834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2443    0.8541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6732    0.0291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9588    1.2666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6732    0.8541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3877    1.2666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1846    0.8541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6136    0.8541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1173    0.3311    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9423   -1.0978    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5298   -0.3834    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1846   -0.7959    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1079   -1.0878    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4048   -0.0914    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3281   -2.0334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8991   -2.0334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 22  2  0  0  0  0
+  1 23  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  6  0  0  0
+  2 20  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3 19  1  1  0  0  0
+  3 21  1  1  0  0  0
+  4 14  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06951
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CC)(C(O)=O)[C@]([H])(NS(=O)(=O)C1=CC=C(C)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17NO6S/c1-3-10(12(15)16)11(13(17)18)14-21(19,20)9-6-4-8(2)5-7-9/h4-7,10-11,14H,3H2,1-2H3,(H,15,16)(H,17,18)/t10-,11+/m1/s1
+
+> <INCHI_KEY>
+KPHLTCNXHCHMOW-MNOVXSKESA-N
+
+> <FORMULA>
+C13H17NO6S
+
+> <MOLECULAR_WEIGHT>
+315.342
+
+> <EXACT_MASS>
+315.077657971
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.993820064667105
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.73394592462334
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3S)-2-ethyl-3-(4-methylbenzenesulfonamido)butanedioic acid
+
+> <ALOGPS_LOGP>
+0.28
+
+> <JCHEM_LOGP>
+1.7088646246666663
+
+> <ALOGPS_LOGS>
+-2.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.823285568632151
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1509966449397537
+
+> <JCHEM_POLAR_SURFACE_AREA>
+120.77
+
+> <JCHEM_REFRACTIVITY>
+73.94319999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.19e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06951
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R)-3-ethyl-N-[(4-methylphenyl)sulfonyl]-L-aspartic acid
+
+$$$$

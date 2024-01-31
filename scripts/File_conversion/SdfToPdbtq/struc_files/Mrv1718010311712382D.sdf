@@ -1,0 +1,164 @@
+
+  Mrv1718010311712382D          
+
+ 26 27  0  0  0  0            999 V2000
+   -1.4306    0.9762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4333    0.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7214   -0.2656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7248    1.3891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0048    0.9829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0063    0.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7123   -0.2684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4304    0.1445    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4335    0.9791    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7108    1.3957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1472    1.3914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8621    0.9783    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5753    1.3904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1472    2.2146    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1470   -0.2641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8615    0.1486    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5753    0.5610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4488    0.8629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2734   -0.5647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1440   -0.2678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8612    0.1437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1429   -1.0924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8565   -1.5056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4363   -2.2146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2609   -0.7897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5631   -1.9168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 23 24  1  0  0  0  0
+  2  3  1  0  0  0  0
+ 23 25  1  0  0  0  0
+  3  6  2  0  0  0  0
+ 23 26  1  0  0  0  0
+  5  4  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06887
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNC(=O)[C@@H]1CC2=CC=C(NS(O)(=O)=O)C=C2CN1C(=O)OC(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H23N3O6S/c1-16(2,3)25-15(21)19-9-11-7-12(18-26(22,23)24)6-5-10(11)8-13(19)14(20)17-4/h5-7,13,18H,8-9H2,1-4H3,(H,17,20)(H,22,23,24)/t13-/m0/s1
+
+> <INCHI_KEY>
+PPSSYXOFPICMQD-ZDUSSCGKSA-N
+
+> <FORMULA>
+C16H23N3O6S
+
+> <MOLECULAR_WEIGHT>
+385.435
+
+> <EXACT_MASS>
+385.130756173
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.54083233099992
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(3S)-2-[(tert-butoxy)carbonyl]-3-(methylcarbamoyl)-1,2,3,4-tetrahydroisoquinolin-7-yl]sulfamic acid
+
+> <ALOGPS_LOGP>
+0.43
+
+> <JCHEM_LOGP>
+0.4533099866666669
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.1202344109346
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.369632456287234
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.35687955922509
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.04
+
+> <JCHEM_REFRACTIVITY>
+94.082
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.10e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-[(3S)-2-(tert-butoxycarbonyl)-3-(methylcarbamoyl)-3,4-dihydro-1H-isoquinolin-7-yl]sulfamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06887
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[(3S)-3-(Methylcarbamoyl)-2-{[(2-methyl-2-propanyl)oxy]carbonyl}-1,2,3,4-tetrahydro-7-isoquinolinyl]sulfamic acid
+
+$$$$

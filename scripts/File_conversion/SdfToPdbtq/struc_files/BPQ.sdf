@@ -1,0 +1,158 @@
+BPQ
+  Mrv0541 02241213272D          
+
+ 20 21  0  0  0  0            999 V2000
+   -3.8033    0.2337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2513    0.8468    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4443    0.6753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8923    1.2883    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1894   -0.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4357   -0.4449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7213   -0.0324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0068   -0.4449    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5220   -1.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3289   -1.4369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7414   -0.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5484   -0.5509    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6103    0.4052    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7077   -0.0324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7077    0.7926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8511    0.3801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1366   -0.0324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5491   -0.7469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7241    0.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4222   -0.4449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07481
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(C)OC(=O)NCC1=CNC2=C1C(=O)NC(N)=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17N5O3/c1-12(2,3)20-11(19)15-5-6-4-14-8-7(6)9(18)17-10(13)16-8/h4H,5H2,1-3H3,(H,15,19)(H4,13,14,16,17,18)
+
+> <INCHI_KEY>
+RXVQMCMIOHBKNE-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H17N5O3
+
+> <MOLECULAR_WEIGHT>
+279.2951
+
+> <EXACT_MASS>
+279.133139435
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.4974413303892774e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.510695396587515
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+tert-butyl N-({2-amino-4-oxo-3H,4H,7H-pyrrolo[2,3-d]pyrimidin-5-yl}methyl)carbamate
+
+> <ALOGPS_LOGP>
+0.42
+
+> <JCHEM_LOGP>
+0.2841025783333337
+
+> <ALOGPS_LOGS>
+-3.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.041654265945876
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.031115825844667
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.0342580869900146
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+73.5472
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.53e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07481
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+tert-butyl [(2-amino-4-oxo-4,7-dihydro-3H-pyrrolo[2,3-d]pyrimidin-5-yl)methyl]carbamate
+
+$$$$

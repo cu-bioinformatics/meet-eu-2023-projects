@@ -1,0 +1,160 @@
+
+  Mrv0541 09131211552D          
+
+ 18 19  0  0  0  0            999 V2000
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    4.5375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    4.5375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0  0  0  0
+  5  2  1  0  0  0  0
+  6  4  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  1  1  0  0  0  0
+ 10  5  2  0  0  0  0
+ 11  6  1  0  0  0  0
+ 11  9  2  0  0  0  0
+ 12  8  2  0  0  0  0
+ 12  9  1  0  0  0  0
+ 13  7  2  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 14  2  0  0  0  0
+ 18 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09216
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(Cl)C=CC=C1NC1=CC=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12ClNO2/c1-9-11(15)6-4-8-12(9)16-13-7-3-2-5-10(13)14(17)18/h2-8,16H,1H3,(H,17,18)
+
+> <INCHI_KEY>
+YEZNLOUZAIOMLT-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H12ClNO2
+
+> <MOLECULAR_WEIGHT>
+261.704
+
+> <EXACT_MASS>
+261.05565634
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9992441110920864
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.459976089002446
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(3-chloro-2-methylphenyl)amino]benzoic acid
+
+> <ALOGPS_LOGP>
+4.64
+
+> <JCHEM_LOGP>
+5.488220565
+
+> <ALOGPS_LOGS>
+-4.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+17.307550753283422
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8788522801256358
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.101670898633361
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+71.64640000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.58e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09216
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tolfenamic acid
+
+> <SYNONYMS>
+Acide tolfenamique; ácido tolfenámico; Acidum tolfenamicum; Tolfenamic acid
+
+> <INTERNATIONAL_BRANDS>
+Clotam
+
+$$$$

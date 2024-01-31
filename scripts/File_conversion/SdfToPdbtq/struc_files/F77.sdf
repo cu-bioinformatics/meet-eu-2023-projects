@@ -1,0 +1,161 @@
+F77
+  Mrv0541 02241213372D          
+
+ 23 24  0  0  0  0            999 V2000
+    1.3816    1.5786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0961    1.1661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0961    0.3411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8106   -0.0714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8106   -0.8964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0961   -1.3089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3816   -0.8964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3816   -0.0714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672    0.3411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672   -1.3089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0473   -0.8964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672   -2.1339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0961   -2.1339    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3816   -2.5464    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9691   -1.8319    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7941   -3.2608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672   -2.9589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672   -3.7839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0473   -4.1964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7618   -3.7839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7618   -2.9589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0473   -2.5464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4762   -4.1964    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07746
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC1=CC=C(NS(=O)(=O)C2=CC=C(F)C=C2)C(C(O)=O)=C1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16FNO4S/c1-3-11-4-9-14(15(10(11)2)16(19)20)18-23(21,22)13-7-5-12(17)6-8-13/h4-9,18H,3H2,1-2H3,(H,19,20)
+
+> <INCHI_KEY>
+MGUQWAOYPINSIT-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H16FNO4S
+
+> <MOLECULAR_WEIGHT>
+337.366
+
+> <EXACT_MASS>
+337.0784069
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0845544611156839
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.25409666578461
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-ethyl-6-(4-fluorobenzenesulfonamido)-2-methylbenzoic acid
+
+> <ALOGPS_LOGP>
+3.24
+
+> <JCHEM_LOGP>
+3.7326073880000004
+
+> <ALOGPS_LOGS>
+-4.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.030124721985564
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9144351312105745
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.47
+
+> <JCHEM_REFRACTIVITY>
+85.04620000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.33e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07746
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-ETHYL-6-{[(4-FLUOROPHENYL)SULFONYL]AMINO}-2-METHYLBENZOIC ACID
+
+$$$$

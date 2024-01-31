@@ -1,0 +1,158 @@
+
+  Mrv0541 02231217422D          
+
+ 20 21  0  0  0  0            999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  7 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 13 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04478
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)S(=O)(=O)N1CCN(CC1)C1=CC=NC(CO)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H19N5O3S/c1-14(2)20(18,19)16-7-5-15(6-8-16)11-3-4-12-10(9-17)13-11/h3-4,17H,5-9H2,1-2H3
+
+> <INCHI_KEY>
+XDTHNROWHAAVPJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H19N5O3S
+
+> <MOLECULAR_WEIGHT>
+301.365
+
+> <EXACT_MASS>
+301.120860189
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.061572362813281996
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.971288936822408
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-[2-(hydroxymethyl)pyrimidin-4-yl]-N,N-dimethylpiperazine-1-sulfonamide
+
+> <ALOGPS_LOGP>
+-0.66
+
+> <JCHEM_LOGP>
+-0.6918334213333334
+
+> <ALOGPS_LOGS>
+-1.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.546142178675417
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.817830686341883
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.87
+
+> <JCHEM_REFRACTIVITY>
+76.28139999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.78e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04478
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00235
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cp-166572, 2-Hydroxymethyl-4-(4-N,N-Dimethylaminosulfonyl-1-Piperazino)-Pyrimidine
+
+$$$$

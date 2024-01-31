@@ -1,0 +1,159 @@
+UI2
+  Mrv0541 02231217232D          
+
+ 20 22  0  0  0  0            999 V2000
+   -1.1368   -1.3757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4223   -1.7882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2921   -1.3757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2921   -0.5507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4223   -0.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1368   -0.5507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0066   -1.7882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7211   -1.3757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7211   -0.5507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0066   -0.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4223    0.6868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1368    1.0993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8513    0.6868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5658    1.0993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5658    1.9243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8513    2.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1368    1.9243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4355   -0.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4355    0.6868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1500   -0.5507    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04059
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=N)C1=CC2=C(C=CC=C2NC2=NC=CC=N2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13N5/c16-14(17)11-6-5-10-3-1-4-13(12(10)9-11)20-15-18-7-2-8-19-15/h1-9H,(H3,16,17)(H,18,19,20)
+
+> <INCHI_KEY>
+GRQLDCHTDNYVQI-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H13N5
+
+> <MOLECULAR_WEIGHT>
+263.2972
+
+> <EXACT_MASS>
+263.117095441
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9999658259773578
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.370087554171775
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-[(pyrimidin-2-yl)amino]naphthalene-2-carboximidamide
+
+> <ALOGPS_LOGP>
+1.80
+
+> <JCHEM_LOGP>
+1.9307117060755872
+
+> <ALOGPS_LOGS>
+-3.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.715578982579311
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.246658435250637
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.68
+
+> <JCHEM_REFRACTIVITY>
+89.2772
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.00e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04059
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03179
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-(Pyrimidin-2-Ylamino)Naphthalene-2-Carboximidamide
+
+$$$$

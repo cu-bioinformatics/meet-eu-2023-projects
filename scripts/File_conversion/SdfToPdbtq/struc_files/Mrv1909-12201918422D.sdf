@@ -1,0 +1,170 @@
+
+  Mrv1909 12201918422D          
+
+ 22 25  0  0  0  0            999 V2000
+   -0.1468   -1.2480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1468   -2.0731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8614   -0.8354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8614   -2.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5759   -1.2480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5759   -2.0731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6378   -0.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1226   -1.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6379   -2.3280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9477   -1.6605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8927   -0.2084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4079    0.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6774    0.0465    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8927    1.1265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6774    0.8716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7211    1.9335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3342    2.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2904    1.4237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1188    2.2307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4172    0.4591    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8297    1.1736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2904   -2.4855    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  1  1  0  0  0  0
+  2  1  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  2  1  0  0  0  0
+  9  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 15 13  1  0  0  0  0
+  7 11  2  0  0  0  0
+ 16 14  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 17 16  2  0  0  0  0
+ 18 15  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 19 18  2  0  0  0  0
+ 12 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+  6 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03444
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O\N=C1\C(\NC2=C\1C=CC=C2)=C1\C(=O)NC2=CC(Br)=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H10BrN3O2/c17-8-5-6-9-12(7-8)19-16(21)13(9)15-14(20-22)10-3-1-2-4-11(10)18-15/h1-7,18,22H,(H,19,21)/b15-13-,20-14+
+
+> <INCHI_KEY>
+DDLZLOKCJHBUHD-WAVHTBQISA-N
+
+> <FORMULA>
+C16H10BrN3O2
+
+> <MOLECULAR_WEIGHT>
+356.174
+
+> <EXACT_MASS>
+354.995639226
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.5635966855668174
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.7607452198917
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(Z,3E)-6'-bromo-3-(hydroxyimino)-1',2'-dihydro-1H,3H-[2,3'-biindolyliden]-2'-one
+
+> <ALOGPS_LOGP>
+2.99
+
+> <JCHEM_LOGP>
+2.5630994063333334
+
+> <ALOGPS_LOGS>
+-4.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.307586375791868
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.889005369714109
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.9588370668346278
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.72
+
+> <JCHEM_REFRACTIVITY>
+90.43990000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.41e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{3-[4-(3-aminopropyl)piperazin-1-yl]propyl}-3-[2-(thiophen-2-yl)acetamido]-5-{[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03444
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00759
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-bromoindirubin-3'-oxime
+
+> <SYNONYMS>
+(2Z,3E)-6-Bromoindirubin-3'-oxime; (2Z,3E)-6'-bromo-2,3'-biindole-2',3(1H,1'H)-dione 3-oxime; 6-BIO
+
+$$$$

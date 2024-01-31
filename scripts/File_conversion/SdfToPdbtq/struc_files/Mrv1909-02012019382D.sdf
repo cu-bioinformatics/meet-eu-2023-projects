@@ -1,0 +1,168 @@
+
+  Mrv1909 02012019382D          
+
+ 23 25  0  0  0  0            999 V2000
+    1.4411   -0.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1974   -1.0142    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0201   -0.1005    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7432    0.2979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4240   -0.8101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3613    0.0079    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6155    0.3635    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7489   -1.2764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9223    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6100   -2.2119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1388   -2.5661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8242   -2.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3532   -1.8664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9671   -2.9561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1660    0.2521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7177   -0.4534    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1660   -1.1639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0423    0.4737    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5429    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2168    1.6589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1403    2.4803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8142    2.9561    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3898    2.8259    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9  3  1  0  0  0  0
+ 10 13  1  0  0  0  0
+  8  5  1  0  0  0  0
+ 10 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3 16  1  1  0  0  0
+  7  3  1  0  0  0  0
+  5 17  2  0  0  0  0
+  8  9  1  0  0  0  0
+  6 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  7 19  1  1  0  0  0
+  4  1  2  0  0  0  0
+ 19 20  1  0  0  0  0
+  9  2  1  6  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 21 23  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12989
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12N=C(N)N[C@]11N(CCC1(O)O)C(=N)N(O)[C@H]2COC(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H17N7O5/c11-6-14-5-4(3-22-8(13)18)17(21)7(12)16-2-1-9(19,20)10(5,16)15-6/h4-5,12,19-21H,1-3H2,(H2,13,18)(H3,11,14,15)/t4-,5-,10-/m0/s1
+
+> <INCHI_KEY>
+PPEKGEBBBBNZKS-HGRQIUPRSA-N
+
+> <FORMULA>
+C10H17N7O5
+
+> <MOLECULAR_WEIGHT>
+315.2859
+
+> <EXACT_MASS>
+315.129116689
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.106213908976079
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.67467231420911
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,5H,6H,8H,9H,10H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <ALOGPS_LOGP>
+-2.04
+
+> <JCHEM_LOGP>
+-2.4080980199999997
+
+> <ALOGPS_LOGS>
+-1.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.636639131108577
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.746926813254072
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.637023599328115
+
+> <JCHEM_POLAR_SURFACE_AREA>
+193.75
+
+> <JCHEM_REFRACTIVITY>
+79.8942
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.30e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,8H,9H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12989
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Neosaxitoxin
+
+> <INTERNATIONAL_BRANDS>
+NeoSTX
+
+$$$$

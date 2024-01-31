@@ -1,0 +1,184 @@
+
+  Mrv1718009301815292D          
+
+ 31 32  0  0  0  0            999 V2000
+    3.6190   -1.0417    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1341   -0.3743    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3495   -0.6292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3495   -1.4542    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1341   -1.7091    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3891    0.4103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1960    0.5818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8370    1.0234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4440   -1.0417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4510    1.3664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7481   -0.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0920    1.8080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3891   -2.4938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8989    1.9795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1539    2.7641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6821   -1.9391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9676   -1.5266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4613   -1.5266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2531   -2.7641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1757   -2.7641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1757   -1.9391    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1757   -1.1141    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.2531   -1.9391    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2531   -1.1141    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8902   -1.5266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6047   -1.9391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3191   -1.5266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0336   -2.7641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7481   -2.3516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0336   -1.9391    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.7481   -1.5266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  6  0  0  0
+  2  1  1  0  0  0  0
+  2  6  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 16  1  1  0  0  0
+  1  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 13  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 23 18  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 23 19  2  0  0  0  0
+ 21 20  2  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 30  1  0  0  0  0
+ 30 28  1  0  0  0  0
+ 30 29  1  0  0  0  0
+ 30 31  1  0  0  0  0
+M  CHG  2  22  -1  30   1
+M  END
+> <DATABASE_ID>
+DB12153
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[N+](C)(C)CCOP([O-])(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=CC(N)=NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H26N4O11P2/c1-18(2,3)6-7-26-30(22,23)29-31(24,25)27-8-9-11(19)12(20)13(28-9)17-5-4-10(15)16-14(17)21/h4-5,9,11-13,19-20H,6-8H2,1-3H3,(H3-,15,16,21,22,23,24,25)/t9-,11-,12-,13-/m1/s1
+
+> <INCHI_KEY>
+RZZPDXZPRHQOCG-OJAKKHQRSA-N
+
+> <FORMULA>
+C14H26N4O11P2
+
+> <MOLECULAR_WEIGHT>
+488.324
+
+> <EXACT_MASS>
+488.107330718
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.53836461969057
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{2-[({[(2R,3S,4R,5R)-5-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}(hydroxy)phosphoryl phosphono)oxy]ethyl}trimethylazanium
+
+> <ALOGPS_LOGP>
+-1.38
+
+> <JCHEM_LOGP>
+-7.108613166138413
+
+> <ALOGPS_LOGS>
+-1.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.258805107194146
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8439200602610413
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.5619728051801234
+
+> <JCHEM_POLAR_SURFACE_AREA>
+213.49999999999997
+
+> <JCHEM_REFRACTIVITY>
+113.58389999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.99e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[2-({[(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy(hydroxy)phosphoryl phosphono}oxy)ethyl]trimethylazanium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12153
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00867; DB04290
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Citicoline
+
+> <SYNONYMS>
+CDP-choline; CDP-colina; citicolina; Citicoline; citidin difosfato de colina; Cytidine 5'-(choline diphosphate); Cytidine 5'-(cholinyl pyrophosphate); Cytidine 5'-diphosphocholine; Cytidine 5'-diphosphoric choline; Cytidine-5'-diphosphocholine
+
+> <SALTS>
+Citicoline sodium
+
+$$$$

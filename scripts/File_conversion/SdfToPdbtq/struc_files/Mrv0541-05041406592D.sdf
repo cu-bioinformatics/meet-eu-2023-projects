@@ -1,0 +1,154 @@
+
+  Mrv0541 05041406592D          
+
+ 17 17  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  1  6  0  0  0
+  8  1  1  0  0  0  0
+  3  9  1  6  0  0  0
+  4 10  1  1  0  0  0
+  5 11  1  1  0  0  0
+ 12  2  1  0  0  0  0
+ 12  6  1  0  0  0  0
+  2 13  1  6  0  0  0
+  3 14  1  1  0  0  0
+  4 15  1  6  0  0  0
+  5 16  1  6  0  0  0
+  6 17  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03414
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(N)S[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO4S/c7-6-5(11)4(10)3(9)2(1-8)12-6/h2-6,8-11H,1,7H2/t2-,3-,4+,5+,6+/m1/s1
+
+> <INCHI_KEY>
+FGVRMLQUWLZGLJ-PQMKYFCFSA-N
+
+> <FORMULA>
+C6H13NO4S
+
+> <MOLECULAR_WEIGHT>
+195.237
+
+> <EXACT_MASS>
+195.056528599
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.5578884507097841
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.50271700705313
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3S,4S,5S,6R)-2-amino-6-(hydroxymethyl)thiane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-2.48
+
+> <JCHEM_LOGP>
+-2.7282901956666668
+
+> <ALOGPS_LOGS>
+0.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.781101466815958
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.770893192206193
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.101011513593804
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.94000000000001
+
+> <JCHEM_REFRACTIVITY>
+43.9317
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.35e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03414
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02038
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Thio-a/B-D-Mannopyranosylamine
+
+$$$$

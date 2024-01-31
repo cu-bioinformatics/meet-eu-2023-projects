@@ -1,0 +1,165 @@
+
+  Mrv1909 02092017022D          
+
+ 22 23  0  0  0  0            999 V2000
+   -3.9515   -0.1842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9515   -1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2370   -1.4219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5225   -1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5225   -0.1842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2370    0.2281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8080    0.2281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0935   -0.1843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3790    0.2280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3353   -0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3353   -1.0094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0062    0.2717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8299   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5225    0.1843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2371   -0.2281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9516    0.1843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9516    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2371    1.4219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5225    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6661    1.4219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6661   -0.2281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6661   -1.4219    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+  2 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08754
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(CCNC(=O)\C=C\C2=CC(O)=C(O)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17NO4/c19-14-5-1-12(2-6-14)9-10-18-17(22)8-4-13-3-7-15(20)16(21)11-13/h1-8,11,19-21H,9-10H2,(H,18,22)/b8-4+
+
+> <INCHI_KEY>
+VSHUQLRHTJOKTA-XBXARRHUSA-N
+
+> <FORMULA>
+C17H17NO4
+
+> <MOLECULAR_WEIGHT>
+299.3212
+
+> <EXACT_MASS>
+299.115758037
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.01112253283687455
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.095484119698064
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E)-3-(3,4-dihydroxyphenyl)-N-[2-(4-hydroxyphenyl)ethyl]prop-2-enamide
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+2.6552580693333336
+
+> <ALOGPS_LOGS>
+-3.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.686132153462676
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.038803890108767
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.3880271063822997
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.79
+
+> <JCHEM_REFRACTIVITY>
+85.0891
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.80e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-(2,6-dichlorophenyl)-2-{[3-(hydroxymethyl)phenyl]amino}-8-methylpyrido[2,3-d]pyrimidin-7-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08754
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Caffeoyltyramine
+
+> <SYNONYMS>
+N-Caffeoyltyramine; N-trans-Caffeoyltyramine; trans-N-Caffeoyltyramine; Typheramide
+
+$$$$

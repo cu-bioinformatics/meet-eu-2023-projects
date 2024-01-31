@@ -1,0 +1,157 @@
+COL
+  Mrv0541 02231215562D          
+
+ 18 19  0  0  0  0            999 V2000
+    2.0910   -0.4666    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3765   -0.8791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6621   -0.4666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6621    0.3584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3765    0.7709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0910    0.3584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1226   -0.7215    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6075   -0.0541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1226    0.6133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3775    1.3980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1845    1.5695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1745    2.0111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4325   -0.0541    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8450   -0.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6700   -0.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0825   -1.4830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0825   -0.0541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4325   -1.4830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02072
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C(=O)NC1=C(C(O)=O)C2=C(CSCC2)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9NO5S2/c12-7(10(15)16)11-8-6(9(13)14)4-1-2-17-3-5(4)18-8/h1-3H2,(H,11,12)(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+ZPDVRWNOCOREGF-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9NO5S2
+
+> <MOLECULAR_WEIGHT>
+287.312
+
+> <EXACT_MASS>
+286.992213783
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.999471134223717
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.65062924344918
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(carboxyformamido)-4H,5H,7H-thieno[2,3-c]thiopyran-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.68
+
+> <JCHEM_LOGP>
+2.3641499616666666
+
+> <ALOGPS_LOGS>
+-3.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.747341450034316
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.9784435389638033
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.359022897943639
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+67.0302
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.30e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02072
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00987
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(Oxalyl-Amino)-4,7-Dihydro-5h-Thieno[2,3-C]Thiopyran-3-Carboxylic Acid
+
+$$$$

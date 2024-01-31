@@ -1,0 +1,164 @@
+ADL
+  Mrv0541 02231215542D          
+
+ 21 23  0  0  0  0            999 V2000
+    2.7924   -0.8501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0779   -1.2626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3634   -0.8501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3634   -0.0251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0779    0.3874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7924   -0.0251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6489    0.3874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0655   -0.0251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0655   -0.8501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6489   -1.2626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7800    0.3874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4945   -0.0251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4945   -0.8501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7800   -1.2626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2089    0.3874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2089    1.2124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0779    1.2124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6489    1.2124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7800    1.2124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9234    1.6249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4945    1.6249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 16 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02019
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CC1=C(O)C2=C(CC3=C(C(O)=CC=C3)C2=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H12O5/c17-11-3-1-2-8-6-9-4-5-10(7-12(18)19)15(20)14(9)16(21)13(8)11/h1-5,17,20H,6-7H2,(H,18,19)
+
+> <INCHI_KEY>
+IXLRLZOYKJERRA-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H12O5
+
+> <MOLECULAR_WEIGHT>
+284.2635
+
+> <EXACT_MASS>
+284.068473494
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0540546136066724
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.286267537020397
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(1,8-dihydroxy-9-oxo-9,10-dihydroanthracen-2-yl)acetic acid
+
+> <ALOGPS_LOGP>
+2.81
+
+> <JCHEM_LOGP>
+3.881764710333333
+
+> <ALOGPS_LOGS>
+-3.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.389093433518308
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.408331525523178
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.615277510312799
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+75.58209999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.48e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02019
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00432
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Acetyl Dithranol
+
+$$$$

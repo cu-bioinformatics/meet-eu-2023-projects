@@ -1,0 +1,169 @@
+2E1
+  Mrv0541 02241213062D          
+
+ 25 27  0  0  0  0            999 V2000
+    0.9888    1.3413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9888    0.5163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4402    0.5163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4402    1.3413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2743    0.1038    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2743   -0.7212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3932   -1.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1778   -0.9512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2743    1.7538    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7909   -1.5033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3493   -0.1443    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1339    0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7470   -0.4413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1382   -1.9908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6868   -1.9908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9417   -1.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7263   -0.9512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8979   -0.1443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6825    0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8540    0.9177    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2956   -0.4413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0802   -0.1864    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1241   -1.2483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3394   -1.5033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1679   -2.3102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06958
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCNC(=O)C1=NNC(=C1N1CCNCC1)C1=CC(Cl)=C(O)C=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20ClN5O3/c1-2-19-16(25)14-15(22-5-3-18-4-6-22)13(20-21-14)9-7-10(17)12(24)8-11(9)23/h7-8,18,23-24H,2-6H2,1H3,(H,19,25)(H,20,21)
+
+> <INCHI_KEY>
+SORAKBHHTGVZCS-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H20ClN5O3
+
+> <MOLECULAR_WEIGHT>
+365.815
+
+> <EXACT_MASS>
+365.125467238
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8668624594736832
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.113358017625856
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(5-chloro-2,4-dihydroxyphenyl)-N-ethyl-4-(piperazin-1-yl)-1H-pyrazole-3-carboxamide
+
+> <ALOGPS_LOGP>
+1.45
+
+> <JCHEM_LOGP>
+0.2690600976730452
+
+> <ALOGPS_LOGS>
+-2.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+9.481857879423625
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.910648232991633
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.720882573320075
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.51000000000002
+
+> <JCHEM_REFRACTIVITY>
+97.06139999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.04e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06958
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-PIPERAZIN-1-YL-1H-PYRAZOLE-3-CARBOXAMIDE
+
+$$$$

@@ -1,0 +1,178 @@
+DRX
+  Mrv0541 02241213352D          
+
+ 29 32  0  0  0  0            999 V2000
+    0.9001   -2.2434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4521   -1.6303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1972   -0.8457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7492   -0.2326    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3902   -0.6742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1618   -1.2873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0931   -2.0719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3194   -2.7864    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2327   -3.3995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9863   -3.0639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7008   -3.4764    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7008   -4.3014    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5258   -4.3014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8758   -4.3014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7008   -5.1264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4153   -3.0639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4153   -2.2389    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1297   -3.4764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8442   -3.0639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5587   -3.4764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2732   -3.0639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -3.4764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7021   -3.0639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7021   -2.2389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -1.8264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2732   -2.2389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5587   -1.8264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8442   -2.2389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7008   -2.8925    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 29  1  6  0  0  0
+ 12 14  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 28  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07680
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C(=O)NC1=CC=C2C=CC=CC2=C1)(C1=CSC2=C1C=C(Cl)C=C2)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H15ClNO4PS/c21-14-6-8-18-16(10-14)17(11-28-18)19(27(24,25)26)20(23)22-15-7-5-12-3-1-2-4-13(12)9-15/h1-11,19H,(H,22,23)(H2,24,25,26)/t19-/m0/s1
+
+> <INCHI_KEY>
+HUJXISJLAPAFBO-IBGZPJMESA-N
+
+> <FORMULA>
+C20H15ClNO4PS
+
+> <MOLECULAR_WEIGHT>
+431.829
+
+> <EXACT_MASS>
+431.014792882
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.1501796697681002
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.15177386984459
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(S)-(5-chloro-1-benzothiophen-3-yl)[(naphthalen-2-yl)carbamoyl]methyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+3.25
+
+> <JCHEM_LOGP>
+4.2114252316666665
+
+> <ALOGPS_LOGS>
+-4.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.053734294383746
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.52461483897986
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.187065291524021
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+110.86430000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.15e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07680
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[(1S)-1-(5-CHLORO-1-BENZOTHIEN-3-YL)-2-(2-NAPHTHYLAMINO)-2-OXOETHYL]PHOSPHONIC ACID
+
+$$$$

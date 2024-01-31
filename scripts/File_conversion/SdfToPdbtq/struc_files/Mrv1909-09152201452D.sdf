@@ -1,0 +1,153 @@
+
+  Mrv1909 09152201452D          
+
+ 17 15  0  0  0  0            999 V2000
+    5.3625    0.7145    0.0000 Cu  0  2  0  0  0  0  0  0  0  0  0  0
+    4.5375    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    2.8579    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    1.4289    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  CHG  3   1   2   5  -1  15  -1
+M  END
+> <DATABASE_ID>
+DB16963
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Cu++].CN\C([S-])=N\N=C(/C)\C(\C)=N\N=C(/[S-])NC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N6S2.Cu/c1-5(11-13-7(15)9-3)6(2)12-14-8(16)10-4;/h1-4H3,(H2,9,13,15)(H2,10,14,16);/q;+2/p-2/b11-5+,12-6+;
+
+> <INCHI_KEY>
+SBHDKYTVDCRMOE-JPAPVDFESA-L
+
+> <FORMULA>
+C8H14CuN6S2
+
+> <MOLECULAR_WEIGHT>
+321.91
+
+> <EXACT_MASS>
+321.001735
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.6728995342651337
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.216221381334783
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+copper(2+) [(Z)-N-methyl-N'-[(E)-[(3E)-3-{[(Z)-[(methylamino)(sulfanidyl)methylidene]amino]imino}butan-2-ylidene]amino]carbamimidoyl]sulfanide
+
+> <ALOGPS_LOGP>
+1.18
+
+> <JCHEM_LOGP>
+1.1158217893333329
+
+> <ALOGPS_LOGS>
+-2.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.195277807306057
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.51490443910503
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.103404969075336
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.5
+
+> <JCHEM_REFRACTIVITY>
+73.31540000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.99e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16963
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Copper(II) dithiosemicarbazone
+
+> <SYNONYMS>
+Atsm copper (ii); Copper, ((2,2'-(1,2-dimethyl-1,2-ethanediylidene)bis(n-methylhydrazinecarbothioamidato-.kappa.n2,.kappa.s))(2-))-, (sp-4-2)-; Copper(ii) diacetyl-di(n4-methyl)thiosemicarbazone; Cu-atsm; Cu(ii)atsm; Diacetyl(n(4)-methylthiosemicarbazonato) copper (ii)
+
+$$$$

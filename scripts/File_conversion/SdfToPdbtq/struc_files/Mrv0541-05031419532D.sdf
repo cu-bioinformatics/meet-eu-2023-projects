@@ -1,0 +1,168 @@
+
+  Mrv0541 05031419532D          
+
+ 23 25  0  0  1  0            999 V2000
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    5.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    4.3099    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992    4.0549    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0992    3.2299    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    2.9750    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5867    5.7076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    4.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    2.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3687    3.6424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1361    4.6585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0583    4.8648    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6359    3.6045    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3004    2.3916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  5  1  1  0  0  0  0
+  6  3  1  1  0  0  0
+  7  5  2  0  0  0  0
+  8  6  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 12  5  1  0  0  0  0
+ 13  2  1  0  0  0  0
+ 13 10  2  0  0  0  0
+ 14  4  2  0  0  0  0
+ 14  7  1  0  0  0  0
+ 15  4  1  0  0  0  0
+ 15 10  1  0  0  0  0
+ 11 15  1  1  0  0  0
+ 16  3  1  0  0  0  0
+  8 17  1  6  0  0  0
+  9 18  1  6  0  0  0
+ 19  6  1  0  0  0  0
+ 19 11  1  0  0  0  0
+  6 20  1  6  0  0  0
+  8 21  1  1  0  0  0
+  9 22  1  1  0  0  0
+ 11 23  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04218
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CO)O[C@@]([H])(N2C=NC3=C(N)C=CN=C23)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N4O4/c12-5-1-2-13-10-7(5)14-4-15(10)11-9(18)8(17)6(3-16)19-11/h1-2,4,6,8-9,11,16-18H,3H2,(H2,12,13)/t6-,8-,9-,11-/m1/s1
+
+> <INCHI_KEY>
+NVUDDRWKCUAERS-PNHWDRBUSA-N
+
+> <FORMULA>
+C11H14N4O4
+
+> <MOLECULAR_WEIGHT>
+266.2533
+
+> <EXACT_MASS>
+266.101504956
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.1297182803446652
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.74199311838297
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R)-2-{7-amino-3H-imidazo[4,5-b]pyridin-3-yl}-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.86
+
+> <JCHEM_LOGP>
+-1.979583468666667
+
+> <ALOGPS_LOGS>
+-1.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.891226600361858
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.454005363391126
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.177746748244442
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.65
+
+> <JCHEM_REFRACTIVITY>
+64.0609
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.29e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04218
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00071
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Deaza-Adenosine
+
+$$$$

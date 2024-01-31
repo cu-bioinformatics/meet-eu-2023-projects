@@ -1,0 +1,185 @@
+WAY
+  Mrv0541 02231215562D          
+
+ 30 32  0  0  0  0            999 V2000
+   -0.7795   -1.2126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0650   -1.6251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0650   -2.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7795   -2.8626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4939   -2.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4939   -1.6251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6495   -1.2126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6495   -0.3876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3639   -1.6251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0784   -1.2126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2084   -1.2126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7795   -0.3876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0650    0.0249    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4939    0.0249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2084    2.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4939    2.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7795    2.0874    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7795    1.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4939    0.8499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2084    1.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6495    0.4374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6495    1.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3639    1.6749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0784    1.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0784    0.4374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3639    0.0249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7929    1.6749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7929    2.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3475   -0.6896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4775    0.7394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 29  2  0  0  0  0
+ 13 30  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02071
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=C(C=C1)S(=O)(=O)N(CC1=CC=CN=C1)C1=C(C=CC=C1C)C(=O)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H21N3O5S/c1-15-5-3-7-19(21(25)23-26)20(15)24(14-16-6-4-12-22-13-16)30(27,28)18-10-8-17(29-2)9-11-18/h3-13,26H,14H2,1-2H3,(H,23,25)
+
+> <INCHI_KEY>
+AINJYWXKBKRQSX-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H21N3O5S
+
+> <MOLECULAR_WEIGHT>
+427.474
+
+> <EXACT_MASS>
+427.120191487
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00614042507831588
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.34395336569487
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-hydroxy-3-methyl-2-{N-[(pyridin-3-yl)methyl]4-methoxybenzenesulfonamido}benzamide
+
+> <ALOGPS_LOGP>
+2.43
+
+> <JCHEM_LOGP>
+2.3945965466666674
+
+> <ALOGPS_LOGS>
+-4.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.28960635236837
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.898008521236067
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.805522066344213
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+112.59
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02071
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03240
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+WAY-151693
+
+> <SYNONYMS>
+N-Hydroxy-2-{[(4-methoxyphenyl)sulfonyl](3-pyridinylmethyl)amino}-3-methylbenzamide
+
+$$$$

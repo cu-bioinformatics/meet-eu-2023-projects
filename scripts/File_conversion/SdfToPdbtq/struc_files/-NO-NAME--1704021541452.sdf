@@ -1,0 +1,190 @@
+[NO NAME]
+  Mrv0541 04211211512D          
+Created with ChemWriter - http://chemwriter.com
+ 29 32  0  0  1  0            999 V2000
+    7.5678   -0.2005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8533   -3.9131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7657   -3.1080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1389    0.6245    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3054   -3.1167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4244    1.0370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6755    0.7028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3394    1.8527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    1.3109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5376    2.0253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    1.3109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1251    2.7399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1389   -0.2005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    2.0253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    2.7399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8533   -0.6130    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0625    2.0253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8876    3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8533   -1.4380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5678   -1.8505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.3109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    4.1688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1389   -1.8505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5678   -2.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1389   -2.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3054   -1.4094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8533   -3.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0529   -1.8334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0529   -2.6927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 16  1  1  6  0  0  0
+  2 27  1  0  0  0  0
+  3 29  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 24  1  0  0  0  0
+  5 29  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 20 26  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 24 27  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05039
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC1=C(CC)C=C2CC(CC2=C1)NC[C@H](O)C1=C2C=CC(=O)NC2=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H28N2O3/c1-3-14-9-16-11-18(12-17(16)10-15(14)4-2)25-13-22(28)19-5-7-21(27)24-20(19)6-8-23(29)26-24/h5-10,18,22,25,27-28H,3-4,11-13H2,1-2H3,(H,26,29)/t22-/m0/s1
+
+> <INCHI_KEY>
+QZZUEBNBZAPZLX-QFIPXVFZSA-N
+
+> <FORMULA>
+C24H28N2O3
+
+> <MOLECULAR_WEIGHT>
+392.4907
+
+> <EXACT_MASS>
+392.209992772
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9681500945003636
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.96309258969747
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[(1R)-2-[(5,6-diethyl-2,3-dihydro-1H-inden-2-yl)amino]-1-hydroxyethyl]-8-hydroxy-1,2-dihydroquinolin-2-one
+
+> <ALOGPS_LOGP>
+3.31
+
+> <JCHEM_LOGP>
+3.2633259742508973
+
+> <ALOGPS_LOGS>
+-4.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.057652997721714
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.51088627371488
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.713040028275149
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.59
+
+> <JCHEM_REFRACTIVITY>
+118.10239999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.98e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05039
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Indacaterol
+
+> <SYNONYMS>
+Indacaterol
+
+> <PRODUCTS>
+Arcapta Neohaler; Atectura Breezhaler; Bemrist Breezhaler; Enerzair Breezhaler; Hirobriz Breezhaler; Onbrez Breezhaler; Oslif Breezhaler; Ultibro Breezhaler; Ulunar Breezhaler; Utibron Neohaler; Xoterna Breezhaler; Zimbus Breezhaler
+
+> <INTERNATIONAL_BRANDS>
+Arcapta ; Hirobriz; Onbrez; Onbrize
+
+> <SALTS>
+Indacaterol acetate; Indacaterol maleate
+
+$$$$

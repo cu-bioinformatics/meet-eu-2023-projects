@@ -1,0 +1,179 @@
+
+  Mrv1909 02092020412D          
+
+ 28 31  0  0  0  0            999 V2000
+   -0.3509   -1.7793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3166   -2.2643    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9841   -1.7793    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7293   -0.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0957   -0.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1355   -2.0343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5807   -0.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2141   -0.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7486   -1.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5333   -1.7372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7049   -2.5441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0917   -3.0962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3071   -2.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4013   -0.4134    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8862    0.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5506    1.0077    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7301    1.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2451    0.4265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8786    0.4263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3635    1.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1840    1.0076    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5196    0.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0347   -0.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4895   -2.7991    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.6690    1.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4895    1.5887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3335    2.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8184    3.0962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+ 13  6  1  0  0  0  0
+  7 18  2  0  0  0  0
+ 14  7  1  0  0  0  0
+ 19  8  1  0  0  0  0
+ 23  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 25 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07943
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OCC(=O)N1CCC(CC1)C1=NNC(=C1C1=CC=NC=N1)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H20ClN5O2/c21-15-3-1-13(2-4-15)19-18(16-5-8-22-12-23-16)20(25-24-19)14-6-9-26(10-7-14)17(28)11-27/h1-5,8,12,14,27H,6-7,9-11H2,(H,24,25)
+
+> <INCHI_KEY>
+CATQHDWESBRRQA-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H20ClN5O2
+
+> <MOLECULAR_WEIGHT>
+397.858
+
+> <EXACT_MASS>
+397.130552616
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0013900042174794854
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.37562773759163
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-{4-[5-(4-chlorophenyl)-4-(pyrimidin-4-yl)-1H-pyrazol-3-yl]piperidin-1-yl}-2-hydroxyethan-1-one
+
+> <ALOGPS_LOGP>
+2.28
+
+> <JCHEM_LOGP>
+1.5859085833333335
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.632907645804478
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.850470482023592
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.852958497113061
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.00000000000001
+
+> <JCHEM_REFRACTIVITY>
+107.28359999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.68e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mozenavir
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07943
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+SD-0006
+
+> <SYNONYMS>
+2-{4-[5-(4-chlorophenyl)-4-pyrimidin-4-yl-1H-pyrazol-3-yl]piperidin-1-yl}-2-oxoethanol; 5-p-chlorophenyl-3-[N-(2-hydroxyacetyl)piperidin-4-yl]-4-pyrimidin-4-yl-1H-pyrazole
+
+$$$$

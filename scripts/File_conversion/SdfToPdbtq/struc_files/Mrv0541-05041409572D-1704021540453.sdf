@@ -1,0 +1,177 @@
+
+  Mrv0541 05041409572D          
+
+ 28 29  0  0  1  0            999 V2000
+   -0.6110   -1.8216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6548    1.8053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7604   -0.4005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7743    2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2754   -1.0679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    2.2902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9897    1.8053    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9097    1.0206    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5450   -0.9817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3957    0.4394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8806   -0.2280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4248    0.3532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0300   -1.6491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7312    1.1931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5151    3.3770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4755    3.9067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9854    2.3375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1953    2.8132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0203    4.2422    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1067    3.9402    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9458    2.8672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7347    1.0206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    3.1152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7304    3.1221    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    3.5277    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5872    2.6647    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1187    2.6201    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0949    1.1497    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  5  3  2  0  0  0  0
+  6  2  1  0  0  0  0
+  7  4  1  6  0  0  0
+  7  6  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12  3  1  0  0  0  0
+  8 12  1  6  0  0  0
+ 12 10  1  0  0  0  0
+ 13  9  2  0  0  0  0
+ 14 10  2  0  0  0  0
+ 21  4  1  0  0  0  0
+ 22  7  1  0  0  0  0
+ 22  8  1  0  0  0  0
+  6 23  1  1  0  0  0
+ 24 15  1  0  0  0  0
+ 24 16  1  0  0  0  0
+ 24 17  2  0  0  0  0
+ 24 21  1  0  0  0  0
+ 25 18  1  0  0  0  0
+ 25 19  1  0  0  0  0
+ 25 20  2  0  0  0  0
+ 25 23  1  0  0  0  0
+  6 26  1  6  0  0  0
+  7 27  1  1  0  0  0
+  8 28  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB04205
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(C[C@@]([H])(O[C@]1([H])COP(O)(O)=O)N1C=C(C)C(=O)NC1=O)OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O11P2/c1-5-3-12(10(14)11-9(5)13)8-2-6(23-25(18,19)20)7(22-8)4-21-24(15,16)17/h3,6-8H,2,4H2,1H3,(H,11,13,14)(H2,15,16,17)(H2,18,19,20)/t6-,7+,8+/m0/s1
+
+> <INCHI_KEY>
+CSNCBOPUCJOHLS-XLPZGREQSA-N
+
+> <FORMULA>
+C10H16N2O11P2
+
+> <MOLECULAR_WEIGHT>
+402.1884
+
+> <EXACT_MASS>
+402.022932388
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.8809674204885107
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.71197904663606
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3-(phosphonooxy)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.96
+
+> <JCHEM_LOGP>
+-1.3661856519999993
+
+> <ALOGPS_LOGS>
+-1.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-4
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <JCHEM_PKA>
+1.4686033844228237
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.8530579559179152
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.196427218009115
+
+> <JCHEM_POLAR_SURFACE_AREA>
+192.15999999999997
+
+> <JCHEM_REFRACTIVITY>
+77.15779999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.73e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04205
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03055
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thymidine-3',5'-Diphosphate
+
+$$$$

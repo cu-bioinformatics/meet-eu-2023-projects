@@ -1,0 +1,167 @@
+709
+  Mrv0541 02241213162D          
+
+ 24 26  0  0  0  0            999 V2000
+    0.0923   -2.0319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221   -2.4444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3366   -2.0319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3366   -1.2069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221   -0.7944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0923   -1.2069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8068   -0.7944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5213   -1.2069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5213   -2.0319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8068   -2.4444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0511   -0.7944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7655   -1.2069    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0511    0.0306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8068    0.0306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0923    0.4431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0923    1.2681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221    0.0306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221    1.6806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221    2.5056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0923    2.9181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8068    2.5056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8068    1.6806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5213    1.2681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5213    2.9181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07212
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(O)C=CC=C1C(=O)NC1=C2C=C(C=CC2=CC=C1)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H17N3O2/c1-11-14(5-3-7-17(11)23)19(24)22-16-6-2-4-12-8-9-13(18(20)21)10-15(12)16/h2-10,23H,1H3,(H3,20,21)(H,22,24)
+
+> <INCHI_KEY>
+NNGZRCYXFBHMRM-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H17N3O2
+
+> <MOLECULAR_WEIGHT>
+319.3572
+
+> <EXACT_MASS>
+319.132076803
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9940708765650045
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.39830494316081
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(7-carbamimidoylnaphthalen-1-yl)-3-hydroxy-2-methylbenzamide
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+2.7688445277566562
+
+> <ALOGPS_LOGS>
+-4.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.795753661423646
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.228681621119694
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.244834613269285
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.2
+
+> <JCHEM_REFRACTIVITY>
+106.73629999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.27e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07212
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(7-CARBAMIMIDOYL-NAPHTHALEN-1-YL)-3-HYDROXY-2-METHYL-BENZAMIDE
+
+$$$$

@@ -1,0 +1,162 @@
+
+  Mrv1572004101615412D          
+
+ 17 18  0  0  0  0            999 V2000
+    2.1217    0.1602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4543   -0.3247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6696   -0.0697    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4981    0.7372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2865    0.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9539    0.5072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6213    0.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3664    1.7768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5414    1.7768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4060    0.7372    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -3.0191    1.2893    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.5775   -0.0697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7092   -1.1093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5342   -1.1093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7891   -0.3247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1217    0.9852    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0191   -1.7768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  2  0  0  0  0
+ 14 17  2  0  0  0  0
+M  CHG  2  10   1  11  -1
+M  END
+> <DATABASE_ID>
+DB00698
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[O-][N+](=O)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6N4O5/c13-6-4-11(8(14)10-6)9-3-5-1-2-7(17-5)12(15)16/h1-3H,4H2,(H,10,13,14)/b9-3+
+
+> <INCHI_KEY>
+NXFQHRVNIOXGAQ-YCRREMRBSA-N
+
+> <FORMULA>
+C8H6N4O5
+
+> <MOLECULAR_WEIGHT>
+238.159
+
+> <EXACT_MASS>
+238.033819309
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.492577064204383
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]imidazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+-0.2214499923333333
+
+> <ALOGPS_LOGS>
+-2.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.720212696603358
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.233088918437387
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.246445730643217
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.04999999999998
+
+> <JCHEM_REFRACTIVITY>
+52.1099
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nitrofurantoin sodium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00698
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00191
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Nitrofurantoin
+
+> <SYNONYMS>
+1-((5-nitro-2-furanyl)methylene)amino-2,4-imidazolidenedione; 1-((5-nitrofurfurylidene)amino)hydantoin; 5-Nitrofurantoin; N-(5-Nitrofurfurylidene)-1-aminohydantoin; Nitrofurantoin; Nitrofurantoin anhydrous; Nitrofurantoin macrocrystal; Nitrofurantoin macrocrystalline; Nitrofurantoin, macrocrystalline; Nitrofurantoin, macrocrystals; nitrofurantoina; nitrofurantoine; nitrofurantoinum; Nitrofurantoinum anhydrous
+
+> <PRODUCTS>
+Auro-nitrofurantoin Bid; Furadantin; Jamp Nitrofurantoin; Macrobid; Macrodantin; Macrodantin (100 Mg); Macrodantin (50 Mg); Macrodantin Cap 100mg; Macrodantin Cap 25mg; Macrodantin Cap 50mg; NITROFURANTOIN (monohydrate/macrocrystals); Nephronex Tab 50mg; Nitrofurantion; Nitrofurantion Macrocrystals; Nitrofurantoin; Nitrofurantoin (macrocrystals); Nitrofurantoin (monohydrate/macrocrystals); Nitrofurantoin 50 Tab 50mg; Nitrofurantoin Macrocrystals; Nitrofurantoin Mono; Nitrofurantoin Monohydrate Macrocrystalline; Nitrofurantoin Monohydrate/ Macrocrystalline; Nitrofurantoin Monohydrate/Macrocrystalline; Nitrofurantoin Monohydrate/Macrocrystals; Nitrofurantoin macrocrystals; Nitrofurantoin monohydrate macrocrystals; Nitrofurantoin monohydrate/macrocrystals (monohydrate/macrocrystals); Nitrofurantoine 100 Tab 100mg; Novo-furan 100mg; Novo-furan Sus 25mg/5ml; Novo-furan Tab 50mg; Nu-nitrofurantoin Tablets; PMS-nitrofurantoin Bid; Teva-nitrofurantoin
+
+> <INTERNATIONAL_BRANDS>
+Furabid; Niftran; Siraliden; Urantoin; Urolong
+
+> <SALTS>
+Nitrofurantoin monohydrate; Nitrofurantoin sodium
+
+$$$$

@@ -1,0 +1,172 @@
+
+  Mrv1909 12281917312D          
+
+ 30 31  0  0  0  0            999 V2000
+   -0.3572    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9295   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9295   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8026   -1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6276   -0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9295   -1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  9 14  2  0  0  0  0
+  6 10  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 29 30  3  0  0  0  0
+ 28 29  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 17 21  1  0  0  0  0
+  6 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12204
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(C)N\C(NC#N)=N\C1=CC(=CC=C1)C(=C/CCCC(O)=O)\C1=CC=CN=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H27N5O2/c1-23(2,3)28-22(26-16-24)27-19-10-6-8-17(14-19)20(11-4-5-12-21(29)30)18-9-7-13-25-15-18/h6-11,13-15H,4-5,12H2,1-3H3,(H,29,30)(H2,26,27,28)/b20-11+
+
+> <INCHI_KEY>
+XUTLOCQNGLJNSA-RGVLZGJSSA-N
+
+> <FORMULA>
+C23H27N5O2
+
+> <MOLECULAR_WEIGHT>
+405.502
+
+> <EXACT_MASS>
+405.216475129
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.5997638666593844
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.61260422773362
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(5E)-6-{3-[(Z)-[(tert-butylamino)(cyanoamino)methylidene]amino]phenyl}-6-(pyridin-3-yl)hex-5-enoic acid
+
+> <JCHEM_LOGP>
+2.664956713729232
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.330251667572956
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.521546144668651
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.817986378943659
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.4
+
+> <JCHEM_REFRACTIVITY>
+128.67010000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-{[(2S)-1-[(2S)-2-[(2S,3S)-2-[(2S)-2-[(2S)-2-[(2S)-5-carbamimidamido-2-[2-(methylamino)acetamido]pentanamido]-3-methylbutanamido]-3-(4-hydroxyphenyl)propanamido]-3-methylpentanamido]-3-(3H-imidazol-4-yl)propanoyl]pyrrolidin-2-yl]formamido}propanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12204
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Terbogrel
+
+> <SYNONYMS>
+Terbogrel; Terbogrelum
+
+$$$$

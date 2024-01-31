@@ -1,0 +1,178 @@
+
+  Mrv1718007091813462D          
+
+ 29 28  0  0  0  0            999 V2000
+   -0.7334    1.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4479    0.7579    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1154   -0.5519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8604   -1.3366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4479   -0.0670    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0354   -1.3366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7334    1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1624    1.1704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9000   -0.2970    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.3453   -2.0040    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.5505   -2.0040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7805   -0.5519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5016    1.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7872    0.7665    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1197   -0.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3747   -1.3279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7872   -0.0584    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1997   -1.3279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5016    2.0040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0727    1.1790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3351   -0.2884    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8898   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6846   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -0.5433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6846   -0.0421    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+   -0.7334    0.3454    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1830    0.3074    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5016    0.3540    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0521    0.3160    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  3  1  1  0  0  0
+  6  4  1  0  0  0  0
+  7  1  1  0  0  0  0
+  2  8  1  0  0  0  0
+  9  3  1  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 15  1  1  0  0  0
+ 18 16  1  0  0  0  0
+ 19 13  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 21 15  1  0  0  0  0
+ 22 16  1  0  0  0  0
+ 23 18  2  0  0  0  0
+ 17 24  1  0  0  0  0
+ 24 18  1  0  0  0  0
+  2 26  1  6  0  0  0
+  5 27  1  6  0  0  0
+ 14 28  1  6  0  0  0
+ 17 29  1  6  0  0  0
+M  CHG  3   9  -1  10  -1  25   2
+M  END
+> <DATABASE_ID>
+DB14490
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Fe++].[H][C@](O)(CO)[C@@]1([H])OC(=O)C(O)=C1O.[H][C@](O)(CO)[C@@]1([H])OC(=O)C([O-])=C1[O-]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C6H8O6.Fe/c2*7-1-2(8)5-3(9)4(10)6(11)12-5;/h2*2,5,7-10H,1H2;/q;;+2/p-2/t2*2-,5+;/m00./s1
+
+> <INCHI_KEY>
+RFBYLSCVRUTUSB-ZZMNMWMASA-L
+
+> <FORMULA>
+C12H14FeO12
+
+> <MOLECULAR_WEIGHT>
+406.077
+
+> <EXACT_MASS>
+405.983462
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.094260019130298
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+lambda2-iron(2+) (2R)-2-[(1S)-1,2-dihydroxyethyl]-5-oxo-2,5-dihydrofuran-3,4-bis(olate) (5R)-5-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2,5-dihydrofuran-2-one
+
+> <ALOGPS_LOGP>
+-0.08
+
+> <JCHEM_LOGP>
+-1.9135588756666668
+
+> <ALOGPS_LOGS>
+-0.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.194691755527726
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.359917400580226
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.979728932431362
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.88000000000001
+
+> <JCHEM_REFRACTIVITY>
+58.1327
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.25e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lambda2-iron(2+) (2R)-2-[(1S)-1,2-dihydroxyethyl]-5-oxo-2H-furan-3,4-bis(olate) vitamin C
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14490
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT000075
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ferrous ascorbate
+
+> <SYNONYMS>
+Ferrous cevitamate; Iron(2+) L-ascorbate; L-Ascorbic acid, iron complex
+
+> <PRODUCTS>
+Ascofer Cap 275mg; Iron Ascorbate Caps
+
+$$$$

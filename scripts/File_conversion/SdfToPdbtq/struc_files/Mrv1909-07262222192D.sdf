@@ -1,0 +1,170 @@
+
+  Mrv1909 07262222192D          
+
+ 25 28  0  0  0  0            999 V2000
+   -0.0338    1.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0338    0.6167    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6782    0.2083    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3903    0.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3903    1.4417    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6782    1.8585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7459    0.2000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7459   -0.6250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0338   -1.0334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6782   -0.6250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1710    0.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1710   -0.6250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4589   -1.0334    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4589    0.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3875   -0.2041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1001    1.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8961    1.2459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3834    2.2668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0416   -0.2083    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7501    1.0251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7501   -1.4500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4667   -1.8585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1793   -1.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1835   -2.2668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8961   -1.0292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  1  6  1  0  0  0  0
+ 16 17  2  0  0  0  0
+  2  3  1  0  0  0  0
+  5 18  1  0  0  0  0
+  7  2  1  0  0  0  0
+  2 19  1  1  0  0  0
+  8  9  1  0  0  0  0
+  7 20  1  6  0  0  0
+  9 10  1  0  0  0  0
+  8 21  1  1  0  0  0
+ 10  3  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 23  1  6  0  0  0
+  3  4  1  1  0  0  0
+ 23 24  2  0  0  0  0
+  5  4  1  1  0  0  0
+ 23 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16870
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@@]3(C)C[C@@]1(CC3=O)CC[C@]1([H])[C@@](C)(CCC[C@@]21C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H30O3/c1-17-9-5-14-18(2)7-4-8-19(3,16(22)23)13(18)6-10-20(14,12-17)11-15(17)21/h13-14H,4-12H2,1-3H3,(H,22,23)/t13-,14-,17-,18+,19+,20-/m0/s1
+
+> <INCHI_KEY>
+KFVUFODCZDRVSS-XGBBNYNSSA-N
+
+> <FORMULA>
+C20H30O3
+
+> <MOLECULAR_WEIGHT>
+318.457
+
+> <EXACT_MASS>
+318.219494826
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.2341497628667357e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.22110747440985
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,4S,5R,9S,10R,13S)-5,9,13-trimethyl-14-oxotetracyclo[11.2.1.0^{1,10}.0^{4,9}]hexadecane-5-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.72
+
+> <JCHEM_LOGP>
+4.501221237666668
+
+> <ALOGPS_LOGS>
+-4.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.650878015070426
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.48093399775336
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+88.20579999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.65e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,4S,5R,9S,10R,13S)-5,9,13-trimethyl-14-oxotetracyclo[11.2.1.0^{1,10}.0^{4,9}]hexadecane-5-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16870
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Isosteviol
+
+> <SYNONYMS>
+Iso-steviol; Ketoisostevic acid
+
+$$$$

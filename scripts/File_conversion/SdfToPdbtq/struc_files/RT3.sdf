@@ -1,0 +1,177 @@
+RT3
+  Mrv0541 02241214082D          
+
+ 29 31  0  0  0  0            999 V2000
+   -6.3202    1.4491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6057    1.0366    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0182    0.3221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1932    1.7511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8912    0.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1768    1.0366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4623    0.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7478    1.0366    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8912   -0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1768   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4623   -0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7478   -0.6134    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0334   -0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0334    0.6241    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3189   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6044   -0.2009    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1100   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1100   -1.4384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8245   -0.2009    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8245    0.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5390   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5390   -1.4384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2535   -0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2535    0.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5390    1.0366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9679   -0.6134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9679   -1.4384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6824   -1.8509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2535   -1.8509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  5  1  0  0  0  0
+  2  1  2  0  0  0  0
+  2  3  2  0  0  0  0
+  4  2  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9  5  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11  7  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 29  2  0  0  0  0
+ 23 26  1  0  0  0  0
+ 24 23  1  0  0  0  0
+ 25 24  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 29 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08494
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC2=C(C=C1)N(CCC2)C(=O)SCC(=O)NC1=C(Cl)C=C(C=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H20ClN3O4S2/c1-12-4-7-17-13(9-12)3-2-8-23(17)19(25)28-11-18(24)22-16-6-5-14(10-15(16)20)29(21,26)27/h4-7,9-10H,2-3,8,11H2,1H3,(H,22,24)(H2,21,26,27)
+
+> <INCHI_KEY>
+AWAKIULNKVOBKE-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H20ClN3O4S2
+
+> <MOLECULAR_WEIGHT>
+453.963
+
+> <EXACT_MASS>
+453.05837523
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.002523886488729502
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.449264768441125
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2-chloro-4-sulfamoylphenyl)-2-(6-methyl-1,2,3,4-tetrahydroquinoline-1-carbonylsulfanyl)acetamide
+
+> <ALOGPS_LOGP>
+2.93
+
+> <JCHEM_LOGP>
+3.257848214666666
+
+> <ALOGPS_LOGS>
+-4.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.14045956445275
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.59808702220493
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8674349761872152
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.56999999999998
+
+> <JCHEM_REFRACTIVITY>
+116.38019999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.93e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08494
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-{2-[(2-chloro-4-sulfamoylphenyl)amino]-2-oxoethyl} 6-methyl-3,4-dihydroquinoline-1(2H)-carbothioate
+
+$$$$

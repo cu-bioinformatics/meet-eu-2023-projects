@@ -1,0 +1,160 @@
+DBF
+  Mrv0541 02231217062D          
+
+ 19 21  0  0  0  0            999 V2000
+    1.8556   -0.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3035    0.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4966    0.1387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2416   -0.6459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7937   -1.2590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6006   -1.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1709    0.6236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6453    0.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8383    0.1387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834   -0.6459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1354   -1.2590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9424   -1.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1973   -0.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3654    1.2664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5585    1.0949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0064    1.7080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7072    1.2664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9002    1.0949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3482    1.7080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03682
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=CC=CC2=C1OC1=C2C=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H8O5/c15-13(16)9-5-1-3-7-8-4-2-6-10(14(17)18)12(8)19-11(7)9/h1-6H,(H,15,16)(H,17,18)
+
+> <INCHI_KEY>
+HBBGSNOHAGNQRQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H8O5
+
+> <MOLECULAR_WEIGHT>
+256.2103
+
+> <EXACT_MASS>
+256.037173366
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9970625310930201
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.7933701725374
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-oxatricyclo[7.4.0.0^{2,7}]trideca-1(9),2(7),3,5,10,12-hexaene-6,10-dicarboxylic acid
+
+> <ALOGPS_LOGP>
+2.38
+
+> <JCHEM_LOGP>
+2.466412913
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.595915749797386
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9869447673278184
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.0767872415191357
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+65.7392
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.27e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03682
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01120
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dibenzofuran-4,6-Dicarboxylic Acid
+
+$$$$

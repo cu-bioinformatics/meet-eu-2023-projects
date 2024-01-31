@@ -1,0 +1,160 @@
+H12
+  Mrv0541 02241213422D          
+
+ 22 24  0  0  0  0            999 V2000
+    0.3883    0.9139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3262    0.5014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0406    0.9139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0406    1.7389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3262    2.1514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3883    1.7389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1028   -1.9736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3883   -1.5611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3262   -1.9736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3883   -0.7361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1028   -0.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1028    0.5014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8173   -1.5611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8173   -0.7361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5317   -0.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2462   -0.7361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2462   -1.5611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5317   -1.9736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9607   -0.3236    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3262   -0.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0406   -0.7361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7551   -0.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07867
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCC1=C(OC2CCCCC2)C2=CC(Cl)=CC=C2NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H22ClNO2/c1-2-6-14-17(22-13-7-4-3-5-8-13)15-11-12(19)9-10-16(15)20-18(14)21/h9-11,13H,2-8H2,1H3,(H,20,21)
+
+> <INCHI_KEY>
+BNZHKKGOSYAQSW-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H22ClNO2
+
+> <MOLECULAR_WEIGHT>
+319.826
+
+> <EXACT_MASS>
+319.13390666
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.5681766509708928e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.91592105784361
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-chloro-4-(cyclohexyloxy)-3-propyl-1,2-dihydroquinolin-2-one
+
+> <ALOGPS_LOGP>
+5.18
+
+> <JCHEM_LOGP>
+4.644425859333333
+
+> <ALOGPS_LOGS>
+-4.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.802966116800842
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.227101226549614
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+91.3008
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.59e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB07867
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-CHLORO-4-(CYCLOHEXYLOXY)-3-PROPYLQUINOLIN-2(1H)-ONE
+
+$$$$

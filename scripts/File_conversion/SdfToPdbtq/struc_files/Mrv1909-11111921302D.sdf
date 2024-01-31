@@ -1,0 +1,147 @@
+
+  Mrv1909 11111921302D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.1333    1.6763    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0471   -0.7940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6673    0.4434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8007    0.5203    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0962   -2.8564    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2758    2.6015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9402    1.8478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7908    3.2689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0962    2.6877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3527    1.1334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0471    0.8558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3818   -0.7940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6673   -0.3815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3818   -1.6189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6673   -2.0314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0962   -2.0314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6673   -2.8564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3818   -3.2689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1103    0.6991    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 16  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08677
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N(C(=O)CC1=CN=CC=C1)C1=NC=C(S1)C(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15N3OS/c1-9(2)11-8-15-13(18-11)16-12(17)6-10-4-3-5-14-7-10/h3-5,7-9H,6H2,1-2H3,(H,15,16,17)
+
+> <INCHI_KEY>
+WQZOOPQQADNJEG-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H15N3OS
+
+> <MOLECULAR_WEIGHT>
+261.343
+
+> <EXACT_MASS>
+261.093582807
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.858825011789122
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[5-(propan-2-yl)-1,3-thiazol-2-yl]-2-(pyridin-3-yl)acetamide
+
+> <ALOGPS_LOGP>
+2.10
+
+> <JCHEM_LOGP>
+2.5481149320000007
+
+> <ALOGPS_LOGS>
+-3.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.011318398429697
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.869519353900215
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.88
+
+> <JCHEM_REFRACTIVITY>
+72.2196
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.76e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08677
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(5-Isopropyl-thiazol-2-YL)-2-pyridin-3-YL-acetamide
+
+$$$$

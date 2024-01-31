@@ -1,0 +1,171 @@
+
+  Mrv1718004241819382D          
+
+ 26 28  0  0  0  0            999 V2000
+    0.7366    0.4138    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7366   -0.4111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5617    0.4138    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5617   -0.4111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3463   -0.6660    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8312    0.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3463    0.6687    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5501   -0.4036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5501    0.4063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6014   -1.4507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4083   -1.6222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0491   -2.0638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0222    0.8263    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1533   -0.9945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5617    1.2388    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6922    0.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6922   -0.4111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4067    0.8263    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1212    0.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8356    0.8263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5501    0.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5501   -0.4111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8356   -0.8236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1212   -0.4111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4067    1.6513    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1212    2.0638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  1  0  0  0
+  1  2  1  0  0  0  0
+  2 14  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  5 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  3 15  1  6  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 24 19  2  0  0  0  0
+ 20 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 18 25  1  1  0  0  0
+ 25 26  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13836
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N=C)C1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19N3O4S/c1-17(2)12(16(23)24)20-14(22)11(15(20)25-17)19-13(21)10(18-3)9-7-5-4-6-8-9/h4-8,10-12,15H,3H2,1-2H3,(H,19,21)(H,23,24)/t10-,11-,12+,15-/m1/s1
+
+> <INCHI_KEY>
+FZECHKJQHUVANE-MCYUEQNJSA-N
+
+> <FORMULA>
+C17H19N3O4S
+
+> <MOLECULAR_WEIGHT>
+361.42
+
+> <EXACT_MASS>
+361.109627278
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.35800090048764
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-3,3-dimethyl-6-[(2R)-2-(methylideneamino)-2-phenylacetamido]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.74
+
+> <JCHEM_LOGP>
+-0.377170084032125
+
+> <ALOGPS_LOGS>
+-3.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.852923152727355
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.235814212076723
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.144011801592737
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.07000000000001
+
+> <JCHEM_REFRACTIVITY>
+90.86550000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+metampicillin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13836
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Metampicillin
+
+> <SYNONYMS>
+Metampicilina; Metampicillin; Metampicilline; Metampicillinum
+
+> <INTERNATIONAL_BRANDS>
+Micinovo; Pravacilin; Ruticina; Viderpen
+
+$$$$

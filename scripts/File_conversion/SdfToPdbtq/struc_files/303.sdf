@@ -1,0 +1,180 @@
+303
+  Mrv0541 02231216242D          
+
+ 30 33  0  0  0  0            999 V2000
+   -4.2527   -2.8942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2527   -2.0692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9671   -1.6567    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5382   -1.6567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5382   -0.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8237   -0.4192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8237    0.4058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1093    0.8183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3948    0.4058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3948   -0.4192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1093   -0.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1093   -1.6567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8237   -2.0692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6803    0.8183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6803    1.6433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0342    0.4058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7486    0.8183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    0.4058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1776    0.8183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1776    1.6433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631    2.0558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7486    1.6433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8920    2.0558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6065    1.6433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6065    0.8183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8920    0.4058    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8920   -0.4192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6065   -0.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1776   -0.8317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3863    0.1139    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  1  0  0  0
+ 26 30  1  6  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02705
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(NCCC2=C1C=C(NC(=O)C1=CC=C3C=C(C=CC3=C1)C(N)=N)C=C2)C(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H26N4O/c1-14(2)22-21-13-20(8-7-15(21)9-10-27-22)28-24(29)19-6-4-16-11-18(23(25)26)5-3-17(16)12-19/h3-8,11-14,22,27H,9-10H2,1-2H3,(H3,25,26)(H,28,29)/t22-/m0/s1
+
+> <INCHI_KEY>
+DARQQJKHXPXSRO-QFIPXVFZSA-N
+
+> <FORMULA>
+C24H26N4O
+
+> <MOLECULAR_WEIGHT>
+386.4894
+
+> <EXACT_MASS>
+386.210661474
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9900184431641175
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.91437042731295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-carbamimidoyl-N-[(1S)-1-(propan-2-yl)-1,2,3,4-tetrahydroisoquinolin-7-yl]naphthalene-2-carboxamide
+
+> <ALOGPS_LOGP>
+2.68
+
+> <JCHEM_LOGP>
+3.8773834346666662
+
+> <ALOGPS_LOGS>
+-5.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.505868528664546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.291144677388072
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.0
+
+> <JCHEM_REFRACTIVITY>
+129.68619999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02705
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00148
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-[N-(1-Isopropyl-1,2,3,4-Tetrahydro-7-Isoquinolinyl)Carbamyl]-2-Naphthalenecarboxamidine
+
+$$$$

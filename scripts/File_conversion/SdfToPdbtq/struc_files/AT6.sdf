@@ -1,0 +1,157 @@
+AT6
+  Mrv0541 02241213242D          
+
+ 21 22  0  0  0  0            999 V2000
+   -2.4810    0.2576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4810    1.0826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7665    1.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0520    1.0826    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0520    0.2576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7665   -0.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3376   -0.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3769    0.2576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0914   -0.1549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8059    0.2576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8059    1.0826    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5203   -0.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2348    0.2576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9493   -0.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9493   -0.9799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2348   -1.3924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5203   -0.9799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6637   -1.3924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3782   -1.8049    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7665    2.3201    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1954   -0.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 20  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07389
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(N)=NC(CCNC(=O)C2=CC=C(C=C2)C#N)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16N4O/c1-11-8-14(20-15(18)9-11)6-7-19-16(21)13-4-2-12(10-17)3-5-13/h2-5,8-9H,6-7H2,1H3,(H2,18,20)(H,19,21)
+
+> <INCHI_KEY>
+QINCZVSBLITNRD-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H16N4O
+
+> <MOLECULAR_WEIGHT>
+280.3244
+
+> <EXACT_MASS>
+280.132411154
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.5402301870098213
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.826369461427298
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[2-(6-amino-4-methylpyridin-2-yl)ethyl]-4-cyanobenzamide
+
+> <ALOGPS_LOGP>
+1.64
+
+> <JCHEM_LOGP>
+2.007896646666667
+
+> <ALOGPS_LOGS>
+-3.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.540197271731296
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.070038413356968
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.8
+
+> <JCHEM_REFRACTIVITY>
+82.4427
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.69e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07389
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[2-(6-AMINO-4-METHYLPYRIDIN-2-YL)ETHYL]-4-CYANOBENZAMIDE
+
+$$$$

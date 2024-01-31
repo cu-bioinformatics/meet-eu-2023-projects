@@ -1,0 +1,191 @@
+197
+  Mrv0541 02231214302D          
+
+ 31 34  0  0  1  0            999 V2000
+   11.4977    0.4914    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9739   -1.4254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9616   -0.2918    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    0.2531    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5379    1.3379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4273    1.6304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9595    1.7129    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7214   -1.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7214   -0.1421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9739    0.2817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -0.1594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364   -0.9844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5464   -1.0047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1312   -1.7176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219    0.2531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219   -1.3969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.9844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.1594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219    1.0781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219   -2.2219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929   -1.3969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7866   -0.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4366   -0.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1964   -1.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2019    0.4179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2616   -0.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6769    0.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0214   -1.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0269    0.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3442    1.1632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6723    1.2977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 27  1  0  0  0  0
+  1 31  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 30  2  0  0  0  0
+  6 31  2  0  0  0  0
+  7 30  1  0  0  0  0
+  7 31  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 23 28  2  0  0  0  0
+ 23 29  1  0  0  0  0
+ 24 28  1  0  0  0  0
+ 25 29  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00197
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C)C2=C(CCC(C)(COC3=CC=C(CC4SC(=O)NC4=O)C=C3)O2)C(C)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H27NO5S/c1-13-14(2)21-18(15(3)20(13)26)9-10-24(4,30-21)12-29-17-7-5-16(6-8-17)11-19-22(27)25-23(28)31-19/h5-8,19,26H,9-12H2,1-4H3,(H,25,27,28)
+
+> <INCHI_KEY>
+GXPHKUHSUJUWKP-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H27NO5S
+
+> <MOLECULAR_WEIGHT>
+441.54
+
+> <EXACT_MASS>
+441.160993669
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+58
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.7090127934573722
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.2705702917618
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-({4-[(6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydro-2H-1-benzopyran-2-yl)methoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+4.16
+
+> <JCHEM_LOGP>
+5.495204457666666
+
+> <ALOGPS_LOGS>
+-5.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.794290516888644
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.613557773657879
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.558161720453036
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.86
+
+> <JCHEM_REFRACTIVITY>
+120.9914
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.21e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00197
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00488
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Troglitazone
+
+> <SYNONYMS>
+Troglitazona; Troglitazone
+
+> <INTERNATIONAL_BRANDS>
+Noscal; Resulin; Rezulin; Romozin
+
+$$$$

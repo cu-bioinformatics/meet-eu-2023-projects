@@ -1,0 +1,164 @@
+
+  Mrv1718008251812052D          
+
+ 22 24  0  0  0  0            999 V2000
+   -1.4169    0.9518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1313    0.5393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1313   -0.2856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8483    0.9418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7024    0.3902    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.4481    1.1751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6323    0.3914    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.3769    1.1758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6312   -0.9434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4160   -0.6891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4167    0.1359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7013   -0.9446    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0678   -0.2767    0.0000 Fe  0  6  0  0  0  0  0  0  0  0  0  0
+   -1.4861   -0.6903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4867    0.1347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1530   -1.1758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0830   -1.1746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3468    0.9530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0613    0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0613   -0.2845    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.7782    0.9430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8483    0.0920    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  2  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+ 13  9  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 15  5  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 10 17  2  0  0  0  0
+  3 13  1  0  0  0  0
+  5  1  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 19 21  2  0  0  0  0
+  7 18  1  0  0  0  0
+M  CHG  5   5   1   7   1  13  -2  20  -1  22   1
+M  END
+> <DATABASE_ID>
+DB13381
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Na+].[O-]C(=O)C[N+]12CC[N+]34CC(=O)O[Fe--]13(OC(=O)C2)OC(=O)C4
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O8.Fe.Na/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;/q;+3;+1/p-4
+
+> <INCHI_KEY>
+MKWYFZFMAMBPQK-UHFFFAOYSA-J
+
+> <FORMULA>
+C10H12FeN2NaO8
+
+> <MOLECULAR_WEIGHT>
+367.047
+
+> <EXACT_MASS>
+366.984071
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.41262434442772
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+sodium 5-(carboxymethyl)-3,10,13-trioxo-2,11,12-trioxa-5,8lambda5-diaza-1-ferratetracyclo[6.3.3.0^{1,5}.0^{1,8}]tetradecan-5-ium-8-ylium-1,1-diuide
+
+> <ALOGPS_LOGP>
+1.45
+
+> <JCHEM_LOGP>
+-1.4751483829434915
+
+> <ALOGPS_LOGS>
+-3.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.1200290028160724
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.018607092039096
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.03
+
+> <JCHEM_REFRACTIVITY>
+71.6039
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.41e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sodium 5-(carboxymethyl)-3,10,13-trioxo-2,11,12-trioxa-5,8lambda5-diaza-1-ferratetracyclo[6.3.3.0^{1,5}.0^{1,8}]tetradecan-5-ium-8-ylium-1,1-diuide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13381
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sodium feredetate
+
+> <SYNONYMS>
+Feredato de sodio; Ferédétate de sodium; Ferric sodium EDTA; Ferric sodium ethylenediaminetetraacetate; Ferrostrane; Ferrostrene; Monosodium ferric EDTA; Natrii feredetas; Sodium feredetate; Sodium ferric EDTA; Sodium iron EDTA; Sodium ironedetate
+
+> <PRODUCTS>
+Bal-Care DHA; Bal-Care DHA Essential; Cavan-EC SOD DHA
+
+> <INTERNATIONAL_BRANDS>
+Calmosine; Sytron
+
+$$$$

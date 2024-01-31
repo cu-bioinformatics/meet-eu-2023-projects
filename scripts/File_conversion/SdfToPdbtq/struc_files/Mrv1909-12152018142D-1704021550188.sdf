@@ -1,0 +1,180 @@
+
+  Mrv1909 12152018142D          
+
+ 30 33  0  0  0  0            999 V2000
+    2.7512   -6.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512   -7.4866    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4186   -7.9715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1637   -8.7562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6486   -9.4236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3130  -10.1773    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7980  -10.8447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4624  -11.5984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6419  -11.6846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1570  -11.0172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4926  -10.2635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064  -12.4383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7913  -13.1057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4557  -13.8594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6353  -13.9456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503  -13.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4859  -12.5245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2997  -14.6993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4792  -14.7856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7846  -15.3668    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4491  -16.1204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9340  -16.7879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5984  -17.5415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7779  -17.6278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2930  -16.9603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6286  -16.2067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1437  -15.5392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3387   -8.7562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8538   -9.4236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0837   -7.9715    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+  4 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  2  0  0  0  0
+  2 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16182
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C=C(CN2CCC(CC2)C2=CC=C(C=C2)C(=O)NC2=CC=CC=C2N)C(C)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H29N5O/c1-17-21(15-28(2)27-17)16-29-13-11-19(12-14-29)18-7-9-20(10-8-18)24(30)26-23-6-4-3-5-22(23)25/h3-10,15,19H,11-14,16,25H2,1-2H3,(H,26,30)
+
+> <INCHI_KEY>
+JHDZMASHNBKTPS-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H29N5O
+
+> <MOLECULAR_WEIGHT>
+403.53
+
+> <EXACT_MASS>
+403.237210574
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+59
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9527962484632946
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.29114144064454
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(2-aminophenyl)-4-{1-[(1,3-dimethyl-1H-pyrazol-4-yl)methyl]piperidin-4-yl}benzamide
+
+> <ALOGPS_LOGP>
+3.56
+
+> <JCHEM_LOGP>
+3.0080208620000004
+
+> <ALOGPS_LOGS>
+-4.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.94435369683143
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.302997199201023
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.18
+
+> <JCHEM_REFRACTIVITY>
+135.1151
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16182
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+CXD101
+
+> <SYNONYMS>
+Hdac inhibitor cxd101; Hdac-in-4
+
+$$$$

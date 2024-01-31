@@ -1,0 +1,177 @@
+
+  Mrv0541 05041405112D          
+
+ 26 28  0  0  1  0            999 V2000
+    8.5737    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.1447    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  9  4  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  6  2  0  0  0  0
+ 12  5  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 13 10  2  0  0  0  0
+ 14  4  1  6  0  0  0
+ 15  2  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 10  1  0  0  0  0
+ 17 11  1  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19  3  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 20  8  2  0  0  0  0
+ 20 13  1  0  0  0  0
+ 21  7  1  0  0  0  0
+ 21  8  1  0  0  0  0
+ 21 16  1  0  0  0  0
+ 22  9  2  0  0  0  0
+ 15 23  1  1  0  0  0
+ 24 16  2  0  0  0  0
+ 14 25  1  1  0  0  0
+ 15 26  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04866
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)CCCN[C@]1([H])CC(=O)CN1C=NC2=C(C=C(Cl)C(Br)=C2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H17BrClN3O3/c17-11-6-13-10(5-12(11)18)16(24)21(8-20-13)7-9(22)4-14-15(23)2-1-3-19-14/h5-6,8,14-15,19,23H,1-4,7H2/t14-,15+/m1/s1
+
+> <INCHI_KEY>
+LVASCWIMLIKXLA-CABCVRRESA-N
+
+> <FORMULA>
+C16H17BrClN3O3
+
+> <MOLECULAR_WEIGHT>
+414.681
+
+> <EXACT_MASS>
+413.014181779
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9954099013367819
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.16596914761082
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-bromo-6-chloro-3-{3-[(2R,3S)-3-hydroxypiperidin-2-yl]-2-oxopropyl}-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+1.38
+
+> <JCHEM_LOGP>
+1.7095168736666668
+
+> <ALOGPS_LOGS>
+-3.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+18.277039605396272
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.585321731872638
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.284800969964735
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.0
+
+> <JCHEM_REFRACTIVITY>
+95.8668
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04866
+
+> <DRUG_GROUPS>
+investigational; vet_approved
+
+> <GENERIC_NAME>
+Halofuginone
+
+> <SYNONYMS>
+(+/-)-trans-7-bromo-6-chloro-3-(3-(3-hydroxy-2-piperidyl)-acetonyl)-4(3H)-quinazolinone; Halofuginone
+
+> <SALTS>
+Halofuginone hydrobromide; Halofuginone lactate
+
+$$$$

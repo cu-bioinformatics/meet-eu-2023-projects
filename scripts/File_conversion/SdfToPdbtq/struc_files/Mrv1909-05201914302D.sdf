@@ -1,0 +1,173 @@
+
+  Mrv1909 05201914302D          
+
+ 29 33  0  0  0  0            999 V2000
+    3.7121   -3.0679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1021   -2.3409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9267   -2.3152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3167   -1.5882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8821   -0.8869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0575   -0.9127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6675   -1.6397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8429   -1.6655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4083   -0.9642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7983   -0.2372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5995   -0.0406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6601    0.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8963    1.0941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3637    0.4640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5391    0.4383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491   -0.2887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3245   -0.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1101    0.3867    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9347    0.3610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3693    1.0622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1939    1.0365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6285    1.7377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2386    2.4647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4140    2.4905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9793    1.7892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2799    1.1137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1045    1.1395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5837   -0.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1937   -1.7170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 18 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 15 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+  9 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14844
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=CC=C1CN1C2=NCCN2C2=C(CN(CC3=CC=CC=C3)CC2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H26N4O/c1-18-7-5-6-10-20(18)16-28-23(29)21-17-26(15-19-8-3-2-4-9-19)13-11-22(21)27-14-12-25-24(27)28/h2-10H,11-17H2,1H3
+
+> <INCHI_KEY>
+VLULRUCCHYVXOH-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H26N4O
+
+> <MOLECULAR_WEIGHT>
+386.499
+
+> <EXACT_MASS>
+386.210661473
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.90826780594371
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+11-benzyl-7-[(2-methylphenyl)methyl]-2,5,7,11-tetraazatricyclo[7.4.0.0^{2,6}]trideca-1(9),5-dien-8-one
+
+> <ALOGPS_LOGP>
+2.45
+
+> <JCHEM_LOGP>
+3.0540334756666656
+
+> <ALOGPS_LOGS>
+-3.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.13430377460009
+
+> <JCHEM_POLAR_SURFACE_AREA>
+39.15
+
+> <JCHEM_REFRACTIVITY>
+117.2374
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.69e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14844
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dordaviprone
+
+> <SYNONYMS>
+2,4,6,7,8,9-Hexahydro-4-((2-methylphenyl)methyl)-7-phenylmethyl)imidazo)(1,2-a)pyrido(3,4-e)pyrimidin-5(1H)-one; 7-benzyl-4-(2-methylbenzyl)-1,2,6,7,8,9-hexahydroimidazo(1,2-A)pyrido(3,4-E)pyrimidin-5(4H)-one
+
+> <SALTS>
+Dordaviprone dihydrochloride
+
+$$$$

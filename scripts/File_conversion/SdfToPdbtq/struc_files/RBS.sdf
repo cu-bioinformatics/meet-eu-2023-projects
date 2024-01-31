@@ -1,0 +1,163 @@
+RBS
+  Mrv0541 02241214062D          
+
+ 22 24  0  0  0  0            999 V2000
+   -1.6561   -1.3577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6561   -0.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3706   -0.1202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0851   -0.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9416   -0.1202    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2272   -0.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4873   -0.1202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2272   -1.3577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4873   -1.7702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2018   -1.3577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2018   -0.5327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9162   -0.1202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6307   -0.5327    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6307   -1.3577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9162   -1.7702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9162    0.7048    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6307    1.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3452    0.7048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6307    1.9423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3452    2.3548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0597    1.9423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0597    1.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 22  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08462
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C=CC(=O)NC1=CC=C2N=CN=C(NC3=CC=CC=C3)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H14N4O/c1-2-16(22)20-13-8-9-15-14(10-13)17(19-11-18-15)21-12-6-4-3-5-7-12/h2-11H,1H2,(H,20,22)(H,18,19,21)
+
+> <INCHI_KEY>
+JGWHILNNHLDARR-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H14N4O
+
+> <MOLECULAR_WEIGHT>
+290.3193
+
+> <EXACT_MASS>
+290.11676109
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0015985128566835779
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.02354386235573
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[4-(phenylamino)quinazolin-6-yl]prop-2-enamide
+
+> <ALOGPS_LOGP>
+2.74
+
+> <JCHEM_LOGP>
+3.453449218
+
+> <ALOGPS_LOGS>
+-4.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.301006624572924
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.435818820542728
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.988651577953805
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.91
+
+> <JCHEM_REFRACTIVITY>
+87.11090000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08462
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(4-PHENYLAMINO-QUINAZOLIN-6-YL)-ACRYLAMIDE
+
+$$$$

@@ -1,0 +1,179 @@
+808
+  Mrv0541 02231215012D          
+
+ 24 26  0  0  1  0            999 V2000
+    5.9484    2.7900    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.0504    1.5619    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4742   -0.9608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8802    2.3692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2205    0.7546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -1.3010    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159   -0.5169    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8576    1.7320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -1.9650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -2.6289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.5525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1661   -1.9650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.7900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.5525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232   -0.3468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    0.4374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868    0.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2431    1.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6285    1.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6921    2.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8848    1.8356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00808
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1CC2=CC=CC=C2N1NC(=O)C1=CC(=C(Cl)C=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16ClN3O3S/c1-10-8-11-4-2-3-5-14(11)20(10)19-16(21)12-6-7-13(17)15(9-12)24(18,22)23/h2-7,9-10H,8H2,1H3,(H,19,21)(H2,18,22,23)
+
+> <INCHI_KEY>
+NDDAHWYSQHTHNT-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H16ClN3O3S
+
+> <MOLECULAR_WEIGHT>
+365.835
+
+> <EXACT_MASS>
+365.06008979
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.013860397781182652
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.33519124752692
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-chloro-N-(2-methyl-2,3-dihydro-1H-indol-1-yl)-3-sulfamoylbenzamide
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.6395443223333332
+
+> <ALOGPS_LOGS>
+-4.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.920148089013601
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.852541101945892
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.09714572471287657
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.5
+
+> <JCHEM_REFRACTIVITY>
+103.3134
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.42e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00808
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01031
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Indapamide
+
+> <SYNONYMS>
+Indapamid; Indapamida; Indapamide; Indapamidum; Metindamide
+
+> <PRODUCTS>
+Apo-indapamide 1.25 Mg Tablets; Apo-indapamide 2.5mg Tablets; Apo-perindopril-indapamide; Arcosyl Plus; Arcosyl Plus Ld; Coversyl Plus; Coversyl Plus Hd; Coversyl Plus Ld; Dom-indapamide Tablets 1.25mg; Dom-indapamide Tablets 2.5mg; Indapamide; Indapamide Hemihydrate 1.25mg - Tab; Indapamide Hemihydrate Tab 2.5mg; Indapamide-2.5; Jamp-indapamide; Lozide; Lozol; Mylan-indapamide; Mylan-perindopril/indapamide; Ntp-indapamide; Nu-indapamide; Nu-indapamide - Tab 2.5mg; PHL-indapamide; PMS-indapamide; Perindopril Erbumine/ Indapamide; Perindopril Erbumine/ Indapamide Hd; Perindopril Erbumine/indapamide; Perindopril Erbumine/indapamide Hd; Perindopril Erbumine/indapamide Ld; Perindopril/indapamide; Pro-indapamide; Riva-indapamide 1.25; Riva-indapamide 2.5 mg; Sandoz Perindopril Erbumine/ Indapamide; Sandoz Perindopril Erbumine/ Indapamide Hd; Sandoz Perindopril Erbumine/ Indapamide Ld; Teva-indapamide; Teva-perindopril/indapamide
+
+> <INTERNATIONAL_BRANDS>
+Arifon; Bajaten; Fludex; Indamol; Ipamix; Natrilix; Natrix; Noranat; Tandix; Tertensif; Veroxil
+
+$$$$

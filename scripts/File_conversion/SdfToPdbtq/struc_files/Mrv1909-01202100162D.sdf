@@ -1,0 +1,157 @@
+
+  Mrv1909 01202100162D          
+
+ 17 17  0  0  0  0            999 V2000
+    3.2556    0.5684    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9085    0.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6590   -0.6736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6026    0.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8519   -0.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2254   -1.1903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3568   -0.6829    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4653   -1.1365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3725   -0.6369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1643   -1.0903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0098   -0.6369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9707   -1.0903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9085   -0.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0098    0.2779    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2196    0.7340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4295    1.1903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8104    0.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  5  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 11  2  0  0  0  0
+ 16 15  3  0  0  0  0
+ 14 15  1  0  0  0  0
+ 17  4  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00501
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN\C(NCCSCC1=C(C)NC=N1)=N\C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N6S/c1-8-9(16-7-15-8)5-17-4-3-13-10(12-2)14-6-11/h7H,3-5H2,1-2H3,(H,15,16)(H2,12,13,14)
+
+> <INCHI_KEY>
+AQIXAKUUQRKLND-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H16N6S
+
+> <MOLECULAR_WEIGHT>
+252.339
+
+> <EXACT_MASS>
+252.115715232
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.4494133220571348
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.282208137159586
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(Z)-N''-cyano-N-methyl-N'-(2-{[(5-methyl-1H-imidazol-4-yl)methyl]sulfanyl}ethyl)guanidine
+
+> <JCHEM_LOGP>
+-0.10935610666666695
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.202035722718033
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.382499451317114
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.911820815082451
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.88999999999999
+
+> <JCHEM_REFRACTIVITY>
+70.31709999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-demethyldiltiazem
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00501
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00568
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Cimetidine
+
+> <SYNONYMS>
+1-Cyano-2-methyl-3-(2-(((5-methyl-4-imidazolyl)methyl)thio)ethyl)guanidine; 2-cyano-1-methyl-3-(2-(((5-methylimidazol-4-yl)methyl)thio)ethyl)guanidine; Cimetidin; Cimetidina; Cimétidine; Cimetidine; Cimetidinum; N-cyano-N'-methyl-N''-(2-([(5-methyl-1H-imidazol-4-yl)methyl]sulfanyl)ethyl)guanidine; N''-cyano-N-methyl-N'-(2-{[(5-methyl-1H-imidazol-4-yl)methyl]thio}ethyl)guanidine
+
+> <PRODUCTS>
+Acid Reducer; Apo-cimetidine Oral Solution; Basic Care Acid Reducer; Cimetidine; Cimetidine 10% / Lidocaine 5% / Salicylic Acid 40%; Cimetidine 200 Tab 200mg; Cimetidine 5% / Ibuprofen 2% / Salicylic Acid 17%; Cimetidine Acid Reducer; Cimetidine Hydrochloride; Cimetidine Hydrochloride Oral Solution; Cimetidine Tab 300mg; Cimetidine Tab 400mg; Cimetidine Tab 600mg; Cimetidine in Sodium Chloride; DG Health Heartburn Relief; Dom-cimetidine; Equaline Acid Reducer; Equate Cimetidine; Gaviscon All-night; Gaviscon Prevent; Gen-cimetidine Tablets 200mg; Good Neighbor Pharmacy Heartburn Relief; Good Sense Heartburn Relief; Harris Teeter Acid Reducer; Heartburn Prevention; Heartburn Relief; Leader Heartburn Relief; Mylan-cimetidine; Novo-cimetine; Novo-cimetine Injection; Nu-cimet Tab 200mg; Nu-cimet Tab 300mg; Nu-cimet Tab 400mg; Nu-cimet Tab 600mg; PMS-cimetidine; Peptol Tab 200mg; Peptol Tab 300mg; Peptol Tab 400mg; Peptol Tab 600mg; Peptol Tab 800mg; Smart Sense Acid Reducer; SunMark heartburn relief acid reducer; Tagamet; Tagamet 300; Tagamet 400; Tagamet 600; Tagamet HB; Tagamet Infusion 6mg/ml; Tagamet Inj 150mg/ml; Tagamet Liq 300mg/5ml; Tagamet Liquid 60mg/ml; Tagamet Prevent; TopCare Heartburn Relief; Up and Up Acid Reducer
+
+> <INTERNATIONAL_BRANDS>
+Cimetag; Tagamet HB 200; Tagamet HB200; Ulcedine; Ulcerfen; Ulcimet
+
+> <SALTS>
+Cimetidine hydrochloride
+
+$$$$

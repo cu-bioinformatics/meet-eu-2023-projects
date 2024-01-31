@@ -1,0 +1,165 @@
+
+  Mrv1652306231722452D          
+
+ 24 27  0  0  1  0            999 V2000
+   -0.1388   -3.8803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4191   -3.1044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1127   -2.4737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1676   -1.6977    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9249   -2.6189    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6955   -3.4114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3784   -3.8744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0297   -3.3680    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7494   -2.5921    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2812   -1.9614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0934   -2.1066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3737   -2.8825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1858   -3.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7176   -2.3970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5297   -2.5422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8100   -3.3182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6221   -3.4634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2782   -3.9489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4661   -3.8037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9343   -4.4344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1221   -4.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8418   -3.5132    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3895   -1.8497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9844   -1.7960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  3  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  6  0  0  0
+  8  9  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 21  1  1  0  0  0
+  8 22  1  0  0  0  0
+ 12 22  1  0  0  0  0
+  9 23  1  6  0  0  0
+  5 24  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB13602
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(=O)[C@@]1(C)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H30O2/c1-4-20(24)22(3)12-10-19-18-7-5-14-13-15(23)6-8-16(14)17(18)9-11-21(19,22)2/h13,18-19H,4-12H2,1-3H3/t18-,19+,21+,22-/m1/s1
+
+> <INCHI_KEY>
+QFFCYTLOTYIJMR-XMGTWHOFSA-N
+
+> <FORMULA>
+C22H30O2
+
+> <MOLECULAR_WEIGHT>
+326.48
+
+> <EXACT_MASS>
+326.224580206
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.698159119408615
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(10S,11S,14S,15S)-14,15-dimethyl-14-propanoyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-1,6-dien-5-one
+
+> <ALOGPS_LOGP>
+4.44
+
+> <JCHEM_LOGP>
+4.655870123666668
+
+> <ALOGPS_LOGS>
+-4.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.912954267566974
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.004693302989036
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.720660540845314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+97.94149999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.72e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(10S,11S,14S,15S)-14,15-dimethyl-14-propanoyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-1,6-dien-5-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13602
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Promegestone
+
+> <SYNONYMS>
+promegestona; Promegestone
+
+$$$$

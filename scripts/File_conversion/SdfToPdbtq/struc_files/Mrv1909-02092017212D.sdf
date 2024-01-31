@@ -1,0 +1,175 @@
+
+  Mrv1909 02092017212D          
+
+ 27 28  0  0  0  0            999 V2000
+   -0.7429    0.6059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0194    0.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6878    0.6301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6729    1.4571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0552    1.8566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7594    1.4286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0735    2.6815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6317    3.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0049   -0.6204    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0021   -1.4473    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8199   -0.6096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8300   -0.6293    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7201   -1.8536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4311   -1.4348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1452   -1.8449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8556   -1.4269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8487   -0.6011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1257   -0.1951    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4183   -0.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7087   -1.8661    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7014   -2.6909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4123   -3.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0165   -3.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4267   -1.4598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4338   -0.6348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1376   -1.8784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8556   -1.4721    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 17 18  1  0  0  0  0
+  2  9  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+ 10 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  9 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  9 12  2  0  0  0  0
+  6  1  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 20 21  1  6  0  0  0
+  1  2  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 21 23  1  0  0  0  0
+  5  7  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  3  4  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 24 25  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07556
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=C(C=C1)S(=O)(=O)N(CC1=CC=CN=C1)[C@H](C(C)C)C(=O)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H23N3O5S/c1-13(2)17(18(22)20-23)21(12-14-5-4-10-19-11-14)27(24,25)16-8-6-15(26-3)7-9-16/h4-11,13,17,23H,12H2,1-3H3,(H,20,22)/t17-/m1/s1
+
+> <INCHI_KEY>
+BSIZUMJRKYHEBR-QGZVFWFLSA-N
+
+> <FORMULA>
+C18H23N3O5S
+
+> <MOLECULAR_WEIGHT>
+393.457
+
+> <EXACT_MASS>
+393.135841551
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.01275214924360166
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.17193845320503
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-N-hydroxy-3-methyl-2-{N-[(pyridin-3-yl)methyl]4-methoxybenzenesulfonamido}butanamide
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.4998765726666674
+
+> <ALOGPS_LOGS>
+-3.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.754762951881336
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.709732730609344
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.8080986786943045
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.83
+
+> <JCHEM_REFRACTIVITY>
+100.0891
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-(2,6-dichlorophenyl)-2-{[3-(hydroxymethyl)phenyl]amino}-8-methylpyrido[2,3-d]pyrimidin-7-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07556
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+CGS-27023
+
+> <SALTS>
+CGS-27023 hydrochloride
+
+$$$$

@@ -1,0 +1,163 @@
+TDI
+  Mrv0541 02241214122D          
+
+ 22 24  0  0  0  0            999 V2000
+    3.1026   -0.8525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6736   -0.8525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6736   -1.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3881   -2.0900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2400    2.0807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6880    1.4676    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8810    1.6392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3290    1.0261    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5085    1.1123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1729    0.3586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6340    0.1871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8890   -0.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4041   -1.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8890   -1.9324    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3881   -2.9150    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1026   -1.6775    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3881   -0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7860   -0.1934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5005    0.2191    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2542   -0.1165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1197    1.5712    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9543    0.5866    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  2  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 17  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 21  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  6  0  0  0
+ 19 22  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB08606
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)CN(CC2=CNC3=C(N)N=CN=C23)C[C@]1([H])CSC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H19N5OS/c1-20-6-9-4-18(5-10(9)19)3-8-2-15-12-11(8)16-7-17-13(12)14/h2,7,9-10,15,19H,3-6H2,1H3,(H2,14,16,17)/t9-,10+/m1/s1
+
+> <INCHI_KEY>
+NTHMDFGHOCNNOE-ZJUUUORDSA-N
+
+> <FORMULA>
+C13H19N5OS
+
+> <MOLECULAR_WEIGHT>
+293.388
+
+> <EXACT_MASS>
+293.131030945
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9681580352149424
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.33782627991603
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R,4S)-1-({4-amino-5H-pyrrolo[3,2-d]pyrimidin-7-yl}methyl)-4-[(methylsulfanyl)methyl]pyrrolidin-3-ol
+
+> <ALOGPS_LOGP>
+-0.07
+
+> <JCHEM_LOGP>
+0.441478671000001
+
+> <ALOGPS_LOGS>
+-2.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.55358120970256
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.468161850566293
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.42486184286236
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.06
+
+> <JCHEM_REFRACTIVITY>
+82.51620000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.96e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08606
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R,4S)-1-[(4-AMINO-5H-PYRROLO[3,2-D]PYRIMIDIN-7-YL)METHYL]-4-[(METHYLSULFANYL)METHYL]PYRROLIDIN-3-OL
+
+$$$$

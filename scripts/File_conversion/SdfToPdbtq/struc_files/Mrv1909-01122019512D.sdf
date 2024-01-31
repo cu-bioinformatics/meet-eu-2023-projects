@@ -1,0 +1,163 @@
+
+  Mrv1909 01122019512D          
+
+ 21 22  0  0  0  0            999 V2000
+    1.4820   -2.5753    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0532   -0.5420    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6180   -1.9941    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9972   -1.9078    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1495    0.7678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7206    3.2427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1495   -2.0904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9670   -3.2427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8146   -3.0602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7206    0.7678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4351    2.0052    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1331   -1.3267    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3081   -1.3267    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7206   -0.0571    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3881   -0.5420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1767   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4351    1.1803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0061    1.1803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7206    2.4177    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0061    2.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8780    2.2610    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+ 12  3  1  1  0  0  0
+  4 16  1  0  0  0  0
+  5 17  2  0  0  0  0
+ 19  6  1  6  0  0  0
+ 14 10  1  6  0  0  0
+ 10 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04280
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N1[C@H](O)C=CN([C@H]2C[C@H](O)[C@@H](COP(O)(O)=O)O2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15N2O8P/c12-5-3-8(11-2-1-7(13)10-9(11)14)19-6(5)4-18-20(15,16)17/h1-2,5-8,12-13H,3-4H2,(H,10,14)(H2,15,16,17)/t5-,6+,7+,8+/m0/s1
+
+> <INCHI_KEY>
+ILSIYJVILUIVPM-LXGUWJNJSA-N
+
+> <FORMULA>
+C9H15N2O8P
+
+> <MOLECULAR_WEIGHT>
+310.1978
+
+> <EXACT_MASS>
+310.056601978
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9169959113642845
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.878549093947363
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-3-hydroxy-5-[(4R)-4-hydroxy-2-oxo-1,2,3,4-tetrahydropyrimidin-1-yl]oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.31
+
+> <JCHEM_LOGP>
+-1.9344694753333327
+
+> <ALOGPS_LOGS>
+-1.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.2585610650906505
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.232757507440431
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2403437194709253
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.79000000000002
+
+> <JCHEM_REFRACTIVITY>
+62.80350000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.82e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-(3-iodobenzyl)glutathione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04280
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01146
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,4-Dihydro-2'-deoxyuridine-5'-monophosphate
+
+$$$$

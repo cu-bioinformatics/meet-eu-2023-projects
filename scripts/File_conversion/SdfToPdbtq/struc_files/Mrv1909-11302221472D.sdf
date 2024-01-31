@@ -1,0 +1,183 @@
+
+  Mrv1909 11302221472D          
+
+ 30 33  0  0  1  0            999 V2000
+   -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12  5  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 16  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 23 24  1  1  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 24 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17264
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(=CC(OC)=C1O)[C@@H]1COC2=C(C=CC(O)=C2C)[C@@H]1C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H24O6/c1-13-19(26)9-8-17-22(14-4-6-16(25)7-5-14)18(12-30-24(13)17)15-10-20(28-2)23(27)21(11-15)29-3/h4-11,18,22,25-27H,12H2,1-3H3/t18-,22-/m0/s1
+
+> <INCHI_KEY>
+JFVVPUGGRUGRBJ-AVRDEDQJSA-N
+
+> <FORMULA>
+C24H24O6
+
+> <MOLECULAR_WEIGHT>
+408.45
+
+> <EXACT_MASS>
+408.157288493
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+5.570626200751848e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.22310428603889
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R,4S)-3-(4-hydroxy-3,5-dimethoxyphenyl)-4-(4-hydroxyphenyl)-8-methyl-3,4-dihydro-2H-1-benzopyran-7-ol
+
+> <ALOGPS_LOGP>
+3.99
+
+> <JCHEM_LOGP>
+4.5070144826666665
+
+> <ALOGPS_LOGS>
+-4.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.88114148463609
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.298139604988346
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.4104818222699205
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+113.5523
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.22e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R,4S)-3-(4-hydroxy-3,5-dimethoxyphenyl)-4-(4-hydroxyphenyl)-8-methyl-3,4-dihydro-2H-1-benzopyran-7-ol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17264
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+TRX-E-002-1
+
+> <SYNONYMS>
+(+)-cis-4-(para-hydroxyphenyl)-7,4-dihydroxy-3,5-dimethoxy-8-methylisoflavan; Cantrixil
+
+$$$$

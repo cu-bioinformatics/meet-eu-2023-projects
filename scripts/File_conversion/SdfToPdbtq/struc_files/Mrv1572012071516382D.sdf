@@ -1,0 +1,159 @@
+
+  Mrv1572012071516382D          
+
+ 19 20  0  0  0  0            999 V2000
+   -0.3479    0.4093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0643    0.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3479   -0.4093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3683    0.8187    0.0000 S   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7602    0.4093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0643    1.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3683   -0.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0643   -0.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0643    0.4093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3683    1.6374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4766    0.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7602    2.0467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3683   -1.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0643   -1.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7807    0.8187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4766    1.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3479   -2.0467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4766    0.4093    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7807    1.6374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  2  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  3  2  0  0  0  0
+  4  9  1  6  0  0  0
+ 10  4  2  0  0  0  0
+ 11  5  2  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13  7  2  0  0  0  0
+ 14  8  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 16 11  1  0  0  0  0
+ 16 12  2  0  0  0  0
+ 17 13  1  0  0  0  0
+ 17 14  2  0  0  0  0
+ 18 15  1  0  0  0  0
+ 19 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06413
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C[S@@](=O)C(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15NO2S/c16-14(17)11-19(18)15(12-7-3-1-4-8-12)13-9-5-2-6-10-13/h1-10,15H,11H2,(H2,16,17)/t19-/m1/s1
+
+> <INCHI_KEY>
+YFGHCGITMMYXAQ-LJQANCHMSA-N
+
+> <FORMULA>
+C15H15NO2S
+
+> <MOLECULAR_WEIGHT>
+273.35
+
+> <EXACT_MASS>
+273.082349901
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.204390269511084
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(R)-diphenylmethanesulfinyl]acetamide
+
+> <ALOGPS_LOGP>
+1.75
+
+> <JCHEM_LOGP>
+1.5328344403333334
+
+> <ALOGPS_LOGS>
+-2.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.252638598305513
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.839766037804056
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.362637432497153
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.160000000000004
+
+> <JCHEM_REFRACTIVITY>
+77.3886
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.22e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+modafinil
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06413
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Armodafinil
+
+> <SYNONYMS>
+(–)-2-[(R)-(diphenylmethyl)sulfinyl]acetamide; (−)-(R)-modafinil; (−)-modafinil; (R)-(−)-modafinil; (R)-modafinil; Armodafinil; Armodafinilo; Armodafinilum; R-modafinil
+
+> <PRODUCTS>
+Armodafinil; Nuvigil
+
+> <INTERNATIONAL_BRANDS>
+Neoresotyl
+
+$$$$

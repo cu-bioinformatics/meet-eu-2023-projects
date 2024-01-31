@@ -1,0 +1,146 @@
+DRG
+  Mrv0541 02231217242D          
+
+ 15 17  0  0  0  0            999 V2000
+   -1.6506    0.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8256    0.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4131    1.0193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4119    1.0193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8244    0.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6494    0.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0619   -0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6494   -1.1241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8244   -1.1241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4119   -0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4131   -0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8256   -1.1241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6506   -1.1241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0631   -0.4097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8881   -0.4097    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04069
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NN=C2C(CCC3=CC=CC=C23)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11N3/c13-11-7-9-6-5-8-3-1-2-4-10(8)12(9)15-14-11/h1-4,7H,5-6H2,(H2,13,14)
+
+> <INCHI_KEY>
+QKVREUJWFZJEJK-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11N3
+
+> <MOLECULAR_WEIGHT>
+197.2358
+
+> <EXACT_MASS>
+197.095297367
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.06969063463054143
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.465234294769406
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5H,6H-benzo[h]cinnolin-3-amine
+
+> <ALOGPS_LOGP>
+1.76
+
+> <JCHEM_LOGP>
+2.1375275769999997
+
+> <ALOGPS_LOGS>
+-2.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.875457219603279
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.8
+
+> <JCHEM_REFRACTIVITY>
+61.822700000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.80e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04069
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01270
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5,6-Dihydro-Benzo[H]Cinnolin-3-Ylamine
+
+$$$$

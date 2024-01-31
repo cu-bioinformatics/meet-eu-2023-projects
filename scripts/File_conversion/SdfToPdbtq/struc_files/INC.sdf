@@ -1,0 +1,143 @@
+INC
+  Mrv0541 02241213472D          
+
+ 15 14  0  0  0  0            999 V2000
+    0.8193   -2.4236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8193   -1.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5338   -1.1861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1049   -1.1861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6096   -1.5986    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1049   -0.3611    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6096    0.0514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6096    0.8764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3241    1.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1049    1.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8193    0.0514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5338   -0.3611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8193    0.8764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5338    1.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4008   -0.6531    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  4  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 15  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07989
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CC(C)C)(N(O)C(C)=O)C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17NO4/c1-6(2)5-8(9(12)14-4)10(13)7(3)11/h6,8,13H,5H2,1-4H3/t8-/m1/s1
+
+> <INCHI_KEY>
+OVUHENJPIUQHLJ-MRVPVSSYSA-N
+
+> <FORMULA>
+C9H17NO4
+
+> <MOLECULAR_WEIGHT>
+203.2356
+
+> <EXACT_MASS>
+203.115758037
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.1730268991534586
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.103378467898487
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl (2R)-2-(N-hydroxyacetamido)-4-methylpentanoate
+
+> <ALOGPS_LOGP>
+0.48
+
+> <JCHEM_LOGP>
+0.6369577733333339
+
+> <ALOGPS_LOGS>
+-1.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.6793777586001335
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.000840168388303
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.84
+
+> <JCHEM_REFRACTIVITY>
+50.1484
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.70e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07989
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(ACETYL-HYDROXY-AMINO)-4-METHYL-PENTANOIC ACID METHYL ESTER
+
+$$$$

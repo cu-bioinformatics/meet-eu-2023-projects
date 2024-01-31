@@ -1,0 +1,155 @@
+
+  Mrv1652306131722012D          
+
+ 19 19  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270    0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06468
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C1=CC=C(C=C1S(C)(=O)=O)C(=O)NC(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17N3O3S/c1-7(2)9-5-4-8(11(16)15-12(13)14)6-10(9)19(3,17)18/h4-7H,1-3H3,(H4,13,14,15,16)
+
+> <INCHI_KEY>
+IWXNYAIICFKCTM-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H17N3O3S
+
+> <MOLECULAR_WEIGHT>
+283.35
+
+> <EXACT_MASS>
+283.099062593
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.002816941865
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-carbamimidoyl-3-methanesulfonyl-4-(propan-2-yl)benzamide
+
+> <ALOGPS_LOGP>
+0.86
+
+> <JCHEM_LOGP>
+0.6340947553333336
+
+> <ALOGPS_LOGS>
+-3.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.691584649183618
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.271475540988469
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.618244459096775
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.11
+
+> <JCHEM_REFRACTIVITY>
+84.16750000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.50e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-carbamimidoyl-4-isopropyl-3-methanesulfonylbenzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06468
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Cariporide
+
+> <SYNONYMS>
+Cariporide
+
+> <SALTS>
+Cariporide Mesylate
+
+$$$$

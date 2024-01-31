@@ -1,0 +1,170 @@
+
+  Mrv0541 02231218072D          
+
+ 23 26  0  0  1  0            999 V2000
+    3.5543    1.4586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2688    1.8673    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4352   -0.2200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7241    2.2052    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0939   -0.2399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0892    0.6277    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2679    0.5528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2438    2.1445    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0195   -1.0793    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5345   -1.0850    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.2818   -2.3396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0063   -0.2200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2918    0.1925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2918    1.0175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7208    0.1925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0063    1.4300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7208    1.0175    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8068    0.1753    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8068    1.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5411   -0.2256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4188    2.1445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2787   -1.5146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2924    0.6875    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4 16  1  0  0  0  0
+ 18  5  1  6  0  0  0
+  6 19  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 22  2  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 23  1  1  0  0  0
+ 18 19  1  0  0  0  0
+M  CHG  2   6  -1  10   1
+M  END
+> <DATABASE_ID>
+DB05232
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12OC3([O-])OC(C4C(O)[NH+]=C(N)NC4(C1O)[C@@H]3O)C2(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16N3O8/c12-8-13-6(17)2-4-9(19,1-15)5-3(16)10(2,14-8)7(18)11(20,21-4)22-5/h2-7,15-19H,1H2,(H3,12,13,14)/q-1/p+1/t2?,3?,4?,5-,6?,7-,9?,10?,11?/m0/s1
+
+> <INCHI_KEY>
+SLBCPBUVHCASIJ-UFHSVNPDSA-O
+
+> <FORMULA>
+C11H17N3O8
+
+> <MOLECULAR_WEIGHT>
+319.268
+
+> <EXACT_MASS>
+319.101564535
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9970641376586117
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.83299137210144
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+8
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(11S,13S)-3-amino-5,12,13,14-tetrahydroxy-14-(hydroxymethyl)-8,10-dioxa-2,4-diazatetracyclo[7.3.1.1^{7,11}.0^{1,6}]tetradec-3-en-4-ium-9-olate
+
+> <ALOGPS_LOGP>
+0.42
+
+> <JCHEM_LOGP>
+-4.814640943592005
+
+> <ALOGPS_LOGS>
+-0.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+11.78996388816748
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.397875200188546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.617314014673424
+
+> <JCHEM_POLAR_SURFACE_AREA>
+194.69000000000003
+
+> <JCHEM_REFRACTIVITY>
+86.73569999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.17e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05232
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tetrodotoxin
+
+> <SYNONYMS>
+Tetrodotoxin
+
+$$$$

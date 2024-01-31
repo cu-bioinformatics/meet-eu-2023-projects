@@ -1,0 +1,150 @@
+
+  Mrv1909 02102020592D          
+
+ 16 17  0  0  0  0            999 V2000
+   -1.0716   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0717    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  6  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 12  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+ 13  2  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16  1  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07365
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](CC1=CC=CC2=C1C=CC=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13NO2/c14-12(13(15)16)8-10-6-3-5-9-4-1-2-7-11(9)10/h1-7,12H,8,14H2,(H,15,16)/t12-/m0/s1
+
+> <INCHI_KEY>
+OFYAYGJCPXRNBL-LBPRGKRZSA-N
+
+> <FORMULA>
+C13H13NO2
+
+> <MOLECULAR_WEIGHT>
+215.2478
+
+> <EXACT_MASS>
+215.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00378742791512765
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.600526196397645
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(naphthalen-1-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-0.44
+
+> <JCHEM_LOGP>
+-0.19462583498014405
+
+> <ALOGPS_LOGS>
+-2.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.6140145930892476
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.415307065976215
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+61.56650000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.21e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nadph
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07365
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Naphthyl-L-alanine
+
+> <SYNONYMS>
+(S)-2-Amino-3-(naphthalen-1-yl)propanoic acid; L-beta-(1-Naphthyl)alanine; Naphthalen-2-yl-3-alanine
+
+$$$$

@@ -1,0 +1,157 @@
+
+  Mrv1718010211716202D          
+
+ 19 21  0  0  0  0            999 V2000
+    0.0133   -1.0240    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2474   -1.8068    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6649   -0.5545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1084   -1.8068    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3172   -1.0216    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6042   -2.4590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0131   -0.1971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6807    0.2876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6541    0.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4259    1.0722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3991    1.0725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4877    0.1159    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0397    0.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9780    1.6852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7849    1.5136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7151    2.4759    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3156   -0.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0397    0.2243    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2346   -2.4759    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  4  6  1  6  0  0  0
+  5  4  1  0  0  0  0
+  1  7  1  1  0  0  0
+  8  7  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 11  9  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12  8  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15 13  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  5 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+  2 19  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03172
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC=NC2=C1C=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N4O4/c12-9-5-1-2-15(10(5)14-4-13-9)11-8(18)7(17)6(3-16)19-11/h1-2,4,6-8,11,16-18H,3H2,(H2,12,13,14)/t6-,7-,8-,11-/m1/s1
+
+> <INCHI_KEY>
+HDZZVAMISRMYHH-KCGFPETGSA-N
+
+> <FORMULA>
+C11H14N4O4
+
+> <MOLECULAR_WEIGHT>
+266.2533
+
+> <EXACT_MASS>
+266.101504956
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.646562811150424
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R)-2-{4-amino-7H-pyrrolo[2,3-d]pyrimidin-7-yl}-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.83
+
+> <JCHEM_LOGP>
+-1.2784600616666668
+
+> <ALOGPS_LOGS>
+-1.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.89182730482122
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.455670634153243
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.509414392261221
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.65
+
+> <JCHEM_REFRACTIVITY>
+65.3716
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.66e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tubercidin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03172
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03017
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tubercidin
+
+> <SYNONYMS>
+7-deazaadenosine; Sparsomycin A; Tubercidine
+
+$$$$

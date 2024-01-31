@@ -1,0 +1,169 @@
+
+  Mrv1909 08112015282D          
+
+ 23 22  0  0  0  0            999 V2000
+   -2.2858   -0.4517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7080    0.3848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7080   -0.4517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2858    0.3848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9970   -0.8700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9970    0.8030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5748   -0.8700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4149   -0.8700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9970    1.6396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8678   -0.4517    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.5748   -1.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2858   -0.3890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7080    0.4475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7080   -0.3890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2858    0.4475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9970   -0.8072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9970    0.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5748   -0.8072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4149   -0.8072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9970    1.7024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8678   -0.3890    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.5748   -1.6396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0732    0.6985    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  1  1  0  0  0  0
+  8  3  2  0  0  0  0
+  9  6  2  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  7  2  0  0  0  0
+  6  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 12  2  0  0  0  0
+ 16 12  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19 14  2  0  0  0  0
+ 20 17  2  0  0  0  0
+ 21 18  1  0  0  0  0
+ 22 18  2  0  0  0  0
+ 17 13  1  0  0  0  0
+  4  1  2  0  0  0  0
+M  CHG  3  10  -1  21  -1  23   2
+M  END
+> <DATABASE_ID>
+DB15720
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Zn++].[O-]C(=O)C1=CC(=O)NC(=O)N1.[O-]C(=O)C1=CC(=O)NC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C5H4N2O4.Zn/c2*8-3-1-2(4(9)10)6-5(11)7-3;/h2*1H,(H,9,10)(H2,6,7,8,11);/q;;+2/p-2
+
+> <INCHI_KEY>
+YNMDOZLVAPMCBD-UHFFFAOYSA-L
+
+> <FORMULA>
+C10H6N4O8Zn
+
+> <MOLECULAR_WEIGHT>
+375.56
+
+> <EXACT_MASS>
+373.947705
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0162239275427305
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.014741096540371
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+zinc(2+) bis(2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylate)
+
+> <ALOGPS_LOGP>
+0.14
+
+> <JCHEM_LOGP>
+-1.227664501
+
+> <ALOGPS_LOGS>
+-2.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.781577636043496
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.6352223431108714
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.031557163303447
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+44.111700000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.35e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15720
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Zinc orotate
+
+> <SYNONYMS>
+Orotate zinc; Zinc diorotate; Zinc orotate
+
+> <SALTS>
+Zinc orotate dihydrate
+
+$$$$

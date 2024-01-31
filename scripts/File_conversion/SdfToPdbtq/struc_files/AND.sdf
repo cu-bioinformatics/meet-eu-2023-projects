@@ -1,0 +1,179 @@
+AND
+  Mrv0541 02231215402D          
+
+ 25 28  0  0  0  0            999 V2000
+    1.4289   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2410   -0.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5213    0.3935    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3334    0.5387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9895    1.0242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1774    0.8790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6455    1.5097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1666    1.3645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4469    0.5885    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0849   -0.0422    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8971    0.1030    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1954   -0.8181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0075   -0.9633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5393   -0.3326    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2590    0.4433    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9103    0.9497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5932    0.4867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3639   -0.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8702   -0.9571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8992   -1.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6168   -0.6729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8977   -0.0529    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8233    1.0350    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2860   -0.5904    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1191    1.0102    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  3 22  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 23  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 24  1  6  0  0  0
+ 11 21  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 20  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 15 25  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01708
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@]([H])(O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h3,13-16,20H,4-11H2,1-2H3/t13-,14-,15-,16-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+FMGSKLZLMKYGDP-USOAJAOKSA-N
+
+> <FORMULA>
+C19H28O2
+
+> <MOLECULAR_WEIGHT>
+288.4244
+
+> <EXACT_MASS>
+288.20893014
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+4.000170158467559e-09
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.099316668638735
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aS,3bR,7S,9aR,9bS,11aS)-7-hydroxy-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,6H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-one
+
+> <ALOGPS_LOGP>
+3.53
+
+> <JCHEM_LOGP>
+3.361705055333334
+
+> <ALOGPS_LOGS>
+-3.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.204289505502594
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3972434077338853
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+84.65889999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.38e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01708
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00519; DB06593
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Prasterone
+
+> <SYNONYMS>
+3-beta-hydroxy-5-androsten-17-one; 3beta-hydroxyandrost-5-en-17-one; 3β-hydroxyandrost-5-en-17-one; Dehydroandrosterone; Dehydroepiandrosterone; Dehydroisoandrosterone; DHEA; Prasterone
+
+> <PRODUCTS>
+Intrarosa; Prastera
+
+> <INTERNATIONAL_BRANDS>
+Fidelin; OVIGYN-D
+
+$$$$

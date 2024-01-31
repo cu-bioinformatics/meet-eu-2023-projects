@@ -1,0 +1,175 @@
+
+  Mrv0541 02231217432D          
+
+ 25 29  0  0  1  0            999 V2000
+   -0.7653    1.2706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7054    0.4559    0.0000 N   0  3  1  0  0  0  0  0  0  0  0  0
+   -0.9441   -0.3631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1475   -0.8913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7104   -0.6716    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7146   -1.5024    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5371   -1.6834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9868   -0.9733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7763   -0.7358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3603   -1.3069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9967    0.0608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4179    0.6487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6125    0.4774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9255    0.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1378    0.6730    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3760   -0.0783    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1250    0.2474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3996   -0.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7334   -1.1794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1054   -1.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2862   -2.5383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4581   -0.3534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5177    0.5416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8497    1.2880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6620    1.3736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 14  1  6  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  5 16  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  6 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 13 22  2  0  0  0  0
+  5 22  1  6  0  0  0
+  8 22  1  0  0  0  0
+  2 23  1  1  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB04509
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[N@@+]1(CC=C)CC[C@]23[C@H]4OC5=C(O)C=CC(C[C@@H]1[C@]2(O)CCC4=O)=C35
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H23NO4/c1-3-9-21(2)10-8-19-16-12-4-5-13(22)17(16)25-18(19)14(23)6-7-20(19,24)15(21)11-12/h3-5,15,18,24H,1,6-11H2,2H3/p+1/t15-,18+,19+,20-,21-/m1/s1
+
+> <INCHI_KEY>
+PCSQOABIHJXZMR-YNUHATHGSA-O
+
+> <FORMULA>
+C20H24NO4
+
+> <MOLECULAR_WEIGHT>
+342.4089
+
+> <EXACT_MASS>
+342.170533261
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.99874816594753
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.17911905539947
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,4S,5R,13R,17S)-10,17-dihydroxy-4-methyl-14-oxo-4-(prop-2-en-1-yl)-12-oxa-4-azapentacyclo[9.6.1.0^{1,13}.0^{5,17}.0^{7,18}]octadeca-7(18),8,10-trien-4-ium
+
+> <ALOGPS_LOGP>
+0.81
+
+> <JCHEM_LOGP>
+-2.542115456471745
+
+> <ALOGPS_LOGS>
+-4.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.414503888175664
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.90325307920989
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.9386604609077653
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+104.63579999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04509
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02359
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Methylnaloxonium
+
+$$$$

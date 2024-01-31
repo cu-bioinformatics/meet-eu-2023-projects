@@ -1,0 +1,160 @@
+
+  Mrv0541 02231218512D          
+
+ 20 20  0  0  1  0            999 V2000
+   -2.2482    0.8275    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4245    0.8275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0682    0.8275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2482    1.6475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2482    0.0037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7141    0.4156    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0037    0.8275    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7141   -0.4156    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7180    0.4156    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0037    1.6475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0037   -0.8351    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4284   -0.8237    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7180   -0.4156    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4284    0.8275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0037   -1.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4321   -0.8237    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2482   -0.8237    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0719   -0.8237    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2482    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2482   -1.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  6  2  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  6  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  1  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  1  0  0  0
+ 11 15  1  1  0  0  0
+ 13 16  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03158
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@H]1[C@@H](O)[C@@H](OP(O)(O)=O)[C@H](O)[C@@H](O)[C@@H]1OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O12P2/c7-1-2(8)6(18-20(14,15)16)4(10)3(9)5(1)17-19(11,12)13/h1-10H,(H2,11,12,13)(H2,14,15,16)/t1-,2-,3-,4+,5+,6+/m1/s1
+
+> <INCHI_KEY>
+PELZSPZCXGTUMR-RTPHHQFDSA-N
+
+> <FORMULA>
+C6H14O12P2
+
+> <MOLECULAR_WEIGHT>
+340.1157
+
+> <EXACT_MASS>
+339.996048936
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.8898629830540843
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.09971267523206
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+8
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(1R,2R,3R,4R,5R,6S)-2,3,5,6-tetrahydroxy-4-(phosphonooxy)cyclohexyl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.33
+
+> <JCHEM_LOGP>
+-4.029141714666666
+
+> <ALOGPS_LOGS>
+-1.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-4
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <JCHEM_PKA>
+1.4635394895369545
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.861314509970286
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6678968454220926
+
+> <JCHEM_POLAR_SURFACE_AREA>
+214.43999999999997
+
+> <JCHEM_REFRACTIVITY>
+57.520799999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.44e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03158
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00125
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-Myo-Inositol-1,4-Bisphosphate
+
+$$$$

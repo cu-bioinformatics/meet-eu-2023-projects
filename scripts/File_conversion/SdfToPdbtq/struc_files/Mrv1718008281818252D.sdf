@@ -1,0 +1,170 @@
+
+  Mrv1718008281818252D          
+
+ 28 31  0  0  0  0            999 V2000
+   -2.5006   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9296   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9296   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7860    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7860    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5005    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9296    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0716   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 20 18  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  4  0  0  0
+M  END
+> <DATABASE_ID>
+DB13841
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]C(CCN1CCN(CCO)CC1)=C1C2=C(SC3=C1C=C(Cl)C=C3)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H25ClN2OS/c23-17-7-8-22-20(16-17)18(19-4-1-2-6-21(19)27-22)5-3-9-24-10-12-25(13-11-24)14-15-26/h1-2,4-8,16,26H,3,9-15H2
+
+> <INCHI_KEY>
+WFPIAZLQTJBIFN-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H25ClN2OS
+
+> <MOLECULAR_WEIGHT>
+400.97
+
+> <EXACT_MASS>
+400.1376123
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.29350965956634
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{4-[3-(2-chloro-9H-thioxanthen-9-ylidene)propyl]piperazin-1-yl}ethan-1-ol
+
+> <ALOGPS_LOGP>
+4.46
+
+> <JCHEM_LOGP>
+4.22298393
+
+> <ALOGPS_LOGS>
+-5.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.593097839126461
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.027568302243756
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.71
+
+> <JCHEM_REFRACTIVITY>
+127.00029999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.60e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+clopenthixol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13841
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Clopenthixol
+
+> <SYNONYMS>
+4-(3-(2-Chloro-9H-thioxanthen-9-ylidene)propyl)-1-piperazineethanol; 4-(3-(2-Chlorothioxanthen-9-ylidene)propyl)-1-piperazineethanol; Chlorpenthixol; Clopenthixol; Clopenthixolum; Clopentixol; Sordinol
+
+$$$$

@@ -1,0 +1,165 @@
+
+  Mrv0541 08311315242D          
+
+ 20 22  0  0  0  0            999 V2000
+    1.7798    3.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249    3.1993    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5644    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403    2.9445    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7403    2.1195    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5644    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249    1.8646    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2789    1.2374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728    3.4294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728    1.6346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5868    4.1556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0097    2.5320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -1.2374    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5252   -1.5729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  1  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  5  2  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  2  2  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  2  1  0  0  0  0
+ 12  9  2  0  0  0  0
+ 13  3  2  0  0  0  0
+ 13  5  1  0  0  0  0
+ 14  3  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 10 14  1  1  0  0  0
+  6 15  1  6  0  0  0
+  7 16  1  6  0  0  0
+ 17  1  1  0  0  0  0
+ 18  4  1  0  0  0  0
+ 18 10  1  0  0  0  0
+ 19  9  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02896
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CSC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14N4O4S/c1-20-10-6-9(12-3-13-10)15(4-14-6)11-8(18)7(17)5(2-16)19-11/h3-5,7-8,11,16-18H,2H2,1H3/t5-,7-,8-,11-/m1/s1
+
+> <INCHI_KEY>
+ZDRFDHHANOYUTE-IOSLPCCCSA-N
+
+> <FORMULA>
+C11H14N4O4S
+
+> <MOLECULAR_WEIGHT>
+298.318
+
+> <EXACT_MASS>
+298.073575646
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.00020168100628620037
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.84970283263117
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R)-2-(hydroxymethyl)-5-[6-(methylsulfanyl)-9H-purin-9-yl]oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.40
+
+> <JCHEM_LOGP>
+-0.6338207793333331
+
+> <ALOGPS_LOGS>
+-1.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.891226114733167
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.454003909042617
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.3127606225576716
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.2541
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.21e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02896
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02248
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methylthioinosine
+
+> <SYNONYMS>
+6-(Methylthio)purine ribonucleoside; 6-methyl MP riboside; 6-methyl MP-riboside; 6-methyl-9-ribofuranosylpurine-6-thiol; 6-methylmercaptopurine ribonucleoside; 6-methylmercaptopurine riboside; 6-Methylmercaptopurine-riboside; 6-methylthioinosine; 6-methylthiopurine riboside; 6-MMPR; 6-S-methyl-6-thioinosine; Me6MPR; methylmercaptopurine riboside; MMPR
+
+$$$$

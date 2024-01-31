@@ -1,0 +1,169 @@
+COQ
+  Mrv0541 02231217202D          
+
+ 25 27  0  0  0  0            999 V2000
+   -3.8189   -1.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1045   -0.0672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3900   -0.4797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6755   -0.0672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9611   -0.4797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9611   -1.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3900   -1.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4679   -0.4797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1824   -0.0672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1824    0.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8968    1.1703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6113    0.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6113   -0.0672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8968   -0.4797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6113    2.4078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3258   -1.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2466    0.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1045   -1.7172    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5334   -1.7172    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8189   -0.4797    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1045    0.7578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6755   -1.7172    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2466   -0.0672    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8968    1.9953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3258   -0.4797    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  2  0  0  0  0
+  1 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 20  2  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 23  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 22  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 24  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 17 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03987
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(OC)=CC(CN(C)C2=CN=C3N=C(N)N=C(N)C3=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H20N6O2/c1-23(9-10-4-12(24-2)7-13(5-10)25-3)11-6-14-15(18)21-17(19)22-16(14)20-8-11/h4-8H,9H2,1-3H3,(H4,18,19,20,21,22)
+
+> <INCHI_KEY>
+XWCCXDBXMCTZPW-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H20N6O2
+
+> <MOLECULAR_WEIGHT>
+340.3797
+
+> <EXACT_MASS>
+340.164773914
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0011491772198921346
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.156729867804444
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N6-[(3,5-dimethoxyphenyl)methyl]-N6-methylpyrido[2,3-d]pyrimidine-2,4,6-triamine
+
+> <ALOGPS_LOGP>
+2.16
+
+> <JCHEM_LOGP>
+1.6649607543333327
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.083320466296968
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.047277640166503
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.41
+
+> <JCHEM_REFRACTIVITY>
+99.84429999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03987
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00988
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Diamino-6-[N-(3',5'-Dimethoxybenzyl)-N-Methylamino]Pyrido[2,3-D]Pyrimidine
+
+$$$$

@@ -1,0 +1,145 @@
+
+  Mrv0541 02231216412D          
+
+ 12 12  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  CHG  2  10   1  11  -1
+M  END
+> <DATABASE_ID>
+DB03099
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=C(NC(=O)NC1=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N4O4/c5-1-2(8(11)12)6-4(10)7-3(1)9/h5H2,(H2,6,7,9,10)
+
+> <INCHI_KEY>
+CLOSWQFGCBFNCK-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4N4O4
+
+> <MOLECULAR_WEIGHT>
+172.099
+
+> <EXACT_MASS>
+172.023254636
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9661168746302125
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.055244904570923
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-amino-6-nitro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.12
+
+> <JCHEM_LOGP>
+-1.5862020943333333
+
+> <ALOGPS_LOGS>
+-1.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.372808194028881
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.609997635084959
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.938579112299392
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.36000000000001
+
+> <JCHEM_REFRACTIVITY>
+33.57990000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03099
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03191
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Amino 6-Nitro Uracil
+
+$$$$

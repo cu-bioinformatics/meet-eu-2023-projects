@@ -1,0 +1,168 @@
+BPI
+  Mrv0541 02241213272D          
+
+ 24 27  0  0  0  0            999 V2000
+    0.3336    0.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0480    1.1243    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0480    1.9493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7625    0.7118    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4770    1.1243    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7625   -0.1132    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4770   -0.5257    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0480   -1.3507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3336   -1.7632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0954   -1.7632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8099   -1.3507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5243   -0.1132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5243    0.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8099    1.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0954    0.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3336   -0.1132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0480   -0.5257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3809   -1.3507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3809   -0.5257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0954   -0.1132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8099   -0.5257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5423    1.4163    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7625    1.2957    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2682    0.1788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  2 22  1  6  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4 23  1  6  0  0  0
+  6  7  1  6  0  0  0
+  6 17  1  0  0  0  0
+  6 24  1  1  0  0  0
+  8  9  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07479
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)CC2=C(C=CC3=C2C2=C(C=CC=C2)C=C3)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H16O3/c19-15-9-14-13(17(20)18(15)21)8-7-11-6-5-10-3-1-2-4-12(10)16(11)14/h1-8,15,17-21H,9H2/t15-,17-,18-/m1/s1
+
+> <INCHI_KEY>
+WCUHTHVUZQCBTI-KBAYOESNSA-N
+
+> <FORMULA>
+C18H16O3
+
+> <MOLECULAR_WEIGHT>
+280.3178
+
+> <EXACT_MASS>
+280.109944378
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.422610067865705e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.356096642109385
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3R,4R)-1H,2H,3H,4H-benzo[c]phenanthrene-2,3,4-triol
+
+> <ALOGPS_LOGP>
+1.95
+
+> <JCHEM_LOGP>
+2.023835254333333
+
+> <ALOGPS_LOGS>
+-3.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.116566716070436
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.875923612072476
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2579693655301933
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.69
+
+> <JCHEM_REFRACTIVITY>
+80.67909999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.74e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07479
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S)-1,2,3,4-TETRAHYDRO-BENZO[C]PHENANTHRENE-2,3,4-TRIOL
+
+$$$$

@@ -1,0 +1,153 @@
+JCL
+  Mrv0541 02241213482D          
+
+ 18 18  0  0  0  0            999 V2000
+   -2.8479   -0.1684    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1334    1.0691    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4189    0.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7045    1.0691    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4189   -0.1684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7045   -0.5809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8479    0.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1334   -0.5809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5624    1.0691    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1334   -1.4059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0100   -0.1684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7245   -0.5809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4389   -0.1684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1534   -0.5809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8679   -0.1684    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5823    0.2441    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2804   -0.8829    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4554    0.5460    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08016
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OP(O)(=O)OCCCCC1=C(Cl)NC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12ClN2O6P/c9-6-5(7(12)11-8(13)10-6)3-1-2-4-17-18(14,15)16/h1-4H2,(H2,14,15,16)(H2,10,11,12,13)
+
+> <INCHI_KEY>
+DAUATIBSDSXXHA-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12ClN2O6P
+
+> <MOLECULAR_WEIGHT>
+298.617
+
+> <EXACT_MASS>
+298.012150345
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.7954263193551878
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.210296474029157
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[4-(6-chloro-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-5-yl)butoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-0.01696795133333312
+
+> <ALOGPS_LOGS>
+-2.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.817174379411285
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8077556803939352
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.970527534362095
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.96000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.7812
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.39e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08016
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(6-CHLORO-2,4-DIOXO-1,2,3,4-TETRAHYDROPYRIMIDIN-5-YL) BUTYL PHOSPHATE
+
+$$$$

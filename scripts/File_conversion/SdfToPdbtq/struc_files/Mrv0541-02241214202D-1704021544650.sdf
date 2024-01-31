@@ -1,0 +1,169 @@
+ 
+  Mrv0541 02241214202D          
+
+ 22 24  0  0  0  0            999 V2000
+   11.6738  -11.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6738  -11.8387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3750  -12.2512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3750  -10.6012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1175  -11.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1175  -11.8387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9013  -12.1275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3550  -11.4262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9013  -10.7662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1800  -11.4262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5925  -12.1687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4175  -12.1687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8300  -12.8700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8300  -11.4675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9013   -9.9412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6025   -9.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1588   -9.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3038   -9.9412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0050   -9.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0050   -8.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3038   -8.2912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6025   -8.7037    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+ 12 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  9 15  1  0  0  0  0
+  3  6  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 15 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9  5  1  0  0  0  0
+  5  4  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 16  1  0  0  0  0
+  8 10  1  0  0  0  0
+  4  1  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  1  2  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08801
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C1=C(CCN(C)C)CC2=CC=CC=C12)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H24N2/c1-15(19-10-6-7-12-21-19)20-17(11-13-22(2)3)14-16-8-4-5-9-18(16)20/h4-10,12,15H,11,13-14H2,1-3H3
+
+> <INCHI_KEY>
+MVMQESMQSYOVGV-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H24N2
+
+> <MOLECULAR_WEIGHT>
+292.418
+
+> <EXACT_MASS>
+292.193948778
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0003195644217693
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.99038147919448
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl(2-{3-[1-(pyridin-2-yl)ethyl]-1H-inden-2-yl}ethyl)amine
+
+> <ALOGPS_LOGP>
+4.03
+
+> <JCHEM_LOGP>
+3.738704610333334
+
+> <ALOGPS_LOGS>
+-3.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.193469149769694
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.704140921507342
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+93.5661
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.84e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08801
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Dimetindene
+
+> <SYNONYMS>
+Dimethindene; Dimetindene; Dimetindeno
+
+> <INTERNATIONAL_BRANDS>
+Fenistil; Foristal
+
+> <SALTS>
+Dimetindene maleate
+
+$$$$

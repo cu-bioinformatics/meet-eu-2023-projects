@@ -1,0 +1,176 @@
+RRR
+  Mrv0541 02241214072D          
+
+ 28 31  0  0  0  0            999 V2000
+    1.8884   -3.2890    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6731   -3.0340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6731   -2.2090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3875   -1.7965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1020   -2.2090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1020   -3.0340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3875   -3.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8884   -1.9541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4035   -2.6215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5785   -2.6215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1660   -1.9071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6590   -1.9071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0715   -2.6215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0715   -1.1926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6590   -0.4781    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1660   -0.4781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5785   -1.1926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0715    0.2364    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3570    0.6489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860   -0.1761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4840    0.9508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0715    1.6653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4840    2.3798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3045    2.4660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4760    3.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7615    3.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6753    4.5060    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1484    3.1334    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 28  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08488
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC=C(S1)\C=C\S(=O)(=O)N1CCN(CC2=CC3=C(N2)C=CN=C3)C(=O)C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H17ClN4O3S2/c19-17-2-1-15(27-17)4-8-28(25,26)23-7-6-22(18(24)12-23)11-14-9-13-10-20-5-3-16(13)21-14/h1-5,8-10,21H,6-7,11-12H2/b8-4+
+
+> <INCHI_KEY>
+PLWVUIRWJVKSSD-XBXARRHUSA-N
+
+> <FORMULA>
+C18H17ClN4O3S2
+
+> <MOLECULAR_WEIGHT>
+436.936
+
+> <EXACT_MASS>
+436.043059517
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9551685142804223
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.410894738897845
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(1E)-2-(5-chlorothiophen-2-yl)ethenesulfonyl]-1-({1H-pyrrolo[3,2-c]pyridin-2-yl}methyl)piperazin-2-one
+
+> <ALOGPS_LOGP>
+2.03
+
+> <JCHEM_LOGP>
+1.402943165666667
+
+> <ALOGPS_LOGS>
+-4.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.021566882572117
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.899626764596713
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.328498144393603
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.37
+
+> <JCHEM_REFRACTIVITY>
+107.79129999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.67e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08488
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-{[(E)-2-(5-CHLOROTHIEN-2-YL)VINYL]SULFONYL}-1-(1H-PYRROLO[3,2-C]PYRIDIN-2-YLMETHYL)PIPERAZIN-2-ONE
+
+$$$$

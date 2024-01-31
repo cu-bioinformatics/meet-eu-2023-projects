@@ -1,0 +1,182 @@
+198
+  Mrv0541 02231216342D          
+
+ 29 30  0  0  0  0            999 V2000
+   -2.9292   -0.5728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6437   -0.1603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6437    0.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3581    1.0772    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9292    1.0772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2147    0.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2147   -0.1603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5002   -0.5728    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9127   -1.2873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0877    0.1417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7858   -0.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0713   -0.5728    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3412   -1.2873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4838    0.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6432   -0.1603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6432    0.6647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3576   -0.5728    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0721   -0.1603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0721    0.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7866   -0.5728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5011   -0.1603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5011    0.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2155    1.0772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9300    1.4897    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7866    1.0772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7866    1.9022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7866    2.7272    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6116    1.9022    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9616    1.9022    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  6  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 25  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 23 24  3  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 26 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02932
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@](O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H14F4N2O4S/c1-17(26,10-29(27,28)14-6-3-12(19)4-7-14)16(25)24-13-5-2-11(9-23)15(8-13)18(20,21)22/h2-8,26H,10H2,1H3,(H,24,25)/t17-/m0/s1
+
+> <INCHI_KEY>
+LKJPYSCBVHEWIU-KRWDZBQOSA-N
+
+> <FORMULA>
+C18H14F4N2O4S
+
+> <MOLECULAR_WEIGHT>
+430.373
+
+> <EXACT_MASS>
+430.061040456
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.7246763614676202e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.05044911372302
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-N-[4-cyano-3-(trifluoromethyl)phenyl]-3-(4-fluorobenzenesulfonyl)-2-hydroxy-2-methylpropanamide
+
+> <ALOGPS_LOGP>
+2.70
+
+> <JCHEM_LOGP>
+2.70929555
+
+> <ALOGPS_LOGS>
+-4.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.222331894153328
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.779099611050766
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.044979783200156
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+96.58950000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.28e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02932
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00064
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R)-Bicalutamide
+
+> <SYNONYMS>
+(-)-Bicalutamide
+
+$$$$

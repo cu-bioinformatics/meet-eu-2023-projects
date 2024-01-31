@@ -1,0 +1,148 @@
+
+  Mrv0541 05031423432D          
+
+ 14 14  0  0  1  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  2  0  0  0  0
+  4  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  5  8  1  6  0  0  0
+  9  3  1  0  0  0  0
+  6 10  1  1  0  0  0
+  7 11  1  6  0  0  0
+  5 12  1  1  0  0  0
+  6 13  1  6  0  0  0
+  7 14  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB01789
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(N)C=C(CO)C[C@]([H])(O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13NO3/c8-5-1-4(3-9)2-6(10)7(5)11/h1,5-7,9-11H,2-3,8H2/t5-,6-,7-/m0/s1
+
+> <INCHI_KEY>
+BMZJPVSGERKRHP-ACZMJKKPSA-N
+
+> <FORMULA>
+C7H13NO3
+
+> <MOLECULAR_WEIGHT>
+159.183
+
+> <EXACT_MASS>
+159.089543287
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9760612616166475
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.37278550853049
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,2S,3S)-3-amino-5-(hydroxymethyl)cyclohex-4-ene-1,2-diol
+
+> <ALOGPS_LOGP>
+-1.93
+
+> <JCHEM_LOGP>
+-2.2194196293333333
+
+> <ALOGPS_LOGS>
+0.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.791803356923776
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.433428640082356
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.6103808098836
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.71000000000001
+
+> <JCHEM_REFRACTIVITY>
+40.67529999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.93e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01789
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00430
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Amino-2,3-Dihydroxy-5-Hydroxymethyl Cyclohex-5-Ene
+
+$$$$

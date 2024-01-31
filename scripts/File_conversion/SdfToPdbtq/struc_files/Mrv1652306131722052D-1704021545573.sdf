@@ -1,0 +1,167 @@
+
+  Mrv1652306131722052D          
+
+ 23 26  0  0  1  0            999 V2000
+    1.5712    1.6212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8255    1.2684    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0572    0.3415    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8615    0.5251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2195    1.2684    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8615    2.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0572    2.1953    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4122    1.6809    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4122    0.8559    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3023    1.2684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0445    1.2684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570    0.5539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0445   -0.1606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2820    0.5539    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6945    1.2684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5195    1.2684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6945   -0.1606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5195   -0.1606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9320   -0.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5195   -1.5895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6945   -1.5895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2820   -0.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5712    0.9155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  3  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+  8 10  1  1  0  0  0
+  5 11  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 12  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 17 22  1  0  0  0  0
+  2 23  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB11315
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[N+]1(C)[C@H]2C[C@@H](C[C@@H]1[C@H]1O[C@@H]21)OC(=O)[C@H](CO)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H24NO4/c1-19(2)14-8-12(9-15(19)17-16(14)23-17)22-18(21)13(10-20)11-6-4-3-5-7-11/h3-7,12-17,20H,8-10H2,1-2H3/q+1/t12-,13-,14-,15+,16-,17+/m1/s1
+
+> <INCHI_KEY>
+LZCOQTDXKCNBEE-IKIFYQGPSA-N
+
+> <FORMULA>
+C18H24NO4
+
+> <MOLECULAR_WEIGHT>
+318.392
+
+> <EXACT_MASS>
+318.169984677
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.339004878428035
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,2R,4S,5S,7S)-7-{[(2S)-3-hydroxy-2-phenylpropanoyl]oxy}-9,9-dimethyl-3-oxa-9-azatricyclo[3.3.1.0^{2,4}]nonan-9-ium
+
+> <ALOGPS_LOGP>
+-1.49
+
+> <JCHEM_LOGP>
+-3.267384321471745
+
+> <ALOGPS_LOGS>
+-4.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.145739794476054
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.735053413896173
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.06
+
+> <JCHEM_REFRACTIVITY>
+95.63490000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.45e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,2R,4S,5S,7S)-7-{[(2S)-3-hydroxy-2-phenylpropanoyl]oxy}-9,9-dimethyl-3-oxa-9-azatricyclo[3.3.1.0^{2,4}]nonan-9-ium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11315
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methscopolamine
+
+> <SYNONYMS>
+Methylscopolamine
+
+> <PRODUCTS>
+AlleRx Dose Pack; AlleRx Dose Pack DF; AlleRx Dose Pack PE; AlleRx-D; Allergy DN II; Allergy DN PE; Dallergy; Dallergy PE; Dallergy PE SYRUP; Dallergy PSE; Dehistine; DriHist SR; DryMax; Duradryl; Re Drylex; Rescon; RespiVent Dosepack DF; Ryneze Liquid; Vaso Dose Pack; VisRx Dose Pack
+
+> <SALTS>
+Methscopolamine nitrate
+
+$$$$

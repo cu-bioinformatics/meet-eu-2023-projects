@@ -1,0 +1,176 @@
+
+  Mrv1902 03141920582D          
+
+ 29 30  0  0  0  0            999 V2000
+   -4.0207    2.7229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8492    1.9159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0646    1.6610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8930    0.8540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5061    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3346   -0.5049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5500   -0.7599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3785   -1.5668    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6248   -1.9024    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7110   -2.7229    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5180   -2.8944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9305   -2.1799    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.7510   -2.0937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0979   -3.2749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9103   -1.4899    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1959   -1.9024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5185   -1.4899    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2330   -1.9024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9475   -1.4899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -1.9024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3764   -1.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0909   -1.9024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0909   -2.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3764   -3.1399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -2.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8053   -1.4899    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5185   -0.6649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8053    2.9778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4076    3.2749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 10 14  1  1  0  0  0
+  9 15  1  6  0  0  0
+ 15 16  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 17 27  1  6  0  0  0
+  1 28  2  0  0  0  0
+  1 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11425
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@H](COC1=CC(Cl)=CC=C1)CS[C@@H]1[C@@H](O)C[C@@H](O)[C@H]1C\C=C/CCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H29ClO6S/c22-14-6-5-7-16(10-14)28-12-15(23)13-29-21-17(18(24)11-19(21)25)8-3-1-2-4-9-20(26)27/h1,3,5-7,10,15,17-19,21,23-25H,2,4,8-9,11-13H2,(H,26,27)/b3-1-/t15-,17-,18-,19+,21+/m1/s1
+
+> <INCHI_KEY>
+KFUDFIMHDRJVLV-OZCLATTGSA-N
+
+> <FORMULA>
+C21H29ClO6S
+
+> <MOLECULAR_WEIGHT>
+444.97
+
+> <EXACT_MASS>
+444.1373375
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+58
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.634873094446334
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(5Z)-7-[(1R,2S,3S,5R)-2-{[(2R)-3-(3-chlorophenoxy)-2-hydroxypropyl]sulfanyl}-3,5-dihydroxycyclopentyl]hept-5-enoic acid
+
+> <ALOGPS_LOGP>
+3.15
+
+> <JCHEM_LOGP>
+2.5082076083333336
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.906328551071102
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.306106520062953
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.879757823235538
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+114.7512
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.29e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1R,2R,6R,10S,11R,15R,17R)-13-benzyl-6-hydroxy-4,17-dimethyl-5-oxo-15-(prop-1-en-2-yl)-12,14,18-trioxapentacyclo[11.4.1.0^{1,10}.0^{2,6}.0^{11,15}]octadeca-3,8-dien-8-yl]methyl 2-(4-hydroxy-3-methoxyphenyl)acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11425
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Luprostiol
+
+> <SYNONYMS>
+Luprostiol; Luprostiolum
+
+> <INTERNATIONAL_BRANDS>
+Equestrolin; Prosolvin; Reprodin
+
+$$$$

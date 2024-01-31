@@ -1,0 +1,153 @@
+
+  Mrv1909 03162219142D          
+
+ 17 16  0  0  1  0            999 V2000
+   -0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5006    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  3  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 13  1  1  0  0  0  0
+  7 13  1  0  0  0  0
+  4 14  1  1  0  0  0
+  5 15  1  6  0  0  0
+  6 16  1  6  0  0  0
+  7 17  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB16765
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(OC)[C@@]([H])(O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O6/c1-13-7(5(11)3-9)6(12)4(10)2-8/h3-8,10-12H,2H2,1H3/t4-,5+,6-,7-/m1/s1
+
+> <INCHI_KEY>
+RMTFNDVZYPHUEF-XZBKPIIZSA-N
+
+> <FORMULA>
+C7H14O6
+
+> <MOLECULAR_WEIGHT>
+194.183
+
+> <EXACT_MASS>
+194.079038171
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.001467006240192432
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.092221989426847
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R)-2,4,5,6-tetrahydroxy-3-methoxyhexanal
+
+> <ALOGPS_LOGP>
+-2.07
+
+> <JCHEM_LOGP>
+-2.9252340593333335
+
+> <ALOGPS_LOGS>
+0.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.081527864830496
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.345031204121417
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9742258239770303
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+42.096799999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.38e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-O-methyl-D-glucose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16765
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-O-Methyl-d-glucose
+
+> <SYNONYMS>
+3-Methyl-D-glucose; 3-Methylglucose; 3-O-Methylglucose; Methylglucose; O(3)-methyl-D-glucose
+
+$$$$

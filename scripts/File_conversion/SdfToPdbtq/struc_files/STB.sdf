@@ -1,0 +1,160 @@
+STB
+  Mrv0541 02231217202D          
+
+ 20 20  0  0  0  0            999 V2000
+   -1.6091   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3236   -0.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0381   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0381    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3236    1.1394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6091    0.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8947   -0.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8947   -1.3356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1802   -0.0981    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5343   -0.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2488   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9632   -0.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6777   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3922   -0.5106    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1066   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8211   -0.5106    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7525    1.1394    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4670    1.5519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3400    1.8539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1650    0.4249    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04002
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(C=C1)C(=O)NCCCCNCS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H19N3O3S2/c13-20(17,18)11-5-3-10(4-6-11)12(16)15-8-2-1-7-14-9-19/h3-6,14,19H,1-2,7-9H2,(H,15,16)(H2,13,17,18)
+
+> <INCHI_KEY>
+XLYYIFIRODREFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H19N3O3S2
+
+> <MOLECULAR_WEIGHT>
+317.428
+
+> <EXACT_MASS>
+317.086782869
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9073712158601737
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.89198478398589
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-sulfamoyl-N-{4-[(sulfanylmethyl)amino]butyl}benzamide
+
+> <ALOGPS_LOGP>
+0.85
+
+> <JCHEM_LOGP>
+0.011948110908369133
+
+> <ALOGPS_LOGS>
+-3.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+10.126820795528536
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.478334526684707
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.015350882302256
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.29
+
+> <JCHEM_REFRACTIVITY>
+81.84099999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.04e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04002
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02964
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Sulfonamide-[4-(Thiomethylaminobutane)]Benzamide
+
+$$$$

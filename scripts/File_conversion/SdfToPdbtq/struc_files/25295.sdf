@@ -1,0 +1,164 @@
+25295
+  Mrv0541 02241214202D          
+
+ 20 21  0  0  1  0            999 V2000
+    2.3645   -3.0938    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 19  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08800
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCN(CC1=CC=C(Cl)C=C1)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20ClN3/c1-19(2)11-12-20(16-5-3-4-10-18-16)13-14-6-8-15(17)9-7-14/h3-10H,11-13H2,1-2H3
+
+> <INCHI_KEY>
+ICKFFNBDFNZJSX-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H20ClN3
+
+> <MOLECULAR_WEIGHT>
+289.803
+
+> <EXACT_MASS>
+289.134575362
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.00331634354511
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.25395283921345
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(4-chlorophenyl)methyl]-N-[2-(dimethylamino)ethyl]pyridin-2-amine
+
+> <ALOGPS_LOGP>
+3.79
+
+> <JCHEM_LOGP>
+3.8052370936666664
+
+> <ALOGPS_LOGS>
+-2.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.763974494958228
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.37
+
+> <JCHEM_REFRACTIVITY>
+86.07970000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.41e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08800
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB07523
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Chloropyramine
+
+> <SYNONYMS>
+Chloropyramine; Chloropyraminum; Chlorpyramine; Cloropiramina; Halopyramine
+
+> <INTERNATIONAL_BRANDS>
+Avapena; Suprastin; Synopen
+
+> <SALTS>
+Chloropyramine hydrochloride
+
+$$$$

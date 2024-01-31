@@ -1,0 +1,143 @@
+
+  Mrv0541 02231216232D          
+
+ 13 13  0  0  1  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  6 13  2  0  0  0  0
+  2 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02685
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=CC(C[C@H](N)C(O)=O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13NO2/c1-7-3-2-4-8(5-7)6-9(11)10(12)13/h2-5,9H,6,11H2,1H3,(H,12,13)/t9-/m0/s1
+
+> <INCHI_KEY>
+JZRBSTONIYRNRI-VIFPVBQESA-N
+
+> <FORMULA>
+C10H13NO2
+
+> <MOLECULAR_WEIGHT>
+179.2157
+
+> <EXACT_MASS>
+179.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0034881043461153505
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.34312772481075
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(3-methylphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.27
+
+> <JCHEM_LOGP>
+-0.6708283876324205
+
+> <ALOGPS_LOGS>
+-1.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5799815969362534
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.45117431522346
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+50.1575
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02685
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00540
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Methylphenylalanine
+
+$$$$

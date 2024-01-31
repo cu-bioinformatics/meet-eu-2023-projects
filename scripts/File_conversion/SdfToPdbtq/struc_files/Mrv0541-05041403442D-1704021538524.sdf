@@ -1,0 +1,150 @@
+
+  Mrv0541 05041403442D          
+
+ 15 15  0  0  1  0            999 V2000
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1018   -1.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9263   -1.1697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -1.8406    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3272   -1.1409    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  7  1  1  0  0  0  0
+  7  2  1  0  0  0  0
+  7  6  1  1  0  0  0
+  8  3  1  0  0  0  0
+  4  9  1  1  0  0  0
+  5 10  1  6  0  0  0
+ 11  6  2  0  0  0  0
+ 12  6  1  0  0  0  0
+  7 13  1  6  0  0  0
+  4 14  1  6  0  0  0
+  5 15  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02786
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)C[C@@](O)(C=C(F)[C@@]1([H])O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H9FO5/c8-3-1-7(13,6(11)12)2-4(9)5(3)10/h1,4-5,9-10,13H,2H2,(H,11,12)/t4-,5-,7+/m1/s1
+
+> <INCHI_KEY>
+DGZQZSSRYAJDAX-XAHCXIQSSA-N
+
+> <FORMULA>
+C7H9FO5
+
+> <MOLECULAR_WEIGHT>
+192.1418
+
+> <EXACT_MASS>
+192.043401603
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.999760186027563
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.868804065452808
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,4S,5R)-3-fluoro-1,4,5-trihydroxycyclohex-2-ene-1-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.25
+
+> <JCHEM_LOGP>
+-1.8222785973333337
+
+> <ALOGPS_LOGS>
+-0.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.477864324839127
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.386915067072175
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.268024803781746
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+39.323699999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02786
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01387
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Anhydro-3-Fluoro-Quinic Acid
+
+$$$$

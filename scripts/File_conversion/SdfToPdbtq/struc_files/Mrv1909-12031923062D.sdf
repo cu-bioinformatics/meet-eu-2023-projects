@@ -1,0 +1,171 @@
+
+  Mrv1909 12031923062D          
+
+ 28 29  0  0  0  0            999 V2000
+    2.1434   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4124   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2867    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0012   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0012   -0.4124    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6992    0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8743   -0.7145    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2867    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0012    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 13  2  0  0  0  0
+ 16 14  2  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 16  1  0  0  0  0
+ 18 17  2  0  0  0  0
+ 11 13  1  0  0  0  0
+  9 19  1  6  0  0  0
+  9 20  1  6  0  0  0
+ 16 21  1  0  0  0  0
+ 23 22  3  0  0  0  0
+  6 22  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 26  1  0  0  0  0
+ 28 27  3  0  0  0  0
+ 18 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12078
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@](O)(COC1=CC=C(C=C1)C#N)C(=O)NC1=CC=C(C#N)C(=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H14F3N3O3/c1-18(27,11-28-15-6-2-12(9-23)3-7-15)17(26)25-14-5-4-13(10-24)16(8-14)19(20,21)22/h2-8,27H,11H2,1H3,(H,25,26)/t18-/m0/s1
+
+> <INCHI_KEY>
+JNGVJMBLXIUVRD-SFHVURJKSA-N
+
+> <FORMULA>
+C19H14F3N3O3
+
+> <MOLECULAR_WEIGHT>
+389.328
+
+> <EXACT_MASS>
+389.098725944
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.86590217734091
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-N-[4-cyano-3-(trifluoromethyl)phenyl]-3-(4-cyanophenoxy)-2-hydroxy-2-methylpropanamide
+
+> <ALOGPS_LOGP>
+2.82
+
+> <JCHEM_LOGP>
+3.272520776333333
+
+> <ALOGPS_LOGS>
+-4.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.82367730312544
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.946099401455145
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.036678814975233
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.13999999999999
+
+> <JCHEM_REFRACTIVITY>
+95.05090000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.63e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-amino-4-[(2-ethanimidamidoethyl)sulfanyl]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12078
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Enobosarm
+
+> <SYNONYMS>
+Enobosarm; Énobosarm; Enobosarmum; Ostarine
+
+$$$$

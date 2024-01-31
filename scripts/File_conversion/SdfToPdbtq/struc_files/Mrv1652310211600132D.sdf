@@ -1,0 +1,164 @@
+
+  Mrv1652310211600132D          
+
+ 27 29  0  0  0  0            999 V2000
+    4.0668    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9962    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    0.6979    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    2.3479    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2089   -1.7771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4944   -1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4944   -0.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2089   -0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2201   -1.7771    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9345   -2.1896    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2201   -2.6021    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4944   -2.1896    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2201   -0.9521    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9345   -1.3646    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 22 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12397
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NC2=NC(=NN2C(NC2=CC=C(C=C2)S(F)(F)(F)(F)F)=C1)C(C)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12F7N5S/c1-8-7-11(26-13(22-8)24-12(25-26)14(2,15)16)23-9-3-5-10(6-4-9)27(17,18,19,20)21/h3-7,23H,1-2H3
+
+> <INCHI_KEY>
+OIZSVTOIBNSVOS-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H12F7N5S
+
+> <MOLECULAR_WEIGHT>
+415.33
+
+> <EXACT_MASS>
+415.070163721
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.39058875189569
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(1,1-difluoroethyl)-5-methyl-N-[4-(pentafluoro-lambda6-sulfanyl)phenyl]-[1,2,4]triazolo[1,5-a]pyrimidin-7-amine
+
+> <ALOGPS_LOGP>
+3.73
+
+> <JCHEM_LOGP>
+5.684699999999999
+
+> <ALOGPS_LOGS>
+-5.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.725150099464852
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3302865900897465
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.11
+
+> <JCHEM_REFRACTIVITY>
+98.3812
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.79e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(1,1-difluoroethyl)-5-methyl-N-[4-(pentafluoro-lambda6-sulfanyl)phenyl]-[1,2,4]triazolo[1,5-a]pyrimidin-7-amine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12397
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+DSM-265
+
+$$$$

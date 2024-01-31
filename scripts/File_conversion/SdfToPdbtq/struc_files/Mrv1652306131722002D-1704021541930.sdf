@@ -1,0 +1,153 @@
+
+  Mrv1652306131722002D          
+
+ 21 24  0  0  1  0            999 V2000
+    4.5466   -0.5086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8269    0.2673    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3587   -0.3634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1708   -0.2182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4511    0.5577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9193    1.1884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1072    1.0432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5754    1.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7633    1.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4830    0.7528    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0148    0.1221    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7345   -0.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9224   -0.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3905   -0.1684    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6708    0.6076    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0195    1.1139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3367    0.6509    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5660   -0.1416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0596   -0.7929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5607    0.9312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0307   -0.9107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 17 20  1  6  0  0  0
+ 14 21  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB06250
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@]12CC[C@H]3[C@@H](CC=C4CCCC[C@]34C)[C@@H]1C[C@@H](F)C2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H27FO/c1-18-9-4-3-5-12(18)6-7-13-14(18)8-10-19(2)15(13)11-16(20)17(19)21/h6,13-16H,3-5,7-11H2,1-2H3/t13-,14+,15+,16-,18+,19+/m1/s1
+
+> <INCHI_KEY>
+VHZXNQKVFDBFIK-NBBHSKLNSA-N
+
+> <FORMULA>
+C19H27FO
+
+> <MOLECULAR_WEIGHT>
+290.422
+
+> <EXACT_MASS>
+290.204593652
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.21762105086937
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,10R,11S,13R,15S)-13-fluoro-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-7-en-14-one
+
+> <ALOGPS_LOGP>
+4.76
+
+> <JCHEM_LOGP>
+4.768449435666667
+
+> <ALOGPS_LOGS>
+-5.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.482288950682754
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.184125384914678
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+82.78949999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.61e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2R,10R,11S,13R,15S)-13-fluoro-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-7-en-14-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06250
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Fluasterone
+
+$$$$

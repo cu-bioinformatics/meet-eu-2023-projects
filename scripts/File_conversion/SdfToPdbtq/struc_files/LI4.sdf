@@ -1,0 +1,151 @@
+LI4
+  Mrv0541 02241213512D          
+
+ 19 21  0  0  0  0            999 V2000
+    0.0175   -2.6302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0175   -1.8052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7320   -1.3927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4465   -1.8052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7320   -3.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7320   -0.5677    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1609   -1.3927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4114    0.6698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6970    1.0823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6970    1.9073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4114    2.3198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1259    1.9073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1259    1.0823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0175    0.6698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7320    1.0823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7320    1.9073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0175    2.3198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4465   -2.6302    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0175   -0.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 19  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08093
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=C(OCC2=CC=CC3=CC=CC=C23)C=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H14N2O/c17-16-15(9-4-10-18-16)19-11-13-7-3-6-12-5-1-2-8-14(12)13/h1-10H,11H2,(H2,17,18)
+
+> <INCHI_KEY>
+SZANYTFSQVBOBA-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H14N2O
+
+> <MOLECULAR_WEIGHT>
+250.2952
+
+> <EXACT_MASS>
+250.11061308
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.7730834710468748
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.301093331545097
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(naphthalen-1-yl)methoxy]pyridin-2-amine
+
+> <ALOGPS_LOGP>
+3.24
+
+> <JCHEM_LOGP>
+3.077383573333333
+
+> <ALOGPS_LOGS>
+-3.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.532360256193802
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.14
+
+> <JCHEM_REFRACTIVITY>
+76.441
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.37e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08093
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(1-NAPHTHYLMETHOXY)PYRIDIN-2-AMINE
+
+$$$$

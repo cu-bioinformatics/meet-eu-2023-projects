@@ -1,0 +1,170 @@
+
+  Mrv1909 09132222152D          
+
+ 27 29  0  0  0  0            999 V2000
+    1.8313   -4.2715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8313   -5.0965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5458   -5.5090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5458   -6.3340    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8313   -6.7465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8313   -7.5715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5458   -7.9840    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5458   -8.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2603   -9.2215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7300   -9.8534    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5424   -8.4462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3549   -8.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8852   -8.9349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6030   -9.7102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7906   -9.8534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6977   -8.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9798   -8.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2280   -9.4237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0404   -9.2804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5707   -9.9124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2886  -10.6876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8189  -11.3196    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4761  -10.8309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1939  -11.6061    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.9458  -10.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1168   -6.3340    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1168   -5.5090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 18 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+  2 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16936
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CN=C(CNCC2(F)CCN(CC2)C(=O)C2=CC=C(F)C(Cl)=C2)N=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H21ClF2N4O/c1-13-9-24-17(25-10-13)11-23-12-19(22)4-6-26(7-5-19)18(27)14-2-3-16(21)15(20)8-14/h2-3,8-10,23H,4-7,11-12H2,1H3
+
+> <INCHI_KEY>
+WAAXKNFGOFTGLP-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H21ClF2N4O
+
+> <MOLECULAR_WEIGHT>
+394.85
+
+> <EXACT_MASS>
+394.1371953
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.14511446344979667
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.429442955549696
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{[1-(3-chloro-4-fluorobenzoyl)-4-fluoropiperidin-4-yl]methyl}[(5-methylpyrimidin-2-yl)methyl]amine
+
+> <ALOGPS_LOGP>
+2.00
+
+> <JCHEM_LOGP>
+2.314904891666667
+
+> <ALOGPS_LOGS>
+-4.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.2298030257039745
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+100.426
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.36e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16936
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+F-15599
+
+> <SYNONYMS>
+(3-chloro-4-fluorophenyl)-(4-fluoro-4-(((5-methylpyrimidin-2-ylmethyl)amino)methyl)piperidin-1-yl)methanone; 3-chloro-4-fluorophenyl-(4-fluoro-4-(((5-methylpyrimidin-2-ylmethyl)amino)methyl)piperidin-1yl)methanone; 3-Chloro-4-Fluorophenyl-[4-Fluoro-4-[[(5-Methylpyrimidin-2-ylmethyl)Amino]Methyl]Piperidin-1yl]Methanone; 4-piperidinemethanamine, 1-(3-chloro-4-fluorobenzoyl)-4-fluoro-n-((5-methyl-2-pyrimidinyl)methyl)-; F15599; Methanone, (3-chloro-4-fluorophenyl)(4-fluoro-4-((((5-methyl-2-pyrimidinyl)methyl)amino)methyl)-1-piperidinyl)-; NLX-101; NLX101
+
+$$$$

@@ -1,0 +1,149 @@
+
+  Mrv1652310211600242D          
+
+ 17 18  0  0  0  0            999 V2000
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4584   -1.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2788   -1.5818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6144   -2.3355    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12440
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)OCCN1C2=C(NC=C2)C(=O)NC1=S
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15N3O2S/c1-7(2)16-6-5-14-8-3-4-12-9(8)10(15)13-11(14)17/h3-4,7,12H,5-6H2,1-2H3,(H,13,15,17)
+
+> <INCHI_KEY>
+FVJCUZCRPIMVLB-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H15N3O2S
+
+> <MOLECULAR_WEIGHT>
+253.32
+
+> <EXACT_MASS>
+253.088497909
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.439691751150022
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[2-(propan-2-yloxy)ethyl]-2-sulfanylidene-1H,2H,3H,4H,5H-pyrrolo[3,2-d]pyrimidin-4-one
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.2271759379999994
+
+> <ALOGPS_LOGS>
+-2.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.590348808955898
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.39399861865033
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.145060785115511
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.36
+
+> <JCHEM_REFRACTIVITY>
+69.7301
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.83e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-(2-isopropoxyethyl)-2-sulfanylidene-3H,5H-pyrrolo[3,2-d]pyrimidin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12440
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Verdiperstat
+
+> <SYNONYMS>
+Verdiperstat
+
+$$$$

@@ -1,0 +1,164 @@
+BIT
+  Mrv0541 02231215502D          
+
+ 22 25  0  0  0  0            999 V2000
+    0.3399    2.1503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3399    1.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0544    0.9128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7689    1.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4833    0.9128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1978    1.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4833    0.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0544    0.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7689   -0.3247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745    0.9128    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3745    0.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3399   -0.3247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4608    1.7333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1592    1.1678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6441    0.5003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1592   -0.1671    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4141   -0.9517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8621   -1.5648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1170   -2.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9240   -2.5210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4760   -1.9079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2211   -1.1232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  6  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01944
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C2N=C3N(CC[C@@]3(O)C(=O)C2=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H16N2O2/c1-12-7-8-15-14(11-12)16(21)18(22)9-10-20(17(18)19-15)13-5-3-2-4-6-13/h2-8,11,22H,9-10H2,1H3/t18-/m1/s1
+
+> <INCHI_KEY>
+LZAXPYOBKSJSEX-GOSISDBHSA-N
+
+> <FORMULA>
+C18H16N2O2
+
+> <MOLECULAR_WEIGHT>
+292.3318
+
+> <EXACT_MASS>
+292.121177766
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.486876745193749e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.71346493782814
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aS)-3a-hydroxy-6-methyl-1-phenyl-1H,2H,3H,3aH,4H-pyrrolo[2,3-b]quinolin-4-one
+
+> <ALOGPS_LOGP>
+2.00
+
+> <JCHEM_LOGP>
+2.8795248213333338
+
+> <ALOGPS_LOGS>
+-3.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.537417038192183
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.731453494563788
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.9
+
+> <JCHEM_REFRACTIVITY>
+87.24510000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.98e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01944
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00711
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(S)-blebbistatin
+
+$$$$

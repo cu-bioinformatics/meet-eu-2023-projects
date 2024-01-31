@@ -1,0 +1,167 @@
+
+  Mrv0541 02231217542D          
+
+ 25 25  0  0  1  0            999 V2000
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5395    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 14  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 12 24  2  0  0  0  0
+  2 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04762
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(CN[C@H](CCC(O)=O)C(O)=O)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H19N2O9P/c1-7-12(18)9(8(4-14-7)6-24-25(21,22)23)5-15-10(13(19)20)2-3-11(16)17/h4,10,15,18H,2-3,5-6H2,1H3,(H,16,17)(H,19,20)(H2,21,22,23)/t10-/m1/s1
+
+> <INCHI_KEY>
+JMRKOGDJNHPMHS-SNVBAGLBSA-N
+
+> <FORMULA>
+C13H19N2O9P
+
+> <MOLECULAR_WEIGHT>
+378.2717
+
+> <EXACT_MASS>
+378.082816728
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.971553785680569
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.651964378888124
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-[({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)amino]pentanedioic acid
+
+> <ALOGPS_LOGP>
+-2.14
+
+> <JCHEM_LOGP>
+-4.763635149795057
+
+> <ALOGPS_LOGS>
+-2.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+1.9145271559823105
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9767388551712616
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.839929981858603
+
+> <JCHEM_POLAR_SURFACE_AREA>
+186.51
+
+> <JCHEM_REFRACTIVITY>
+82.77919999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.19e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04762
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-PYRIDOXYL-D-GLUTAMIC ACID-5'-MONOPHOSPHATE
+
+$$$$

@@ -1,0 +1,165 @@
+586
+  Mrv1909 07161922132D          
+
+ 19 20  0  0  0  0            999 V2000
+    4.5080   -1.2870    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.2870    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.4620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00586
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11Cl2NO2/c15-10-5-3-6-11(16)14(10)17-12-7-2-1-4-9(12)8-13(18)19/h1-7,17H,8H2,(H,18,19)
+
+> <INCHI_KEY>
+DCOPUUMXTXDBNB-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H11Cl2NO2
+
+> <MOLECULAR_WEIGHT>
+296.149
+
+> <EXACT_MASS>
+295.016684015
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.932580150425736
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{2-[(2,6-dichlorophenyl)amino]phenyl}acetic acid
+
+> <ALOGPS_LOGP>
+4.98
+
+> <JCHEM_LOGP>
+4.259009233333334
+
+> <ALOGPS_LOGS>
+-4.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.40187487777428
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.995651870366132
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.0760497458522584
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+75.46140000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.47e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+{2-[(2,6-dichloro-3,4-dihydroxyphenyl)amino]phenyl}acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00586
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00527
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Diclofenac
+
+> <SYNONYMS>
+[2-(2,6-dichloroanilino)phenyl]acetic acid; 2-((2,6-dichlorophenyl)amino)benzeneacetic acid; Diclofenac; Diclofenac acid; Diclofenaco; Diclofenacum
+
+> <PRODUCTS>
+Act Diclo-miso; Aleve Arthritis Pain Gel; Ambator Diclofenac Patch; Apo-diclo; Apo-diclo Rapide 50 Mg Tablets; Apo-diclo SR; Apo-diclofenac; Apo-diclofenac Ophthalmic; Arthritis Pain; Arthritis Pain Reliever; Arthritis Pain Relieving; Arthrotec; Arthrotec 50; Arthrotec 75; Aspercreme Arthritis; Ava-diclofenac; Ava-diclofenac SR; Basic Care Arthritis Pain; Berkley and Jensen Arthritis Pain; Biifenac 1000; Biifenac 500; Calcipotriene 0.005% / Diclofenac Sodium 3% / Hyaluronic Acid Sodium Salt 2% / Niacinamide 2%; Cambia; CapsFenac Pak; Capsinac; CareOne arthritis pain relief; Cataflam; Clofenax; Curist Arthritis Relief; DFS 75mg DR/MS 25%/MENTH 6%/CAP 0.025% PAK; DG health arthritis pain; DS Prep PAK; DST Plus Pak; DeramsilkRx Anodynexa Pak; DermacinRx Inflammatral Pak; DermacinRx Lexitral PharmaPak; DermacinRx Lexitral PharmaPak II; DermasilkRx DicloPak; Dfs 1.5%/ms 25%/menth 6%/cap 0.025% Pak; DiMentho; Diclo Gel 1% Pak; Diclo Gel 1% with Xrylix Sheets; DicloHeal-60; DicloPR; DicloPrep-100; Diclocaine; Diclofenac; Diclofenac DR; Diclofenac EC; Diclofenac Ect 25mg; Diclofenac Epolamine; Diclofenac K; Diclofenac Misoprostol; Diclofenac Potassium; Diclofenac SR; Diclofenac Sodium; Diclofenac Sodium 1.5%; Diclofenac Sodium 3 Percent; Diclofenac Sodium 3% / Hyaluronic Acid Sodium Salt 2% / Niacinamide 4%; Diclofenac Sodium D/R; Diclofenac Sodium DR; Diclofenac Sodium Delayed Release; Diclofenac Sodium Delayed Release Delayed Release; Diclofenac Sodium Delayed-release; Diclofenac Sodium Dr; Diclofenac Sodium E/r; Diclofenac Sodium ER; Diclofenac Sodium Extended-Release; Diclofenac Sodium Gel; Diclofenac Sodium Misoprostol; Diclofenac Sodium Solution; Diclofenac Sodium Topical Gel 1%; Diclofenac Sodium Topical Gel, 1%; Diclofenac Sodium Topical Solution; Diclofenac Sodium and Misoprostol; Diclofenac Sodium and Misoprostol Delayed-Release; Diclofenac Sodium delayed release; Diclofenac Sodium topical solution; Diclofenac Sodium/Misoprostol DICLOFENAC-SODIUM-MISOPROSTOL; Diclofenac Sodium/Misoprostol diclofenac-sodium-misoprostol; Diclofenac Topical Solution; Diclofenac potassium; Diclofenac sodium; Diclofenac sodium and Misoprostol; Diclofenac-50; Diclofenac-SR; Diclofex DC; Diclona Gel; Diclopak; Diclosaicin; Diclosiacin; Diclostream; Diclotec; Diclotral Pak; Diclotrex; Diclovix; Diclovix CM; Diclovix M; Diclozor; Dipentocaine Topical Cream Compounding Kit; Dom-diclofenac; Dom-diclofenac-SR; Dsg Pak; Dyloject; Dynabac 5.0; Equaline Arthritis Pain Relieving; Equate Arthritis Pain; Fenovar; Flector; Flexipak; Fluorac; Gapeam Budibac; Gd-diclofenac/misoprostol 50; Gd-diclofenac/misoprostol 75; Good Neighbor Pharmacy Arthritis Pain; Good Sense Arthritis Pain; Health Mart Arthritis Pain; Iclofenac CP; Inavix; Infla-eze; Inflammacin; Inflammation Reduction Pack; Inflatherm; Innoprax-5; Jamp Diclofenac Topical Solution; Kapzin DC; Kirkland Signature Diclofenac Sodium; Klofensaid II; Leximenth; Lexixryl; Licart; LidoPR; Lidovix Delayed Release; Lofena; Lorvatus PharmaPak; Mint-diclofenac; Motrin Arthritis Pain; Ntp-diclofenac Potassium; Ntp-diclofenac Sodium; Ntp-diclofenac Sodium SR; Nu-diclo Enteric Coated Tab 25mg; Nu-diclo Enteric Coated Tab 50mg; Nu-diclo Rapide; Nu-diclo SR - Srt 100mg; Nu-diclo SR - Srt 75mg; NuDiclo SoluPak; NuDiclo TabPak; NuDroxiPAK DSDR-50; NuDroxiPAK DSDR-75; Nuvya; PMS-diclofenac; PMS-diclofenac K; PMS-diclofenac-SR; PMS-diclofenac-misoprostol; Pennsaicin; Pennsaid; Penta-diclofenac - 25mg; Penta-diclofenac - 50mg; PrevidolRx Analgesic Pak; PrevidolRx Plus Analgesic Pak; Pro-diclo Rapide - 50; Profinac; Rho-diclofenac; Riva-diclofenac 100mg SR Tablets; Riva-diclofenac 50mg Tablets; Riva-diclofenac 75mg SR Tablets; Riva-diclofenac-K 50mg Tablets; Salonpas; Sandoz Diclofenac; Sandoz Diclofenac Misoprostol; Sandoz Diclofenac Ophtha; Sandoz Diclofenac Rapide; Sandoz-diclofenac; Sandoz-diclofenac SR; Signature Care Arthritis Pain; Solaravix; Solaraze; Sunmark Arthritis Pain; Sure Result DSS Premium Pak; Taro-diclofenac; Taro-diclofenac Tab 25mg; Taro-diclofenac Tab 50mg; Teva-diclofenac; Teva-diclofenac EC; Teva-diclofenac SR; Teva-diclofenac-K; Topcare Athritis Pain Reliever; Topical Nerve Pain; TriXylitral; Up and Up Arthritis Pain Reliever; ValcoPrep-100; Varophen; VennGel One; Vofenal 0.1%; Voltaren; Voltaren Arthritis Pain; Voltaren Emulgel; Voltaren Emulgel Back & Muscle Pain; Voltaren Emulgel Extra Strength; Voltaren Emulgel Joint Pain Extra Strength; Voltaren Emulgel Joint Pain Regular Strength; Voltaren Ophtha; Voltaren Rapide; Voltaren SR; Voltaren Tab 25mg; Voltaren XR; Vopac MDS - Anti-Inflammatory Management Kit with Metered Dose Bottle; Xelitral; Xenaflamm; Xrylix; Ziclocin; Ziclopro; Zipsor; Zorvolex; Zyvodol
+
+> <INTERNATIONAL_BRANDS>
+Aclonac; Allvoran; Ecofenac; Effekton; Nu-Diclo; Primofenac; Prophenatin; Rhumalgan; Voltarol
+
+> <SALTS>
+Diclofenac deanol; Diclofenac diethylamine; Diclofenac epolamine; Diclofenac potassium; Diclofenac sodium
+
+$$$$

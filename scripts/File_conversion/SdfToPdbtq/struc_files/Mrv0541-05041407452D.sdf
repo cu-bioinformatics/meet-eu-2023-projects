@@ -1,0 +1,159 @@
+
+  Mrv0541 05041407452D          
+
+ 20 19  0  0  1  0            999 V2000
+    8.3013    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1579    2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.1579    1.4289    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0145    1.0164    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.4434    1.0164    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.7289    1.4289    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.8724    1.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8724    2.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5855    1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868    2.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0145    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4434    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7289    2.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868    0.6039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3454    1.5722    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0145    1.8414    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1612    1.7917    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7289    0.6039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  4  1  0  0  0  0
+  5  9  1  6  0  0  0
+ 10  2  1  0  0  0  0
+ 11  3  1  0  0  0  0
+  4 12  1  6  0  0  0
+  6 13  1  1  0  0  0
+  7 14  1  6  0  0  0
+  8 15  1  6  0  0  0
+  4 16  1  6  0  0  0
+  5 17  1  6  0  0  0
+  6 18  1  1  0  0  0
+  7 19  1  6  0  0  0
+  8 20  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB02787
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(O)N[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@]([H])(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H19NO6/c1-4(12)9-5(2-10)7(14)8(15)6(13)3-11/h4-15H,2-3H2,1H3/t4-,5+,6+,7+,8+/m0/s1
+
+> <INCHI_KEY>
+OUBSZQOZVSSBQR-SLBCVNJHSA-N
+
+> <FORMULA>
+C8H19NO6
+
+> <MOLECULAR_WEIGHT>
+225.2396
+
+> <EXACT_MASS>
+225.121237345
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8481109018951626
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.21705534282447
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R)-5-{[(1S)-1-hydroxyethyl]amino}hexane-1,2,3,4,6-pentol
+
+> <ALOGPS_LOGP>
+-2.17
+
+> <JCHEM_LOGP>
+-3.754788437666667
+
+> <ALOGPS_LOGS>
+-0.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.696247932832618
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.784081731029426
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.74690950924978
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.41
+
+> <JCHEM_REFRACTIVITY>
+50.77979999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.48e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02787
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02197
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Acetylmannosaminitol
+
+$$$$

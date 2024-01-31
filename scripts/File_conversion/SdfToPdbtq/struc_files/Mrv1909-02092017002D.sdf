@@ -1,0 +1,178 @@
+
+  Mrv1909 02092017002D          
+
+ 29 32  0  0  0  0            999 V2000
+    2.8079    0.1640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8079    0.9663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0968   -0.2589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5116   -0.2480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0858    1.3893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5262    1.3893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3783    0.1531    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0968   -1.0684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2482    0.1640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3783    0.9809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0858    2.2099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2482    0.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3783   -1.4878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6564    1.3820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6710   -1.0684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3783   -2.2281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0182    1.3820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4595    0.7293    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4595    2.0530    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2471    0.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2471    1.8051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9508    0.5979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9508    2.2281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6802    1.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6802    1.8051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4205    0.5979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7705    1.3820    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2482    0.3646    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2309   -0.2042    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 26 29  1  0  0  0  0
+  7 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08772
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CC1=NN(CC2=NC3=C(S2)C=CC(=C3)C(F)(F)F)C(=O)C2=C1C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H12F3N3O3S/c20-19(21,22)10-5-6-15-14(7-10)23-16(29-15)9-25-18(28)12-4-2-1-3-11(12)13(24-25)8-17(26)27/h1-7H,8-9H2,(H,26,27)
+
+> <INCHI_KEY>
+BCSVCWVQNOXFGL-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H12F3N3O3S
+
+> <MOLECULAR_WEIGHT>
+419.377
+
+> <EXACT_MASS>
+419.05514657
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9990892683422268
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.58909266645579
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-oxo-3-{[5-(trifluoromethyl)-1,3-benzothiazol-2-yl]methyl}-3,4-dihydrophthalazin-1-yl)acetic acid
+
+> <ALOGPS_LOGP>
+3.21
+
+> <JCHEM_LOGP>
+3.6301295226026484
+
+> <ALOGPS_LOGS>
+-5.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9735389717620064
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.307006060052536
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.86
+
+> <JCHEM_REFRACTIVITY>
+98.22109999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.17e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-(2,6-dichlorophenyl)-2-{[3-(hydroxymethyl)phenyl]amino}-8-methylpyrido[2,3-d]pyrimidin-7-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08772
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Zopolrestat
+
+> <SYNONYMS>
+Zopolrestat; Zopolrestatum
+
+$$$$

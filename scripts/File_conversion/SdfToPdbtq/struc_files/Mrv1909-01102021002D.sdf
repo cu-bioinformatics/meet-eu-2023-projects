@@ -1,0 +1,182 @@
+
+  Mrv1909 01102021002D          
+
+ 30 32  0  0  0  0            999 V2000
+   -0.1955   -1.1468    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1990   -0.3219    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5190   -1.5593    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9066   -1.5629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2098   -1.9362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9066    0.0906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2303   -0.3148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2338   -1.1398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5190   -2.3878    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6214   -1.1468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9066    0.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6214   -0.3219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2374   -2.7931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1919   -2.7931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6144    1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9485   -2.3878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4408    1.3365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6668   -2.7931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8533    0.6220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8650    2.0739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3851   -2.3878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6829    0.6288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5467   -0.0163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6783    2.0590    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0964   -2.7931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3851   -1.5593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0957    1.3434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0964    2.7931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2027    0.6096    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2978   -1.9753    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  6  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  1  0  0  0
+ 11 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 27  1  0  0  0  0
+ 24 28  1  6  0  0  0
+  7  8  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 24 27  1  0  0  0  0
+  2 29  1  1  0  0  0
+  3 30  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB15614
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CC[C@@]2([H])C(\C=C/C3=C(C)CC[C@H](O)C3)=CCC[C@]12C)[C@H](C)CCCC(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C27H44O/c1-19(2)8-6-9-21(4)25-15-16-26-22(10-7-17-27(25,26)5)12-13-23-18-24(28)14-11-20(23)3/h10,12-13,19,21,24-26,28H,6-9,11,14-18H2,1-5H3/b13-12-/t21-,24+,25-,26+,27-/m1/s1
+
+> <INCHI_KEY>
+YUGCAAVRZWBXEQ-WHTXLNIXSA-N
+
+> <FORMULA>
+C27H44O
+
+> <MOLECULAR_WEIGHT>
+384.648
+
+> <EXACT_MASS>
+384.339216037
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+72
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.04284615412990994
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.02314695880031
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S)-3-[(1Z)-2-[(1R,3aR,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,6,7,7a-hexahydro-1H-inden-4-yl]ethenyl]-4-methylcyclohex-3-en-1-ol
+
+> <ALOGPS_LOGP>
+7.38
+
+> <JCHEM_LOGP>
+7.067527084333333
+
+> <ALOGPS_LOGS>
+-6.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.3144263764392
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3490699029454927
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+124.29699999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.74e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+previtamin D3
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15614
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Previtamin D(3)
+
+> <SYNONYMS>
+Precalciferol; Precholecalciferol; Previtamin D; Previtamin D(3); Previtamin D3
+
+> <PRODUCTS>
+Calcemin; Calcemin Advance
+
+$$$$

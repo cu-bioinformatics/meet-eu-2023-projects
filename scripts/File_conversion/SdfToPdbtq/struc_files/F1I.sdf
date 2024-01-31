@@ -1,0 +1,166 @@
+F1I
+  Mrv0541 02241213372D          
+
+ 24 25  0  0  0  0            999 V2000
+    3.3027   -2.2526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5883   -1.8401    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8738    0.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5883    0.6349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5883   -1.0151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8738   -0.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2696   -1.0151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9841   -0.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593   -1.0151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4449    0.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2696    0.6349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5564    0.6349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1275    0.6349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8420    0.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4130    0.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9841    0.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4130   -0.6026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2709    0.2224    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6986    0.6349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4449   -0.6026    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593    0.6349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3027    0.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3027   -0.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 24  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07735
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=CC(OC)=C1CN1CCC(CC1)NC(=O)CCCS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H28N2O3S/c1-22-16-5-3-6-17(23-2)15(16)13-20-10-8-14(9-11-20)19-18(21)7-4-12-24/h3,5-6,14,24H,4,7-13H2,1-2H3,(H,19,21)
+
+> <INCHI_KEY>
+MUDVORCZGBAHNA-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H28N2O3S
+
+> <MOLECULAR_WEIGHT>
+352.492
+
+> <EXACT_MASS>
+352.182063462
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.7452975652717269
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.91884257226768
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-{1-[(2,6-dimethoxyphenyl)methyl]piperidin-4-yl}-4-sulfanylbutanamide
+
+> <ALOGPS_LOGP>
+2.27
+
+> <JCHEM_LOGP>
+1.589119742
+
+> <ALOGPS_LOGS>
+-4.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.642549557039134
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.197282190627524
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.46775214957518
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.8
+
+> <JCHEM_REFRACTIVITY>
+99.5379
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.37e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07735
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[1-(2,6-dimethoxybenzyl)piperidin-4-yl]-4-sulfanylbutanamide
+
+$$$$

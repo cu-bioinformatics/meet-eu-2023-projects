@@ -1,0 +1,164 @@
+1237
+  Mrv0541 02231215202D          
+
+ 20 21  0  0  1  0            999 V2000
+    3.7935   -3.0938    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.6813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01237
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCOC(C1=CC=CC=C1)C1=CC=C(Br)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H20BrNO/c1-19(2)12-13-20-17(14-6-4-3-5-7-14)15-8-10-16(18)11-9-15/h3-11,17H,12-13H2,1-2H3
+
+> <INCHI_KEY>
+NUNIWXHYABYXKF-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H20BrNO
+
+> <MOLECULAR_WEIGHT>
+334.251
+
+> <EXACT_MASS>
+333.072826914
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9866015468089435
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.48323546750788
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{2-[(4-bromophenyl)(phenyl)methoxy]ethyl}dimethylamine
+
+> <ALOGPS_LOGP>
+4.16
+
+> <JCHEM_LOGP>
+4.4206598873333345
+
+> <ALOGPS_LOGS>
+-4.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.867087128681348
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+87.54980000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.45e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01237
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00710
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bromodiphenhydramine
+
+> <SYNONYMS>
+2-(p-bromo-α-phenylbenzyloxy)-N,N-dimethylethylamine; Bromazina; Bromazine; Bromazinum; β-(p-bromobenzhydryloxy)ethyldimethylamine; β-dimethylaminoethyl p-bromobenzhydryl ether
+
+> <PRODUCTS>
+Diphenhydramine HCI and Zinc Acetate
+
+> <SALTS>
+Bromodiphenhydramine hydrochloride
+
+$$$$

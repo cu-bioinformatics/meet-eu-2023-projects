@@ -1,0 +1,175 @@
+
+  Mrv1718009051814192D          
+
+ 29 32  0  0  0  0            999 V2000
+    0.3221   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924   -1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1068   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8213   -1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5358   -0.7462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8213   -0.3337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1068   -0.7462    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3221    0.9037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062    0.0787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8212   -0.5886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924   -0.3337    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3924   -1.1587    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0366   -0.3337    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0366   -1.1587    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3221   -0.7462    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3221    0.0787    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0366    0.4912    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8212    0.7462    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5358   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2502   -1.9837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924    0.4912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1069    0.9037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8212    1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1068    1.9837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5358    1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2503    1.5712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5358    1.1587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1068    0.0787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0366    1.3162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 15  1  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 15 13  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 19  1  0  0  0  0
+ 19  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 21  8  1  0  0  0  0
+  8 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 18  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 13 14  1  6  0  0  0
+ 15 16  1  1  0  0  0
+ 18 27  1  6  0  0  0
+ 18 23  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  1  0  0  0  0
+  7 28  1  1  0  0  0
+ 17 29  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB14681
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H28O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-15,18,22,26H,3-8,10-11H2,1-2H3/t14-,15-,18+,19-,20-,21-/m0/s1
+
+> <INCHI_KEY>
+MFYSYFVPBJMHGN-ZPOLXVRWSA-N
+
+> <FORMULA>
+C21H28O5
+
+> <MOLECULAR_WEIGHT>
+360.444
+
+> <EXACT_MASS>
+360.193674006
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.95004409634094
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3aS,3bS,9aR,9bS,11aS)-1-hydroxy-1-(2-hydroxyacetyl)-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-7,10-dione
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+1.6606806883333327
+
+> <ALOGPS_LOGS>
+-3.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.910203018090087
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.577628269290951
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3299891188847104
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.67
+
+> <JCHEM_REFRACTIVITY>
+96.47479999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cortisone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14681
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Cortisone
+
+> <SYNONYMS>
+11-dehydro-17-hydroxycorticosterone; 17alpha,21-Dihydroxy-4-pregnene-3,11,20-trione; 17α,21-dihydroxy-4-pregnene-3,11,20-trione; 4-pregnene-17α,21-diol-3,11,20-trione; Cortisona; Cortisone; Cortisonum; Kendall's compound E; Kortison; pregn-4-en-17α,21-diol-3,11,20-trione; Reichstein's substance Fa; Wintersteiner's compound F
+
+$$$$

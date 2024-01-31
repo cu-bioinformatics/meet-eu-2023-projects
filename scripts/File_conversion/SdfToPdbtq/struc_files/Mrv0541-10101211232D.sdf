@@ -1,0 +1,169 @@
+
+  Mrv0541 10101211232D          
+
+ 22 24  0  0  0  0            999 V2000
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683   -3.7149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992   -3.2299    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8838   -3.4849    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3687   -2.8174    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838   -2.1500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4820   -4.5353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -4.2695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1937   -2.8174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992   -2.4049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4991   -3.9515    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5351   -4.2326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7432   -3.5525    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6986   -2.0209    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  2  0  0  0  0
+  6  2  1  1  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11  3  2  0  0  0  0
+ 12  3  1  0  0  0  0
+ 12  9  2  0  0  0  0
+ 13  4  2  0  0  0  0
+ 13  5  1  0  0  0  0
+ 14  4  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 10 14  1  1  0  0  0
+ 15  2  1  0  0  0  0
+  7 16  1  6  0  0  0
+  8 17  1  6  0  0  0
+ 18  6  1  0  0  0  0
+ 18 10  1  0  0  0  0
+  6 19  1  6  0  0  0
+  7 20  1  1  0  0  0
+  8 21  1  1  0  0  0
+ 10 22  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04440
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CO)O[C@@]([H])(N2C=NC3=CN=CN=C23)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N4O4/c15-2-6-7(16)8(17)10(18-6)14-4-13-5-1-11-3-12-9(5)14/h1,3-4,6-8,10,15-17H,2H2/t6-,7-,8-,10-/m1/s1
+
+> <INCHI_KEY>
+MRWXACSTFXYYMV-FDDDBJFASA-N
+
+> <FORMULA>
+C10H12N4O4
+
+> <MOLECULAR_WEIGHT>
+252.2267
+
+> <EXACT_MASS>
+252.085854892
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.00010935736112644775
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.519487514259474
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R)-2-(hydroxymethyl)-5-(9H-purin-9-yl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.99
+
+> <JCHEM_LOGP>
+-1.8564954476666669
+
+> <ALOGPS_LOGS>
+-1.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.89122631141138
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.454004489721326
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0550124670591314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+58.1817
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.68e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04440
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02701
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nebularine
+
+> <SYNONYMS>
+N-D-Ribosylpurine; Purine nucleoside; Purine riboside
+
+$$$$

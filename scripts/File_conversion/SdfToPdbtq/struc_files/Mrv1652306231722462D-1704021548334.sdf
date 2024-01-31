@@ -1,0 +1,148 @@
+
+  Mrv1652306231722462D          
+
+ 18 19  0  0  0  0            999 V2000
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+  3 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13696
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(Br)C=C1C(=O)NC1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H9BrClNO2/c14-8-1-6-12(17)11(7-8)13(18)16-10-4-2-9(15)3-5-10/h1-7,17H,(H,16,18)
+
+> <INCHI_KEY>
+QBSGXIBYUQJHMJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H9BrClNO2
+
+> <MOLECULAR_WEIGHT>
+326.57
+
+> <EXACT_MASS>
+324.950519
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.40233698398871
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-bromo-N-(4-chlorophenyl)-2-hydroxybenzamide
+
+> <ALOGPS_LOGP>
+4.90
+
+> <JCHEM_LOGP>
+4.134362601666666
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.190627601893521
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.491225943292434
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.284412948119051
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+76.0
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.68e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+bromochlorosalicylanilide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13696
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bromochlorosalicylanilide
+
+$$$$

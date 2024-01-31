@@ -1,0 +1,158 @@
+CB1
+  Mrv0541 02231217332D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.0371    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0371   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3227   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3918   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3918    0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3227    1.0807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7516   -0.5693    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.4661   -0.1568    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7516   -1.3943    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.3227   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3918   -1.8068    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0371   -1.8068    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1063    1.0807    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9313    1.0807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5188    1.7952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3227    1.9057    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.3918    2.3182    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0371    2.3182    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  CHG  4   7   1   9  -1  16   1  18  -1
+M  END
+> <DATABASE_ID>
+DB04253
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C1=CC(N2CC2)=C(C=C1[N+]([O-])=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N4O5/c10-9(14)5-3-7(11-1-2-11)8(13(17)18)4-6(5)12(15)16/h3-4H,1-2H2,(H2,10,14)
+
+> <INCHI_KEY>
+WOCXQMCIOTUMJV-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8N4O5
+
+> <MOLECULAR_WEIGHT>
+252.1836
+
+> <EXACT_MASS>
+252.049469386
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0001047592984801341
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.615959129021974
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(aziridin-1-yl)-2,4-dinitrobenzamide
+
+> <ALOGPS_LOGP>
+0.04
+
+> <JCHEM_LOGP>
+0.6403734043333335
+
+> <ALOGPS_LOGS>
+-2.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.979760104781684
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.358750692136498
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.38
+
+> <JCHEM_REFRACTIVITY>
+60.23700000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.04e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04253
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00837; DB12772
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tretazicar
+
+> <SYNONYMS>
+Tretazicar
+
+$$$$

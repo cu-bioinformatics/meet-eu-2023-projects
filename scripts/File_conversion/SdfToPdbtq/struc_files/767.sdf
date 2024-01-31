@@ -1,0 +1,186 @@
+767
+  Mrv0541 02231214592D          
+
+ 29 31  0  0  1  0            999 V2000
+    2.3660    0.6201    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0029    2.7198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4663    1.8748    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0853    1.8548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5639   -0.6374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3692   -1.8948    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5639    0.1876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -0.6546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8264    0.6287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.2048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8264   -1.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784   -1.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    0.6001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9929   -0.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9929    0.1876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.0698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2651    1.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7436    0.6058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0060    1.8948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7502    1.4651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6564   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0853   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3692    1.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6596   -3.1350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0885   -3.1296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6564    1.8603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7157    3.1350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1792    1.4596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 24  1  0  0  0  0
+  2 17  2  0  0  0  0
+  3 20  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 21  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 24  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00767
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)C(=O)C1CN2CCC3=CC(OC)=C(OC)C=C3C2CC1OC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H32N2O5/c1-6-23(7-2)22(26)17-13-24-9-8-15-10-20(27-4)21(28-5)11-16(15)18(24)12-19(17)29-14(3)25/h10-11,17-19H,6-9,12-13H2,1-5H3
+
+> <INCHI_KEY>
+JSZILQVIPPROJI-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H32N2O5
+
+> <MOLECULAR_WEIGHT>
+404.4999
+
+> <EXACT_MASS>
+404.231122144
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+61
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8881740215390257
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.27192228997326
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(diethylcarbamoyl)-9,10-dimethoxy-1H,2H,3H,4H,6H,7H,11bH-pyrido[2,1-a]isoquinolin-2-yl acetate
+
+> <ALOGPS_LOGP>
+2.49
+
+> <JCHEM_LOGP>
+1.419519497333333
+
+> <ALOGPS_LOGS>
+-2.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.607785395759556
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.89995535909783
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.31
+
+> <JCHEM_REFRACTIVITY>
+110.471
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.90e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00767
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00820
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Benzquinamide
+
+> <SYNONYMS>
+benzquinamida; Benzquinamide; BZQ
+
+> <INTERNATIONAL_BRANDS>
+Benzchinamide; Emete-con; Emeticon; Promecon; Quantril
+
+> <SALTS>
+Benzquinamide hydrochloride
+
+$$$$

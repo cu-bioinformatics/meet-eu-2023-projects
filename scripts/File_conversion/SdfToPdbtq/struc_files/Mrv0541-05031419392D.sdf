@@ -1,0 +1,153 @@
+
+  Mrv0541 05031419392D          
+
+ 18 18  0  0  1  0            999 V2000
+    1.2822    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0198    0.8843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6329    0.3323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1501   -0.7365    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1467    2.3518    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4175    0.5872    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4614   -0.4747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4652   -0.8227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822    1.5268    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5298   -0.8903    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1673    1.4888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  5  2  1  6  0  0  0
+  6  3  1  0  0  0  0
+  7  4  1  6  0  0  0
+  8  5  1  0  0  0  0
+  9  2  1  0  0  0  0
+  4 10  1  6  0  0  0
+ 11  5  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12  3  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 12  8  1  0  0  0  0
+ 13  6  2  0  0  0  0
+ 14  6  1  0  0  0  0
+ 15  8  2  0  0  0  0
+  4 16  1  6  0  0  0
+  5 17  1  1  0  0  0
+  7 18  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03094
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(N)[C@@]1([H])N[C@@]([H])(CN)C(=O)N1CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N4O3/c1-4(10)7-11-5(2-9)8(15)12(7)3-6(13)14/h4-5,7,11H,2-3,9-10H2,1H3,(H,13,14)/t4-,5-,7-/m0/s1
+
+> <INCHI_KEY>
+MOTCYKZNVUEYFO-VPLCAKHXSA-N
+
+> <FORMULA>
+C8H16N4O3
+
+> <MOLECULAR_WEIGHT>
+216.2376
+
+> <EXACT_MASS>
+216.122240398
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9129622980407973
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.18253992807695
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-[(2S,4S)-2-[(1S)-1-aminoethyl]-4-(aminomethyl)-5-oxoimidazolidin-1-yl]acetic acid
+
+> <ALOGPS_LOGP>
+-3.26
+
+> <JCHEM_LOGP>
+-5.059002760547251
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.683781738929523
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.76173117716837
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.68
+
+> <JCHEM_REFRACTIVITY>
+51.3105
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.95e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03094
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00055
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,5-Dihydro-5-Methylidene-4h-Imidazol-4-On
+
+$$$$

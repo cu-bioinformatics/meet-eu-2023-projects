@@ -1,0 +1,68 @@
+REMARK  Name = BB2
+REMARK  11 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: C_1  and  C_6
+REMARK    3  A    between atoms: C_6  and  C_7
+REMARK    4  A    between atoms: C_6  and  C_9
+REMARK    5  A    between atoms: C_9  and  C_10
+REMARK    6  A    between atoms: C_10  and  C_11
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK    8  A    between atoms: N_14  and  CA_15
+REMARK    9  A    between atoms: CA_15  and  CB_16
+REMARK   10  A    between atoms: CA_15  and  C_19
+REMARK   11  A    between atoms: CA_22  and  C_26
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK A   0       0.161   0.230   0.000  0.00  0.00    +0.000 C 
+ATOM      2  O   UNK A   0       0.161   1.055   0.000  0.00  0.00    +0.000 OA
+ATOM      3  N   VAL A   1      -0.554  -0.183   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3   4
+ATOM      4  CA  VAL A   1      -1.268   0.230   0.000  0.00  0.00    +0.000 C 
+BRANCH   4   5
+ATOM      5  C   VAL A   1      -1.983  -0.183   0.000  0.00  0.00    +0.000 C 
+ATOM      6  O   VAL A   1      -1.983  -1.008   0.000  0.00  0.00    +0.000 OA
+ATOM      7  N   PRO A   2      -2.697   0.230   0.000  0.00  0.00    +0.000 N 
+ATOM      8  CA  PRO A   2      -3.451  -0.106   0.000  0.00  0.00    +0.000 C 
+ATOM      9  CD  PRO A   2      -2.784   1.050   0.000  0.00  0.00    +0.000 C 
+ATOM     10  CG  PRO A   2      -3.591   1.222   0.000  0.00  0.00    +0.000 C 
+ATOM     11  CB  PRO A   2      -4.003   0.507   0.000  0.00  0.00    +0.000 C 
+BRANCH   8  12
+ATOM     12  C   PRO A   2      -3.623  -0.913   0.000  0.00  0.00    +0.000 C 
+ATOM     13  O   PRO A   2      -3.010  -1.465   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   8  12
+ENDBRANCH   4   5
+BRANCH   4  14
+ATOM     14  CB  VAL A   1      -1.268   1.055   0.000  0.00  0.00    +0.000 C 
+ATOM     15  CG1 VAL A   1      -1.983   1.467   0.000  0.00  0.00    +0.000 C 
+ATOM     16  CG2 VAL A   1      -0.554   1.467   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   4  14
+ENDBRANCH   3   4
+BRANCH   1  17
+ATOM     17  C   UNK A   0       0.875  -0.183   0.000  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  C   UNK A   0       0.875  -1.008   0.000  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C   UNK A   0       1.589  -1.420   0.000  0.00  0.00    +0.000 C 
+ATOM     20  O   UNK A   0       1.589  -2.245   0.000  0.00  0.00    +0.000 OA
+ATOM     21  N   UNK A   0       2.304  -1.008   0.000  0.00  0.00    +0.000 NA
+ATOM     22  O   UNK A   0       3.018  -1.420   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+BRANCH  17  23
+ATOM     23  C   UNK A   0       1.589   0.230   0.000  0.00  0.00    +0.000 C 
+BRANCH  23  24
+ATOM     24  C   UNK A   0       2.304  -0.183   0.000  0.00  0.00    +0.000 C 
+BRANCH  24  25
+ATOM     25  C   UNK A   0       3.018   0.230   0.000  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C   UNK A   0       3.733  -0.183   0.000  0.00  0.00    +0.000 C 
+ATOM     27  C   UNK A   0       4.447   0.230   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  25  26
+ENDBRANCH  24  25
+ENDBRANCH  23  24
+ENDBRANCH  17  23
+ENDBRANCH   1  17
+TORSDOF 11

@@ -1,0 +1,189 @@
+1268
+  Mrv0541 02231215222D          
+
+ 29 31  0  0  0  0            999 V2000
+    1.6500   -1.1857    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    1.6702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8806   -2.0107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0675    1.7635    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498   -0.9455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1546    0.7122    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -2.6746    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5144    1.1515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7949    0.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9746    0.3606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6377   -0.3925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7077    1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9650   -0.5343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8742    1.5906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8140    2.5486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3480    0.8852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5741   -1.3467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8304   -0.5626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.5982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5633    1.0758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.4232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7181   -0.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0556   -2.0107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4273    2.2028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3671    3.1608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.1857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.5982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.4232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 28  1  0  0  0  0
+  2 16  2  0  0  0  0
+  3 23  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 21  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 26  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 27 29  2  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01268
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H27FN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-
+
+> <INCHI_KEY>
+WINHZLLDWRZWRT-ATVHPVEESA-N
+
+> <FORMULA>
+C22H27FN4O2
+
+> <MOLECULAR_WEIGHT>
+398.4738
+
+> <EXACT_MASS>
+398.211804333
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9909832169410497
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.73934209398874
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[2-(diethylamino)ethyl]-5-{[(3Z)-5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-ylidene]methyl}-2,4-dimethyl-1H-pyrrole-3-carboxamide
+
+> <ALOGPS_LOGP>
+3.24
+
+> <JCHEM_LOGP>
+2.9273768136666662
+
+> <ALOGPS_LOGS>
+-4.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.821863487808587
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.464278939168288
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.04269290383312
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.23
+
+> <JCHEM_REFRACTIVITY>
+116.26629999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.08e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01268
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB07417
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Sunitinib
+
+> <SYNONYMS>
+Sunitinib; Sunitinibum
+
+> <PRODUCTS>
+Auro-sunitinib; Sandoz Sunitinib; Sunitinib Accord; Sunitinib Malate; Sunitinib malate; Sutent; Taro-sunitinib
+
+> <SALTS>
+Sunitinib malate
+
+$$$$

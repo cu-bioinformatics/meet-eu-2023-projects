@@ -1,0 +1,173 @@
+BSM
+  Mrv0541 02241213282D          
+
+ 27 29  0  0  0  0            999 V2000
+   -0.7784    3.2202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0640    2.8077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0640    1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6505    1.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6505    0.7452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7784    1.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7784    0.7452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0640    0.3327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0640   -0.4923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7314   -0.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5160   -0.7222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6875    0.0847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1291   -1.2743    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9137   -1.0193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5268   -1.5714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4765   -1.7618    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3485   -1.7618    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6035   -0.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3881   -0.7222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5596    0.0847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3443    0.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5158    1.1466    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9573   -0.2124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7420    0.0426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7858   -1.0193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0012   -1.2743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8297   -2.0813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07495
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCNC(=O)C1=NNC(=C1C1=CC=C(OC)C=C1)C1=CC(Cl)=C(O)C=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H18ClN3O4/c1-3-21-19(26)18-16(10-4-6-11(27-2)7-5-10)17(22-23-18)12-8-13(20)15(25)9-14(12)24/h4-9,24-25H,3H2,1-2H3,(H,21,26)(H,22,23)
+
+> <INCHI_KEY>
+HUNAOTXNHVALTN-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H18ClN3O4
+
+> <MOLECULAR_WEIGHT>
+387.817
+
+> <EXACT_MASS>
+387.098583786
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.1370822476580007
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.22367808443128
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(5-chloro-2,4-dihydroxyphenyl)-N-ethyl-4-(4-methoxyphenyl)-1H-pyrazole-3-carboxamide
+
+> <ALOGPS_LOGP>
+3.65
+
+> <JCHEM_LOGP>
+3.1480990633333334
+
+> <ALOGPS_LOGS>
+-4.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.178003243048
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.831345429004086
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.1835903075929288
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.47
+
+> <JCHEM_REFRACTIVITY>
+103.47679999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07495
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(5-CHLORO-2,4-DIHYDROXYPHENYL)-N-ETHYL-4-(4-METHOXYPHENYL)-1H-PYRAZOLE-3-CARBOXAMIDE
+
+$$$$

@@ -1,0 +1,146 @@
+EMT
+  Mrv0541 02231216252D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.0504   -0.3957    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0504    0.4293    0.0000 Hg  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7648    0.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7648    1.6668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3359   -0.8082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3359   -1.6332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786   -2.0457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930   -1.6332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930   -0.8082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786   -0.3957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3786    0.4293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930    0.8418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3359    0.8418    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02731
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[Hg]SC1=CC=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O2S.C2H5.Hg/c8-7(9)5-3-1-2-4-6(5)10;1-2;/h1-4,10H,(H,8,9);1H2,2H3;/q;;+1/p-1
+
+> <INCHI_KEY>
+HXQVQGWHFRNKMS-UHFFFAOYSA-M
+
+> <FORMULA>
+C9H10HgO2S
+
+> <MOLECULAR_WEIGHT>
+382.83
+
+> <EXACT_MASS>
+384.010775858
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9995842367067216
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.078254797521716
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2-carboxyphenyl)sulfanyl](ethyl)mercury
+
+> <ALOGPS_LOGP>
+2.15
+
+> <JCHEM_LOGP>
+2.3533999999999997
+
+> <ALOGPS_LOGS>
+-1.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.619026745143535
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+48.98720000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.63e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02731
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01342
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ethylmercurithiosalicylic acid
+
+> <SYNONYMS>
+[(o-carboxyphenyl)thio]ethylmercury; 2-(ethylmercuri-thio)-benzoic acid; 2-(ethylmercuriothio)benzoic acid
+
+> <INTERNATIONAL_BRANDS>
+Elcide; Merseptyl
+
+$$$$

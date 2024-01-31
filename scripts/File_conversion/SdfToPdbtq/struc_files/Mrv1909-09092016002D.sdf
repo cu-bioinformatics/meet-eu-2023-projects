@@ -1,0 +1,157 @@
+
+  Mrv1909 09092016002D          
+
+ 21 18  0  0  0  0            999 V2000
+   -4.0020    0.4517    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+   -0.9125    1.7262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1965    2.1360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5272    1.7294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2340    2.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2340    2.9700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9522    1.7667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6635    2.1925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3770    1.7997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6179    2.1326    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9125    0.9098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8456   -1.2647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1296   -0.8549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5942   -1.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3010   -0.8358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3010   -0.0210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0192   -1.2242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7305   -0.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -1.1913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5509   -0.8583    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.8456   -2.0811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  2  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  5  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  2  1  0  0  0  0
+ 11  2  2  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 12  1  0  0  0  0
+ 21 12  2  0  0  0  0
+M  CHG  3   1   2  10  -1  20  -1
+M  END
+> <DATABASE_ID>
+DB15818
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Zn++].CCOC(=O)\C=C\C([O-])=O.CCOC(=O)\C=C\C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C6H8O4.Zn/c2*1-2-10-6(9)4-3-5(7)8;/h2*3-4H,2H2,1H3,(H,7,8);/q;;+2/p-2/b2*4-3+;
+
+> <INCHI_KEY>
+DASOVGGSCVXZMC-SYWGCQIGSA-L
+
+> <FORMULA>
+C12H14O8Zn
+
+> <MOLECULAR_WEIGHT>
+351.62
+
+> <EXACT_MASS>
+349.998009
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9998065306857876
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.191102883690919
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+zinc(2+) bis((2E)-4-ethoxy-4-oxobut-2-enoate)
+
+> <ALOGPS_LOGP>
+1.82
+
+> <JCHEM_LOGP>
+0.6951210126666666
+
+> <ALOGPS_LOGS>
+-3.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.2866961231324323
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.834751266518598
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.43
+
+> <JCHEM_REFRACTIVITY>
+44.961800000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.88e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15818
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Zinc monoethylfumarate
+
+> <SYNONYMS>
+Ethyl fumarate zinc; Ethyl hydrogenfumarate-zinc; Monoethyl fumarate zinc salt; Zinc di(ethyl fumarate); Zinc ethyl fumarate; Zinc monoethylfumarate
+
+$$$$

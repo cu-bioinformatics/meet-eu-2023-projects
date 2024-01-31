@@ -1,0 +1,143 @@
+NP2
+  Mrv0541 02241213592D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.3896   -0.5702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6750   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9606   -0.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2460   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4685   -0.5702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831    0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8975   -0.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8975   -1.3953    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6121   -1.8078    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831   -1.8078    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.8975    1.0799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6121   -0.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6121    0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  CHG  2   9   1  11  -1
+M  END
+> <DATABASE_ID>
+DB08291
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NCCCNC1=CC=CC=C1[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N3O2/c10-6-3-7-11-8-4-1-2-5-9(8)12(13)14/h1-2,4-5,11H,3,6-7,10H2
+
+> <INCHI_KEY>
+GVGDDEYVTBKACE-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13N3O2
+
+> <MOLECULAR_WEIGHT>
+195.2184
+
+> <EXACT_MASS>
+195.100776675
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9984816594661066
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.22342060199297
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N1-(2-nitrophenyl)propane-1,3-diamine
+
+> <ALOGPS_LOGP>
+1.43
+
+> <JCHEM_LOGP>
+1.298984063
+
+> <ALOGPS_LOGS>
+-2.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.612954186079097
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.817559518223566
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.19
+
+> <JCHEM_REFRACTIVITY>
+55.38750000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.78e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08291
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(3-AMINOPROPYL)-2-NITROBENZENAMINE
+
+$$$$

@@ -1,0 +1,146 @@
+
+  Mrv1909 12241914222D          
+
+ 16 16  0  0  0  0            999 V2000
+   -0.3611    0.0783    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3611   -2.3966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7901   -1.5716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0677   -1.5716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7901    0.9033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7823    1.3159    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3533    1.3159    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0677    0.0783    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3611   -1.5716    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0756   -1.1591    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3533   -1.1591    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0756   -0.3341    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3533   -0.3341    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7901    0.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0677    0.9033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7823    2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  9  2  1  1  0  0  0
+ 10  3  1  6  0  0  0
+ 11  4  1  6  0  0  0
+  5 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 15  2  0  0  0  0
+ 13  8  1  1  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03657
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC(=O)N[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO7/c1-15-8(14)9-7-6(13)5(12)4(11)3(2-10)16-7/h3-7,10-13H,2H2,1H3,(H,9,14)/t3-,4-,5+,6-,7-/m1/s1
+
+> <INCHI_KEY>
+IZZJOGWXTFEDLL-XUUWZHRGSA-N
+
+> <FORMULA>
+C8H15NO7
+
+> <MOLECULAR_WEIGHT>
+237.2072
+
+> <EXACT_MASS>
+237.084851839
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-8.625165242900095e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.99317176319807
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+methyl N-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]carbamate
+
+> <JCHEM_LOGP>
+-2.6012832756666673
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.752601083484409
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.224796805331358
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.980250266596621
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.48000000000002
+
+> <JCHEM_REFRACTIVITY>
+48.6483
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,5R)-5-(5-fluoro-2,4-dioxo-3H-pyrimidin-1-yl)-3-hydroxyoxolan-2-yl]methoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03657
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01010
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-deoxy-1-methoxycarbamido-beta-D-glucopyranose
+
+> <SYNONYMS>
+N-(Methoxycarbonyl)-β-D-glucopyranosylamine
+
+$$$$

@@ -1,0 +1,167 @@
+565
+  Mrv0541 02241213142D          
+
+ 26 27  0  0  0  0            999 V2000
+   -1.5897    0.5984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8752    1.0109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1607    0.5984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1607   -0.2266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8752   -0.6391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5897   -0.2266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8752   -1.4641    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8752    1.8359    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5537    1.0109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2682    0.5984    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9827    1.0109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6971    0.5984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4116    1.0109    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2682   -0.2266    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6971   -0.2266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3500    1.8336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9547    2.3947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7705    2.2718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1830    1.5573    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8816    0.7893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0933    0.5461    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9703   -0.2696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4428    0.1845    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3041   -0.6391    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7625    0.3064    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5581    0.3126    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 24  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 25  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  1  0  0  0
+ 21 26  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB07154
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC(=O)N1CCCNC(=O)[C@@]1([H])C)CC1=C(F)C=C(F)C(F)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20F3N3O2/c1-9-16(24)21-3-2-4-22(9)15(23)7-11(20)5-10-6-13(18)14(19)8-12(10)17/h6,8-9,11H,2-5,7,20H2,1H3,(H,21,24)/t9-,11-/m1/s1
+
+> <INCHI_KEY>
+SWKGZJAAGSVROJ-MWLCHTKSSA-N
+
+> <FORMULA>
+C16H20F3N3O2
+
+> <MOLECULAR_WEIGHT>
+343.3441
+
+> <EXACT_MASS>
+343.150761514
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9838555745007433
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.936379496533426
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-4-[(3R)-3-amino-4-(2,4,5-trifluorophenyl)butanoyl]-3-methyl-1,4-diazepan-2-one
+
+> <ALOGPS_LOGP>
+0.74
+
+> <JCHEM_LOGP>
+0.5828696966666671
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.621253173730922
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.784915290743596
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.43
+
+> <JCHEM_REFRACTIVITY>
+82.19919999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07154
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R)-4-[(3R)-3-AMINO-4-(2,4,5-TRIFLUOROPHENYL)BUTANOYL]-3-METHYL-1,4-DIAZEPAN-2-ONE
+
+$$$$

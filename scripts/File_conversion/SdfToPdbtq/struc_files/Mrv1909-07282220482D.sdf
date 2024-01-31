@@ -1,0 +1,182 @@
+
+  Mrv1909 07282220482D          
+
+ 28 31  0  0  0  0            999 V2000
+    0.3486    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3486    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0630    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0630    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0803    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3486   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658   -1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3486   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3486   -2.8874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0803   -2.8874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0803   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6880    0.6578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8810    0.8295    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7948    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5484    1.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1005    1.3724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9209    1.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7775    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7775    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4920    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2064    2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2064    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4920    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9209    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 10 15  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1  8  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+  7 18  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 22 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+  5 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16891
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CCN(CC1)C1=CC(NC2=NNC(C)=C2)=NC(\C=C\C2=CC=CC=C2)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H25N7/c1-16-14-20(26-25-16)23-19-15-21(28-12-10-27(2)11-13-28)24-18(22-19)9-8-17-6-4-3-5-7-17/h3-9,14-15H,10-13H2,1-2H3,(H2,22,23,24,25,26)/b9-8+
+
+> <INCHI_KEY>
+BLQYVHBZHAISJM-CMDGGOBGSA-N
+
+> <FORMULA>
+C21H25N7
+
+> <MOLECULAR_WEIGHT>
+375.48
+
+> <EXACT_MASS>
+375.217143833
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.0633137708086533
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.36626145190412
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(5-methyl-1H-pyrazol-3-yl)-6-(4-methylpiperazin-1-yl)-2-[(1E)-2-phenylethenyl]pyrimidin-4-amine
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+4.828861822333334
+
+> <ALOGPS_LOGS>
+-4.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.489139464060212
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.071450056273417
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.330575753278646
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.97
+
+> <JCHEM_REFRACTIVITY>
+116.50540000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.38e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-(5-methyl-1H-pyrazol-3-yl)-6-(4-methylpiperazin-1-yl)-2-[(1E)-2-phenylethenyl]pyrimidin-4-amine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16891
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+ENMD-2076 free base
+
+> <SYNONYMS>
+(E)-N-(5-Methyl-1H-pyrazol-3-yl)-6-(4-methylpiperazin-1-yl)-2-styrylpyrimidin-4-amine; ENMD-2076 free base
+
+> <SALTS>
+ENMD-2076
+
+$$$$

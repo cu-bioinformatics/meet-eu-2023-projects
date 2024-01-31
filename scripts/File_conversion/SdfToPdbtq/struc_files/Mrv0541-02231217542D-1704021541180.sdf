@@ -1,0 +1,181 @@
+
+  Mrv0541 02231217542D          
+
+ 32 32  0  0  1  0            999 V2000
+   -0.3615    0.4659    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0337    1.2230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5254    1.8854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7859    1.3176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1137    2.0747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9332    2.1693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4250    1.5069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2445    1.6015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7363    0.9391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5558    1.0337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8836    1.7908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0476    0.3713    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.7197   -0.3858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9002   -0.4804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7528   -1.3321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8671    0.4659    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3588   -0.1965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0310   -0.9536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1784   -0.1019    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.6701   -0.7643    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4897   -0.6697    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5843   -1.4893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3950    0.1499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3092   -0.5751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8010   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6205   -1.1429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062    0.6552    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.3258    0.7498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0145    1.3176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0972    0.7498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2776    0.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 12 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  1  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 20 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  1  0  0  0
+  7 31  1  0  0  0  0
+ 31 32  2  0  0  0  0
+  4 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04767
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCS(=O)(=O)N[C@H]([C@H](C)O)C(=O)N[C@@H](CCSC)C(=O)NCC1=CC=C(C=C1)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H33N5O5S2/c1-4-11-32(29,30)25-17(13(2)26)20(28)24-16(9-10-31-3)19(27)23-12-14-5-7-15(8-6-14)18(21)22/h5-8,13,16-17,25-26H,4,9-12H2,1-3H3,(H3,21,22)(H,23,27)(H,24,28)/t13-,16-,17+/m0/s1
+
+> <INCHI_KEY>
+AIIJKVORRBMJHS-RRQGHBQHSA-N
+
+> <FORMULA>
+C20H33N5O5S2
+
+> <MOLECULAR_WEIGHT>
+487.637
+
+> <EXACT_MASS>
+487.192310571
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+65
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9748098056229626
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+51.28167992694827
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-N-[(1S)-1-{[(4-carbamimidoylphenyl)methyl]carbamoyl}-3-(methylsulfanyl)propyl]-3-hydroxy-2-(propane-1-sulfonamido)butanamide
+
+> <ALOGPS_LOGP>
+-0.10
+
+> <JCHEM_LOGP>
+-0.9754861093207128
+
+> <ALOGPS_LOGS>
+-3.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.140789311244065
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.58860349612607
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.37395538817264
+
+> <JCHEM_POLAR_SURFACE_AREA>
+174.46999999999997
+
+> <JCHEM_REFRACTIVITY>
+136.29109999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.89e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04767
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[1-(4-CARBAMIMIDOYL-BENZYLCARBAMOYL)-3-METHYLSULFANYL-PROPYL]-3-HYDROXY-2-PROPOXYAMINO-BUTYRAMID
+
+$$$$

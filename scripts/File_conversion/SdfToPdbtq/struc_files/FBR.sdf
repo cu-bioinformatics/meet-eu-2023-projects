@@ -1,0 +1,156 @@
+FBR
+  Mrv0541 02241213382D          
+
+ 20 22  0  0  0  0            999 V2000
+    3.1412   -0.9430    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9482   -0.7714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5002   -1.3845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2453   -2.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7973   -2.7822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4383   -2.3407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1834   -3.1253    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8863   -1.7276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0613   -1.7276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5093   -2.3407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7023   -2.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4473   -1.3845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3596   -1.2130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9994   -0.7714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8063   -0.9430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4738   -0.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3128   -0.1360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6997    0.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8712    1.2230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2581    1.7751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 16  1  0  0  0  0
+  1 17  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07757
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCC[C@]12CC3=CC(O)=CC=C3C1=C(Br)C(=O)CC2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19BrO2/c1-2-3-7-17-8-6-14(20)16(18)15(17)13-5-4-12(19)9-11(13)10-17/h4-5,9,19H,2-3,6-8,10H2,1H3/t17-/m0/s1
+
+> <INCHI_KEY>
+FTEBGBCQCYMDPH-KRWDZBQOSA-N
+
+> <FORMULA>
+C17H19BrO2
+
+> <MOLECULAR_WEIGHT>
+335.236
+
+> <EXACT_MASS>
+334.056842499
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.011510344232859994
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.77290081417773
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(9aS)-4-bromo-9a-butyl-7-hydroxy-2,3,9,9a-tetrahydro-1H-fluoren-3-one
+
+> <ALOGPS_LOGP>
+5.10
+
+> <JCHEM_LOGP>
+4.777910309
+
+> <ALOGPS_LOGS>
+-4.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.933883816910495
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.13228762420707
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+84.77260000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.06e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB07757
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(9aS)-4-bromo-9a-butyl-7-hydroxy-1,2,9,9a-tetrahydro-3H-fluoren-3-one
+
+$$$$

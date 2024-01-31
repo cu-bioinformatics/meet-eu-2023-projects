@@ -1,0 +1,176 @@
+FRM
+  Mrv0541 02231216402D          
+
+ 28 31  0  0  0  0            999 V2000
+   -3.1300    2.1455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4155    1.7330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7010    2.1455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7010    2.9705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4155    3.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1300    2.9705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9866    1.7330    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2721    2.1455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2721    2.9705    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9866    3.3830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9866    4.2080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4424    1.7330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4424    0.9080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569    0.4955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -0.3295    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8713   -0.7420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8713   -1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -1.9795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4424   -1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4424   -0.7420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -2.8045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8713   -3.2170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8713   -4.0420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -4.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4424   -4.0420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4424   -3.2170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4155    0.9080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -5.2795    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 28  1  0  0  0  0
+ 25 26  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03072
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=CC2=C1N=C(CCCN1CCC(=CC1)C1=CC=C(F)C=C1)NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H24FN3O/c1-16-4-2-5-20-22(16)25-21(26-23(20)28)6-3-13-27-14-11-18(12-15-27)17-7-9-19(24)10-8-17/h2,4-5,7-11H,3,6,12-15H2,1H3,(H,25,26,28)
+
+> <INCHI_KEY>
+LOFDUAJQRUYHBR-UHFFFAOYSA-N
+
+> <FORMULA>
+C23H24FN3O
+
+> <MOLECULAR_WEIGHT>
+377.4546
+
+> <EXACT_MASS>
+377.19034061
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0653994316329676
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.18895465066841
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{3-[4-(4-fluorophenyl)-1,2,3,6-tetrahydropyridin-1-yl]propyl}-8-methyl-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+3.89
+
+> <JCHEM_LOGP>
+3.810142988392567
+
+> <ALOGPS_LOGS>
+-4.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.980474129126712
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.789314219577797
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.7
+
+> <JCHEM_REFRACTIVITY>
+113.0125
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.26e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03072
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01494
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-{3-[4-(4-Fluorophenyl)-3,6-Dihydro-1(2h)-Pyridinyl]Propyl}-8-Methyl-4(3h)-Quinazolinone
+
+$$$$

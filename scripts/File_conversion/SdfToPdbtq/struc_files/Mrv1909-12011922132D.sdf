@@ -1,0 +1,163 @@
+
+  Mrv1909 12011922132D          
+
+ 23 25  0  0  0  0            999 V2000
+   -0.6469    0.8003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6469   -0.0247    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1376    1.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4719    0.8003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6226    0.3877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1376   -0.2796    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4719   -0.0247    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1376   -1.6324    0.0000 S   0  3  2  0  0  0  0  0  0  0  0  0
+    0.3926    1.8398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4476    0.3877    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0553    1.3836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5245   -1.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8601   -0.3267    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0514   -2.4529    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.0553   -0.6080    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1594    2.4528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8521   -1.2198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6805   -0.4129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1995    2.0113    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8417   -1.4050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8521   -0.3945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7760   -0.8395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2341    0.2909    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  3  2  0  0  0  0
+  6  2  1  0  0  0  0
+  7  4  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9  3  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  4  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 10  1  1  0  0  0
+  8 14  1  1  0  0  0
+ 15  7  1  0  0  0  0
+ 16  9  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 19  9  1  0  0  0  0
+ 15 20  1  6  0  0  0
+ 21 15  1  0  0  0  0
+  2 22  1  1  0  0  0
+  7 23  1  6  0  0  0
+  2  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  8 17  1  0  0  0  0
+M  CHG  2   8   1  14  -1
+M  END
+> <DATABASE_ID>
+DB15284
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(S[C@H]3CC[S@@+]([O-])C3)=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H15NO5S3/c1-5(14)7-9(15)13-8(11(16)17)12(20-10(7)13)19-6-2-3-21(18)4-6/h5-7,10,14H,2-4H2,1H3,(H,16,17)/t5-,6+,7+,10-,21-/m1/s1
+
+> <INCHI_KEY>
+FLSUCZWOEMTFAQ-PRBGKLEPSA-N
+
+> <FORMULA>
+C12H15NO5S3
+
+> <MOLECULAR_WEIGHT>
+349.43
+
+> <EXACT_MASS>
+349.011236109
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.8806317034764
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,3S)-3-{[(5R,6S)-2-carboxy-6-[(1R)-1-hydroxyethyl]-7-oxo-4-thia-1-azabicyclo[3.2.0]hept-2-en-3-yl]sulfanyl}thiolan-1-ium-1-olate
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-1.3205261806666666
+
+> <ALOGPS_LOGS>
+-1.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.888108420709688
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6487816870220278
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8100504298100617
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.91000000000001
+
+> <JCHEM_REFRACTIVITY>
+93.54009999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.29e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-N-[(5aR,6aS,7S,10aS)-9-carbamoyl-7-(dimethylamino)-4-fluoro-1,8,10a,11-tetrahydroxy-10,12-dioxo-5a,6,6a,7-tetrahydro-5H-tetracen-2-yl]-1-methylpyrrolidine-2-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15284
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Sulopenem
+
+> <SYNONYMS>
+Sulopenem
+
+$$$$

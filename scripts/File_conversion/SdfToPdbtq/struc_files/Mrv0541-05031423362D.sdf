@@ -1,0 +1,176 @@
+
+  Mrv0541 05031423362D          
+
+ 27 29  0  0  1  0            999 V2000
+    1.1387    5.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    4.3099    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992    4.0549    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0992    3.2299    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    2.9750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6378    3.1729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    4.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    2.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4556    6.8353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9853    5.7957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4160    6.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9457    5.2660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3687    3.6424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2006    6.0507    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1361    4.6585    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0583    4.8648    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6359    3.6045    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3004    2.3916    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  1  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  5  2  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  2  2  0  0  0  0
+ 12  8  1  0  0  0  0
+ 13  2  1  0  0  0  0
+ 13  9  2  0  0  0  0
+ 14  3  2  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15  3  1  0  0  0  0
+ 15  5  1  0  0  0  0
+ 10 15  1  6  0  0  0
+  6 16  1  6  0  0  0
+  7 17  1  6  0  0  0
+ 21  1  1  0  0  0  0
+ 22  4  1  0  0  0  0
+ 22 10  1  0  0  0  0
+ 23 18  1  0  0  0  0
+ 23 19  1  0  0  0  0
+ 23 20  2  0  0  0  0
+ 23 21  1  0  0  0  0
+  4 24  1  6  0  0  0
+  6 25  1  1  0  0  0
+  7 26  1  1  0  0  0
+ 10 27  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03887
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(COP(O)(O)=O)O[C@]([H])(N2C=NC3=NC=NC(N)=C23)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O7P/c11-8-5-9(13-2-12-8)14-3-15(5)10-7(17)6(16)4(22-10)1-21-23(18,19)20/h2-4,6-7,10,16-17H,1H2,(H2,11,12,13)(H2,18,19,20)/t4-,6-,7-,10+/m1/s1
+
+> <INCHI_KEY>
+NVOIXARBSSLBAS-CRKDRTNXSA-N
+
+> <FORMULA>
+C10H14N5O7P
+
+> <MOLECULAR_WEIGHT>
+347.2212
+
+> <EXACT_MASS>
+347.063084339
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9151331345339282
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.54140418064901
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5S)-5-(6-amino-7H-purin-7-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-3.12
+
+> <JCHEM_LOGP>
+-4.446843855879967
+
+> <ALOGPS_LOGS>
+-2.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.258439566399982
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2227117087891528
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.5391043822709687
+
+> <JCHEM_POLAR_SURFACE_AREA>
+186.06999999999996
+
+> <JCHEM_REFRACTIVITY>
+75.68869999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.34e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03887
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00383
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Alpha-Adenosine Monophosphate
+
+$$$$

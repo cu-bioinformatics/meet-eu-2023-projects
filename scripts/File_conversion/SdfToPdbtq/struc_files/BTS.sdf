@@ -1,0 +1,152 @@
+BTS
+  Mrv0541 02231216432D          
+
+ 17 18  0  0  0  0            999 V2000
+   -2.9352   -0.7287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5227   -0.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5227   -1.4432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1457    0.5988    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3920    0.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4783   -0.5572    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2852   -0.7287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6977   -0.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6977   -1.4432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3224    0.6758    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0369    0.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7514    0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4658    0.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1803    0.6758    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8948    1.0883    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5928   -0.0387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7678    1.3903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03132
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OS(=O)(=O)CCCSC1=NC2=C(S1)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO3S3/c12-17(13,14)7-3-6-15-10-11-8-4-1-2-5-9(8)16-10/h1-2,4-5H,3,6-7H2,(H,12,13,14)
+
+> <INCHI_KEY>
+XBNHRNFODJOFRU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11NO3S3
+
+> <MOLECULAR_WEIGHT>
+289.394
+
+> <EXACT_MASS>
+288.990105293
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9999987189700688
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.80988796660506
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(1,3-benzothiazol-2-ylsulfanyl)propane-1-sulfonic acid
+
+> <ALOGPS_LOGP>
+1.19
+
+> <JCHEM_LOGP>
+0.2991651181401332
+
+> <ALOGPS_LOGS>
+-3.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.275309294127154
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.1075680672091517
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.26
+
+> <JCHEM_REFRACTIVITY>
+68.96179999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03132
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00770
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(2-Benzothiazolylthio)-1-Propanesulfonic Acid
+
+$$$$

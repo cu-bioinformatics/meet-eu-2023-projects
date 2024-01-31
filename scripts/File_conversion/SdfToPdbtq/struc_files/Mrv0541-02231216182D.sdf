@@ -1,0 +1,169 @@
+
+  Mrv0541 02231216182D          
+
+ 24 25  0  0  1  0            999 V2000
+   -7.1729    2.4186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8374    1.6649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0169    1.5787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6813    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8608    0.7388    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.3088    1.3519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5551    1.0163    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8407    1.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1262    1.0163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4117    1.4288    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8242    2.1433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9992    0.7143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6972    1.8413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0172    1.4288    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7317    1.0163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4297    2.1433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3953    0.7143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6414    0.1958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4483    0.0243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1662    0.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8307   -0.5961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9867    0.2438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3223    0.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.1428    1.0837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+  7 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  5 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+  2 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02569
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CN([C@@H]2O[C@H](CO[P@@](O)(=O)OP(O)(O)=O)C=C2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2O10P2/c1-6-4-12(10(14)11-9(6)13)8-3-2-7(21-8)5-20-24(18,19)22-23(15,16)17/h2-4,7-8H,5H2,1H3,(H,18,19)(H,11,13,14)(H2,15,16,17)/t7-,8+/m0/s1
+
+> <INCHI_KEY>
+LXCAIISEDMYORY-JGVFFNPUSA-N
+
+> <FORMULA>
+C10H14N2O10P2
+
+> <MOLECULAR_WEIGHT>
+384.1731
+
+> <EXACT_MASS>
+384.012367702
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.431507961493853
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.35158878643766
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[hydroxy({[(2S,5R)-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy})phosphoryl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.20
+
+> <JCHEM_LOGP>
+-0.7771706053333326
+
+> <ALOGPS_LOGS>
+-1.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.2094760208893427
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7710814633392837
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.223922008944393
+
+> <JCHEM_POLAR_SURFACE_AREA>
+171.93
+
+> <JCHEM_REFRACTIVITY>
+77.06209999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.53e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02569
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01096
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2',3'-Dehydro-2',3'-Deoxy-Thymidine 5'-Diphosphate
+
+$$$$

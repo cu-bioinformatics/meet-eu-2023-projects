@@ -1,0 +1,164 @@
+
+  Mrv1909 01262017112D          
+
+ 18 20  0  0  0  0            999 V2000
+   -0.8962   -0.9655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8962   -1.7906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5975   -2.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3401   -1.7906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3401   -0.9655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5975   -0.5530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1123   -0.7180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3827   -1.3781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1123   -2.0381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5975    0.2720    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0099    0.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1849    0.9734    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4687    1.3831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2316    0.9748    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9367    1.3780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6330    0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9367    2.2031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3401    1.3769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+ 10  6  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09071
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(=O)NC[C@@H]1C[C@H]1C1=CC=CC2=C1CCO2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H19NO2/c1-2-15(17)16-9-10-8-13(10)11-4-3-5-14-12(11)6-7-18-14/h3-5,10,13H,2,6-9H2,1H3,(H,16,17)/t10-,13+/m0/s1
+
+> <INCHI_KEY>
+PTOIAAWZLUQTIO-GXFFZTMASA-N
+
+> <FORMULA>
+C15H19NO2
+
+> <MOLECULAR_WEIGHT>
+245.322
+
+> <EXACT_MASS>
+245.141578856
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.05966247600853131
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.515584969904353
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-{[(1R,2R)-2-(2,3-dihydro-1-benzofuran-4-yl)cyclopropyl]methyl}propanamide
+
+> <ALOGPS_LOGP>
+2.53
+
+> <JCHEM_LOGP>
+1.9775411676666674
+
+> <ALOGPS_LOGS>
+-3.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.739439078225127
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.1975952704927078
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+70.3479
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.81e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tasimelteon
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09071
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05359
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tasimelteon
+
+> <SYNONYMS>
+N-{[(1R,2R)-2-(2,3-dihydro-1-benzofuran-4-yl)cyclopropyl]methyl}propanamide; Tasimeltéon; Tasimelteon; Tasimelteón; Tasimelteonum
+
+> <PRODUCTS>
+Hetlioz; Hetlioz LQ
+
+> <INTERNATIONAL_BRANDS>
+Hetlioz
+
+$$$$

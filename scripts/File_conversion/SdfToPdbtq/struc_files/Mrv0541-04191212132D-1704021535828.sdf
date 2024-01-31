@@ -1,0 +1,177 @@
+
+  Mrv0541 04191212132D          
+
+ 23 25  0  0  0  0            999 V2000
+   -3.4179    0.7661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1323    1.1786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8468    0.7661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8468   -0.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1323   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4179   -0.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7034   -0.4714    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9889   -0.0589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9889    0.7661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7034    1.1786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2744    1.1786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2744    2.0036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5600    2.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1545    3.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5600    3.2411    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1545    2.0036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8690    2.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8690    3.2411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2744   -0.4714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7034    2.0036    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5599    0.7661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2868   -1.0548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1200   -1.0548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 13  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 21  2  0  0  0  0
+  7 22  2  0  0  0  0
+  7 23  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00554
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(C(=O)NC2=NC=CC=C2)=C(O)C2=C(C=CC=C2)S1(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13N3O4S/c1-18-13(15(20)17-12-8-4-5-9-16-12)14(19)10-6-2-3-7-11(10)23(18,21)22/h2-9,19H,1H3,(H,16,17,20)
+
+> <INCHI_KEY>
+QYSPLQLAKJAUJT-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H13N3O4S
+
+> <MOLECULAR_WEIGHT>
+331.346
+
+> <EXACT_MASS>
+331.062676609
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9954827888485249
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.27132005648817
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hydroxy-2-methyl-1,1-dioxo-N-(pyridin-2-yl)-2H-1lambda6,2-benzothiazine-3-carboxamide
+
+> <ALOGPS_LOGP>
+2.20
+
+> <JCHEM_LOGP>
+0.5998838320211013
+
+> <ALOGPS_LOGS>
+-3.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.734046266182963
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.760423459469113
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.792497901770875
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.6
+
+> <JCHEM_REFRACTIVITY>
+87.0435
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.43e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00554
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01187
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Piroxicam
+
+> <SYNONYMS>
+4-Hydroxy-2-methyl-N-(2-pyridyl)-2H-1,2-benzothiazin-3-caboxyamid-1,1-dioxid; Piroxicam; Piroxicam betadex; Piroxicamum; Pyroxycam
+
+> <PRODUCTS>
+Alti-piroxicam-cap 10mg; Alti-piroxicam-cap 20mg; Apo Piroxicam Cap 10mg; Apo Piroxicam Cap 20mg; Dom-piroxicam; Feldene; Feldene Cap 10mg; Feldene Cap 20mg; Feldene Sup 10mg; Feldene Sup 20mg; Fexicam; Gen-piroxicam - Cap 20mg; Gen-piroxicam-cap 10mg; Nu-pirox Cap 10mg; Nu-pirox Cap 20mg; PMS-piroxicam; PMS-piroxicam Suppositories -20mg; PMS-piroxicam Suppositories-10mg; Penta-piroxicam Capsules; Piroxicam; Piroxicam Capsules 10mg; Piroxicam Capsules 20mg; Pro-piroxicam Cap 10mg; Pro-piroxicam Cap 20mg; Rho-piroxicam - 10mg Cap; Rho-piroxicam - Cap 20mg; Teva-piroxicam; Therafeldamine
+
+> <INTERNATIONAL_BRANDS>
+Bruxicam; Dolonex; Erazon; Geldène; Improntal; Roxam; Roxiden; Sasulen; Solocalm; Trast
+
+$$$$

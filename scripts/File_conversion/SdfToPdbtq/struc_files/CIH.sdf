@@ -1,0 +1,164 @@
+CIH
+  Mrv0541 02241213302D          
+
+ 23 24  0  0  0  0            999 V2000
+    2.2115   -0.0821    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2115   -0.9071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9260   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9260   -2.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2115   -2.5571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4971   -2.1446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4971   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7826   -0.9071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0681   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6463   -0.9071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0681   -2.1446    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7826   -0.0821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0681    0.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6463   -0.0821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3608    0.3304    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3608    1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6463    1.5679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0753    1.5679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0753    2.3929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0753    3.2179    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7898    1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5042    1.5679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7898    0.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 19 20  3  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07559
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C\C(O)=C(/C#N)C(=O)NC1=CC(Cl)=C(C=C1)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H12Cl2N2O2/c1-10(22)14(9-20)17(23)21-11-6-7-13(16(19)8-11)12-4-2-3-5-15(12)18/h2-8,22H,1H3,(H,21,23)/b14-10-
+
+> <INCHI_KEY>
+DDSLONVJHZPSBB-UVTDQMKNSA-N
+
+> <FORMULA>
+C17H12Cl2N2O2
+
+> <MOLECULAR_WEIGHT>
+347.195
+
+> <EXACT_MASS>
+346.027583052
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9306721872280164
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.19077747494079
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2Z)-2-cyano-N-{2,2'-dichloro-[1,1'-biphenyl]-4-yl}-3-hydroxybut-2-enamide
+
+> <ALOGPS_LOGP>
+4.43
+
+> <JCHEM_LOGP>
+4.116349432333333
+
+> <ALOGPS_LOGS>
+-5.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.823253767437244
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.872121000083036
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2295786571553995
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.12
+
+> <JCHEM_REFRACTIVITY>
+93.1649
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.66e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07559
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2Z)-2-cyano-N-(2,2'-dichlorobiphenyl-4-yl)-3-hydroxybut-2-enamide
+
+$$$$

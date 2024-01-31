@@ -1,0 +1,123 @@
+REMARK  Name = 
+REMARK  23 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_4
+REMARK    2  A    between atoms: CB_4  and  CA_5
+REMARK    3  A    between atoms: CA_5  and  C_6
+REMARK    4  A    between atoms: CA_5  and  N_9
+REMARK    5  A    between atoms: C_10  and  CA_12
+REMARK    6  A    between atoms: CA_12  and  CB_13
+REMARK    7  A    between atoms: CA_12  and  N_18
+REMARK    8  A    between atoms: CB_13  and  CG_14
+REMARK    9  A    between atoms: CG_14  and  CD_15
+REMARK   10  A    between atoms: C_19  and  CA_21
+REMARK   11  A    between atoms: CA_21  and  CB_22
+REMARK   12  A    between atoms: CA_21  and  N_24
+REMARK   13  A    between atoms: C_25  and  CA_27
+REMARK   14  A    between atoms: CA_27  and  N_28
+REMARK   15  A    between atoms: C_29  and  CA_31
+REMARK   16  A    between atoms: CA_31  and  CB_32
+REMARK   17  A    between atoms: CA_31  and  N_36
+REMARK   18  A    between atoms: CB_32  and  CG_33
+REMARK   19  A    between atoms: C_37  and  CA_39
+REMARK   20  A    between atoms: CA_39  and  CB_40
+REMARK   21  A    between atoms: CA_39  and  N_44
+REMARK   22  A    between atoms: CB_40  and  CG_41
+REMARK   23  A    between atoms: CG_41  and  SD_42
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  MET A   1      18.091   7.145   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   MET A   1      18.805   7.557   0.000  0.00  0.00    +0.000 NA
+ATOM      3  C   MET A   1      19.520   7.145   0.000  0.00  0.00    +0.000 C 
+ATOM      4  O   MET A   1      19.520   6.320   0.000  0.00  0.00    +0.000 OA
+BRANCH   3   5
+ATOM      5  CA  MET A   1      20.234   7.557   0.000  0.00  0.00    +0.000 C 
+BRANCH   5   6
+ATOM      6  N   MET A   1      20.949   7.145   0.000  0.00  0.00    +0.000 NA
+ATOM      7  C   MET A   1      21.663   7.557   0.000  0.00  0.00    +0.000 C 
+ATOM      8  O   MET A   1      21.663   8.382   0.000  0.00  0.00    +0.000 OA
+BRANCH   7   9
+ATOM      9  CA  MET A   1      22.378   7.145   0.000  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  N   MET A   1      23.092   7.557   0.000  0.00  0.00    +0.000 NA
+ATOM     11  C   MET A   1      23.806   7.145   0.000  0.00  0.00    +0.000 C 
+ATOM     12  O   MET A   1      23.806   6.320   0.000  0.00  0.00    +0.000 OA
+BRANCH  11  13
+ATOM     13  CA  MET A   1      24.521   7.557   0.000  0.00  0.00    +0.000 C 
+BRANCH  13  14
+ATOM     14  N   MET A   1      24.521   8.382   0.000  0.00  0.00    +0.000 NA
+ATOM     15  C   UNK A   0      23.806   8.795   0.000  0.00  0.00    +0.000 C 
+ATOM     16  O   UNK A   0      23.806   9.620   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  13  14
+BRANCH  13  17
+ATOM     17  CB  MET A   1      25.235   7.145   0.000  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  CG  MET A   1      25.950   7.557   0.000  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  SD  MET A   1      26.664   7.145   0.000  0.00  0.00    +0.000 S 
+ATOM     20  CE  MET A   1      27.379   7.557   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  13  17
+ENDBRANCH  11  13
+ENDBRANCH   9  10
+BRANCH   9  21
+ATOM     21  CB  MET A   1      22.378   6.320   0.000  0.00  0.00    +0.000 C 
+BRANCH  21  22
+ATOM     22  CG  MET A   1      21.663   5.907   0.000  0.00  0.00    +0.000 C 
+ATOM     23  OD1 MET A   1      21.663   5.082   0.000  0.00  0.00    +0.000 OA
+ATOM     24  OD2 MET A   1      20.949   6.320   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  21  22
+ENDBRANCH   9  21
+ENDBRANCH   7   9
+ENDBRANCH   5   6
+ENDBRANCH   3   5
+ENDBRANCH   1   2
+BRANCH   1  26
+ATOM     25  N   MET A   1      16.662   7.145   0.000  0.00  0.00    +0.000 NA
+ATOM     26  C   MET A   1      17.376   7.557   0.000  0.00  0.00    +0.000 C 
+ATOM     27  O   MET A   1      17.376   8.382   0.000  0.00  0.00    +0.000 OA
+BRANCH  25  28
+ATOM     28  CA  MET A   1      15.947   7.557   0.000  0.00  0.00    +0.000 C 
+BRANCH  28  30
+ATOM     29  N   MET A   1      14.518   7.557   0.000  0.00  0.00    +0.000 NA
+ATOM     30  C   MET A   1      15.233   7.145   0.000  0.00  0.00    +0.000 C 
+ATOM     31  O   MET A   1      15.233   6.320   0.000  0.00  0.00    +0.000 OA
+BRANCH  29  32
+ATOM     32  CA  MET A   1      13.804   7.145   0.000  0.00  0.00    +0.000 C 
+BRANCH  32  33
+ATOM     33  C   MET A   1      13.804   6.320   0.000  0.00  0.00    +0.000 C 
+ATOM     34  O   MET A   1      14.518   5.907   0.000  0.00  0.00    +0.000 OA
+ATOM     35  OXT MET A   1      13.089   5.907   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  32  33
+BRANCH  32  36
+ATOM     36  CB  MET A   1      13.089   7.557   0.000  0.00  0.00    +0.000 C 
+BRANCH  36  38
+ATOM     37  CD1 MET A   1      11.661   7.557   0.000  0.00  0.00    +0.000 C 
+ATOM     38  CG  MET A   1      12.375   7.145   0.000  0.00  0.00    +0.000 C 
+ATOM     39  CD2 MET A   1      12.375   6.320   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  36  38
+ENDBRANCH  32  36
+ENDBRANCH  29  32
+ENDBRANCH  28  30
+BRANCH  28  40
+ATOM     40  CB  MET A   1      15.947   8.382   0.000  0.00  0.00    +0.000 C 
+BRANCH  40  41
+ATOM     41  CG  MET A   1      16.662   8.795   0.000  0.00  0.00    +0.000 C 
+BRANCH  41  42
+ATOM     42  CD  MET A   1      16.662   9.620   0.000  0.00  0.00    +0.000 C 
+ATOM     43  OE1 MET A   1      15.947  10.032   0.000  0.00  0.00    +0.000 OA
+ATOM     44  OE2 MET A   1      17.376  10.032   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  41  42
+ENDBRANCH  40  41
+ENDBRANCH  28  40
+ENDBRANCH  25  28
+ENDBRANCH   1  26
+BRANCH   1  45
+ATOM     45  CB  MET A   1      18.091   6.320   0.000  0.00  0.00    +0.000 C 
+ATOM     46  SG  MET A   1      17.376   5.907   0.000  0.00  0.00    +0.000 S 
+ENDBRANCH   1  45
+TORSDOF 23

@@ -1,0 +1,168 @@
+1009
+  Mrv0541 02231215102D          
+
+ 19 20  0  0  1  0            999 V2000
+    1.6500   -2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.4256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01009
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C(O)=O)C1=CC(=CC=C1)C(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H14O3/c1-11(16(18)19)13-8-5-9-14(10-13)15(17)12-6-3-2-4-7-12/h2-11H,1H3,(H,18,19)
+
+> <INCHI_KEY>
+DKYWVDODHFEZIM-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H14O3
+
+> <MOLECULAR_WEIGHT>
+254.2806
+
+> <EXACT_MASS>
+254.094294314
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9992374335988319
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.56281979152967
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(3-benzoylphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+3.29
+
+> <JCHEM_LOGP>
+3.613333421
+
+> <ALOGPS_LOGS>
+-4.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.882608970976492
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.457434189163899
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+72.51560000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.13e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01009
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01059; DB05823; DB05335
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Ketoprofen
+
+> <SYNONYMS>
+2-(3-Benzoylphenyl)propionic acid; 3-Benzoyl-alpha-methylbenzeneacetic acid; 3-Benzoyl-α-methylbenzeneacetic acid; 3-Benzoylhydratropic acid; Ketoprofen; Ketoprofeno; L'acide (benzoyl-3-phenyl)-2-propionique; m-Benzoylhydratropic acid
+
+> <PRODUCTS>
+Ketophene; Ketoprofen; Ketoprofen SR; Ketoprofen Suppositories; Ketoprofen-E; Ketoprofen-E Ect 100mg; Ketoprofen-E Ect 50mg; Ketoprofen-SR - Srt 200mg; Novo-keto Suppositories 100mg; Novo-keto-EC Tab 100mg; Novo-keto-EC Tab 50mg; Nu-ketoprofen Cap 50mg; Nu-ketoprofen-E Ect 100mg; Nu-ketoprofen-E Ect 50mg; Orafen - Sup RT 100mg; Orudis 100; Orudis 50; Orudis Cap 50mg; Orudis E-100; Orudis E-50; Orudis SR-200; Oruvail; Oruvail 150; Oruvail 200; Oruvail Extended Release; Oruvail Extended-Release; PMS-ketoprofen; PMS-ketoprofen Capsules; PMS-ketoprofen E-100 - Ect; PMS-ketoprofen E-50 - Ect 50mg; Rhodis; Rhodis Cap 50mg; Rhodis EC; Rhodis SR 200mg; Rhovail 150; Rhovail 200; Vopac - Ketoprofen, Lidocaine Hydrochloride Pac
+
+> <INTERNATIONAL_BRANDS>
+Actron; Alrheumun; Capisten; Epatec; Fastum; Menamin; Orudis; Orudis KT; Orugesic; Oscorel; Profenid; Toprec
+
+> <SALTS>
+Ketoprofen lysine; Ketoprofen sodium
+
+$$$$

@@ -1,0 +1,155 @@
+
+  Mrv0541 02231216022D          
+
+ 16 16  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7309   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+  2 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02209
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NC=C(COP(O)(O)=O)C(CO)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12NO6P/c1-5-8(11)7(3-10)6(2-9-5)4-15-16(12,13)14/h2,10-11H,3-4H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+WHOMFKWHIQZTHY-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12NO6P
+
+> <MOLECULAR_WEIGHT>
+249.1577
+
+> <EXACT_MASS>
+249.040223633
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.7442709688261506
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.726701172777485
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[5-hydroxy-4-(hydroxymethyl)-6-methylpyridin-3-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.80
+
+> <JCHEM_LOGP>
+-3.640999575634358
+
+> <ALOGPS_LOGS>
+-1.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.798869153656689
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7391293357611508
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.554512423881395
+
+> <JCHEM_POLAR_SURFACE_AREA>
+120.11000000000001
+
+> <JCHEM_REFRACTIVITY>
+54.97820000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.41e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02209
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02710
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyridoxine phosphate
+
+> <SYNONYMS>
+Pyridoxine 5-phosphate
+
+$$$$

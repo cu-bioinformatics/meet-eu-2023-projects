@@ -1,0 +1,155 @@
+
+  Mrv0541 02231216532D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5559    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.8875    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105    2.8875    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB03359
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[N+](C)(C)C1=CC=CC(=C1)C(O)(O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15F3NO2/c1-15(2,3)9-6-4-5-8(7-9)10(16,17)11(12,13)14/h4-7,16-17H,1-3H3/q+1
+
+> <INCHI_KEY>
+KGVDBJQLTHWAJF-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H15F3NO2
+
+> <MOLECULAR_WEIGHT>
+250.2375
+
+> <EXACT_MASS>
+250.105488344
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.7659757306405126
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.468604219882653
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N,N,N-trimethyl-3-(2,2,2-trifluoro-1,1-dihydroxyethyl)anilinium
+
+> <ALOGPS_LOGP>
+-0.62
+
+> <JCHEM_LOGP>
+-1.909220462805079
+
+> <ALOGPS_LOGS>
+-4.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+9.545280022826022
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.52879914540592
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.9350327336960245
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+69.08280000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.72e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03359
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02285
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+M-(N,N,N-Trimethylammonio)-2,2,2-Trifluoro-1,1-Dihydroxyethylbenzene
+
+$$$$

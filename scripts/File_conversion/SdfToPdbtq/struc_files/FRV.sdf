@@ -1,0 +1,174 @@
+FRV
+  Mrv0541 02241213392D          
+
+ 27 30  0  0  0  0            999 V2000
+    2.3275   15.5103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0915   15.4931    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0915   14.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7590   15.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5436   15.7231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6790   13.9537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4679   14.9161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6395   15.7231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4241   15.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6790   16.7627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3167   14.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1560   16.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7583   16.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0264   16.2752    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9076   15.8496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7691   16.8693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5537   16.6144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7252   15.8074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7648   16.3371    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5098   15.5525    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2549   14.7679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2945   15.2975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1121   15.2554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3714   16.5722    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9298   15.2132    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5040   16.7627    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5040   13.9537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 26  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6 27  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9  2  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12  1  2  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 19  2  0  0  0  0
+ 22 15  1  0  0  0  0
+ 23  1  1  0  0  0  0
+ 24 12  1  0  0  0  0
+ 25 11  2  0  0  0  0
+ 26 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07791
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNS(=O)(=O)C1=CC=C(NC2=NC(=CC=N2)C2=CN=C(C)N2C2CC2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H20N6O2S/c1-12-21-11-17(24(12)14-5-6-14)16-9-10-20-18(23-16)22-13-3-7-15(8-4-13)27(25,26)19-2/h3-4,7-11,14,19H,5-6H2,1-2H3,(H,20,22,23)
+
+> <INCHI_KEY>
+MZWCVBFANHIPTJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H20N6O2S
+
+> <MOLECULAR_WEIGHT>
+384.455
+
+> <EXACT_MASS>
+384.136844604
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.08952443280190192
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.88374327373549
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[4-(1-cyclopropyl-2-methyl-1H-imidazol-5-yl)pyrimidin-2-yl]amino}-N-methylbenzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.91
+
+> <JCHEM_LOGP>
+1.6450662100000004
+
+> <ALOGPS_LOGS>
+-3.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.580935109308587
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.62713725840448
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.99383507995165
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.8
+
+> <JCHEM_REFRACTIVITY>
+102.35419999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.51e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07791
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-{[4-(1-CYCLOPROPYL-2-METHYL-1H-IMIDAZOL-5-YL)PYRIMIDIN-2-YL]AMINO}-N-METHYLBENZENESULFONAMIDE
+
+$$$$

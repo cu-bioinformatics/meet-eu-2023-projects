@@ -1,0 +1,152 @@
+A05
+  Mrv0541 02241213202D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.3668    2.9776    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6523    2.5651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0622    2.9776    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6523    1.7401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0151    1.2551    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3197    1.2551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0648    0.4705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2398    0.4705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2451   -0.1969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0656   -0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5505   -0.7781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2150   -1.5318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6999   -2.1992    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5204   -2.1130    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.3643   -2.9529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3945   -1.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0904   -0.9506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9109   -1.0368    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  CHG  2  13   1  14  -1
+M  END
+> <DATABASE_ID>
+DB07305
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=CC=C(O1)C1=CC=C(C=C1Cl)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H6ClNO5/c12-8-5-6(13(16)17)1-2-7(8)9-3-4-10(18-9)11(14)15/h1-5H,(H,14,15)
+
+> <INCHI_KEY>
+HDIHNBCCQWMVBW-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H6ClNO5
+
+> <MOLECULAR_WEIGHT>
+267.622
+
+> <EXACT_MASS>
+266.993450014
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9998654327267256
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.795280201452762
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(2-chloro-4-nitrophenyl)furan-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.89
+
+> <JCHEM_LOGP>
+2.802330719333333
+
+> <ALOGPS_LOGS>
+-3.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.129001767977326
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.126642054005497
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.57999999999998
+
+> <JCHEM_REFRACTIVITY>
+61.84410000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.96e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07305
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(2-CHLORO-4-NITROPHENYL)-2-FUROIC ACID
+
+$$$$

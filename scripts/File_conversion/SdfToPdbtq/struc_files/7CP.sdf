@@ -1,0 +1,172 @@
+7CP
+  Mrv0541 02241213182D          
+
+ 26 29  0  0  0  0            999 V2000
+    0.0556    0.6329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7777    1.0317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842    0.6057    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2064    1.0045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4685   -0.2192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7464   -0.6180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0399   -0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0242   -1.0169    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6980   -1.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7137   -2.2405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4045   -0.9897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1938   -1.2296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4637   -2.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6660   -0.5531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4847   -0.4513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9822   -1.1094    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8058    0.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6245    0.4105    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3083    0.9668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4896    0.8649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1685    0.1050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3888   -0.1648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6666    0.2340    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6509    1.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6352    1.8837    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4565    0.7788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 22  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  1  0  0  0
+ 23 26  1  6  0  0  0
+ 24 25  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07242
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(C#N)C2=C(N(C)C3=C(Cl)C(Cl)=CC=C23)C(=O)NC11CCN(C)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H18Cl2N4O/c1-23-7-5-18(6-8-23)11(9-21)13-10-3-4-12(19)14(20)15(10)24(2)16(13)17(25)22-18/h3-4,11H,5-8H2,1-2H3,(H,22,25)/t11-/m1/s1
+
+> <INCHI_KEY>
+XGUIMGJMQKZRGM-LLVKDONJSA-N
+
+> <FORMULA>
+C18H18Cl2N4O
+
+> <MOLECULAR_WEIGHT>
+377.268
+
+> <EXACT_MASS>
+376.085766632
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9560929593014267
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.620773787392615
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4'R)-7',8'-dichloro-1,9'-dimethyl-1'-oxo-1',2',4',9'-tetrahydrospiro[piperidine-4,3'-pyrido[3,4-b]indole]-4'-carbonitrile
+
+> <ALOGPS_LOGP>
+3.06
+
+> <JCHEM_LOGP>
+1.925154898
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.904133312019646
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.873222379192185
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.337979720984269
+
+> <JCHEM_POLAR_SURFACE_AREA>
+61.06
+
+> <JCHEM_REFRACTIVITY>
+99.21889999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.07e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07242
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4R)-7,8-dichloro-1',9-dimethyl-1-oxo-1,2,4,9-tetrahydrospiro[beta-carboline-3,4'-piperidine]-4-carbonitrile
+
+$$$$

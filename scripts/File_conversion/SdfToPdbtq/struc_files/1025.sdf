@@ -1,0 +1,172 @@
+1025
+  Mrv0541 02231215112D          
+
+ 22 24  0  0  0  0            999 V2000
+    5.2784   -1.1104    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    1.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1875    1.3844    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9067    0.1497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7303   -1.1391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1907   -1.1304    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.5594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.1442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5639    0.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8264    0.5681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5639   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789   -0.7151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9928    0.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    0.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3692    1.3844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8264   -1.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9928   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7303    0.5681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4778    0.1442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4778   -0.7151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1907    0.5594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 22  1  0  0  0  0
+  4 22  2  0  0  0  0
+  5 18  2  0  0  0  0
+  5 21  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01025
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C1=CC2=C(OC3=NC(N)=C(C=C3C2=O)C(O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H14N2O4/c1-7(2)8-3-4-12-9(5-8)13(19)10-6-11(16(20)21)14(17)18-15(10)22-12/h3-7H,1-2H3,(H2,17,18)(H,20,21)
+
+> <INCHI_KEY>
+SGRYPYWGNKJSDL-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H14N2O4
+
+> <MOLECULAR_WEIGHT>
+298.2934
+
+> <EXACT_MASS>
+298.095356946
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9979876472777507
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.824999788862705
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-amino-5-oxo-7-(propan-2-yl)-5H-chromeno[2,3-b]pyridine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.76
+
+> <JCHEM_LOGP>
+3.6545489580000003
+
+> <ALOGPS_LOGS>
+-3.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.305412739327894
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8727875291821834
+
+> <JCHEM_POLAR_SURFACE_AREA>
+102.51
+
+> <JCHEM_REFRACTIVITY>
+81.4338
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01025
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00795
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Amlexanox
+
+> <SYNONYMS>
+2-Amino-7-isopropyl-5-oxo-5H-(1)benzopyrano(2,3-b)pyridine-3-carboxylic acid; Amlexanox; Amlexanoxo; Amlexanoxum; Amoxanox
+
+> <PRODUCTS>
+Apthera
+
+> <INTERNATIONAL_BRANDS>
+Aphthasol; Elics; OraDisc A; Solfa
+
+$$$$

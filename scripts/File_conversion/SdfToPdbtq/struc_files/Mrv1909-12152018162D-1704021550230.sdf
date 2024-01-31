@@ -1,0 +1,153 @@
+
+  Mrv1909 12152018162D          
+
+ 18 18  0  0  0  0            999 V2000
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -6.1875    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -3.7125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2717   -4.4270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4467   -2.9980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+  8 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16229
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCNCCOC1=CC(=CC(F)=C1)S(C)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H18FNO3S/c1-3-4-14-5-6-17-11-7-10(13)8-12(9-11)18(2,15)16/h7-9,14H,3-6H2,1-2H3
+
+> <INCHI_KEY>
+OSBPYFBXSLJHCR-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H18FNO3S
+
+> <MOLECULAR_WEIGHT>
+275.34
+
+> <EXACT_MASS>
+275.099142781
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9977614262567657
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.0831150844564
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[2-(3-fluoro-5-methanesulfonylphenoxy)ethyl](propyl)amine
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.3135119636666661
+
+> <ALOGPS_LOGS>
+-2.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.14982322411652
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.649055305042726
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.4
+
+> <JCHEM_REFRACTIVITY>
+68.73819999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16229
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Mesdopetam
+
+> <SYNONYMS>
+Mesdopetam
+
+$$$$

@@ -1,0 +1,179 @@
+
+  Mrv1909 03042116572D          
+
+ 28 31  0  0  0  0            999 V2000
+    2.8089   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8089    0.2061    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0944    0.6186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3799    0.2061    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3799   -0.6188    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0944   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0490   -0.6187    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0489    0.2062    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6655    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1958    1.2507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1352    1.2507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7634    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4779    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4779   -0.6186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7634   -1.0312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1924   -1.0311    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9068   -0.6186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9068    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1923    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1923    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6213   -1.0311    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0489    1.0312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0490   -1.4437    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3799   -1.4438    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3800    1.0311    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6213    0.0629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0911    0.9814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 18  2  0  0  0  0
+ 20 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+  9 23  1  6  0  0  0
+  8 24  1  6  0  0  0
+  5 25  1  6  0  0  0
+  4 26  1  6  0  0  0
+  2 27  1  0  0  0  0
+  2 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16628
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12COP(O)(=O)O[C@]1([H])C(O)(O)[C@]1([H])NC3=C(NC(N)=NC3=O)N[C@]1([H])O2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O8P/c11-9-14-6-3(7(16)15-9)12-4-8(13-6)22-2-1-21-24(19,20)23-5(2)10(4,17)18/h2,4-5,8,12,17-18H,1H2,(H,19,20)(H4,11,13,14,15,16)/t2-,4-,5+,8-/m1/s1
+
+> <INCHI_KEY>
+CZAKJJUNKNPTTO-AJFJRRQVSA-N
+
+> <FORMULA>
+C10H14N5O8P
+
+> <MOLECULAR_WEIGHT>
+363.223
+
+> <EXACT_MASS>
+363.057999429
+
+> <JCHEM_ACCEPTOR_COUNT>
+11
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.990046077147107
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.926633301115263
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4aR,5aR,11aR,12aS)-8-amino-2,12,12-trihydroxy-4,4a,5a,6,7,10,11,11a,12,12a-decahydro-2H-1,3,5-trioxa-6,7,9,11-tetraaza-2lambda5-phosphatetracene-2,10-dione
+
+> <JCHEM_LOGP>
+-2.9283923456516066
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.260921051287879
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7977913206271379
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.026418302500464
+
+> <JCHEM_POLAR_SURFACE_AREA>
+196.99
+
+> <JCHEM_REFRACTIVITY>
+82.02059999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <JCHEM_TRADITIONAL_IUPAC>
+disodium dexamethasone phosphate(2-)
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16628
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Fosdenopterin
+
+> <SYNONYMS>
+C(PMP); CPMP; Cyclic pyranopterin monophosphate; Fosdenopterin
+
+> <PRODUCTS>
+Nulibry
+
+> <INTERNATIONAL_BRANDS>
+Nulibry
+
+> <SALTS>
+Fosdenopterin hydrobromide
+
+$$$$

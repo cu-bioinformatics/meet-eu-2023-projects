@@ -1,0 +1,161 @@
+BL4
+  Mrv0541 02241213272D          
+
+ 22 25  0  0  0  0            999 V2000
+   -0.4442   -1.9965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4442   -1.1715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2703   -0.7590    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3566   -1.5795    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0549   -1.0140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5399   -0.3465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0549    0.3209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3099    1.1055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1168    1.2770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3718    2.0617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8198    2.6748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0128    2.5032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7578    1.7186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2703    0.0660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4442    0.4785    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1586    0.0660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1586   -0.7590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8731    0.4785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5876    0.0660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5876   -0.7590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8731   -1.1715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8731   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  1  6  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13  8  2  0  0  0  0
+ 14  3  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17  2  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 16  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07468
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C2C(=CC=C1)N=C1N(CC[C@@]1(O)C2=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H16N2O2/c1-12-6-5-9-14-15(12)16(21)18(22)10-11-20(17(18)19-14)13-7-3-2-4-8-13/h2-9,22H,10-11H2,1H3/t18-/m1/s1
+
+> <INCHI_KEY>
+NJBBBRZNBVLTRZ-GOSISDBHSA-N
+
+> <FORMULA>
+C18H16N2O2
+
+> <MOLECULAR_WEIGHT>
+292.3318
+
+> <EXACT_MASS>
+292.121177766
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.475452554919175e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.36818327445447
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aS)-3a-hydroxy-5-methyl-1-phenyl-1H,2H,3H,3aH,4H-pyrrolo[2,3-b]quinolin-4-one
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+2.8795248213333338
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.545473726950306
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.3802735905903454
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.9
+
+> <JCHEM_REFRACTIVITY>
+87.24510000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07468
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3aS)-3a-hydroxy-5-methyl-1-phenyl-1,2,3,3a-tetrahydro-4H-pyrrolo[2,3-b]quinolin-4-one
+
+$$$$

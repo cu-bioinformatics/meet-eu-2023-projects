@@ -1,0 +1,183 @@
+
+  Mrv1909 01132020392D          
+
+ 31 32  0  0  0  0            999 V2000
+   -0.0383    0.7466    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1818    2.8091    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1818    1.9840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761    0.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7529    1.9840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1818    3.6341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0067    2.8091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3567    2.8091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0383   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3905   -3.3784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1051   -2.1409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0383   -3.3784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7529   -0.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0383   -1.7283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7529    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4673    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4673    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4673   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761   -2.9658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761   -0.4908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3905   -1.7283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0383    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1051   -2.9658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761    1.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8195   -3.3784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3905    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6761    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1051    1.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3905    3.2216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1051    2.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1 23  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3 18  1  0  0  0  0
+  4 21  2  0  0  0  0
+  5 23  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 20  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 24  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 25 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 28 30  2  0  0  0  0
+ 29 31  2  0  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11748
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C\C(N(CC1=CN=C(C)N=C1N)C=O)=C(/CCOP(O)(O)=O)SC(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H23N4O6PS/c1-13(23(12-24)11-16-10-21-14(2)22-18(16)20)17(8-9-29-30(26,27)28)31-19(25)15-6-4-3-5-7-15/h3-7,10,12H,8-9,11H2,1-2H3,(H2,20,21,22)(H2,26,27,28)/b17-13-
+
+> <INCHI_KEY>
+BTNNPSLJPBRMLZ-LGMDPLHJSA-N
+
+> <FORMULA>
+C19H23N4O6PS
+
+> <MOLECULAR_WEIGHT>
+466.45
+
+> <EXACT_MASS>
+466.107592649
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.144155342858105
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.1374523465274
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(3Z)-4-{N-[(4-amino-2-methylpyrimidin-5-yl)methyl]formamido}-3-[(Z)-benzoylsulfanyl]pent-3-en-1-yl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+0.89
+
+> <JCHEM_LOGP>
+-2.2373177571263074
+
+> <ALOGPS_LOGS>
+-4.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.598516103634397
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.7088143687637284
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.366359167662342
+
+> <JCHEM_POLAR_SURFACE_AREA>
+155.94000000000003
+
+> <JCHEM_REFRACTIVITY>
+121.53940000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.00e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+incyclinide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11748
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Benfotiamine
+
+> <SYNONYMS>
+Benfotiamina; Benfotiamine; Benphothiamine; Benzoylthiamine monophosphate; S-benzoylthiamine monophosphate
+
+$$$$

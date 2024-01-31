@@ -1,0 +1,147 @@
+
+  Mrv1909 11111921462D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.3738    2.3801    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1988    3.2051    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0238    2.3801    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2301   -0.0947    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2301   -0.9198    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2503   -1.6099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8378   -2.3243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8698   -0.1898    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4177   -2.7048    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1988    1.5551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4843    0.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4843    1.1426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9132    1.1426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1988   -0.0947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9132    0.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1988    2.3801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9446   -1.3323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6982   -0.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0308   -2.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 18  2  0  0  0  0
+  9 19  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08666
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+FC(F)(F)C1=CC(NN=C2C(=N)N=NC2=N)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7F3N6/c11-10(12,13)5-2-1-3-6(4-5)16-17-7-8(14)18-19-9(7)15/h1-4,14-16H
+
+> <INCHI_KEY>
+UWZUKULUSUBUOU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7F3N6
+
+> <MOLECULAR_WEIGHT>
+268.203
+
+> <EXACT_MASS>
+268.068428738
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.113600225960486
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{2-[3-(trifluoromethyl)phenyl]hydrazin-1-ylidene}-4,5-dihydro-3H-pyrazole-3,5-diimine
+
+> <ALOGPS_LOGP>
+2.61
+
+> <JCHEM_LOGP>
+2.4438968893333333
+
+> <ALOGPS_LOGS>
+-4.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.8123964261157335
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.72563317329442
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.81
+
+> <JCHEM_REFRACTIVITY>
+83.2844
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08666
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-imino-4-(3-trifluoromethyl-phenylazo)-5H-pyrazol-3-ylamine
+
+$$$$

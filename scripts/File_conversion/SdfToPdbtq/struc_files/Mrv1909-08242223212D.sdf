@@ -1,0 +1,149 @@
+
+  Mrv1909 08242223212D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.1767    0.7455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2567   -0.0390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0537   -0.2527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0018    0.7455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4142    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5891   -0.5240    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5891   -1.3490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5891   -2.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1252   -2.5866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1252   -1.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3037   -1.7616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3037   -2.5866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0782   -0.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8751   -0.2527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2359    1.4599    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0610    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1767    2.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6 13  1  0  0  0  0
+  6  2  1  0  0  0  0
+ 13  1  1  0  0  0  0
+  1  4  2  0  0  0  0
+  4  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 10  7  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+  1 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01424
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)C1=C(C)N(C)N(C1=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17N3O/c1-10-12(14(2)3)13(17)16(15(10)4)11-8-6-5-7-9-11/h5-9H,1-4H3
+
+> <INCHI_KEY>
+RMMXTBMQSGEXHJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H17N3O
+
+> <MOLECULAR_WEIGHT>
+231.2936
+
+> <EXACT_MASS>
+231.137162181
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0000972098259313
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.861353963240937
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(dimethylamino)-1,5-dimethyl-2-phenyl-2,3-dihydro-1H-pyrazol-3-one
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+1.1505949156666666
+
+> <ALOGPS_LOGS>
+-1.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.664808555551031
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.79
+
+> <JCHEM_REFRACTIVITY>
+70.11100000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.25e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aminophenazone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01424
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Aminophenazone
+
+> <SYNONYMS>
+(Dimethylamino)phenazone; 1-Phenyl-2,3-dimethyl-4-(dimethylamino)-5-pyrazolone; 1-Phenyl-2,3-dimethyl-4-dimethylaminopyrazol-5-one; 1,5-Dimethyl-4-dimethylamino-2-phenyl-3-pyrazolone; 2,3-Dimethyl-4-dimethylamino-1-phenyl-5-pyrazolone; 3-Keto-1,5-dimethyl-4-dimethylamino-2-phenyl-2,3-dihydropyrazole; 4-(Dimethylamino)-1,2-dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one; 4-(Dimethylamino)-1,5-dimethyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-one; 4-(Dimethylamino)antipyrine; 4-Dimethylamino-1-phenyl-2,3-dimethylpyrazolone; 4-Dimethylamino-2,3-dimethyl-1-phenyl-3-pyrazolin-5-one; 4-Dimethylamino-2,3-dimethyl-1-phenyl-5-pyrazolone; 4-Dimethylaminoantipyrine; 4-Dimethylaminophenazone; Aminofenazona; Aminofenazone; Aminophenazon; Aminophenazone; Aminophenazonum; Aminopyrine; Dimethylaminoantipyrine; Dimethylaminoazophene; Dimethylaminophenazon; Dimethylaminophenazone; Dimethylaminophenyldimethylpyrazolone; Dipyrine
+
+$$$$

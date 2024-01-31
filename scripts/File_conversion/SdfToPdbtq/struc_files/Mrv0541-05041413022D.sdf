@@ -1,0 +1,156 @@
+
+  Mrv0541 05041413022D          
+
+ 18 18  0  0  1  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  1  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  4  8  1  1  0  0  0
+  5  9  1  1  0  0  0
+  6 10  1  6  0  0  0
+ 11  1  1  0  0  0  0
+  7 11  1  1  0  0  0
+ 12  3  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13  2  2  0  0  0  0
+  3 14  1  6  0  0  0
+  4 15  1  6  0  0  0
+  5 16  1  6  0  0  0
+  6 17  1  1  0  0  0
+  7 18  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04508
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)[C@@]([H])(O)[C@]([H])(OC)O[C@]([H])(C=S)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12O5S/c1-11-7-6(10)5(9)4(8)3(2-13)12-7/h2-10H,1H3/t3-,4+,5+,6-,7-/m1/s1
+
+> <INCHI_KEY>
+RAZJTJNGLFDKPL-VOQCIKJUSA-N
+
+> <FORMULA>
+C7H12O5S
+
+> <MOLECULAR_WEIGHT>
+208.232
+
+> <EXACT_MASS>
+208.040544184
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-7.087722152974142e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.307719648359868
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-methoxyoxane-2-carbothialdehyde
+
+> <ALOGPS_LOGP>
+-0.56
+
+> <JCHEM_LOGP>
+-0.797002843333333
+
+> <ALOGPS_LOGS>
+-0.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.203555034421866
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.208549836298127
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6557706223295123
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.15
+
+> <JCHEM_REFRACTIVITY>
+47.6694
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.16e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04508
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03243
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methyl(6s)-1-Thio-L-Manno-Hexodialdo-6,2-Pyranoside
+
+$$$$

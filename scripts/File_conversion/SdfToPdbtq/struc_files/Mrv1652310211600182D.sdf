@@ -1,0 +1,169 @@
+
+  Mrv1652310211600182D          
+
+ 28 30  0  0  1  0            999 V2000
+   -0.1712   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -1.1104    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -2.7604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -3.5854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9562   -3.5854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6062   -3.5854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -4.4104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4957   -4.8229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4957   -5.6479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -6.0604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2102   -6.0604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9638   -5.7249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5159   -6.3380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1034   -7.0525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2964   -6.8809    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.6833   -7.4330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0702   -7.9850    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 26 27  1  1  0  0  0
+ 27 28  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12417
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NN2C=C(C=NC2=C1)C(=O)NCC(C)(C)NCC(=O)N1CCC[C@H]1C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H25N7O2/c1-13-7-16-21-9-14(11-26(16)24-13)18(28)22-12-19(2,3)23-10-17(27)25-6-4-5-15(25)8-20/h7,9,11,15,23H,4-6,10,12H2,1-3H3,(H,22,28)/t15-/m0/s1
+
+> <INCHI_KEY>
+LDXYBEHACFJIEL-HNNXBMFYSA-N
+
+> <FORMULA>
+C19H25N7O2
+
+> <MOLECULAR_WEIGHT>
+383.456
+
+> <EXACT_MASS>
+383.206973073
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.90881942491238
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[2-({2-[(2S)-2-cyanopyrrolidin-1-yl]-2-oxoethyl}amino)-2-methylpropyl]-2-methylpyrazolo[1,5-a]pyrimidine-6-carboxamide
+
+> <ALOGPS_LOGP>
+0.70
+
+> <JCHEM_LOGP>
+-0.5365138166666661
+
+> <ALOGPS_LOGS>
+-3.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.296158869185646
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.289985543012172
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.42000000000002
+
+> <JCHEM_REFRACTIVITY>
+114.17199999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.79e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-[2-({2-[(2S)-2-cyanopyrrolidin-1-yl]-2-oxoethyl}amino)-2-methylpropyl]-2-methylpyrazolo[1,5-a]pyrimidine-6-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12417
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Anagliptin
+
+> <SYNONYMS>
+Anagliptin
+
+$$$$

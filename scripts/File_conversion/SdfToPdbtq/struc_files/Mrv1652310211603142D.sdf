@@ -1,0 +1,153 @@
+
+  Mrv1652310211603142D          
+
+ 20 22  0  0  0  0            999 V2000
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  5 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12912
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C2N=C(N)NC(=O)C2=C1SC1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12N4OS/c1-8-2-3-10-11(13(19)18-14(15)17-10)12(8)20-9-4-6-16-7-5-9/h2-7H,1H3,(H3,15,17,18,19)
+
+> <INCHI_KEY>
+XHWRWCSCBDLOLM-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H12N4OS
+
+> <MOLECULAR_WEIGHT>
+284.34
+
+> <EXACT_MASS>
+284.073182196
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.753790404406505
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-amino-6-methyl-5-(pyridin-4-ylsulfanyl)-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+1.90
+
+> <JCHEM_LOGP>
+1.981560060333333
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.233814050857148
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.656540616498878
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.37
+
+> <JCHEM_REFRACTIVITY>
+81.75710000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.86e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-6-methyl-5-(pyridin-4-ylsulfanyl)-3H-quinazolin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12912
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Nolatrexed
+
+> <SYNONYMS>
+Nolatrexed
+
+$$$$

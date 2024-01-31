@@ -1,0 +1,165 @@
+PU5
+  Mrv0541 02231217122D          
+
+ 23 25  0  0  0  0            999 V2000
+    1.4813    2.4233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9293    1.8102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1842    1.0255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6322    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8871   -0.3722    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6717   -0.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3862   -0.2146    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1007   -0.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4228   -1.0396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1007   -1.4521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6717   -1.4521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3862   -1.8646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3862   -2.6896    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8871   -1.7071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4022   -1.0396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4228    0.3893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8353   -0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6603   -0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8353    1.1038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6603    1.1038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0728    0.3893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8978    0.3893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3103   -0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03809
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCN1C(CC2=CC=CC(OC)=C2)=NC2=C(N)N=CN=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H21N5O/c1-3-4-8-22-14(10-12-6-5-7-13(9-12)23-2)21-15-16(18)19-11-20-17(15)22/h5-7,9,11H,3-4,8,10H2,1-2H3,(H2,18,19,20)
+
+> <INCHI_KEY>
+BWLWUGBHOXIUBP-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H21N5O
+
+> <MOLECULAR_WEIGHT>
+311.3815
+
+> <EXACT_MASS>
+311.174610319
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0047736009308185
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.488126519116165
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+9-butyl-8-[(3-methoxyphenyl)methyl]-9H-purin-6-amine
+
+> <ALOGPS_LOGP>
+3.00
+
+> <JCHEM_LOGP>
+2.816295635
+
+> <ALOGPS_LOGS>
+-3.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.560569541220673
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7077788742801294
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.85000000000001
+
+> <JCHEM_REFRACTIVITY>
+90.99539999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03809
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02696
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Butyl-8-(3-Methoxybenzyl)-9h-Purin-6-Amine
+
+$$$$

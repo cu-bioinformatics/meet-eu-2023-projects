@@ -1,0 +1,178 @@
+FEP
+  Mrv0541 02231217312D          
+
+ 30 31  0  0  0  0            999 V2000
+   -1.0706   -0.2055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3561    0.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3584   -0.2055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0728    0.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9285    1.4445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7851    0.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4995   -0.2055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2140    0.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2140    1.0320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4995    1.4445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7851    1.0320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9307   -1.4430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7873   -0.2055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5018    0.2070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2162   -0.2055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2162   -1.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5018   -1.4430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7873   -1.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3410    0.7301    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5160    2.1590    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6429    1.8570    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3574    2.2695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0554    1.1426    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2304    2.5715    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5182   -2.1574    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3432   -0.7285    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6452   -1.8555    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3597   -2.2680    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2327   -2.5699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0577   -1.1410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 12 27  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 27 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04204
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OP(O)(=O)C(F)(F)C1=CC=C(CCCCC2=CC=C(C=C2)C(F)(F)P(O)(O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H20F4O6P2/c19-17(20,29(23,24)25)15-9-5-13(6-10-15)3-1-2-4-14-7-11-16(12-8-14)18(21,22)30(26,27)28/h5-12H,1-4H2,(H2,23,24,25)(H2,26,27,28)
+
+> <INCHI_KEY>
+SRHSAABKYJDBDV-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H20F4O6P2
+
+> <MOLECULAR_WEIGHT>
+470.2889
+
+> <EXACT_MASS>
+470.067124216
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.342774843691547
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.057234931795904
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{[4-(4-{4-[difluoro(phosphono)methyl]phenyl}butyl)phenyl]difluoromethyl}phosphonic acid
+
+> <ALOGPS_LOGP>
+2.73
+
+> <JCHEM_LOGP>
+3.970145901333333
+
+> <ALOGPS_LOGS>
+-3.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <JCHEM_PKA>
+0.7921304132912755
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.19007062041611184
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.06
+
+> <JCHEM_REFRACTIVITY>
+103.04200000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.69e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04204
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01422
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[(4-{4-[4-(Difluoro-Phosphono-Methyl)-Phenyl]-Butyl}-Phenyl)-Difluoro-Methyl]-Phosphonic Acid
+
+$$$$

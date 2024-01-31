@@ -1,0 +1,164 @@
+NNC
+  Mrv0541 02241213592D          
+
+ 24 26  0  0  0  0            999 V2000
+    3.2894    7.5630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5750    7.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8605    7.5630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1460    7.1505    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.8605    8.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5750    8.8005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2894    8.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0039    8.8005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7184    8.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7184    7.5630    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4329    8.8005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1473    8.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8618    8.8005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5763    8.3880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3299    8.7236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5015    9.5305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8820    8.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7070    8.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1195    7.3960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7070    6.6815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8820    6.6815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4695    7.3960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6625    7.5675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0494    7.0155    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08282
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC=C(NC(=S)OCCN2C(=O)C3=C(C=CC=C3)C2=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H13ClN2O3S/c18-11-5-7-12(8-6-11)19-17(24)23-10-9-20-15(21)13-3-1-2-4-14(13)16(20)22/h1-8H,9-10H2,(H,19,24)
+
+> <INCHI_KEY>
+BWRRXOIACQYNEK-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H13ClN2O3S
+
+> <MOLECULAR_WEIGHT>
+360.815
+
+> <EXACT_MASS>
+360.033540689
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.6911017014018088
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.30234680423271
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-chlorophenyl)[2-(1,3-dioxo-2,3-dihydro-1H-isoindol-2-yl)ethoxy]carbothioamide
+
+> <ALOGPS_LOGP>
+3.38
+
+> <JCHEM_LOGP>
+4.069735740666666
+
+> <ALOGPS_LOGS>
+-5.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.6502735510701605
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8296284324808756
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.64
+
+> <JCHEM_REFRACTIVITY>
+97.58279999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.21e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08282
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O-[2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)ethyl] (4-chlorophenyl)thiocarbamate
+
+$$$$

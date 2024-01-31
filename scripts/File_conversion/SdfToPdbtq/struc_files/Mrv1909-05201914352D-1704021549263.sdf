@@ -1,0 +1,150 @@
+
+  Mrv1909 05201914352D          
+
+ 17 18  0  0  1  0            999 V2000
+    0.1067    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    4.3527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    3.1152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    2.2902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6548    1.8053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9097    1.0206    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4248    0.3532    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7347    1.0206    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.2197    0.3532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8841   -0.4005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9897    1.8053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7512    3.1152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    4.3527    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    5.5902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  5 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  ISO  1   8  18
+M  END
+> <DATABASE_ID>
+DB14930
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CN([C@H]2C[C@H]([18F])[C@@H](CO)O2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13FN2O4/c1-5-3-13(10(16)12-9(5)15)8-2-6(11)7(4-14)17-8/h3,6-8,14H,2,4H2,1H3,(H,12,15,16)/t6-,7+,8+/m0/s1/i11-1
+
+> <INCHI_KEY>
+UXCAQJAQSWSNPQ-ZIVQXEJRSA-N
+
+> <FORMULA>
+C10H13FN2O4
+
+> <MOLECULAR_WEIGHT>
+243.225
+
+> <EXACT_MASS>
+243.088469574
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.215647773079525
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(2R,4S,5R)-4-(¹⁸F)fluoro-5-(hydroxymethyl)oxolan-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.60
+
+> <JCHEM_LOGP>
+-0.22796181533333285
+
+> <ALOGPS_LOGS>
+-0.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.578898179770059
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.110296959566844
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.983499511218235
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+53.7199
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.92e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14930
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Alovudine F-18
+
+> <SYNONYMS>
+18F-FLT; FLUOROTHYMIDINE F-18
+
+$$$$

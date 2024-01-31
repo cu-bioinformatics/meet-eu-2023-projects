@@ -1,0 +1,161 @@
+SHM
+  Mrv0541 02231216422D          
+
+ 20 21  0  0  0  0            999 V2000
+   -2.2016   -0.5131    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6496    0.1000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0621    0.8144    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8690    0.6429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9553   -0.1776    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8959   -0.2356    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9821   -1.0561    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7891   -1.2276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1814    0.1769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5331   -0.2356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2475    0.1769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9620   -0.2356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6765    0.1769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3909   -0.2356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1054    0.1769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3909   -1.0606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4821    1.1949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5923   -0.9471    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2588    0.5339    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9265    0.3475    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 18  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 19  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  6  0  0  0
+  6 20  1  1  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03112
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12CS[C@@]([H])(CCCCCC(O)=O)[C@@]1([H])NC(=O)N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H18N2O3S/c14-9(15)5-3-1-2-4-8-10-7(6-17-8)12-11(16)13-10/h7-8,10H,1-6H2,(H,14,15)(H2,12,13,16)/t7-,8-,10-/m0/s1
+
+> <INCHI_KEY>
+CUIOUBJXOZHWNJ-NRPADANISA-N
+
+> <FORMULA>
+C11H18N2O3S
+
+> <MOLECULAR_WEIGHT>
+258.337
+
+> <EXACT_MASS>
+258.103813142
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9962163902575328
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.83332989466756
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-[(3aS,4S,6aR)-2-oxo-hexahydro-1H-thieno[3,4-d]imidazol-4-yl]hexanoic acid
+
+> <ALOGPS_LOGP>
+0.71
+
+> <JCHEM_LOGP>
+0.7639923129999997
+
+> <ALOGPS_LOGS>
+-2.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.613862411153928
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.57958068287074
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8636396313391912
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.43
+
+> <JCHEM_REFRACTIVITY>
+64.6519
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.76e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03112
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02904
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(2-Oxo-Hexahydro-Thieno[3,4-D]Imidazol-4-Yl)-Hexanoic Acid
+
+$$$$

@@ -1,0 +1,176 @@
+
+  Mrv0541 04191212172D          
+
+ 24 26  0  0  1  0            999 V2000
+   -0.8250    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846   -0.2549    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2696    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846    1.0800    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9883    0.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9883    0.8175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4083   -0.5833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0396   -1.0395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8466   -1.2110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4875   -1.6526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5395    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2540    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9684    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6501    0.7728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9068    2.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5116    2.6213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4384    1.0159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3273    2.4984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7398    1.7839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2540    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  7  1  0  0  0  0
+ 10  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  5 11  1  6  0  0  0
+  7  6  1  0  0  0  0
+  8  6  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 11  2  0  0  0  0
+  3 14  1  6  0  0  0
+  1 15  1  1  0  0  0
+ 16 15  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 21 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 22 20  1  0  0  0  0
+ 23 21  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 16 24  1  4  0  0  0
+M  END
+> <DATABASE_ID>
+DB01163
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]C(=N[C@@H]1C(=O)N2[C@@H](C(O)=O)C(C)(C)S[C@]12[H])N1CCCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H23N3O3S/c1-15(2)11(14(20)21)18-12(19)10(13(18)22-15)16-9-17-7-5-3-4-6-8-17/h9-11,13H,3-8H2,1-2H3,(H,20,21)/t10-,11+,13-/m1/s1
+
+> <INCHI_KEY>
+BWWVAEOLVKTZFQ-NTZNESFSSA-N
+
+> <FORMULA>
+C15H23N3O3S
+
+> <MOLECULAR_WEIGHT>
+325.426
+
+> <EXACT_MASS>
+325.146012307
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.10788786936299496
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.15878501166859
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-{[(azepan-1-yl)methylidene]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.41
+
+> <JCHEM_LOGP>
+-0.5483665752800043
+
+> <ALOGPS_LOGS>
+-2.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.778436422807125
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.302457911641027
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.915651222614097
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.21
+
+> <JCHEM_REFRACTIVITY>
+84.3069
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.79e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01163
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00789
+
+> <DRUG_GROUPS>
+investigational; withdrawn
+
+> <GENERIC_NAME>
+Amdinocillin
+
+> <SYNONYMS>
+Amdinocillin; Mecilinamo; Mecillinam; Mecillinamum; Penicillin HX
+
+> <INTERNATIONAL_BRANDS>
+Coactin; Selexid
+
+$$$$

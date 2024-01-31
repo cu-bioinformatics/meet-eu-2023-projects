@@ -1,0 +1,150 @@
+3BT
+  Mrv0541 02231217162D          
+
+ 18 18  0  0  0  0            999 V2000
+   -1.2639   -1.2893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5494   -0.8768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9784   -3.3519    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6930   -2.1144    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9784   -2.5269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2639   -2.1144    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1651    1.1859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1651    0.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5494   -0.0517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2639    0.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2639    1.1859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5494    1.5984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5941    1.1859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8797    1.5984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7378    1.5984    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0232    0.3608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0232    1.1859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3087    1.5984    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03910
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=N)SCCC1=CC(CCSC(N)=N)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H18N4S2/c13-11(14)17-6-4-9-2-1-3-10(8-9)5-7-18-12(15)16/h1-3,8H,4-7H2,(H3,13,14)(H3,15,16)
+
+> <INCHI_KEY>
+YEUSLPIIQGZHQB-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H18N4S2
+
+> <MOLECULAR_WEIGHT>
+282.428
+
+> <EXACT_MASS>
+282.097287976
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9993497262895459
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.84635643913771
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2-{3-[2-(carbamimidoylsulfanyl)ethyl]phenyl}ethyl)sulfanyl]methanimidamide
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+2.67238789
+
+> <ALOGPS_LOGS>
+-4.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.885681736938874
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+102.7342
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.07e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03910
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00164
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S,S'-(1,3-Phenylene-Bis(1,2-Ethanediyl))Bis-Isothiourea
+
+$$$$

@@ -1,0 +1,159 @@
+935
+  Mrv1909 01132120312D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.0930    1.2002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3227   -2.5079    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9902   -1.3519    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.2002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3470    2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6970    2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.2749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.6874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1297   -2.6794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5422   -1.9649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 15  2  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00935
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(=C(O)C(C)=C1CC1=NCCN1)C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H24N2O/c1-10-8-13(16(3,4)5)15(19)11(2)12(10)9-14-17-6-7-18-14/h8,19H,6-7,9H2,1-5H3,(H,17,18)
+
+> <INCHI_KEY>
+WYWIFABBXFUGLM-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H24N2O
+
+> <MOLECULAR_WEIGHT>
+260.3746
+
+> <EXACT_MASS>
+260.1888634
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9991300907421853
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.640301110891063
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-tert-butyl-3-[(4,5-dihydro-1H-imidazol-2-yl)methyl]-2,4-dimethylphenol
+
+> <JCHEM_LOGP>
+3.0323152052087035
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.906928467098338
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.149300298695183
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.62
+
+> <JCHEM_REFRACTIVITY>
+79.79849999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-demethyldiltiazem
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00935
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01158
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Oxymetazoline
+
+> <SYNONYMS>
+2-(4-tert-butyl-2,6-dimethyl-3-hydroxybenzyl)-2-imidazoline; 3-[(4,5-dihydro-1H-imidazol-2-yl)methyl]-6-(1,1-dimethylethyl)-2,4-dimethylphenol; 6-t-butyl-3-(2-imidazolin-2-ylmethyl)-2,4-dimethylphenol; 6-tert-butyl-3-(2-imidazolin-2-ylmethyl)-2,4-dimethylphenol; Oximetazolinum; Oxymetazolina; Oxymétazoline; Oxymetazoline; Oxymetazolinum; Oxymethazoline; Oxymetozoline
+
+> <PRODUCTS>
+12 Hour Nasal; 12 Hour Nasal Decongestant Extra Moisturizing; 12 Hour Original Nasal Decongestant; 7 Select Nasal; 7 Select Original Nasal; AVON HeXashield Congestion Relief Original; Aesb - Oxymetazoline Hydrochloride Nasal Solution USP, 0.025%; Afrin; Afrin Allergy Sinus Nasal; Afrin Cold; Afrin No Drip Extra Moisturizing; Afrin No Drip Night Chamomile; Afrin No Drip Original Pump Mist; Afrin No Drip Severe Congestion; Afrin No Drip Sinus Pump Mist; Afrin No-Drip Allergy Sinus; Afrin NoDrip Allergy Sinus Night; Afrin Original; Afrin Original Nasal; Afrin Original Pump Mist; Afrin Severe Congestion; Afrin Sinus; Anefrin Nasal; Anefrin Nasal Extra Moisturizing; Anefrin Nasal Original; Assured Nasal Relief; Assured Nasal Relief Original; Assured Severe Congestion Nasal Relief; BEST CHOICE No Drip; Basic Care Nasal; Basic Care No Drip Nasal; Being Well Nasal 12 Hour; Berkley and Jensen Nasal; Best Choice; Best Choice Allergy Sinus; Best Choice Maximum Strength; Best Choice Ultra Fine Mist; Breaze Nasal Moisturizing; Breaze Nasal Sinus Colds and Allergies; CVS Health; CVS Health Nasal Mist; CVS Health No Drip; CVS Health Sinus; CVS Health Sinus Relief; CVS Health Ultra Fine Mist; CVS Original Nasal Mist; CVS Severe Nasal Congestion Relief Clear and Cool; Care One Nasal; Care One Nasal Extra Moisturizing; Care One Nasal Original; Care One Nasal Sinus; CareOne Severe Congestion Nasal; Children Afrin Extra Moisturizing Stuffy Nose Pump Mist Stuffy Nose Pump Mist; Children Afrin No Drip Extra Moisturizing Stuffy Nose Pump Mist Stuffy Nose Pump Mist; Circle K Congestion Relief; Claritin Allergy Decongestant; Claritin Eye Allergy Relief; Clear Time; Cleartime; Clirol Nasal Spray; Congestion Relief Lil Drug Store Products; Cooling Menthol Nasal Spray; DG Health Clear Time; DG Health Nasal; DG health sinus severe; Decongestant Nasal; Decongestant Nasal Mist Long Lasting; Dg Health Nasal; Dg Health Nasal Original; Dg Health Sinus Relief; Discount Drug Mart Maximum Strength Nasal; Discount Drug Mart Original Nasal; Discount Drug Mart Severe Congestion Nasal; Discount Drug Mart Severe Nasal; Discount drug mart Extra Moisturizing; Dristan 12 Hr; Dristan 12 hr; Drixoral Decongestant Nasal Spray; Drixoral Nasal Congestion; Drixoral No Drip Cooling Menthol; Drixoral No Drip Extra Moisturizing; Drixoral No Drip Nasal Congestion; Drixoral No Drip Nasal Congestion With Menthol; Drixoral No Drip Original Unscented; Drixoral No Drip With Calming Chamomile; EQUALINE Oxymetazoline HCl Nasal Decongestant No Drip; Equaline Nasal; Equate Nasal; Equate Nasal Original; Exchange Select Nasal; Extra Moisturizing; Extra Moisturizing Nasal Pump Mist Anti Drip; Extra Moisturizing Nasal Spray; Extra Moisturizing No Drip Nasal Walgreens; Family Care Nasal Relief; Family Dollar; FormuCare Nasal Original; Giltuss Severe Sinus; Good Neighbor Pharmacy Nasal; Good Neighbor Pharmacy Nasal Extra Moisturizing; Good Sense Nasal; HEB Nasal decongestant No Drip Extra Moisturizing; Health Mart Nasal; Healthy Accents Nasal; Healthy Accents Nasal Original; Kovanaze; Kroger No Drip; Leader Extra Moisturizing Nasal; Leader Nasal; Leader Original Nasal; Leader Severe Congestion Nasal; Long Lasting Decongestant Nasal Spray; Long Lasting Dristan Mentholated Nasal Spray; Long Lasting Dristan Nasal Mist; Long Lasting Nasal Mist; MUCINEX Childrens Stuffy Nose; MUCINEX SINUS-MAX SEVERE CONGESTION RELIEF SINUS and ALLERGY; MUCINEX SINUS-MAX SEVERE NASAL CONGESTION RELIEF CLEAR and COOL NASAL; Major; Marc Glassman Maximum Strength; Max Str.Nasal Relief Severe Congestion; Maximum Strength Nasal Decongestant; Maximum Strenth Nasal; Meijer Original; Mucinex Full Force; Mucinex Moisture Smart; Mucinex Nasal Moisture Smart; Mucinex Sinus-Max Full Force; Mucinex Sinus-Max Moisture Smart; Mucinex Sinus-Max Pressure, Pain and Cough and Mucinex Sinus-Max Severe Congestion Relief Clear and Cool; Mucinex Sinus-action Congestion & Sinus Nasal Spray; Mucinex Sinus-action Moisture Smart Nasal Spray; Nafrine Pediatric Nasal Spray/drops 0.025%; Nasal; Nasal 12 Hour; Nasal Congestion Spray; Nasal D; Nasal D Original; Nasal Decongestant; Nasal Decongestant Extra Moisturizing; Nasal Decongestant Extra Moisturizing Premier Value; Nasal Decongestant Original; Nasal Decongestant Premier Value; Nasal Decongestant Sinus Premier Value; Nasal Extra Moisturizing; Nasal Mist; Nasal Mist CVS; Nasal Mist Walgreens; Nasal Original; Nasal Relief; Nasal Relief 12-Hour; Nasal Relief Rite Aid; Nasal Sinus; Nasal decongestant; Nasalub Nasal Relief; No Drip; No Drip Anefrin Nasal; No Drip Nasal Mist; No Drip Nasal Mist Nasal Decongestant Severe Congestion; No Drip Nasal Mist Original; No Drip Original; No Drip Premier Value; No Drip Severe Congestion Premier Value; No Drip Severe Nasal Mist; No More Nosebleed; Nostrilla; ORIGINAL Nasal PUMP MIST No Drip; OXYMETAZOLINE HCl; Ocuclear Oph Dps 0.025%; Original; Original No Drip Nasal; Original No Drip Nasal Walgreens; Original Unscented Nasal Spray; Otrivin Medicated No Drip; Otrivin Medicated Sinus; Oxymetazoline HCl; Oxymetazoline Hydrochloride; Oxymetazoline Hydrochloride 12-Hour; Oxymetazoline Hydrochloride Nasal Spray 0.05%; Oxymetazoline Hydrochloride Nasal Spray 0.05% With Moisturizers; Oxymethazoline HCL; Preferred Plus 12 Hour Nasal Extra Moisturizing; Preferred Plus 12 Hour Nasal Original; Preferred Plus Nasal; Publix; Publix Extra Moisturizing; Publix Maximum Strength; Quality Choice; Quality Choice Maximum Strength; Quality Choice Nasal; Quality Choice Nasal Maximum Strength; Quality Choice Nasal Original; Rexall Nasal; Rexall Sinus Nasal Pump Mist; Rhinase D Gel Moisturizing Nasal Decongestant; Rhofade; Rx Act Nasal Extra Moisturizing; Rx Act Nasal Original; Rx Act Nasal Sinus; Sbeb - Oxymetazoline Hydrochloride Nasal Solution USP, 0.05%; Severe Anefrin; Severe Congestion Nasal Anti-Drip Nasal Decongestant; Severe Congestion Nasal no drip Walgreens; Severe Sinus Relief Mist; ShopRite Nasal; Shopko Extra Moisturizing Nasal; Shopko Original Nasal; Shopko Severe Congestion Nasal; Signature Care Nasal Decongestant; Sinex Complete; Sinex Moisturizing Ultra Fine Mist; Sinex Original Ultra Fine Mist; Sinex Scent Free Ultra Fine Mist; SinuFrin NeilMed; SinuFrin Plus NeilMed; Sinufrin; Sinufrin Plus; Sinus Relief; Sinus relief; Smart Sense Nasal; Smart Sense Nasal Extra Moisturizing; Smart Sense Nasal Original; Smart Sense Pump Mist; Smart Sense pump mist; Smart Sense sinus relief; Sound Body 12 Hour Nasal Original; Sound Body Nasal; Sudafed OM; Sunmark Nasal; Sunmark Nasal Original; Sunmark no drip; TOPCARE No Drip Extra Moisturizing; Todays Health Nasal Relief Extra Moisturizing; Todays Health Nasal Relief Original; Todays Health Sinus Nasal Relief; Topcare Clear Time; Topcare Nasal; Topcare Sinus Nasal; Topcare Sinus Relief; Topcare Sinus Severe; Tukol Max Action; Ultra Fine Mist Premier Value; Ultra Fine Mist Sinus Relief; Up and Up Nasal Extra Moisturizing; Up and Up nasal; Up and up nasal; Upneeq; Vicks QlearQuil 12 Hour Decongestant Moisturizing; Vicks Sinex 12 Hour; Vicks Sinex 12 Hour Decongestant; Vicks Sinex 12 Hour Decongestant Nasal; Vicks Sinex 12 Hour Decongestant Ultra Fine Mist; Vicks Sinex 12 Hour Decongestant Ultra Fine Mist Moisturizing; Vicks Sinex 12 Hour Nasal Decongestant Ultra Fine Mist Moisturizing; Vicks Sinex 12 Hour Ultra Fine Mist; Vicks Sinex Decongestant Nasal Spray 0.05%; Vicks Sinex Scent Free; Vicks Sinex Severe No Drip; Vicks Sinex Severe Original; Vicks Sinex Severe VapoCOOL Ultra Fine Mist 12 Hour; Vicks Sinex VapoSpray; Visine L.R.; Visine L.R. Ophthalmic Sol 0.025%; Visine Workplace; Walgreen; Walgreens 12-Hour Sinus Relief; Walgreens Anefrin Severe Congestion Nasal; Walgreens Extra Moisturizing Anefrin Nasal; Walgreens Original Anefrin Nasal; WinCo Foods Extra Moisturizing Nasal Relief; WinCo Foods Original Nasal; WinCo Foods Severe Congestion Nasal Relief; Xlear Nasal Decongestant; Ydyb - Oxymetazoline Hydrochloride Nasal Solution USP, 0.025%; Zicam; Zicam Congestion Relief; Zicam Extreme Congestion Relief; Zicam Intense Sinus Relief; Zicam Sinus Relief; n-Drops NASAL DECONGESTANT
+
+> <INTERNATIONAL_BRANDS>
+Dristan 12-Hour; Duramist Plus; Genasal Nasal Spray Up to 12 Hour Relief; Iliadin; Neo-Synephrine 12 Hour Spray; Nezeril; Nostrilla 12 Hour Nasal Decongestant; OcuClear; Vicks Sinex 12 Hour Nasal Spray; Vicks Sinex 12 Hour Ultra Fine Mist for Sinus Relief
+
+> <SALTS>
+Oxymetazoline hydrochloride
+
+$$$$

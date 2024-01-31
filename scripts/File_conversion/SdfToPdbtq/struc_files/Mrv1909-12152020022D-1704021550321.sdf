@@ -1,0 +1,170 @@
+
+  Mrv1909 12152020022D          
+
+ 24 26  0  0  1  0            999 V2000
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3848   -1.0942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8545   -2.0127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3242   -2.6447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6670   -2.1560    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9492   -2.9313    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.7616   -3.0745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0438   -3.8498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5135   -4.4817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7010   -4.3385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4189   -3.5632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 10 16  1  1  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 19 18  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 19 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16333
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(O)C(C)=C2CC[C@](C)(OC2=C1C)C(=O)N[C@@H]1CCCNC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28N2O3/c1-11-12(2)17-15(13(3)16(11)22)7-8-19(4,24-17)18(23)21-14-6-5-9-20-10-14/h14,20,22H,5-10H2,1-4H3,(H,21,23)/t14-,19+/m1/s1
+
+> <INCHI_KEY>
+LZYWLEPSQNXESC-KUHUBIRLSA-N
+
+> <FORMULA>
+C19H28N2O3
+
+> <MOLECULAR_WEIGHT>
+332.444
+
+> <EXACT_MASS>
+332.20999277
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.996572668818634
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.14240044836876
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-6-hydroxy-2,5,7,8-tetramethyl-N-[(3R)-piperidin-3-yl]-3,4-dihydro-2H-1-benzopyran-2-carboxamide
+
+> <ALOGPS_LOGP>
+1.75
+
+> <JCHEM_LOGP>
+2.9665038043632035
+
+> <ALOGPS_LOGS>
+-3.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.46278257553578
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.68231851300929
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.492924112138923
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.59
+
+> <JCHEM_REFRACTIVITY>
+94.73399999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.24e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+revaprazan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16333
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Sonlicromanol
+
+> <SYNONYMS>
+Sonlicromanol
+
+$$$$

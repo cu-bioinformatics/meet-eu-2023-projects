@@ -1,0 +1,157 @@
+AL5
+  Mrv0541 02241213232D          
+
+ 21 22  0  0  0  0            999 V2000
+    1.3384    2.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2917   -0.7911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1933   -1.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1423   -2.2122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3426   -2.8797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1631   -2.7935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4987   -2.0398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0137   -1.3723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6480   -3.4609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3384    4.2170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1634    3.3920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5134    3.3920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3384    3.3920    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0059    2.0820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7509    1.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9259    1.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6710    2.0820    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4410    0.6300    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1085    0.1451    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2264    1.1149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0439   -0.0375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 14  2  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07363
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C(CNS(=O)(=O)C2=CC=C(S2)S(N)(=O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N2O4S3/c1-9-2-4-10(5-3-9)8-14-21(17,18)12-7-6-11(19-12)20(13,15)16/h2-7,14H,8H2,1H3,(H2,13,15,16)
+
+> <INCHI_KEY>
+GUNRMHMEAWSZQE-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N2O4S3
+
+> <MOLECULAR_WEIGHT>
+346.446
+
+> <EXACT_MASS>
+346.011569016
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0665322393595346
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.51343140452836
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N2-[(4-methylphenyl)methyl]thiophene-2,5-disulfonamide
+
+> <ALOGPS_LOGP>
+0.53
+
+> <JCHEM_LOGP>
+1.759311824
+
+> <ALOGPS_LOGS>
+-3.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.557266978069439
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.169710608450933
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+80.34989999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.75e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07363
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+THIOPHENE-2,5-DISULFONIC ACID 2-AMIDE-5-(4-METHYL-BENZYLAMIDE)
+
+$$$$

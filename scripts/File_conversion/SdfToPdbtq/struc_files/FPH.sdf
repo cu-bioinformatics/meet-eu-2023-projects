@@ -1,0 +1,166 @@
+FPH
+  Mrv0541 02231216022D          
+
+ 23 26  0  0  0  0            999 V2000
+    0.1282    2.0521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3832    1.2675    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1678    1.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8823    1.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5967    1.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5967    0.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8823   -0.2250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1678    0.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3832   -0.0674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1282   -0.8520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6803   -1.4651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4253   -2.2497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3816   -2.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6366   -3.2059    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9337   -1.8082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6787   -1.0236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1018    0.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9268    0.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3393   -0.1144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1643   -0.1144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5768    0.6000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1643    1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3393    1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02195
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ON1C2=CC=CN=C2C(=C1C1=CC=NC=C1)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H12FN3O/c19-14-5-3-12(4-6-14)16-17-15(2-1-9-21-17)22(23)18(16)13-7-10-20-11-8-13/h1-11,23H
+
+> <INCHI_KEY>
+ZSMYZLKEZDYVPI-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H12FN3O
+
+> <MOLECULAR_WEIGHT>
+305.3058
+
+> <EXACT_MASS>
+305.096440226
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.004294718679285345
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.743942919056146
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(4-fluorophenyl)-2-(pyridin-4-yl)-1H-pyrrolo[3,2-b]pyridin-1-ol
+
+> <ALOGPS_LOGP>
+2.88
+
+> <JCHEM_LOGP>
+2.7073620199999997
+
+> <ALOGPS_LOGS>
+-4.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.769295779777304
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.6519827576081525
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.94
+
+> <JCHEM_REFRACTIVITY>
+86.0003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.65e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02195
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01476
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(4-Fluorophenyl)-1-Hydroxy-2-(Pyridin-4-Yl)-1h-Pyrrolo[3,2-B]Pyridine
+
+$$$$

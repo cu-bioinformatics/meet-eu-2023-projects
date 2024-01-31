@@ -1,0 +1,156 @@
+LZ7
+  Mrv0541 02241213532D          
+
+ 19 20  0  0  0  0            999 V2000
+   17.3076    5.2712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3076    4.4462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0221    4.0337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5932    4.0337    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5932    3.2087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2606    2.7238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0057    1.9392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1807    1.9392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9257    2.7238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1411    2.9787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9696    3.7857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5280    2.4267    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7434    2.6816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1303    2.1296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3457    2.3845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1741    3.1915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3895    3.4465    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7872    3.7436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5719    3.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08136
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)NC1=CNN=C1C(=O)NC1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11FN4O2/c1-7(18)15-10-6-14-17-11(10)12(19)16-9-4-2-8(13)3-5-9/h2-6H,1H3,(H,14,17)(H,15,18)(H,16,19)
+
+> <INCHI_KEY>
+CWQKPKYIMQTGJK-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11FN4O2
+
+> <MOLECULAR_WEIGHT>
+262.2397
+
+> <EXACT_MASS>
+262.086603821
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0035430872982187304
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.792452965260786
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-acetamido-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide
+
+> <ALOGPS_LOGP>
+1.61
+
+> <JCHEM_LOGP>
+1.1355772429999997
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.556887403705202
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.449414675559513
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.3146353398858876
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.88
+
+> <JCHEM_REFRACTIVITY>
+69.9863
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08136
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(acetylamino)-N-(4-fluorophenyl)-1H-pyrazole-3-carboxamide
+
+$$$$

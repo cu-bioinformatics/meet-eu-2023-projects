@@ -1,0 +1,150 @@
+300
+  Mrv0541 02231216512D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.7649    0.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7649   -0.5197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0505   -0.9322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3360   -0.5197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3360    0.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0505    0.7178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0505    1.5428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3785    0.7178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3785   -0.9322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930   -0.5197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930    0.3053    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8074   -0.1072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5055    1.0198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6805   -0.4092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3360    1.9553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03306
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=CC(C=O)=C1OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9O6P/c1-13-7-4-2-3-6(5-9)8(7)14-15(10,11)12/h2-5H,1H3,(H2,10,11,12)
+
+> <INCHI_KEY>
+CGEZBCISRKFHLZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H9O6P
+
+> <MOLECULAR_WEIGHT>
+232.1272
+
+> <EXACT_MASS>
+232.013674532
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8447307077540032
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.095424906460416
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2-formyl-6-methoxyphenoxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.02
+
+> <JCHEM_LOGP>
+0.5706464276666666
+
+> <ALOGPS_LOGS>
+-1.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.565384371998051
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.591113432614765
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.912925616705689
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.06
+
+> <JCHEM_REFRACTIVITY>
+51.959
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.87e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03306
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00147
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+RU78300
+
+$$$$

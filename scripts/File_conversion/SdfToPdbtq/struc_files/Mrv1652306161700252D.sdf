@@ -1,0 +1,176 @@
+
+  Mrv1652306161700252D          
+
+ 28 26  0  0  0  0            999 V2000
+   -0.7144   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.0312    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723    1.4437    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.8578   -2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723   -1.0312    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.6187    0.0000 In  0  1  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  6  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13  8  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15  1  1  0  0  0  0
+ 15  2  1  0  0  0  0
+ 15  5  1  0  0  0  0
+ 16  3  1  0  0  0  0
+ 16  6  1  0  0  0  0
+ 16  7  1  0  0  0  0
+ 17  4  1  0  0  0  0
+ 17  8  1  0  0  0  0
+ 17  9  1  0  0  0  0
+ 18 10  2  0  0  0  0
+ 19 10  1  0  0  0  0
+ 20 11  2  0  0  0  0
+ 21 11  1  0  0  0  0
+ 22 12  2  0  0  0  0
+ 23 12  1  0  0  0  0
+ 24 13  2  0  0  0  0
+ 25 13  1  0  0  0  0
+ 26 14  2  0  0  0  0
+ 27 14  1  0  0  0  0
+M  CHG  4  19  -1  21  -1  23  -1  28   3
+M  ISO  1  28 111
+M  END
+> <DATABASE_ID>
+DB09425
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[111In+3].OC(=O)CN(CCN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H23N3O10.In/c18-10(19)5-15(1-3-16(6-11(20)21)7-12(22)23)2-4-17(8-13(24)25)9-14(26)27;/h1-9H2,(H,18,19)(H,20,21)(H,22,23)(H,24,25)(H,26,27);/q;+3/p-3/i;1-4
+
+> <INCHI_KEY>
+BLALCKLYSDDAOC-JWFOFJTQSA-K
+
+> <FORMULA>
+C14H20InN3O10
+
+> <MOLECULAR_WEIGHT>
+501.23
+
+> <EXACT_MASS>
+501.019979533
+
+> <JCHEM_ACCEPTOR_COUNT>
+13
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.90875222130251
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(111In)indium(3+) ion 2-[bis({2-[bis(carboxymethyl)amino]ethyl})amino]acetate
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-6.27356225191311
+
+> <ALOGPS_LOGS>
+-2.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+2.3345681026566734
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.948378830553791
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.820682146675209
+
+> <JCHEM_POLAR_SURFACE_AREA>
+204.70999999999995
+
+> <JCHEM_REFRACTIVITY>
+118.9606
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+16
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.71e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(111In)indium(3+) ion [bis({2-[bis(carboxymethyl)amino]ethyl})amino]acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09425
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Indium In-111 pentetate
+
+> <SYNONYMS>
+Indium (111In) pentetic acid; Indium In 111 pentetate; Indium In-111 pentetate
+
+> <PRODUCTS>
+In-111 DTPA; Indium DTPA In 111
+
+> <SALTS>
+Indium In-111 pentetate disodium
+
+$$$$

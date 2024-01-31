@@ -1,0 +1,161 @@
+
+  Mrv1652306231722432D          
+
+ 23 24  0  0  1  0            999 V2000
+   -1.3480   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5230   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5230   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520   -0.5230    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7804    0.2839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.5230    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 12 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 18 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13515
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(=O)C(C[C@@H](C)N(C)C)(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H27NO/c1-5-20(23)21(16-17(2)22(3)4,18-12-8-6-9-13-18)19-14-10-7-11-15-19/h6-15,17H,5,16H2,1-4H3/t17-/m1/s1
+
+> <INCHI_KEY>
+USSIQXCVUWKGNF-QGZVFWFLSA-N
+
+> <FORMULA>
+C21H27NO
+
+> <MOLECULAR_WEIGHT>
+309.453
+
+> <EXACT_MASS>
+309.209264493
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.86202871993805
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(6R)-6-(dimethylamino)-4,4-diphenylheptan-3-one
+
+> <ALOGPS_LOGP>
+4.14
+
+> <JCHEM_LOGP>
+5.007171635333333
+
+> <ALOGPS_LOGS>
+-4.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.780818634444923
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.117210098088941
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.310000000000002
+
+> <JCHEM_REFRACTIVITY>
+97.26890000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.90e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(6R)-6-(dimethylamino)-4,4-diphenylheptan-3-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13515
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Levomethadone
+
+> <SYNONYMS>
+Levomethadone
+
+> <SALTS>
+Levomethadone hydrochloride
+
+$$$$

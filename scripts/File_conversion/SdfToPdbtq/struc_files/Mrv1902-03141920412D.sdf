@@ -1,0 +1,173 @@
+
+  Mrv1902 03141920412D          
+
+ 28 31  0  0  0  0            999 V2000
+    2.3024   -0.7062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0475    0.0783    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2225    0.0783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9675   -0.7062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6350   -1.1911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6350   -2.0161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1606   -0.8777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3914   -0.2646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1364    0.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6704    0.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6885    1.1330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4954    0.9615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7504    0.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0475    1.5746    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8544    1.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1094    0.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5573    0.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8123   -0.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9164    0.4469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4684    1.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2134    1.8446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4065    2.0161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5995    0.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4065    0.5199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6614   -0.2646    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1094   -0.8777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4684   -0.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7119    0.8320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  1  5  1  6  0  0  0
+  5  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 15 22  1  0  0  0  0
+  2 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+  1 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+  2 28  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB06525
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC1=C(NC(=O)OC2=CC3=C(C=C2)N(C)[C@H]2ON(C)CC[C@@]32C)C=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H27N3O3/c1-5-15-8-6-7-9-18(15)23-21(26)27-16-10-11-19-17(14-16)22(2)12-13-24(3)28-20(22)25(19)4/h6-11,14,20H,5,12-13H2,1-4H3,(H,23,26)/t20-,22-/m0/s1
+
+> <INCHI_KEY>
+ZOBDWFRKFSPCRB-UNMCSNQZSA-N
+
+> <FORMULA>
+C22H27N3O3
+
+> <MOLECULAR_WEIGHT>
+381.476
+
+> <EXACT_MASS>
+381.205241741
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.44977861994572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4aS,9aS)-2,4a,9-trimethyl-2H,3H,4H,4aH,9H,9aH-[1,2]oxazino[6,5-b]indol-6-yl N-(2-ethylphenyl)carbamate
+
+> <ALOGPS_LOGP>
+4.03
+
+> <JCHEM_LOGP>
+4.821156600666668
+
+> <ALOGPS_LOGS>
+-3.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.904944336885809
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0561315400774745
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.040000000000006
+
+> <JCHEM_REFRACTIVITY>
+110.54960000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.40e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1R,2R,6R,10S,11R,15R,17R)-13-benzyl-6-hydroxy-4,17-dimethyl-5-oxo-15-(prop-1-en-2-yl)-12,14,18-trioxapentacyclo[11.4.1.0^{1,10}.0^{2,6}.0^{11,15}]octadeca-3,8-dien-8-yl]methyl 2-(4-hydroxy-3-methoxyphenyl)acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06525
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Ganstigmine
+
+> <SYNONYMS>
+Ganstigmine
+
+> <SALTS>
+Ganstigmine hydrochloride
+
+$$$$

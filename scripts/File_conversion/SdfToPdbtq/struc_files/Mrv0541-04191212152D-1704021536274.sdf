@@ -1,0 +1,168 @@
+
+  Mrv0541 04191212152D          
+
+ 19 20  0  0  1  0            999 V2000
+   16.8537   -6.8636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8537   -6.0579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1375   -7.2933    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6415   -7.1322    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1375   -5.6460    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   17.6415   -5.7893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4213   -6.8636    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.7257   -7.9916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5135   -7.9916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1071   -6.4697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4213   -6.0579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1375   -4.8045    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7230   -7.2933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9307   -6.4697    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3425   -7.1859    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9307   -5.6460    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6469   -6.0758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4182   -4.3995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7072   -4.8202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  8  3  2  0  0  0  0
+  9  3  2  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  5  1  0  0  0  0
+  5 12  1  6  0  0  0
+ 10  6  2  0  0  0  0
+  7 13  1  1  0  0  0
+ 11  7  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 14  2  0  0  0  0
+ 17 14  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00869
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN[C@H]1C[C@H](C)S(=O)(=O)C2=C1C=C(S2)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O4S3/c1-3-12-8-4-6(2)18(13,14)10-7(8)5-9(17-10)19(11,15)16/h5-6,8,12H,3-4H2,1-2H3,(H2,11,15,16)/t6-,8-/m0/s1
+
+> <INCHI_KEY>
+IAVUPMFITXYVAF-XPUUQOCRSA-N
+
+> <FORMULA>
+C10H16N2O4S3
+
+> <MOLECULAR_WEIGHT>
+324.44
+
+> <EXACT_MASS>
+324.02721908
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.35984872112422067
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.554520288675878
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,4S)-4-(ethylamino)-2-methyl-1,1-dioxo-2H,3H,4H-1lambda6-thieno[2,3-b]thiopyran-6-sulfonamide
+
+> <ALOGPS_LOGP>
+-0.50
+
+> <JCHEM_LOGP>
+-0.12213324118635148
+
+> <ALOGPS_LOGS>
+-2.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.782180963422169
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.159008300686995
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.875389580932636
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+72.46110000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.99e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00869
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00577; DB04507
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dorzolamide
+
+> <SYNONYMS>
+(4S,6S)-4-ethylamino-6-methyl-7,7-dioxo-4,5,6,7-tetrahydro-7lambda*6*-thieno[2,3-b]thiopyran-2-sulfonic acid amide; (4S,trans)-4-(ethylamino)-6-methyl-5,6-dihydro-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide; 4-Ethylamino-6-methyl-7,7-dioxo-4,5,6,7-tetrahydro-7lambda*6*-thieno[2,3-b]thiopyran-2-sulfonic acid amide; 4-ethylamino-6-methyl-7,7-dioxo-4,5,6,7-tetrahydro-7lambda6-thieno[2,3-b]thiopyran-2-sulfonic acid amide; 4S,6S-dorzolamide; Dorzolamid; Dorzolamida; Dorzolamide; Dorzolamidum
+
+> <PRODUCTS>
+Act Dorzotimolol; Ag-dorzolamide Timolol; Apo-dorzo-timop; Apo-dorzolamide; Brim-Dor PF; Cosopt; Cosopt PF; Cosopt Preservative-free; DORZOLAMIDE HYDROCHLORIDE and TIMOLOL MALEATE; Dorzolamide; Dorzolamide Eye Drops BP; Dorzolamide HCl; Dorzolamide HCl /Timolol Maleate; Dorzolamide HCl and Timolol Maleate; Dorzolamide Hydrochloride; Dorzolamide Hydrochloride Ophthalmic; Dorzolamide Hydrochloride Ophthalmic Solution; Dorzolamide Hydrochloride Ophthalmic Solution 2%, 10mL Ophthalmic Solution 2%, 10mL; Dorzolamide Hydrochloride Timolol Maleate; Dorzolamide Hydrochloride Timolol Maletae; Dorzolamide Hydrochloride and Timolol Maleate; Dorzolamide Hydrochloride and Timolol Maleate Ophthalmic Solution; Dorzolamide Hydrochloride and Timolol Maleate Preservative Free; Dorzolamide Hydrochloride and Timolol Maleate ophthalmic Solution; Dorzolamide Hydrochloride-Timolol Maleate; Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution Sterile Ophthalmic Solution; Dorzolamide Hydrochloride-timolol Maleate; Dorzolamide PF; Dorzolamide and Timolol; Dorzolamide and Timolol Eye Drops BP; Dorzolamide hydrochloride; Dorzolamide-timolol; Duokopt; Jamp Dorzolamide-timolol; Jamp-dorzolamide; Med-dorzolamide; Med-dorzolamide-timolol; Mint-dorzolamide/timolol; Mylan-dorzolamide/timolol; PMS-dorzolamide-timolol; Priva-dorzolamide-timolol; Riva-dorzolamide; Riva-dorzolamide/timolol; Sandoz Dorzolamide; Sandoz Dorzolamide/timolol; Teva-dorzotimol; Tim-Brim-Dor PF; Tim-Brim-Dor-Lat; Tim-Dor PF; Tim-Dor-Lat; Trusopt; Trusopt Preservative-free; Van-dorzolamide-timolol
+
+> <SALTS>
+Dorzolamide hydrochloride
+
+$$$$

@@ -1,0 +1,157 @@
+
+  Mrv1909 10112217182D          
+
+ 19 21  0  0  1  0            999 V2000
+    1.4358   -2.7631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838   -2.1500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    0.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0768    0.9256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1781    1.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3739    2.3234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1190    3.1080    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809    2.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7329    2.7649    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4358    1.3672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  3 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+  5 12  1  1  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 12 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17032
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN[C@@H]1C[C@H](C2=CC=CC=C12)C1=CC=C(Cl)C(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H15Cl2N/c1-19-16-9-13(11-4-2-3-5-12(11)16)10-6-7-14(17)15(18)8-10/h2-8,13,16,19H,9H2,1H3/t13-,16+/m0/s1
+
+> <INCHI_KEY>
+SVFXPTLYMIXFRX-XJKSGUPXSA-N
+
+> <FORMULA>
+C16H15Cl2N
+
+> <MOLECULAR_WEIGHT>
+292.2
+
+> <EXACT_MASS>
+291.0581549
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9968180501880083
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.860095173605632
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3S)-3-(3,4-dichlorophenyl)-N-methyl-2,3-dihydro-1H-inden-1-amine
+
+> <ALOGPS_LOGP>
+4.62
+
+> <JCHEM_LOGP>
+4.704731308666666
+
+> <ALOGPS_LOGS>
+-5.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.495922568147918
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+81.14000000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.13e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB17032
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Indatraline
+
+> <SYNONYMS>
+(+/-)-trans-3-(3,4-dichlorophenyl)-n-methyl-1-indanamine
+
+> <SALTS>
+Indatraline hydrochloride
+
+$$$$

@@ -1,0 +1,160 @@
+
+  Mrv1909 08092019272D          
+
+ 19 20  0  0  0  0            999 V2000
+    4.3201    0.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9332   -0.1002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7178    0.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3309   -0.3974    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7681    0.3022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0958   -0.7064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1594   -1.2044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3748   -1.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7617   -0.9072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9770   -1.1622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3639   -0.6101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5793   -0.8651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3244   -1.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4993   -1.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2444   -0.8651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9119   -0.3802    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4598   -0.6101    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.1532   -1.1622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2882    0.1967    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  CHG  2  17   1  19  -1
+M  END
+> <DATABASE_ID>
+DB11820
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1CS(=O)(=O)CCN1\N=C\C1=CC=C(O1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N3O5S/c1-8-7-19(16,17)5-4-12(8)11-6-9-2-3-10(18-9)13(14)15/h2-3,6,8H,4-5,7H2,1H3/b11-6+
+
+> <INCHI_KEY>
+ARFHIAQFJWUCFH-IZZDOVSWSA-N
+
+> <FORMULA>
+C10H13N3O5S
+
+> <MOLECULAR_WEIGHT>
+287.29
+
+> <EXACT_MASS>
+287.057591705
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.205579743399248e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.73783571259445
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-methyl-4-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]-1lambda6-thiomorpholine-1,1-dione
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+-0.2658421970000004
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.3436165016121127
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.02000000000001
+
+> <JCHEM_REFRACTIVITY>
+65.7778
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.85e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11820
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Nifurtimox
+
+> <SYNONYMS>
+Nifurtimox; Nifurtimoxum
+
+> <PRODUCTS>
+Lampit
+
+> <INTERNATIONAL_BRANDS>
+Lampit
+
+$$$$

@@ -1,0 +1,173 @@
+LGB
+  Mrv0541 02241213512D          
+
+ 27 29  0  0  0  0            999 V2000
+   -1.4177   -0.2201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6331   -0.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6331   -1.3000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4177   -1.5549    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9026   -0.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1516   -0.2201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6365   -0.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1516   -1.5549    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4065    0.5646    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2135    0.7361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4684    1.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2754    1.6922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8274    1.0791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5725    0.2945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7655    0.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9164    2.1338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5303    2.4769    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6726   -2.3396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6344    1.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4413    1.4222    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4065   -2.3396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6614   -3.1242    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3781   -2.5945    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1911   -2.0846    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6331   -1.8839    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0048   -1.9678    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2613   -1.9678    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 25  1  1  0  0  0
+  4  3  1  0  0  0  0
+  4 18  1  1  0  0  0
+  4 26  1  6  0  0  0
+  5  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  2  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 21  1  1  0  0  0
+  8 27  1  6  0  0  0
+  9  6  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 10  2  0  0  0  0
+ 19 13  1  0  0  0  0
+ 20 19  3  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08088
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N#CC1=CC=C(\N=C2/O[C@@]([H])(C(F)(F)F)[C@]3([H])[C@](O)([H])CCN23)C(C)=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13ClF3N3O2/c1-7-9(3-2-8(6-20)11(7)16)21-14-22-5-4-10(23)12(22)13(24-14)15(17,18)19/h2-3,10,12-13,23H,4-5H2,1H3/b21-14-/t10-,12-,13+/m0/s1
+
+> <INCHI_KEY>
+KALFKWQLCWAXJO-RNSKTZJQSA-N
+
+> <FORMULA>
+C15H13ClF3N3O2
+
+> <MOLECULAR_WEIGHT>
+359.731
+
+> <EXACT_MASS>
+359.064838997
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0036303117034586045
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.939342241045544
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[(1R,3Z,7S,7aS)-7-hydroxy-1-(trifluoromethyl)-hexahydropyrrolo[1,2-c][1,3]oxazol-3-ylidene]amino}-2-chloro-3-methylbenzonitrile
+
+> <ALOGPS_LOGP>
+3.86
+
+> <JCHEM_LOGP>
+3.349214382
+
+> <ALOGPS_LOGS>
+-3.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.3501795895619
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.434064767680708
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.561527861685093
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.85
+
+> <JCHEM_REFRACTIVITY>
+82.54340000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.26e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08088
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-chloro-4-{[(1R,3Z,7S,7aS)-7-hydroxy-1-(trifluoromethyl)tetrahydro-1H-pyrrolo[1,2-c][1,3]oxazol-3-ylidene]amino}-3-methylbenzonitrile
+
+$$$$

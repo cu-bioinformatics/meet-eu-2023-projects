@@ -1,0 +1,151 @@
+
+  Mrv1902 03111922412D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.0557    0.9694    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8722    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6031   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3656   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0557   -0.3655    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3656    0.3020    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2711    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2711   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5406    0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1577    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433   -0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1577   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7781   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5867    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3011    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0156   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0156    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11472
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCOC1=CC=C2N=C(NC(=O)OC)SC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N2O3S/c1-3-6-17-8-4-5-9-10(7-8)18-11(13-9)14-12(15)16-2/h4-5,7H,3,6H2,1-2H3,(H,13,14,15)
+
+> <INCHI_KEY>
+HLLICFJUWSZHRJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N2O3S
+
+> <MOLECULAR_WEIGHT>
+266.32
+
+> <EXACT_MASS>
+266.072513493
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.249428756421516
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl N-(6-propoxy-1,3-benzothiazol-2-yl)carbamate
+
+> <ALOGPS_LOGP>
+2.93
+
+> <JCHEM_LOGP>
+3.3763823576666665
+
+> <ALOGPS_LOGS>
+-3.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.105300652496034
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.3618126053855821
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.45
+
+> <JCHEM_REFRACTIVITY>
+68.82440000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.03e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3S,4S,5R,6R)-3,4,5-trihydroxy-6-{[(1S,5R,13R,14S,17R)-10-hydroxy-4-methyl-12-oxa-4-azapentacyclo[9.6.1.0^{1,13}.0^{5,17}.0^{7,18}]octadeca-7(18),8,10,15-tetraen-14-yl]oxy}oxane-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11472
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Tioxidazole
+
+> <SYNONYMS>
+Tioxidazol; Tioxidazole; Tioxidazolum
+
+> <INTERNATIONAL_BRANDS>
+Tiox (Veterinary)
+
+$$$$

@@ -1,0 +1,186 @@
+
+  Mrv1652307091705552D          
+
+ 30 33  0  0  0  0            999 V2000
+   -1.4039    1.0107    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7043    1.4254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    2.6702    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7043    2.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1178    1.4254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1178    2.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0048    1.0107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7187    1.4254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0048   -1.4352    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4135   -2.2505    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4135    1.0107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0048    2.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7187    2.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4135    0.1857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4039    0.1857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4135   -1.4352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0048   -2.2505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7187   -1.0203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7187   -2.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7043   -0.2099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7043   -1.0203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8414    1.0107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1371   -2.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8414    2.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5554   -2.6702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1371    1.4254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8463   -2.2505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8463    1.0107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5554    1.4254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5554    2.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  2  2  0  0  0  0
+  8  7  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  4  2  0  0  0  0
+ 13  8  2  0  0  0  0
+ 14 11  2  0  0  0  0
+ 15  1  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17  9  1  0  0  0  0
+ 18  9  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 20 15  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22  5  1  0  0  0  0
+ 23 10  1  0  0  0  0
+ 24  6  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 11  1  0  0  0  0
+ 27 23  1  0  0  0  0
+ 28 26  1  0  0  0  0
+ 29 22  2  0  0  0  0
+ 30 24  2  0  0  0  0
+  4  3  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 16 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01038
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(=O)C1=CC=C2SC3=C(C=CC=C3)N(CCCN3CCN(CCO)CC3)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H31N3O2S/c1-2-22(29)19-8-9-24-21(18-19)27(20-6-3-4-7-23(20)30-24)11-5-10-25-12-14-26(15-13-25)16-17-28/h3-4,6-9,18,28H,2,5,10-17H2,1H3
+
+> <INCHI_KEY>
+XZSMZRXAEFNJCU-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H31N3O2S
+
+> <MOLECULAR_WEIGHT>
+425.59
+
+> <EXACT_MASS>
+425.213698424
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+61
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.224111231309145
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(10-{3-[4-(2-hydroxyethyl)piperazin-1-yl]propyl}-10H-phenothiazin-2-yl)propan-1-one
+
+> <ALOGPS_LOGP>
+3.26
+
+> <JCHEM_LOGP>
+3.3461564986666668
+
+> <ALOGPS_LOGS>
+-4.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+16.680092498664305
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.556012646634006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.666166146203319
+
+> <JCHEM_POLAR_SURFACE_AREA>
+47.019999999999996
+
+> <JCHEM_REFRACTIVITY>
+126.3236
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.66e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+carphenazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01038
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00848
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Carphenazine
+
+> <SYNONYMS>
+Carfenazina; Carfénazine; Carfenazine; Carfenazinum; Carphenazine
+
+> <INTERNATIONAL_BRANDS>
+Proketazin; Proketazine
+
+> <SALTS>
+Carphenazine maleate
+
+$$$$

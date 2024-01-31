@@ -1,0 +1,160 @@
+
+  Mrv1909 01072022372D          
+
+ 19 18  0  0  0  0            999 V2000
+    0.5786    0.6682    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0076    1.4932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5647    1.9057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2931    2.7307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502    0.6682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502   -0.9817    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5647   -2.2192    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -2.2192    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5786    1.4932    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1357    1.9057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357    0.2557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2931    1.9057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502    1.4932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502   -1.8067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5647   -2.7307    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0076   -1.9635    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -2.7307    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3071   -1.9635    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 14  2  0  0  0  0
+  6 12  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  1  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04489
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([H])C(=NCCS[C@@H](CC(O)=O)C(O)=O)N([H])[H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H13N3O4S/c8-7(9)10-1-2-15-4(6(13)14)3-5(11)12/h4H,1-3H2,(H,11,12)(H,13,14)(H4,8,9,10)/t4-/m0/s1
+
+> <INCHI_KEY>
+VKVCLXDFOQQABP-BYPYZUCNSA-N
+
+> <FORMULA>
+C7H13N3O4S
+
+> <MOLECULAR_WEIGHT>
+235.261
+
+> <EXACT_MASS>
+235.062676609
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9501183351859968
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.842231033611462
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-({2-[(diaminomethylidene)amino]ethyl}sulfanyl)butanedioic acid
+
+> <ALOGPS_LOGP>
+-0.96
+
+> <JCHEM_LOGP>
+-2.9083001289529937
+
+> <ALOGPS_LOGS>
+-1.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+5.263501410113828
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6113553356886516
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.646966087225032
+
+> <JCHEM_POLAR_SURFACE_AREA>
+139.0
+
+> <JCHEM_REFRACTIVITY>
+54.22800000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.42e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(E)-N''-(4-chlorophenyl)-N-hydroxyguanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04489
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01581
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Guanidinoethylmercaptosuccinic acid
+
+> <SYNONYMS>
+GEMSA
+
+$$$$

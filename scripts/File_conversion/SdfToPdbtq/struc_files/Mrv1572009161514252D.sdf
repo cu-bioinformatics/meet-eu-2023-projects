@@ -1,0 +1,180 @@
+ 
+  Mrv1572009161514252D          
+
+ 29 31  0  0  1  0            999 V2000
+   23.3843  -18.8859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3843  -19.7109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0988  -20.1234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8133  -19.7109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8133  -18.8859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0988  -18.4733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5278  -20.1234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2423  -19.7109    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   26.2423  -18.8859    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   25.5278  -18.4733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9568  -20.1234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6712  -19.7109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6712  -18.8859    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   26.9568  -18.4733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0988  -17.6485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9568  -20.9482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6835  -21.3680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3943  -20.9578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2423  -20.5359    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2423  -18.0609    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3881  -18.4720    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3872  -17.6533    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   29.2006  -17.6470    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6193  -18.3593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6070  -16.9303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4378  -16.9238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4382  -18.3529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3799  -16.7739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5587  -17.6392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  9 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  8 19  1  1  0  0  0
+  9 20  1  6  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 22 28  2  0  0  0  0
+ 22 29  2  0  0  0  0
+ 13 21  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB09097
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12C[C@@H](CN(CCC)[C@]1([H])CC1=CC=CC(O)=C1C2)NS(=O)(=O)N(CC)CC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H33N3O3S/c1-4-10-22-14-17(21-27(25,26)23(5-2)6-3)11-16-12-18-15(13-19(16)22)8-7-9-20(18)24/h7-9,16-17,19,21,24H,4-6,10-14H2,1-3H3/t16-,17+,19-/m1/s1
+
+> <INCHI_KEY>
+GDFGTRDCCWFXTG-ZIFCJYIRSA-N
+
+> <FORMULA>
+C20H33N3O3S
+
+> <MOLECULAR_WEIGHT>
+395.56
+
+> <EXACT_MASS>
+395.224263109
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.113058529600224
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S,4aS,10aR)-3-[(diethylsulfamoyl)amino]-1-propyl-1H,2H,3H,4H,4aH,5H,10H,10aH-benzo[g]quinolin-6-ol
+
+> <ALOGPS_LOGP>
+2.56
+
+> <JCHEM_LOGP>
+2.496315316333333
+
+> <ALOGPS_LOGS>
+-3.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+10.920046447381837
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.20321513981101
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.2202498242168
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.88
+
+> <JCHEM_REFRACTIVITY>
+109.66009999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.54e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+quinagolide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09097
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Quinagolide
+
+> <SYNONYMS>
+(+-)-N,N-Diethyl-N'-((3R*,4aR*,10aS*)-1,2,3,4,4a,5,10,10a-octahydro-6-hydroxy-1-propylbenzo(g)quinolin-3-yl)sulfamide; Quinagolida; Quinagolide; Quinagolidum
+
+> <PRODUCTS>
+Norprolac
+
+> <SALTS>
+Quinagolide hydrochloride
+
+$$$$

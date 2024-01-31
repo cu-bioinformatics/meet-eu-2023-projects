@@ -1,0 +1,173 @@
+PUZ
+  Mrv0541 02231216432D          
+
+ 27 29  0  0  0  0            999 V2000
+   -4.3829    0.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6685    0.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9540    0.0359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2395    0.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5250    0.0359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8106    0.4484    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7243    1.2689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2764    1.8820    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0826    1.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3376    2.2251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1446    2.3966    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2145    2.8381    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0214    2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5735    3.2797    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4951    0.7260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0569    0.1129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1146   -0.6941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8993   -0.9490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5124   -0.3970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3408    0.4100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9539    0.9620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2970   -0.6520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4685   -1.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8554   -2.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0708   -1.7560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0269   -2.8179    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8116   -3.0729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 25  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03137
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(CC2=NC3=C(N)N=C(F)N=C3N2CCCC#C)=C(OC)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H20FN5O2/c1-4-5-6-9-25-15(22-16-17(21)23-19(20)24-18(16)25)11-12-10-13(26-2)7-8-14(12)27-3/h1,7-8,10H,5-6,9,11H2,2-3H3,(H2,21,23,24)
+
+> <INCHI_KEY>
+RMOYVWKKOKERSW-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H20FN5O2
+
+> <MOLECULAR_WEIGHT>
+369.3928
+
+> <EXACT_MASS>
+369.160103114
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+4.693283919032452e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.325402642664486
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-[(2,5-dimethoxyphenyl)methyl]-2-fluoro-9-(pent-4-yn-1-yl)-9H-purin-6-amine
+
+> <ALOGPS_LOGP>
+3.15
+
+> <JCHEM_LOGP>
+2.9169993683333333
+
+> <ALOGPS_LOGS>
+-4.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.641355127340432
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.7043359191973041
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.08000000000001
+
+> <JCHEM_REFRACTIVITY>
+101.38480000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.74e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03137
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02704
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-(2,5-Dimethoxy-Benzyl)-2-Fluoro-9-Pent-9h-Purin-6-Ylamine
+
+$$$$

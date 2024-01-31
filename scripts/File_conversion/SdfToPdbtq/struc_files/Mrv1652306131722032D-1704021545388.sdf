@@ -1,0 +1,165 @@
+
+  Mrv1652306131722032D          
+
+ 27 27  0  0  1  0            999 V2000
+   -2.9707   -0.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2562   -0.4776    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2562   -1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5418   -0.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8273   -0.4776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1128   -0.0651    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6017   -0.4776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3161   -0.0651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0306   -0.4776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0306   -1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3161   -1.7151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6017   -1.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7451   -1.7151    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1128    0.7599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8273    1.1724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8273    1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1128    2.4099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6017    1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6017    1.1724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5754    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7504    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3379    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5129    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7504   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9879    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8129   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5754   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 24  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09555
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)\C=C/C(O)=O.CN(C)CC[C@@H](C1=CC=C(Cl)C=C1)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19ClN2.C4H4O4/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13;5-3(6)1-2-4(7)8/h3-9,11,15H,10,12H2,1-2H3;1-2H,(H,5,6)(H,7,8)/b;2-1-/t15-;/m0./s1
+
+> <INCHI_KEY>
+DBAKFASWICGISY-DASCVMRKSA-N
+
+> <FORMULA>
+C20H23ClN2O4
+
+> <MOLECULAR_WEIGHT>
+390.86
+
+> <EXACT_MASS>
+390.1346349
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.810200955852793
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2Z)-but-2-enedioic acid; [(3S)-3-(4-chlorophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+3.5849509150000003
+
+> <ALOGPS_LOGS>
+-3.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.474711663883962
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+80.8503
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.19e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+)-chlorpheniramine; maleic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09555
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Dexchlorpheniramine maleate
+
+> <SYNONYMS>
+Dexchlorpheniramine maleate
+
+> <PRODUCTS>
+Abanatuss Ped; Abanatuss Ped Drops; Abatuss Dmx; Chlophedianol Hydrochloride, Dexchlorpheniramine Maleate, and Pseudoephedrine Hydrochloride; Corzall PE; DELTUSS DMX Cough Suppressant Nasal Decongestant Antihistamine GRAPE Flavor; DELTUSS DP Nasal Decongestant Antihistamine CHERRY Flavor; Dexchlorpheniramine Maleate; Dexchlorpheniramine Maleate, Phenylephrine HCl; Dexphen w/ Codeine; Panatuss PED; Polaramine Repetabs 6mg; Polaramine Tab 2mg; Polmon; Polytussin DM; Pro-red Ac; Re Drylex; Rescon; Rescon JR; Rescon Jr; Rescon MX; Ryclora; Rymed; Vanacof; WesTussin DM
+
+$$$$

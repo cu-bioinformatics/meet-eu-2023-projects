@@ -1,0 +1,143 @@
+
+  Mrv1572001261617052D          
+
+ 19 19  0  0  0  0            999 V2000
+   -0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.9355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.0789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1105    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.9355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  7  5  1  0  0  0  0
+  8  6  2  0  0  0  0
+  9  5  2  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11  2  1  0  0  0  0
+ 14  3  1  0  0  0  0
+ 15  4  1  0  0  0  0
+ 16  9  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  2  0  0  0  0
+ 19 10  1  0  0  0  0
+ 19 11  1  0  0  0  0
+ 19 12  2  0  0  0  0
+ 19 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11408
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COP(=S)(OC)OC1=CC=C(C=C1)S(=O)(=O)N(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16NO5PS2/c1-11(2)19(12,13)10-7-5-9(6-8-10)16-17(18,14-3)15-4/h5-8H,1-4H3
+
+> <INCHI_KEY>
+JISACBWYRJHSMG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H16NO5PS2
+
+> <MOLECULAR_WEIGHT>
+325.33
+
+> <EXACT_MASS>
+325.020751965
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.64980161297513
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+O-4-(dimethylsulfamoyl)phenyl O,O-dimethyl phosphorothioate
+
+> <ALOGPS_LOGP>
+2.15
+
+> <JCHEM_LOGP>
+1.7149892793333332
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.07000000000001
+
+> <JCHEM_REFRACTIVITY>
+77.8186
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.29e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+famphur
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11408
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Famphur
+
+> <SYNONYMS>
+Famophos; O-[4-(dimethylsulfamoyl)phenyl] O,O-dimethyl thiophosphate; Phosphorothioic acid, O-(4-((dimethylamino)sulfonyl)phenyl) O,O-dimethyl ester
+
+$$$$

@@ -1,0 +1,178 @@
+
+  Mrv0541 05041406232D          
+
+ 29 29  0  0  1  0            999 V2000
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2881   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -2.4750    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+ 11  1  1  6  0  0  0
+ 12  2  1  0  0  0  0
+ 13  8  1  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15  6  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16  7  1  0  0  0  0
+ 17 12  2  0  0  0  0
+ 17 14  1  0  0  0  0
+ 18  8  2  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19  9  1  0  0  0  0
+ 19 11  1  0  0  0  0
+ 20 15  2  0  0  0  0
+ 21 16  2  0  0  0  0
+ 22 16  1  0  0  0  0
+ 23 17  1  0  0  0  0
+ 27 10  1  0  0  0  0
+ 28 24  1  0  0  0  0
+ 28 25  1  0  0  0  0
+ 28 26  2  0  0  0  0
+ 28 27  1  0  0  0  0
+ 11 29  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03160
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(NCC1=C(COP(O)(O)=O)C=NC(C)=C1O)C(=O)CCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H27N2O8P/c1-11(15(20)6-4-3-5-7-16(21)22)19-9-14-13(10-27-28(24,25)26)8-18-12(2)17(14)23/h8,11,19,23H,3-7,9-10H2,1-2H3,(H,21,22)(H2,24,25,26)/t11-/m0/s1
+
+> <INCHI_KEY>
+YXEXNGWPUWJMIT-NSHDSACASA-N
+
+> <FORMULA>
+C17H27N2O8P
+
+> <MOLECULAR_WEIGHT>
+418.3786
+
+> <EXACT_MASS>
+418.150502362
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9672308600979234
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.85545377541915
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(8S)-8-[({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)amino]-7-oxononanoic acid
+
+> <ALOGPS_LOGP>
+-0.01
+
+> <JCHEM_LOGP>
+-0.7541855000762311
+
+> <ALOGPS_LOGS>
+-3.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.327579362054954
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.737339316345999
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.8191241212133
+
+> <JCHEM_POLAR_SURFACE_AREA>
+166.28
+
+> <JCHEM_REFRACTIVITY>
+100.23619999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03160
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01960
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Pyridoxyl-7-Keto-8-Aminopelargonic Acid-5'-Monophosphate
+
+$$$$

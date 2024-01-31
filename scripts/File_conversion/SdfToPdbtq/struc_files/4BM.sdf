@@ -1,0 +1,178 @@
+4BM
+  Mrv0541 02241213122D          
+
+ 27 28  0  0  0  0            999 V2000
+   -2.9248    1.0100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6392    0.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3537    1.0100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3537    1.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6392    2.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9248    1.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2103    0.5975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2103   -0.2275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4958   -0.6400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4958   -1.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2103   -1.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9248   -1.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9248   -0.6400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7813   -0.2275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0669   -0.6400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7813    0.5975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6476   -0.2275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3621   -0.6400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0765   -0.2275    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7910   -0.6400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0765    0.5975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5055   -0.2275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0682    2.2475    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2103    2.2475    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6392   -0.2275    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6392   -1.8775    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0765   -0.8115    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  1  0  0  0
+ 19 27  1  1  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07101
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](O)(CO)CONC(=O)C1=C(NC2=CC=C(I)C=C2F)C(F)=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H14F3IN2O4/c17-11-3-2-10(16(25)22-26-7-9(24)6-23)15(14(11)19)21-13-4-1-8(20)5-12(13)18/h1-5,9,21,23-24H,6-7H2,(H,22,25)/t9-/m1/s1
+
+> <INCHI_KEY>
+SUDAHWBOROXANE-SECBINFHSA-N
+
+> <FORMULA>
+C16H14F3IN2O4
+
+> <MOLECULAR_WEIGHT>
+482.193
+
+> <EXACT_MASS>
+481.995034981
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0942828718098376e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.55687250739562
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[(2R)-2,3-dihydroxypropoxy]-3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]benzamide
+
+> <ALOGPS_LOGP>
+2.64
+
+> <JCHEM_LOGP>
+3.9752042143333335
+
+> <ALOGPS_LOGS>
+-4.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.730007616616403
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.969353734579856
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.969857538559772
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.82000000000001
+
+> <JCHEM_REFRACTIVITY>
+96.13600000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.13e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07101
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB11802
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Mirdametinib
+
+> <SYNONYMS>
+Benzamide, N-((2R)-2,3-dihydroxypropoxy)-3,4-difluoro-2-((2-fluoro-4-iodophenyl)amino)-; N-[(2R)-2,3 Dihydroxypropoxy]-3,4 Difluro-2 -[(2-Fluoro-4-Iodophenyl)Amino] Benzamide; PD-0325901
+
+$$$$

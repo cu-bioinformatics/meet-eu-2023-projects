@@ -1,0 +1,173 @@
+
+  Mrv0541 02231217502D          
+
+ 26 27  0  0  1  0            999 V2000
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.4302    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  6  0  0  0
+ 22 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04676
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)NCCCC[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H25N3O4S/c1-21(2)16-10-5-8-14-13(16)7-6-11-17(14)26(24,25)20-12-4-3-9-15(19)18(22)23/h5-8,10-11,15,20H,3-4,9,12,19H2,1-2H3,(H,22,23)/t15-/m0/s1
+
+> <INCHI_KEY>
+VQPRNSWQIAHPMS-HNNXBMFYSA-N
+
+> <FORMULA>
+C18H25N3O4S
+
+> <MOLECULAR_WEIGHT>
+379.474
+
+> <EXACT_MASS>
+379.156576993
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.001155895904433435
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.78835626470406
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-6-[5-(dimethylamino)naphthalene-1-sulfonamido]hexanoic acid
+
+> <ALOGPS_LOGP>
+-0.68
+
+> <JCHEM_LOGP>
+-0.45071455848241393
+
+> <ALOGPS_LOGS>
+-3.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.063104849707948
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5436480816505218
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.37737287788048
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73000000000002
+
+> <JCHEM_REFRACTIVITY>
+101.88209999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.82e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04676
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dansyllysine
+
+> <SYNONYMS>
+DNS-lysine; N(epsilon)-Dansyl-L-lysine
+
+$$$$

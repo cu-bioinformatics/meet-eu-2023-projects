@@ -1,0 +1,176 @@
+
+  Mrv1909 05201914542D          
+
+ 31 34  0  0  1  0            999 V2000
+   -0.3141    5.1188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0592    4.3342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6112    3.7211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3563    2.9365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9083    2.3234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7153    2.4949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9702    3.2795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7772    3.4510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0321    4.2357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4182    3.8926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6534    1.5387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3984    0.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3984   -2.1500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0865   -2.8174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3984   -3.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1831   -3.2299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1831   -2.4049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8505   -3.7149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7643   -4.5353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6042   -3.3793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2716   -3.8642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.9521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  3  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 15  1  1  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 15 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 13 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 25 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15149
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(=CC(OC)=C1)C#CC1=NN([C@H]2CCN(C2)C(=O)C=C)C2=C1C(N)=NC=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H22N6O3/c1-4-19(29)27-8-7-15(12-27)28-22-20(21(23)24-13-25-22)18(26-28)6-5-14-9-16(30-2)11-17(10-14)31-3/h4,9-11,13,15H,1,7-8,12H2,2-3H3,(H2,23,24,25)/t15-/m0/s1
+
+> <INCHI_KEY>
+KEIPNCCJPRMIAX-HNNXBMFYSA-N
+
+> <FORMULA>
+C22H22N6O3
+
+> <MOLECULAR_WEIGHT>
+418.457
+
+> <EXACT_MASS>
+418.175338592
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.57126560168008
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(3S)-3-{4-amino-3-[2-(3,5-dimethoxyphenyl)ethynyl]-1H-pyrazolo[3,4-d]pyrimidin-1-yl}pyrrolidin-1-yl]prop-2-en-1-one
+
+> <ALOGPS_LOGP>
+1.79
+
+> <JCHEM_LOGP>
+1.7710779086666675
+
+> <ALOGPS_LOGS>
+-4.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.219631061432874
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.578609436551579
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.39
+
+> <JCHEM_REFRACTIVITY>
+122.81549999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.98e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15149
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Futibatinib
+
+> <SYNONYMS>
+1-((3S)-(4-amino-3-((3,5-dimethoxyphenyl)ethynyl)-1H-pyrazolo(3, 4-d) pyrimidin-1-yl)-1-pyrrolidinyl)-2-propen-1-one; 1-[(3S)-3-{4-amino-3-[(3,5-dimethoxyphenyl)ethynyl]-1H-pyrazolo[3,4-d]pyrimidin-1-yl}pyrrolidin-1-yl]prop-2-en-1-one; Futibatinib
+
+$$$$

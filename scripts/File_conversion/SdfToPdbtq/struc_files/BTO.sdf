@@ -1,0 +1,156 @@
+BTO
+  Mrv0541 02241213282D          
+
+ 20 21  0  0  0  0            999 V2000
+   -3.8900   -0.0604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3749   -0.7279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0394   -1.4816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2189   -1.5678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7340   -0.9004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0695   -0.1467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5243   -2.1490    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -5.3448   -2.0628    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -4.1887   -2.9027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9135   -0.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3615   -0.3735    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078   -0.7091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1067   -0.2966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8212   -0.7091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5356   -0.2966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2501   -0.7091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9646   -0.2966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2501   -1.5341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6940   -1.5295    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5010   -1.7011    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 20  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  CHG  2   7   1   8  -1
+M  END
+> <DATABASE_ID>
+DB07498
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CCCC1=NC(=NO1)C1=CC(=CC=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11N3O5/c16-11(17)6-2-5-10-13-12(14-20-10)8-3-1-4-9(7-8)15(18)19/h1,3-4,7H,2,5-6H2,(H,16,17)
+
+> <INCHI_KEY>
+LQQYZJRCWBRIMW-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11N3O5
+
+> <MOLECULAR_WEIGHT>
+277.2328
+
+> <EXACT_MASS>
+277.069870477
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9989370016501271
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.829474485130845
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[3-(3-nitrophenyl)-1,2,4-oxadiazol-5-yl]butanoic acid
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+2.5308650823333334
+
+> <ALOGPS_LOGS>
+-3.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.026994638210494
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.570189474775703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.36
+
+> <JCHEM_REFRACTIVITY>
+78.3407
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07498
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[3-(3-NITROPHENYL)-1,2,4-OXADIAZOL-5-YL]BUTANOIC ACID
+
+$$$$

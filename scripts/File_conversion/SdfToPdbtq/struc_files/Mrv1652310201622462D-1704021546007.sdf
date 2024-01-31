@@ -1,0 +1,178 @@
+
+  Mrv1652310201622462D          
+
+ 31 33  0  0  0  0            999 V2000
+   -5.7158   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -7.0125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -6.6000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -8.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -7.0125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -8.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -8.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -8.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -8.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -7.0125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -8.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -6.6000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 16 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11764
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COCCOC1=CC=C(NC2=NC=C(F)C(NC3=CC=CC(NC(=O)C=C)=C3)=N2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H22FN5O3/c1-3-20(29)25-16-5-4-6-17(13-16)26-21-19(23)14-24-22(28-21)27-15-7-9-18(10-8-15)31-12-11-30-2/h3-10,13-14H,1,11-12H2,2H3,(H,25,29)(H2,24,26,27,28)
+
+> <INCHI_KEY>
+KXBDTLQSDKGAEB-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H22FN5O3
+
+> <MOLECULAR_WEIGHT>
+423.448
+
+> <EXACT_MASS>
+423.170667751
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.254241550384286
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-{3-[(5-fluoro-2-{[4-(2-methoxyethoxy)phenyl]amino}pyrimidin-4-yl)amino]phenyl}prop-2-enamide
+
+> <ALOGPS_LOGP>
+4.15
+
+> <JCHEM_LOGP>
+4.134889095333333
+
+> <ALOGPS_LOGS>
+-4.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.846484296025618
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.875003475231416
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.9798855143783736
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.4
+
+> <JCHEM_REFRACTIVITY>
+117.188
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{3-[(5-fluoro-2-{[4-(2-methoxyethoxy)phenyl]amino}pyrimidin-4-yl)amino]phenyl}prop-2-enamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11764
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Spebrutinib
+
+> <SYNONYMS>
+BTK inhibitor CC-292; N-(3-(5-fluoro-2-(4-(2-methoxyethoxy)phenylamino)pyrimidin-4-ylamino)phenyl)acrylamide; Spebrutinib
+
+$$$$

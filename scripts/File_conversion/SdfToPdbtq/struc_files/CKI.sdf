@@ -1,0 +1,154 @@
+CKI
+  Mrv0541 02231217072D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.0311   -0.7025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7456   -1.1150    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4600   -0.7025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4600    0.1225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7456    1.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4600    1.7725    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0311    1.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3166    1.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3166    0.5350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0311    0.1225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7456    0.5350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3978    0.1225    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0147   -0.5920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8103    0.8370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1123   -0.2900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8268    0.1225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5413   -0.2900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2557    0.1225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03693
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NCCNS(=O)(=O)C1=CC=C(Cl)C2=C1C=NC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12ClN3O2S/c12-10-1-2-11(18(16,17)15-6-4-13)9-7-14-5-3-8(9)10/h1-3,5,7,15H,4,6,13H2
+
+> <INCHI_KEY>
+OGKYMFFYOWUTKV-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H12ClN3O2S
+
+> <MOLECULAR_WEIGHT>
+285.75
+
+> <EXACT_MASS>
+285.03387504
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9835419461702083
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.462996458646963
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2-aminoethyl)-5-chloroisoquinoline-8-sulfonamide
+
+> <ALOGPS_LOGP>
+0.12
+
+> <JCHEM_LOGP>
+-0.10191991714930923
+
+> <ALOGPS_LOGS>
+-3.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.557321846186039
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.918742876705062
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.08
+
+> <JCHEM_REFRACTIVITY>
+70.16050000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.84e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03693
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00931
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(2-Aminoethyl)-5-Chloroisoquinoline-8-Sulfonamide
+
+$$$$

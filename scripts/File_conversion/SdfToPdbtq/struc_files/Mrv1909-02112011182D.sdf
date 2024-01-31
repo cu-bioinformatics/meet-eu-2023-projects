@@ -1,0 +1,183 @@
+
+  Mrv1909 02112011182D          
+
+ 30 33  0  0  0  0            999 V2000
+   -3.6980   -1.0179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6991   -1.8430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9863   -2.2548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9881   -0.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2746   -1.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2712   -1.8405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5577   -2.2485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8432   -1.8346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5645   -0.5960    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8473   -1.0121    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8452    0.6434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5666    0.2310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1279    0.2272    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1354   -0.5979    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6469   -0.8598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1378   -0.1967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6590    0.4752    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8540   -0.1867    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5688   -1.4168    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.4252    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1351    1.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9937    1.4119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4120   -2.2539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8118    1.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2937    0.8377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1449    2.2548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120    0.9283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5938    0.2634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2553   -0.4865    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4120    0.3540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  6  2  0  0  0  0
+  1  2  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 18  1  1  0  0  0
+  8 10  1  0  0  0  0
+  9 19  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 14 20  1  6  0  0  0
+  5  4  2  0  0  0  0
+ 13 21  1  1  0  0  0
+  4  1  1  0  0  0  0
+ 17 22  1  1  0  0  0
+  5  6  1  0  0  0  0
+  2 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 13 11  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 28 29  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 28 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07891
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@H](OC(=O)CCC(O)=O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3CC[C@@]21[H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H28O5/c1-22-11-10-16-15-5-3-14(23)12-13(15)2-4-17(16)18(22)6-7-19(22)27-21(26)9-8-20(24)25/h3,5,12,16-19,23H,2,4,6-11H2,1H3,(H,24,25)/t16-,17-,18+,19+,22+/m1/s1
+
+> <INCHI_KEY>
+YJPIDPAGJSWWBE-FNIAAEIWSA-N
+
+> <FORMULA>
+C22H28O5
+
+> <MOLECULAR_WEIGHT>
+372.4547
+
+> <EXACT_MASS>
+372.193674006
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9984309197559863
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.875383105439575
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[(1S,3aS,3bR,9bS,11aS)-7-hydroxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl]oxy}-4-oxobutanoic acid
+
+> <ALOGPS_LOGP>
+3.82
+
+> <JCHEM_LOGP>
+4.011489485666667
+
+> <ALOGPS_LOGS>
+-4.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.327061103005903
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.310467989327538
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.448288518230447
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.83
+
+> <JCHEM_REFRACTIVITY>
+99.9495
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.80e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+decyl formate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07891
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Estradiol hemisuccinate
+
+> <SYNONYMS>
+17beta-Estradiol hemisuccinate; beta-Estradiol-17-beta-hemisuccinate; beta-Estradiol-17beta-hemisuccinate
+
+$$$$

@@ -1,0 +1,144 @@
+LZB
+  Mrv0541 02241213532D          
+
+ 16 17  0  0  0  0            999 V2000
+   16.1808    5.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1808    4.8292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8953    4.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4663    4.4167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4663    3.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1808    3.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1808    2.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8953    1.9417    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   15.4663    1.9417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7519    2.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9672    2.0993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7123    1.3146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4574    0.5300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4823    2.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9672    3.4341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7519    3.1792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  3  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08139
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)NC1=CC(Cl)=NC2=C(C=NN12)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10ClN5/c1-6(2)14-9-3-8(11)15-10-7(4-12)5-13-16(9)10/h3,5-6,14H,1-2H3
+
+> <INCHI_KEY>
+HFTLYNKTSANXFA-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H10ClN5
+
+> <MOLECULAR_WEIGHT>
+235.673
+
+> <EXACT_MASS>
+235.062473052
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.8384063885154652e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.432314333602235
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-chloro-7-[(propan-2-yl)amino]pyrazolo[1,5-a]pyrimidine-3-carbonitrile
+
+> <ALOGPS_LOGP>
+2.04
+
+> <JCHEM_LOGP>
+1.668742778
+
+> <ALOGPS_LOGS>
+-3.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.2665136476736576
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.01
+
+> <JCHEM_REFRACTIVITY>
+73.9758
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08139
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-chloro-7-[(1-methylethyl)amino]pyrazolo[1,5-a]pyrimidine-3-carbonitrile
+
+$$$$

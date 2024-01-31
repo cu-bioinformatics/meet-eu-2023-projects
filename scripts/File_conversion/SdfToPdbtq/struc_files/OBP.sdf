@@ -1,0 +1,150 @@
+OBP
+  Mrv0541 02241214012D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.1816    0.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671   -1.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1816   -1.4390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8961   -1.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8961   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473    0.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9618   -0.2015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6763    0.2110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6763    1.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9618    1.4485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473    1.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671    1.4485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473   -1.4390    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9618   -1.0265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2473   -2.2640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB08319
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=CC=C1C1=CC=CC=C1[S@@](O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10O3S/c13-11-7-3-1-5-9(11)10-6-2-4-8-12(10)16(14)15/h1-8,13H,(H,14,15)
+
+> <INCHI_KEY>
+HPKSNFTYZHYEKV-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H10O3S
+
+> <MOLECULAR_WEIGHT>
+234.271
+
+> <EXACT_MASS>
+234.035064876
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0020615648649158
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.07535677657926
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(R)-2'-hydroxy-[1,1'-biphenyl]-2-sulfinic acid
+
+> <ALOGPS_LOGP>
+2.10
+
+> <JCHEM_LOGP>
+2.2800303546666663
+
+> <ALOGPS_LOGS>
+-1.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.68474531350573
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.8835900731544888
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.594597836809841
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+64.32120000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.03e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08319
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2'-HYDROXY-1,1'-BIPHENYL-2-SULFINIC ACID
+
+$$$$

@@ -1,0 +1,149 @@
+DP4
+  Mrv0541 02241213342D          
+
+ 18 19  0  0  0  0            999 V2000
+    0.1152    2.9870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8297    2.5745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8297    1.7495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1152    1.3370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5993    1.7495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5993    2.5745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7098    0.5120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9402    0.5120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1152    0.5120    0.0000 Si  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1152   -0.3130    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8297   -0.7255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8297   -1.5505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5993   -1.5505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5993   -0.7255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1152   -1.9630    0.0000 N   0  3  1  0  0  0  0  0  0  0  0  0
+    0.5025   -2.6914    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.2721   -2.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6209   -0.0211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 18  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 15 17  1  1  0  0  0
+M  CHG  2  15   1  16  -1
+M  END
+> <DATABASE_ID>
+DB07672
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CC[N@@+](C)([O-])CC1)[Si](C)(C)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H23NOSi/c1-15(16)11-9-14(10-12-15)17(2,3)13-7-5-4-6-8-13/h4-8,14H,9-12H2,1-3H3/t14-,15+
+
+> <INCHI_KEY>
+HDJXTRKZEHHECC-GASCZTMLSA-N
+
+> <FORMULA>
+C14H23NOSi
+
+> <MOLECULAR_WEIGHT>
+249.424
+
+> <EXACT_MASS>
+249.154890896
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0018301863642657416
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.025366891065904
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1s,4s)-4-[dimethyl(phenyl)silyl]-1-methylpiperidin-1-ium-1-olate
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+2.7855000000000003
+
+> <ALOGPS_LOGS>
+-5.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.301607801345786
+
+> <JCHEM_POLAR_SURFACE_AREA>
+23.06
+
+> <JCHEM_REFRACTIVITY>
+69.71600000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.13e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB07672
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+TRANS-2-(DIMETHYLPHENYLSILYL)-PIPERIDINE-N-OXIDE
+
+$$$$

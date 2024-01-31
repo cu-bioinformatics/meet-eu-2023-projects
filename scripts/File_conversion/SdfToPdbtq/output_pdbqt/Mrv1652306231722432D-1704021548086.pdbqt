@@ -1,0 +1,90 @@
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_4
+REMARK    2  A    between atoms: O_4  and  C_5
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       0.165  -0.032   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       0.879  -0.444   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       0.879  -1.269   0.000  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       0.165  -1.682   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -0.550  -1.269   0.000  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -0.550  -0.444   0.000  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   6   7
+ATOM      7  C   UNL     1      -1.264  -0.032   0.000  0.00  0.00    +0.000 C 
+ATOM      8  O   UNL     1      -1.264   0.793   0.000  0.00  0.00    +0.000 OA
+ATOM      9  O   UNL     1      -1.978  -0.444   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+BRANCH   1  10
+ATOM     10  O   UNL     1       0.165   0.793   0.000  0.00  0.00    +0.000 OA
+BRANCH  10  12
+ATOM     11  C   UNL     1       0.879   2.031   0.000  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       0.879   1.206   0.000  0.00  0.00    +0.000 C 
+ATOM     13  O   UNL     1       1.594   0.793   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  10  12
+ENDBRANCH   1  10
+TORSDOF 3
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_4
+REMARK    2  A    between atoms: O_4  and  C_5
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       4.894   0.000   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_4
+REMARK    2  A    between atoms: O_4  and  C_5
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       0.412  -3.332   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_4
+REMARK    2  A    between atoms: O_4  and  C_5
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       2.770  -3.332   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_4
+REMARK    2  A    between atoms: O_4  and  C_5
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 AL   UNL     1       4.069   0.000   0.000  0.00  0.00    +0.000 Al
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_4
+REMARK    2  A    between atoms: O_4  and  C_5
+REMARK    3  A    between atoms: C_10  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 AL   UNL     1      -0.412  -3.332   0.000  0.00  0.00    +0.000 Al
+ENDROOT
+TORSDOF 0

@@ -1,0 +1,153 @@
+440
+  Mrv0541 02241213112D          
+
+ 18 18  0  0  0  0            999 V2000
+   -0.5880    1.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1265    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5880   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3024   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3024    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0169    1.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7314    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8748    1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1603    1.5716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4458    1.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1265   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4285   -1.2054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2535    0.2235    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8410   -0.4909    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5555   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2699   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9844   -0.9034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6989   -0.4909    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  1  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  3  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  2  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 11  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07079
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC#CCOC1=CC=C(C=C1)S(=O)(=O)CCCS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16O3S2/c1-2-3-9-16-12-5-7-13(8-6-12)18(14,15)11-4-10-17/h5-8,17H,4,9-11H2,1H3
+
+> <INCHI_KEY>
+CARKQNSZFCLNKM-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H16O3S2
+
+> <MOLECULAR_WEIGHT>
+284.394
+
+> <EXACT_MASS>
+284.054085758
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0006459753471968136
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.442298041422987
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[4-(but-2-yn-1-yloxy)benzenesulfonyl]propane-1-thiol
+
+> <ALOGPS_LOGP>
+3.21
+
+> <JCHEM_LOGP>
+2.4938125726666662
+
+> <ALOGPS_LOGS>
+-4.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.86939474298021
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.189503511866688
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.9250986805735195
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+76.7091
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.97e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07079
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-{[4-(but-2-yn-1-yloxy)phenyl]sulfonyl}propane-1-thiol
+
+$$$$

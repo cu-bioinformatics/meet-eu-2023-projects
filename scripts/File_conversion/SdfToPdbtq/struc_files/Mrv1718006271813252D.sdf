@@ -1,0 +1,158 @@
+
+  Mrv1718006271813252D          
+
+ 22 22  0  0  0  0            999 V2000
+    2.8578    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.0312    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1434    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.6187    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.2062    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.4437    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.2062    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    1.0312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.0312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  5  1  0  0  0  0
+  9  1  1  0  0  0  0
+  9  2  1  0  0  0  0
+ 10  3  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  4  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 12  9  1  0  0  0  0
+ 13  7  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16 14  2  0  0  0  0
+ 17  8  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 14  1  0  0  0  0
+ 10 19  1  6  0  0  0
+ 20 11  1  0  0  0  0
+ 12 21  1  1  0  0  0
+ 13 22  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB14136
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]C(C)(O)COC(=O)O[C@]1([H])C[C@]([H])(C)CC[C@@]1([H])C(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H26O4/c1-9(2)12-6-5-10(3)7-13(12)18-14(16)17-8-11(4)15/h9-13,15H,5-8H2,1-4H3/t10-,11?,12+,13-/m1/s1
+
+> <INCHI_KEY>
+FLYJSXDJKBHQAU-IBSWDFHHSA-N
+
+> <FORMULA>
+C14H26O4
+
+> <MOLECULAR_WEIGHT>
+258.358
+
+> <EXACT_MASS>
+258.183109317
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.72397579353235
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[({[(1R,2S,5R)-5-methyl-2-(propan-2-yl)cyclohexyl]oxy}carbonyl)oxy]propan-2-ol
+
+> <ALOGPS_LOGP>
+3.18
+
+> <JCHEM_LOGP>
+3.451162705999999
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.824444173626848
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8755881184556165
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.760000000000005
+
+> <JCHEM_REFRACTIVITY>
+68.9315
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.94e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[({[(1R,2S,5R)-2-isopropyl-5-methylcyclohexyl]oxy}carbonyl)oxy]propan-2-ol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14136
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(-)-menthol 1-propylene glycol carbonate
+
+> <SYNONYMS>
+(-)-menthol (+/-)-1-propylene glycol carbonate; 2-hydroxypropyl ((1R,2S,5R)-2-isopropyl-5-methyl-cyclohexyl) carbonate; Carbonic acid, 2-hydroxypropyl (1R,2S,5R)-5-methyl-2-(1-methylethyl)cyclohexyl ester; Fema no. 3806, 1-propylene glycol carbonate
+
+> <PRODUCTS>
+Thera Derm Roll On
+
+$$$$

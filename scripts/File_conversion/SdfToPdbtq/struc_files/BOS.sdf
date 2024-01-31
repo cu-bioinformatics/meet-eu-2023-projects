@@ -1,0 +1,158 @@
+BOS
+  Mrv0541 02241213272D          
+
+ 20 21  0  0  0  0            999 V2000
+   -0.0372    3.8255    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0372    3.0005    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8622    3.0005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7878    3.0005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0372    2.1755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6772    1.7630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6772    0.9380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0372    0.5255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7517    0.9380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7517    1.7630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0372   -0.2995    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6772   -0.7120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3917   -0.2995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6772   -1.5370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3917   -1.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3917   -2.7745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6772   -3.1870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0372   -2.7745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0372   -1.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7517   -1.5370    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07476
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(NC(=O)C2=CC=CC=C2S)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N2O3S2/c14-20(17,18)10-7-5-9(6-8-10)15-13(16)11-3-1-2-4-12(11)19/h1-8,19H,(H,15,16)(H2,14,17,18)
+
+> <INCHI_KEY>
+MRLVIVXGUGNENL-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H12N2O3S2
+
+> <MOLECULAR_WEIGHT>
+308.376
+
+> <EXACT_MASS>
+308.02893364
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9788715202072595
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.270170812308244
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-sulfamoylphenyl)-2-sulfanylbenzamide
+
+> <ALOGPS_LOGP>
+2.17
+
+> <JCHEM_LOGP>
+1.7643685709999999
+
+> <ALOGPS_LOGS>
+-4.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.267004820446862
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.3453518941151374
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.115756113132619
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+81.7592
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.91e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07476
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[4-(AMINOSULFONYL)PHENYL]-2-MERCAPTOBENZAMIDE
+
+$$$$

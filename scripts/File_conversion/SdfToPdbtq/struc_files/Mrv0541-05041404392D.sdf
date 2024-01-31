@@ -1,0 +1,160 @@
+
+  Mrv0541 05041404392D          
+
+ 16 15  0  0  1  0            999 V2000
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0954    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1914    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8099    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    1.5395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    0.3020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.3020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    1.5395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  1  2  0  0  0  0
+  8  2  1  0  0  0  0
+  3  9  1  6  0  0  0
+  4 10  1  1  0  0  0
+  5 11  1  6  0  0  0
+  6 12  1  6  0  0  0
+  3 13  1  6  0  0  0
+  4 14  1  1  0  0  0
+  5 15  1  6  0  0  0
+  6 16  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB01914
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](O)(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]([H])(O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O6/c7-1-3(9)5(11)6(12)4(10)2-8/h1,3-6,8-12H,2H2/t3-,4+,5+,6+/m0/s1
+
+> <INCHI_KEY>
+GZCGUPFRVQAUEE-SLPGGIOYSA-N
+
+> <FORMULA>
+C6H12O6
+
+> <MOLECULAR_WEIGHT>
+180.1559
+
+> <EXACT_MASS>
+180.063388116
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-6.891872737735616e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.233020926173953
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanal
+
+> <ALOGPS_LOGP>
+-2.41
+
+> <JCHEM_LOGP>
+-3.5683605629999993
+
+> <ALOGPS_LOGS>
+0.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.072469985141604
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.261226271016959
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.974219876255926
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+37.3456
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.61e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01914
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01609; DB11280
+
+> <DRUG_GROUPS>
+approved; investigational; vet_approved
+
+> <GENERIC_NAME>
+D-glucose
+
+> <SYNONYMS>
+aldehydo-D-glucose; Anhydrous dextrose; D-Glucose in linear form; D-glucose, anhydrous; D(+)-Glucose; Dextrose anhydrous; Dextrose, anhydrous; Glucose anhydrous; Glucose, anhydrous
+
+> <PRODUCTS>
+25% Dextrose Infant; 5% Dextrose; 5% Dextrose Injection; 50% Dextrose; ACD Blood-Pack Units (PL 146 Plastic); ADSOL Red Cell Preservation Solution System in Plastic Container (PL 146 Plastic); AGF Mesenchymal Capillary 5 pcs; AGF Mesenchymal Capillary Individual; Acd A; Acd-A; Additive Formula 3; Adsol Red Cell Preservation; Alcohol and Dextrose; Alcohol in Dextrose; Aminosyn II and Dextrose; Aminosyn II in Dextrose; Aminosyn II with Electrolytes in Dextrose with Calcium; Anti Nausea; Anticoagulant Citrate Dextrose A; Anticoagulant Citrate Dextrose A ACD-A; Anticoagulant Citrate Phosphate Dextrose (CPD) Blood-Pack Units in PL 146 Plastic; As 3; CPD Solution; CPD/ADSOL Red Cell Preservation Solution System (PL 2209); CPDA-1 Blood Collection System; Clinimix; Cpd; Cpd/adsol; Cpda-1; DIANEAL Low Calcium with Dextrose; DIANEAL PD-2 with Dextrose; Delflex; Dextrose; Dextrose Monohydrate; Dextrose and Electrolyte No. 48; Dextrose and Electrolyte No. 75; Dextrose and Sodium Chloride; Dextrose in Lactated Ringers; Dextrose in Ringers; Dextrose monohydrate; Dialysis Solution 35 K2; Dialysis Solution 35 K4; Dianeal for Peritoneal Dialysis; Dobutamine Hydrochloride in Dextrose; Dopamine Hydrochloride in Dextrose; Elliotts B; Glucose; Haemonetics Additive Solution Formula 3 (AS-3); Haemonetics Anticoagulant Citrate Dextrose Solution; Haemonetics Anticoagulant Citrate Phosphate Double Dextrose Solution (CP2D); Hemosol Lg2; Hemosol Lg4; Heparin Sodium in Dextrose; IMUFLEX WB-RP Blood Bag System with Integral Whole Blood Leukocyte Reduction Filter (Removing Platelets) with Diversion Blood Sampling Arm Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL (AS-5) Red Cell Preservative; IMUFLEX WB-SP Blood Bag System with Integral Whole Blood Leukocyte Reduction Filter (Saving Platelets) with Diversion Blood Sampling Arm Anticoagulant Citrate Phosphate Dextrose (CPD) and OPTISOL (AS-5) Red Cell Preservative; Imuflex Wb-SP Blood Bag System With Integral Whole Blood Leukocyte Reduction Filter (saving Platelets) With Diversion Blood Sampling Arm; Infant Dextrose; Ionosol B and Dextrose; Ionosol MB and Dextrose; Ionosol and Dextrose; Isolyte H in Dextrose; Isolyte M in Dextrose; Isolyte P in Dextrose; Isolyte S in Dextrose; Jilgyungyi; Kabiven; Lactated Ringers and Dextrose; Leucoflex CGP; Leukotrap WB System; Lidocaine Hci and Dextrose; Lidocaine Hydrochloride and Dextrose; Lingtea; MTL1 Leucoflex; Milrinone Lactate in Dextrose; Mld; Myocard-DX; Nauzene Grape; Normosol-M and Dextrose; Nutricel Additive System - CP2D; Pall Sterile Cord Blood Collection Unit; Perikabiven; Plasma-Lyte 148 and dextrose; Plasma-Lyte M and Dextrose; Plasma-lyte 56 and Dextrose; Potassium Chloride; Potassium Chloride and Dextrose; Potassium Chloride in Dextrose; Potassium Chloride in Dextrose and Sodium Chloride; Potassium Chloride in Lactated Ringers and Dextrose; PrismaSol; Prismasol 2; Prismasol 4; Prismasol B22gk4/0; Prismasol Bgk0/2.5; Prismasol Bgk2/0; Prismasol Bgk2/3.5; Prismasol Bgk4/0/1.2; Prismasol Bgk4/2.5; Prismasol Bgk4/3.5; Ringers and Dextrose; SUEROLYTE Oral Electrolyte Solution Apple Flavor; SUEROLYTE Oral Electrolyte Solution Bubbe Gum Flavor; SUEROLYTE Oral Electrolyte Solution Cherry Flavor; SUEROLYTE Oral Electrolyte Solution Coconut Flavor; SUEROLYTE Oral Electrolyte Solution Grape Flavor; SUEROLYTE Oral Electrolyte Solution Horchate Flavor; SUEROLYTE Oral Electrolyte Solution Lemon-Lime Flavor; SUEROLYTE Oral Electrolyte Solution Mango Flavor; SUEROLYTE Oral Electrolyte Solution Orange Flavor; SUEROLYTE Oral Electrolyte Solution Peach Flavor; SUEROLYTE Oral Electrolyte Solution Pineapple Flavor; SUEROLYTE Oral Electrolyte Solution Strawberry Banana Flavor; SUEROLYTE Oral Electrolyte Solution Tropical Fruits Flavor; SUEROLYTE Oral Electrolyte Solution Unflavored Flavor; Sag-mannitol Solution; Selutrio 10; Selutrio 40; Sterile Cord Blood Collection Unit; Sterile Cord Blood Collection Unit (MSC127D); Sterile Cord Blood Collection Unit (MSC128D); Sterile Cord Blood Collection Unit (msc123d); TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL Red Cell Preservative; TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose Adenine (CPDA-1); TERUFLEX Blood Bag System with Blood Sampling Arm Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL (AS-5) Red Cell Preservative; TERUFLEX Blood Bag System with Diversion Blood Sampling Arm Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL (AS-5) Red Cell Preservative; Theophylline in Dextrose
+
+> <SALTS>
+D-glucose monohydrate
+
+$$$$

@@ -1,0 +1,150 @@
+
+  Mrv1652306231722392D          
+
+ 19 19  0  0  0  0            999 V2000
+    2.7112    4.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967    4.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967    3.5893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822    3.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    3.5893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8843    0.8843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0059   -1.5764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1501   -0.7365    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9967    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967    1.1143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7112    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  CHG  2  14   1  16  -1
+M  END
+> <DATABASE_ID>
+DB13319
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)C(=C\C1=NC=C(N1C)[N+]([O-])=O)\C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13N3O5/c1-4-19-11(16)8(7(2)15)5-9-12-6-10(13(9)3)14(17)18/h5-6H,4H2,1-3H3/b8-5+
+
+> <INCHI_KEY>
+GCHKUUOPYMFGEY-VMPITWQZSA-N
+
+> <FORMULA>
+C11H13N3O5
+
+> <MOLECULAR_WEIGHT>
+267.241
+
+> <EXACT_MASS>
+267.085520531
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.71502785818558
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl (2E)-2-[(1-methyl-5-nitro-1H-imidazol-2-yl)methylidene]-3-oxobutanoate
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+1.1488271253333338
+
+> <ALOGPS_LOGS>
+-2.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.17322708773254
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.3841638872497954
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+65.03040000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+propenidazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13319
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Propenidazole
+
+> <SYNONYMS>
+Propenidazole
+
+$$$$

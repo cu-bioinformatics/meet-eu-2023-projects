@@ -1,0 +1,179 @@
+A84
+  Mrv0541 02241213212D          
+
+ 30 32  0  0  0  0            999 V2000
+   -3.0990   -0.8921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3846   -1.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6701   -0.8921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6701   -0.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3846    0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0990   -0.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9556   -1.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2411   -0.8921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2411   -0.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9556    0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9556    1.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2411    1.5829    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6701    1.5829    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4733    0.3454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1878   -0.0671    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7753   -0.7815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6003    0.6474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9023   -0.4796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6167   -0.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3312   -0.4796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3312   -1.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6167   -1.7171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9023   -1.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0457   -1.7171    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6167    0.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9023    1.1704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1878    0.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4733    1.1704    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2411    0.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4733    1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07323
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)C\C=C/C1=CC(F)=CC=C1S(=O)(=O)NC1=CC=C2CCCCC2=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H25FN2O4S/c1-25(2)13-5-7-16-14-17(23)10-12-20(16)30(28,29)24-19-11-9-15-6-3-4-8-18(15)21(19)22(26)27/h5,7,9-12,14,24H,3-4,6,8,13H2,1-2H3,(H,26,27)/b7-5-
+
+> <INCHI_KEY>
+CTZLIARLNXSXGL-ALCCZGGFSA-N
+
+> <FORMULA>
+C22H25FN2O4S
+
+> <MOLECULAR_WEIGHT>
+432.508
+
+> <EXACT_MASS>
+432.151906193
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.1836725089067337
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.14178154385218
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{2-[(1Z)-3-(dimethylamino)prop-1-en-1-yl]-4-fluorobenzenesulfonamido}-5,6,7,8-tetrahydronaphthalene-1-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.54
+
+> <JCHEM_LOGP>
+1.541454885467736
+
+> <ALOGPS_LOGS>
+-4.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.708141845661802
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.069864367203401
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.66968453495342
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.71
+
+> <JCHEM_REFRACTIVITY>
+116.7063
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.56e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07323
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[({2-[(1Z)-3-(DIMETHYLAMINO)PROP-1-ENYL]-4-FLUOROPHENYL}SULFONYL)AMINO]-5,6,7,8-TETRAHYDRONAPHTHALENE-1-CARBOXYLIC ACID
+
+$$$$

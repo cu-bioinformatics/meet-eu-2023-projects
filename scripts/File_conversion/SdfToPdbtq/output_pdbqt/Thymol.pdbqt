@@ -1,0 +1,22 @@
+REMARK  Name = Thymol
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_4
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -0.130  -0.375   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       0.585   0.037   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -0.844   0.037   0.000  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       0.585   0.863   0.000  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1       1.299  -0.375   0.000  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -0.844   0.863   0.000  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -0.130   1.275   0.000  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -0.130   2.100   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  C   UNL     1      -0.130  -1.200   0.000  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1      -0.844  -1.613   0.000  0.00  0.00    +0.000 C 
+ATOM     11  C   UNL     1       0.585  -1.613   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   1   9
+TORSDOF 1

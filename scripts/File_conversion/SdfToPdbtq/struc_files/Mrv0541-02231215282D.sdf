@@ -1,0 +1,184 @@
+ 
+  Mrv0541 02231215282D          
+ 
+ 28 30  0  0  1  0            999 V2000
+   23.9060  -11.7651    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   23.9060  -12.5899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6204  -13.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3347  -12.5899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3347  -11.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6204  -11.3526    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0810  -11.7651    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   23.0810  -12.5899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3668  -11.3526    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6524  -11.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6524  -12.5899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3668  -13.0023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9379  -11.3526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2122  -11.7719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9060  -10.9393    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5455  -11.2727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8623  -11.7523    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1072  -12.5502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9417  -12.5224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9378  -10.5150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6204  -13.8406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9037  -14.2543    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3445  -14.2587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5996  -13.2251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6355  -10.1122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6356   -9.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3442   -8.8758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9084   -8.8651    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  7  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  1 15  1  6  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 13 20  2  0  0  0  0
+  3 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 18 24  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01415
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SCC=C(N1C(=O)[C@H]2NC(=O)C(=C/CC(O)=O)\C1=CSC(N)=N1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H14N4O6S2/c16-15-17-7(5-27-15)6(1-2-9(20)21)11(22)18-10-12(23)19-8(14(24)25)3-4-26-13(10)19/h1,3,5,10,13H,2,4H2,(H2,16,17)(H,18,22)(H,20,21)(H,24,25)/b6-1-/t10-,13-/m1/s1
+
+> <INCHI_KEY>
+UNJFKXSSGBWRBZ-BJCIPQKHSA-N
+
+> <FORMULA>
+C15H14N4O6S2
+
+> <MOLECULAR_WEIGHT>
+410.425
+
+> <EXACT_MASS>
+410.03547558
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9952245959169281
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.49108576866966
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6R,7R)-7-[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-4-carboxybut-2-enamido]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.31
+
+> <JCHEM_LOGP>
+-1.4813655024310703
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.631830282082045
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.849547362260293
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.678369584913502
+
+> <JCHEM_POLAR_SURFACE_AREA>
+162.92
+
+> <JCHEM_REFRACTIVITY>
+97.02379999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.05e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01415
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Ceftibuten
+
+> <SYNONYMS>
+(+)-(6R,7R)-7-((Z)-2-(2-amino-4-thiazolyl)-4-carboxycrotonamido)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid; Ceftibuten; Ceftibutene; Ceftibuteno; Ceftibutenum; cis-ceftibuten
+
+> <PRODUCTS>
+Cedax; Ceftibuten
+
+> <SALTS>
+Ceftibuten dihydrate
+
+$$$$

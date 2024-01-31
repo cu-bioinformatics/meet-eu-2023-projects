@@ -1,0 +1,153 @@
+
+  Mrv1909 12231902342D          
+
+ 19 20  0  0  0  0            999 V2000
+    3.3306   -0.7917    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8354    1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4064   -0.9529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8354   -1.7780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306    0.5360    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0227    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3081    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7372    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4064    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4517    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1209    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1662    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8354    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1209   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5500    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8807    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5500   -0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8354   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8122   -0.1278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 18  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 19  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07636
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCCCC1=C(O)C2=C(SC=N2)C(=O)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17NO3S/c1-2-3-4-5-6-7-9-11(16)10-14(19-8-15-10)13(18)12(9)17/h8,16H,2-7H2,1H3
+
+> <INCHI_KEY>
+PJALLUJRPFUWAF-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H17NO3S
+
+> <MOLECULAR_WEIGHT>
+279.35
+
+> <EXACT_MASS>
+279.092914585
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9971328714876391
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.084566532499014
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-heptyl-4-hydroxy-6,7-dihydro-1,3-benzothiazole-6,7-dione
+
+> <ALOGPS_LOGP>
+2.81
+
+> <JCHEM_LOGP>
+3.6927972670000004
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.458854445219162
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.5580066156629476
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+74.64089999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N''-({4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl}methyl)guanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07636
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Heptyl-6-hydroxy-1,3-benzothiazole-4,7-dione
+
+$$$$

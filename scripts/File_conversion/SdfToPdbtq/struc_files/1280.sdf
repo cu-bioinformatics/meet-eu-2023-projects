@@ -1,0 +1,167 @@
+1280
+  Mrv0541 02231215222D          
+
+ 21 23  0  0  1  0            999 V2000
+    4.7896    0.8142    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7251   -0.0866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7282    1.7083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5752    2.8780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.9522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.6383    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -1.9662    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.7147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0585    0.3995    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.2734    0.1459    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0599    1.2245    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2757    1.4808    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.0221    2.2659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.8897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -1.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.7147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.1272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -3.3647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 14  1  0  0  0  0
+ 11  2  1  6  0  0  0
+ 13  3  1  1  0  0  0
+  4 15  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 21  1  0  0  0  0
+ 12  6  1  6  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 17  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 20  2  0  0  0  0
+  9 19  2  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 16 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01280
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=NC(N)=NC2=C1N=CN2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15N5O5/c1-20-9-5-8(14-11(12)15-9)16(3-13-5)10-7(19)6(18)4(2-17)21-10/h3-4,6-7,10,17-19H,2H2,1H3,(H2,12,14,15)/t4-,6-,7+,10-/m1/s1
+
+> <INCHI_KEY>
+IXOXBSCIXZEQEQ-UHTZMRCNSA-N
+
+> <FORMULA>
+C11H15N5O5
+
+> <MOLECULAR_WEIGHT>
+297.2673
+
+> <EXACT_MASS>
+297.107318615
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0029278626097942375
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.339880928246377
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4S,5R)-2-(2-amino-6-methoxy-9H-purin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.81
+
+> <JCHEM_LOGP>
+-1.5698491153333332
+
+> <ALOGPS_LOGS>
+-1.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.88926867780647
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.45392744274361
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.469570464386181
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.77
+
+> <JCHEM_REFRACTIVITY>
+69.60480000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.39e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01280
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Nelarabine
+
+> <SYNONYMS>
+2-Amino-9-beta-D-arabinofuranosyl-6-methoxy-9H-purine; Nelarabina; Nelarabine; Nelzarabine
+
+> <PRODUCTS>
+Arranon; Atriance; Nelarabine
+
+$$$$

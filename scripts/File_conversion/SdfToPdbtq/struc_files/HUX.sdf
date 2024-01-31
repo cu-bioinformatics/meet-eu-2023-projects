@@ -1,0 +1,163 @@
+HUX
+  Mrv0541 02231217262D          
+
+ 23 26  0  0  0  0            999 V2000
+    2.0656   -2.6926    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7215   -1.9428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2653   -1.0391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5561   -1.1160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6094   -0.2892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1667    0.9796    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6894    0.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9001   -1.8658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1989   -1.2699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0334   -0.4431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2069   -0.1097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1320    0.3837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1599    0.8772    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8001    0.8665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2911    1.6808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3046    0.4422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1777    1.2441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7104   -0.2761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2587    1.2448    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2912   -0.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8548   -0.5201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5605    1.3020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0514    1.7907    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  9 21  2  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 22  1  6  0  0  0
+ 14 16  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 23  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB04114
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12CC3=C(C(N)=C4C=CC(Cl)=CC4=N3)[C@]([H])(CC(CC)=C1)C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H19ClN2/c1-2-10-5-11-7-12(6-10)17-16(8-11)21-15-9-13(19)3-4-14(15)18(17)20/h3-5,9,11-12H,2,6-8H2,1H3,(H2,20,21)/t11-,12+/m0/s1
+
+> <INCHI_KEY>
+QTPHSDHUHXUYFE-NWDGAFQWSA-N
+
+> <FORMULA>
+C18H19ClN2
+
+> <MOLECULAR_WEIGHT>
+298.81
+
+> <EXACT_MASS>
+298.123676325
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9210814451098531
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.8985662412379
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,13S)-7-chloro-15-ethyl-10-azatetracyclo[11.3.1.0^{2,11}.0^{4,9}]heptadeca-2(11),3,5,7,9,14-hexaen-3-amine
+
+> <ALOGPS_LOGP>
+5.02
+
+> <JCHEM_LOGP>
+4.113078596333333
+
+> <ALOGPS_LOGS>
+-5.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.067118908431956
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.91
+
+> <JCHEM_REFRACTIVITY>
+88.4385
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04114
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01796
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Chloro-9-Ethyl-6,7,8,9,10,11-Hexahydro-7,11-Methanocycloocta[B]Quinolin-12-Amine
+
+$$$$

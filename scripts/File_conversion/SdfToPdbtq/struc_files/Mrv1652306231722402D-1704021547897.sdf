@@ -1,0 +1,144 @@
+
+  Mrv1652306231722402D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13361
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(CC(C1=CC=CC=C1)C1=CC=CC=C1)N(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H23N/c1-15(19(2)3)14-18(16-10-6-4-7-11-16)17-12-8-5-9-13-17/h4-13,15,18H,14H2,1-3H3
+
+> <INCHI_KEY>
+NSHMKXVHJBBKTN-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H23N
+
+> <MOLECULAR_WEIGHT>
+253.389
+
+> <EXACT_MASS>
+253.183049745
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.557187738135468
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4,4-diphenylbutan-2-yl)dimethylamine
+
+> <ALOGPS_LOGP>
+4.13
+
+> <JCHEM_LOGP>
+4.4852705466666665
+
+> <ALOGPS_LOGS>
+-4.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.908176036415766
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+83.01910000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.39e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4,4-diphenylbutan-2-yl)dimethylamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13361
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Trimethyldiphenylpropylamine
+
+$$$$

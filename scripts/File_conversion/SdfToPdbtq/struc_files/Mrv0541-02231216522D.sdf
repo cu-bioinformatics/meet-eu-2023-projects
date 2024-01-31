@@ -1,0 +1,154 @@
+
+  Mrv0541 02231216522D          
+
+ 16 18  0  0  1  0            999 V2000
+    4.0716    1.5745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2470    1.5487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8124    2.2499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9878    2.2242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5978    1.4972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7732    1.4714    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3386    2.1727    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7286    2.8997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5532    2.9254    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4626    1.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5232    1.1532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2406    0.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4373    0.0402    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0325    0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6425    0.0689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8571    0.8217    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  5 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03332
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=C(N3[C@@H](COC3=O)CN2)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H9N5O3/c9-7-11-5-4(6(14)12-7)13-3(1-10-5)2-16-8(13)15/h3H,1-2H2,(H4,9,10,11,12,14)/t3-/m1/s1
+
+> <INCHI_KEY>
+XAZOBOCYEGBXHD-GSVOUGTGSA-N
+
+> <FORMULA>
+C8H9N5O3
+
+> <MOLECULAR_WEIGHT>
+223.1888
+
+> <EXACT_MASS>
+223.070539179
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.1418985468316484
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.003190113473636
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6aR)-3-amino-1H,2H,5H,6H,6aH,7H,9H-[1,3]oxazolo[3,4-f]pteridine-1,9-dione
+
+> <ALOGPS_LOGP>
+-1.58
+
+> <JCHEM_LOGP>
+-1.3595560409999998
+
+> <ALOGPS_LOGS>
+-1.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.163885175067243
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.781560653765075
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.46178717267764
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.04999999999998
+
+> <JCHEM_REFRACTIVITY>
+61.18030000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.26e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03332
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00534
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5,6-Cyclic-Tetrahydropteridine
+
+$$$$

@@ -1,0 +1,176 @@
+
+  Mrv1909 12231920522D          
+
+ 28 27  0  0  0  0            999 V2000
+   -3.3509    0.3927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3509   -0.4323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6388   -0.8407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6388    0.8094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9268    0.3927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9303   -0.4323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2214   -0.8456    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2144    0.8045    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.6467    1.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2077   -0.0156    0.0000 Fe  0  1  0  0  0  0  0  0  0  0  0  0
+    2.6443    2.6735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9352    3.0957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201    2.6927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6379    1.8486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9156    1.4498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2085    1.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4908    1.4773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9051    0.6272    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3509    1.4332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4765   -3.0957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1998   -2.6988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2152   -1.8780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7687   -2.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7914   -1.8473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5163   -1.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5375   -0.6330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0876   -1.4209    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0491   -3.0758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6  7  2  0  0  0  0
+  4  9  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  5  8  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 24 23  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 23 28  1  0  0  0  0
+M  CHG  4   8  -1  10   3  18  -1  27  -1
+M  END
+> <DATABASE_ID>
+DB15598
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Fe+3].CC1=C([O-])C(=O)C=CO1.CC1=C([O-])C(=O)C=CO1.CC1=C([O-])C(=O)C=CO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/3C6H6O3.Fe/c3*1-4-6(8)5(7)2-3-9-4;/h3*2-3,8H,1H3;/q;;;+3/p-3
+
+> <INCHI_KEY>
+AHPWLYJHTFAWKI-UHFFFAOYSA-K
+
+> <FORMULA>
+C18H15FeO9
+
+> <MOLECULAR_WEIGHT>
+431.154
+
+> <EXACT_MASS>
+431.006543
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.003531802579758864
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.254940215077818
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+iron(3+) tris(2-methyl-4-oxo-4H-pyran-3-olate)
+
+> <ALOGPS_LOGP>
+2.62
+
+> <JCHEM_LOGP>
+0.5464279193333332
+
+> <ALOGPS_LOGS>
+-4.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.45046696494113
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.5946257495349783
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.36
+
+> <JCHEM_REFRACTIVITY>
+44.2723
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+darolutamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15598
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ferric maltol
+
+> <SYNONYMS>
+Ferric maltol; Iron (III) maltol
+
+> <PRODUCTS>
+Accrufer; Feraccru
+
+$$$$

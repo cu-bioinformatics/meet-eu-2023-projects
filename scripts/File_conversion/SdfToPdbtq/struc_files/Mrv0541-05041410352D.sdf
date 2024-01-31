@@ -1,0 +1,176 @@
+
+  Mrv0541 05041410352D          
+
+ 27 29  0  0  1  0            999 V2000
+    4.7079   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    3.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249    3.1994    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7403    2.9445    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7403    2.1195    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5249    1.8646    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728    3.4294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728    1.6346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0967    5.7248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6264    4.6853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0571    5.1951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5868    4.1556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0098    2.5320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8417    4.9402    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7772    3.5481    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5829    3.7543    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0052    2.4940    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9415    1.2812    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0  0  0  0
+  7  1  1  0  0  0  0
+  7  2  1  0  0  0  0
+  7  4  2  0  0  0  0
+  8  4  1  0  0  0  0
+  9  3  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  5  1  1  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14  6  2  0  0  0  0
+ 14  8  1  0  0  0  0
+ 15  6  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 13 15  1  6  0  0  0
+ 11 16  1  6  0  0  0
+ 12 17  1  6  0  0  0
+ 21  5  1  0  0  0  0
+ 22 10  1  0  0  0  0
+ 22 13  1  0  0  0  0
+ 23 18  1  0  0  0  0
+ 23 19  1  0  0  0  0
+ 23 20  2  0  0  0  0
+ 23 21  1  0  0  0  0
+ 10 24  1  6  0  0  0
+ 11 25  1  1  0  0  0
+ 12 26  1  1  0  0  0
+ 13 27  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02819
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(COP(O)(O)=O)O[C@]([H])(N2C=NC3=C2C=CC(C)=C3)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17N2O7P/c1-7-2-3-9-8(4-7)14-6-15(9)13-12(17)11(16)10(22-13)5-21-23(18,19)20/h2-4,6,10-13,16-17H,5H2,1H3,(H2,18,19,20)/t10-,11-,12-,13+/m1/s1
+
+> <INCHI_KEY>
+HGUDFQQPANTQEU-LPWJVIDDSA-N
+
+> <FORMULA>
+C13H17N2O7P
+
+> <MOLECULAR_WEIGHT>
+344.257
+
+> <EXACT_MASS>
+344.07733742
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8830546390026262
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.863492189225088
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5S)-3,4-dihydroxy-5-(5-methyl-1H-1,3-benzodiazol-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-1.9427658900921596
+
+> <ALOGPS_LOGS>
+-2.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.379980724393077
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2246931813717132
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.66175176364134
+
+> <JCHEM_POLAR_SURFACE_AREA>
+134.27
+
+> <JCHEM_REFRACTIVITY>
+77.47889999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.82e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02819
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02793
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Mono-[3,4-Dihydroxy-5-(5-Methyl-Benzoimidazol-1-Yl)-Tetrahydor-Furan-2-Ylmethyl] Ester
+
+$$$$

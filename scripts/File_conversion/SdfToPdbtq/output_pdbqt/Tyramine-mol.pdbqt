@@ -1,0 +1,31 @@
+REMARK  Name = Tyramine.mol
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5*_2  and  C4*_3
+REMARK    2  A    between atoms: C1*_8  and  N1_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4*   U A   1      -1.555  -0.189   0.000  0.00  0.00    +0.000 C 
+ATOM      2  C3*   U A   1      -1.341   0.608   0.000  0.00  0.00    +0.000 C 
+ATOM      3  O3*   U A   1      -1.860   1.249   0.000  0.00  0.00    +0.000 OA
+ATOM      4  C2*   U A   1      -0.517   0.651   0.000  0.00  0.00    +0.000 C 
+ATOM      5  O2*   U A   1      -0.068   1.343   0.000  0.00  0.00    +0.000 OA
+ATOM      6  C1*   U A   1      -0.222  -0.119   0.000  0.00  0.00    +0.000 C 
+ATOM      7  O4*   U A   1      -0.863  -0.638   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   6   8
+ATOM      8  N1    U A   1       0.575  -0.333   0.000  0.00  0.00    +0.000 N 
+ATOM      9  C2    U A   1       1.159   0.251   0.000  0.00  0.00    +0.000 A 
+ATOM     10  O2    U A   1       0.945   1.048   0.000  0.00  0.00    +0.000 OA
+ATOM     11  N3    U A   1       1.956   0.037   0.000  0.00  0.00    +0.000 NA
+ATOM     12  C4    U A   1       2.169  -0.760   0.000  0.00  0.00    +0.000 A 
+ATOM     13  O4    U A   1       2.966  -0.973   0.000  0.00  0.00    +0.000 OA
+ATOM     14  C5    U A   1       1.586  -1.343   0.000  0.00  0.00    +0.000 A 
+ATOM     15  C6    U A   1       0.789  -1.129   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   6   8
+BRANCH   1  17
+ATOM     16  O5*   U A   1      -2.966   0.035   0.000  0.00  0.00    +0.000 OA
+ATOM     17  C5*   U A   1      -2.325  -0.485   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   1  17
+TORSDOF 2

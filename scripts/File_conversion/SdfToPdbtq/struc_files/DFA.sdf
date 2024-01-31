@@ -1,0 +1,150 @@
+DFA
+  Mrv0541 02231217022D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.0339    0.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0339    1.5280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1095    1.9405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3950    1.5280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3950    0.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1095    0.2905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8239    0.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8239    1.5280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3195   -0.5345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0339   -0.9470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0339   -1.7720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3195   -2.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3950   -1.7720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3950   -0.9470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3195    0.2905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7484    0.2905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03588
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C(C1=CC=CC=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12O2/c15-14(16)13(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10,13H,(H,15,16)
+
+> <INCHI_KEY>
+PYHXGXCGESYPCW-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H12O2
+
+> <MOLECULAR_WEIGHT>
+212.2439
+
+> <EXACT_MASS>
+212.083729628
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9973065950306653
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.610233233878773
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,2-diphenylacetic acid
+
+> <ALOGPS_LOGP>
+2.79
+
+> <JCHEM_LOGP>
+3.287784356333333
+
+> <ALOGPS_LOGS>
+-3.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.4314729660892995
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+62.035100000000014
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03588
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01167
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diphenylacetic acid
+
+> <SYNONYMS>
+2,2-diphenylacetic acid; α-phenylbenzeneacetic acid
+
+$$$$

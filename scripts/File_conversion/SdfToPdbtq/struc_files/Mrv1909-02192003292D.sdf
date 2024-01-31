@@ -1,0 +1,174 @@
+
+  Mrv1909 02192003292D          
+
+ 21 24  0  0  0  0            999 V2000
+    0.4879   -0.2134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2806   -0.4573    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4879    0.6228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2221    1.0323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2221   -0.6185    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2806    0.8711    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9408    0.6228    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7641    0.2178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9408   -0.2134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2719   -2.1866    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2221    1.8642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0106   -2.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9365    2.2737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1873   -2.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7641    2.2824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3546    2.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6142   -1.7162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6595   -0.6185    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0522   -2.2084    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4592   -2.0951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6882   -1.7162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  5  2  0  0  0  0
+ 10  2  1  1  0  0  0
+ 11  4  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14 12  2  0  0  0  0
+ 15 13  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 10  1  0  0  0  0
+ 18  9  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 19 21  1  1  0  0  0
+  8  6  2  0  0  0  0
+  7  4  2  0  0  0  0
+ 19 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01048
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=C(N=CN2[C@@H]2C[C@H](CO)C=C2)C(NC2CC2)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H18N6O/c15-14-18-12(17-9-2-3-9)11-13(19-14)20(7-16-11)10-4-1-8(5-10)6-21/h1,4,7-10,21H,2-3,5-6H2,(H3,15,17,18,19)/t8-,10+/m1/s1
+
+> <INCHI_KEY>
+MCGSCOLBFJQGHM-SCZZXKLOSA-N
+
+> <FORMULA>
+C14H18N6O
+
+> <MOLECULAR_WEIGHT>
+286.3323
+
+> <EXACT_MASS>
+286.154209228
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.3727912179652686
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.43244347040572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(1S,4R)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]cyclopent-2-en-1-yl]methanol
+
+> <ALOGPS_LOGP>
+0.61
+
+> <JCHEM_LOGP>
+0.38677390133333256
+
+> <ALOGPS_LOGS>
+-2.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.707791784419957
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.406517692248412
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.798825079411383
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.88000000000001
+
+> <JCHEM_REFRACTIVITY>
+82.62310000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.21e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+abacavir
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01048
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00216
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Abacavir
+
+> <SYNONYMS>
+{(1S-cis)-4-[2-amino-6-(cyclopropylamino)-9H-purin-9-yl]cyclopent-2-en-1-yl}methanol; Abacavir; ABC 
+
+> <PRODUCTS>
+Abacavir; Abacavir Sulfate; Abacavir Sulfate, Lamivudine and Zidovudine; Abacavir and Lamivudine; Abacavir and lamivudine; Abacavir, Lamivudine and Zidovudine; Apo-abacavir; Apo-abacavir-lamivudine; Apo-abacavir-lamivudine Tablets; Apo-abacavir-lamivudine-zidovudine; Auro-abacavir/lamivudine; Epzicom; Jamp Abacavir / Lamivudine; Kivexa; Mint-abacavir; Mint-abacavir/lamivudine; Mylan-abacavir/lamivudine; PMS-abacavir-lamivudine; Teva-abacavir/lamivudine; Triumeq; Triumeq PD; Trizivir; Ziagen
+
+> <SALTS>
+Abacavir hydrochloride; Abacavir hydrochloride monohydrate; Abacavir sulfate
+
+$$$$

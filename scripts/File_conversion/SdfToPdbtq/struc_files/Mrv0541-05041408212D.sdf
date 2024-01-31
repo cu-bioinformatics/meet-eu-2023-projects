@@ -1,0 +1,152 @@
+
+  Mrv0541 05041408212D          
+
+ 15 16  0  0  1  0            999 V2000
+   -0.3984    0.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3984   -2.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7845   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.9521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    0.5396    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.9354    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  4  2  0  0  0  0
+  6  4  1  0  0  0  0
+  7  8  1  6  0  0  0
+  9  5  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11  3  2  0  0  0  0
+ 11  4  1  0  0  0  0
+ 12  2  1  0  0  0  0
+ 12  3  1  0  0  0  0
+ 12  5  1  0  0  0  0
+  6 13  1  6  0  0  0
+  6 14  1  1  0  0  0
+  7 15  1  1  0  0  0
+M  CHG  1  11   1
+M  END
+> <DATABASE_ID>
+DB01978
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(N)NC2=C([N+](C)=CN2C)[C@]([H])(O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14N5O/c1-11-3-12(2)5-4(11)6(13)10-7(8)9-5/h3,6-7,9-10,13H,8H2,1-2H3/q+1/t6-,7+/m0/s1
+
+> <INCHI_KEY>
+UCYXILDOFXGENE-NKWVEPMBSA-N
+
+> <FORMULA>
+C7H14N5O
+
+> <MOLECULAR_WEIGHT>
+184.219
+
+> <EXACT_MASS>
+184.119835095
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0238895871560023
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.15103858891206
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,6S)-2-amino-6-hydroxy-7,9-dimethyl-2,3,6,9-tetrahydro-1H-purin-7-ium
+
+> <ALOGPS_LOGP>
+-3.54
+
+> <JCHEM_LOGP>
+-5.278241081805079
+
+> <ALOGPS_LOGS>
+-1.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.119273141995262
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.073038550016165
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.390282483445298
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.12
+
+> <JCHEM_REFRACTIVITY>
+48.69319999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01978
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02320
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7,9-Dimethylguanine
+
+$$$$

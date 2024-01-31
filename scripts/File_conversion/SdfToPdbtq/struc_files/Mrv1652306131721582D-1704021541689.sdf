@@ -1,0 +1,165 @@
+
+  Mrv1652306131721582D          
+
+ 26 28  0  0  0  0            999 V2000
+   -4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4710   -0.5520    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1354   -1.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3149   -1.2195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  9 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 21 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05596
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)N1C2=C(C=CS2)C(O)=C(C(=O)NCCCN2CCCCC2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H27N3O3S/c1-13(2)22-18(25)15(16(23)14-7-12-26-19(14)22)17(24)20-8-6-11-21-9-4-3-5-10-21/h7,12-13,23H,3-6,8-11H2,1-2H3,(H,20,24)
+
+> <INCHI_KEY>
+SCHKZZSVELPJKU-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H27N3O3S
+
+> <MOLECULAR_WEIGHT>
+377.5
+
+> <EXACT_MASS>
+377.177312915
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.17257110997457
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxy-6-oxo-N-[3-(piperidin-1-yl)propyl]-7-(propan-2-yl)-6H,7H-thieno[2,3-b]pyridine-5-carboxamide
+
+> <ALOGPS_LOGP>
+2.21
+
+> <JCHEM_LOGP>
+-0.6751805159636909
+
+> <ALOGPS_LOGS>
+-3.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.203483999925364
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.247878500424434
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.241846154392656
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.88
+
+> <JCHEM_REFRACTIVITY>
+103.54019999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.34e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxy-7-isopropyl-6-oxo-N-[3-(piperidin-1-yl)propyl]thieno[2,3-b]pyridine-5-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05596
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+PRX-03140
+
+$$$$

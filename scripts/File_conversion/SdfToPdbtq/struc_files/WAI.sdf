@@ -1,0 +1,180 @@
+WAI
+  Mrv0541 02231217162D          
+
+ 30 33  0  0  0  0            999 V2000
+   -1.4300   -0.3862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155   -0.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155   -1.6237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4300   -2.0362    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1445   -1.6237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1445   -0.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4300    0.4388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1445    0.8513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1445    1.6763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4300    2.0888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155    1.6763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155    0.8513    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011    2.0888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011    2.9138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155    3.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7155    4.1513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011    4.5638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7134    4.1513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7134    3.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011    5.3888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4300    4.5638    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011   -2.0362    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7134   -1.6237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4279   -2.0362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4279   -2.8612    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7134   -3.2737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0011   -2.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1423   -3.2737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1423   -4.0987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8568   -4.5112    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 22  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 27  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03916
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(Cl)C=C(NC2=NC(=CC=N2)C2=CC(=NC=C2)N2CCN(CCN)CC2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H26ClN7/c1-16-2-3-18(15-19(16)23)27-22-26-8-5-20(28-22)17-4-7-25-21(14-17)30-12-10-29(9-6-24)11-13-30/h2-5,7-8,14-15H,6,9-13,24H2,1H3,(H,26,27,28)
+
+> <INCHI_KEY>
+RHOOHUMOHVIXEF-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H26ClN7
+
+> <MOLECULAR_WEIGHT>
+423.942
+
+> <EXACT_MASS>
+423.193821574
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0113784428255164
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.70643184138056
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{2-[4-(2-aminoethyl)piperazin-1-yl]pyridin-4-yl}-N-(3-chloro-4-methylphenyl)pyrimidin-2-amine
+
+> <ALOGPS_LOGP>
+2.95
+
+> <JCHEM_LOGP>
+3.853953738666667
+
+> <ALOGPS_LOGS>
+-3.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.290259173689154
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.37296323503994
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.2
+
+> <JCHEM_REFRACTIVITY>
+122.34979999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.47e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03916
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03239
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-{2-[4-(2-Aminoethyl)Piperazin-1-Yl]Pyridin-4-Yl}-N-(3-Chloro-4-Methylphenyl)Pyrimidin-2-Amine
+
+$$$$

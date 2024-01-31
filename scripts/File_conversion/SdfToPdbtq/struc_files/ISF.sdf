@@ -1,0 +1,158 @@
+ISF
+  Mrv0541 02231217092D          
+
+ 20 21  0  0  0  0            999 V2000
+    0.5557    2.5693    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3008    1.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5242    1.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7791    2.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1117    3.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1117    3.8792    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7857    1.1172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6062    1.2034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4502    0.3635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9351   -0.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5995   -1.0576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2209   -1.1438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7059   -0.4764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3703    0.2773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5565   -1.8975    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0716   -2.5649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3770   -1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7125   -2.7374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8619   -1.3163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0242   -1.8365    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  6  0  0  0
+ 15 17  1  0  0  0  0
+ 15 20  1  1  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03752
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(C(O)=O)C1=CC=C(C=C1)C(=O)C1=CC=C(I)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11IO3S/c1-8(14(17)18)9-2-4-10(5-3-9)13(16)11-6-7-12(15)19-11/h2-8H,1H3,(H,17,18)/t8-/m0/s1
+
+> <INCHI_KEY>
+UIZPHGUBGPJBAR-QMMMGPOBSA-N
+
+> <FORMULA>
+C14H11IO3S
+
+> <MOLECULAR_WEIGHT>
+386.205
+
+> <EXACT_MASS>
+385.947358328
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9993654648081965
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.67165453695578
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-[4-(5-iodothiophene-2-carbonyl)phenyl]propanoic acid
+
+> <ALOGPS_LOGP>
+4.11
+
+> <JCHEM_LOGP>
+4.6211552440000006
+
+> <ALOGPS_LOGS>
+-5.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.802731376003347
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.831076649851522
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+81.9279
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.68e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03752
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01934
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+P-(2'-Iodo-5'-Thenoyl)Hydrotropic Acid
+
+$$$$

@@ -1,0 +1,173 @@
+
+  Mrv1652310211600012D          
+
+ 27 29  0  0  1  0            999 V2000
+   -0.5189    1.0794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4973    1.9041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6477    2.7153    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0773    3.1089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6758    2.5410    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3206    1.7964    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2437    3.1395    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6452    3.7074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6236    4.5321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9581    2.7270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9581    1.9020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2437    1.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6726    1.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6726    0.6645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3400    0.1795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0851   -0.6051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2601   -0.6051    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0052    0.1795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3871    1.9020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3871    2.7270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1015    1.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9356    3.5888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8924    4.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3923    3.0704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0722    2.6032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4570    3.8929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3198    1.8394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  7 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+  7 22  1  6  0  0  0
+ 22 23  1  0  0  0  0
+  3 24  1  6  0  0  0
+ 24 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+  2 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12343
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CO[C@]1(NC(=O)C(C(O)=O)C2=CSC=C2)[C@H]2SC(C)(C)[C@@H](N2C1=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H18N2O7S2/c1-15(2)9(12(22)23)18-13(24)16(25-3,14(18)27-15)17-10(19)8(11(20)21)7-4-5-26-6-7/h4-6,8-9,14H,1-3H3,(H,17,19)(H,20,21)(H,22,23)/t8?,9-,14+,16-/m0/s1
+
+> <INCHI_KEY>
+BVCKFLJARNKCSS-DWPRYXJFSA-N
+
+> <FORMULA>
+C16H18N2O7S2
+
+> <MOLECULAR_WEIGHT>
+414.45
+
+> <EXACT_MASS>
+414.055543276
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.908012682247175
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6S)-6-[2-carboxy-2-(thiophen-3-yl)acetamido]-6-methoxy-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.13
+
+> <JCHEM_LOGP>
+1.2014304629999997
+
+> <ALOGPS_LOGS>
+-3.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.115695168574126
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1049442570630355
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.314537920367171
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.24
+
+> <JCHEM_REFRACTIVITY>
+94.21889999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+temocillin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12343
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Temocillin
+
+> <SYNONYMS>
+Temocillin; temocillina
+
+> <SALTS>
+Temocillin Sodium
+
+$$$$

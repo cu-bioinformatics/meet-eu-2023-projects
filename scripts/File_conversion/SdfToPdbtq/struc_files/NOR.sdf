@@ -1,0 +1,152 @@
+NOR
+  Mrv0541 02241213592D          
+
+ 19 19  0  0  0  0            999 V2000
+   -0.1794   -0.7970    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1794    0.0280    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8939    0.4405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6083    0.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6083   -0.7970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3228    0.4405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3228   -1.2095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0373    0.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0373   -0.7970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5351    0.4405    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5351    1.2655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2495    0.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2495   -0.7970    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9640    0.4405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6785    0.0280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3930    0.4405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6785   -0.7970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6851   -0.2639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0294    0.7325    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 18  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 10 19  1  6  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08288
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC1CCCCC1)[C@@]([H])(O)C(=O)OC(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H25NO3/c1-9(2)17-13(16)12(15)11(14)8-10-6-4-3-5-7-10/h9-12,15H,3-8,14H2,1-2H3/t11-,12+/m0/s1
+
+> <INCHI_KEY>
+GSYSEQUYQXPNHH-NWDGAFQWSA-N
+
+> <FORMULA>
+C13H25NO3
+
+> <MOLECULAR_WEIGHT>
+243.3425
+
+> <EXACT_MASS>
+243.183443671
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9883934368278002
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.990683930034898
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+propan-2-yl (2R,3S)-3-amino-4-cyclohexyl-2-hydroxybutanoate
+
+> <ALOGPS_LOGP>
+1.89
+
+> <JCHEM_LOGP>
+1.834321027333333
+
+> <ALOGPS_LOGS>
+-2.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.1441154288391
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.930501147924742
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.55
+
+> <JCHEM_REFRACTIVITY>
+66.0707
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08288
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+CYCLOHEXYL-NORSTATINE
+
+$$$$

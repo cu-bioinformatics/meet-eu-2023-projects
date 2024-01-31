@@ -1,0 +1,159 @@
+
+  Mrv0541 05031423452D          
+
+ 20 19  0  0  1  0            999 V2000
+    4.9204   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4914   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.6349   -0.3020    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3480   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3493   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5395    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6349    0.5230    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4914   -1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6336   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0638   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3493   -1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2059   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7329   -0.8577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.1105    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9170   -1.0772    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  1  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  4  1  0  0  0  0
+  8  6  1  0  0  0  0
+  4  9  1  1  0  0  0
+  6 10  1  1  0  0  0
+  5 11  1  1  0  0  0
+ 12  7  2  0  0  0  0
+ 13  7  1  0  0  0  0
+ 14  8  2  0  0  0  0
+ 15  8  1  0  0  0  0
+ 16  3  1  0  0  0  0
+ 16  5  1  0  0  0  0
+  3 17  1  6  0  0  0
+  4 18  1  1  0  0  0
+  5 19  1  6  0  0  0
+  6 20  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB01817
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(C[C@]([H])(O)O[C@]([H])(C)[C@]([H])(N)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N2O6/c1-3(6(10)8(14)15)16-5(11)2-4(9)7(12)13/h3-6,11H,2,9-10H2,1H3,(H,12,13)(H,14,15)/t3-,4+,5-,6+/m1/s1
+
+> <INCHI_KEY>
+VCAYFLVMRCFGDV-MOJAZDJTSA-N
+
+> <FORMULA>
+C8H16N2O6
+
+> <MOLECULAR_WEIGHT>
+236.2224
+
+> <EXACT_MASS>
+236.100836254
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.04123123442423215
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.936719569582834
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R)-2-amino-3-[(1R,3S)-3-amino-3-carboxy-1-hydroxypropoxy]butanoic acid
+
+> <ALOGPS_LOGP>
+-4.21
+
+> <JCHEM_LOGP>
+-6.290377826057272
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+2.3245755719572303
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.6178840561427623
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.199619390529067
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.1
+
+> <JCHEM_REFRACTIVITY>
+50.4724
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.81e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01817
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00445
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Threonine-Aspartic Ester
+
+$$$$

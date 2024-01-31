@@ -1,0 +1,176 @@
+
+  Mrv0541 05031420052D          
+
+ 27 29  0  0  0  0            999 V2000
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  6  5  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12  2  1  0  0  0  0
+ 12  8  2  0  0  0  0
+ 13  7  2  0  0  0  0
+ 13  8  1  0  0  0  0
+ 14  9  2  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 16 10  2  0  0  0  0
+ 17 15  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 11  2  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19 13  1  0  0  0  0
+ 20 17  1  0  0  0  0
+ 21 15  1  0  0  0  0
+ 21 19  1  0  0  0  0
+ 22 19  2  0  0  0  0
+ 22 20  1  0  0  0  0
+ 23  5  1  0  0  0  0
+ 24 20  2  0  0  0  0
+ 25  3  1  0  0  0  0
+ 25 14  1  0  0  0  0
+ 26  4  1  0  0  0  0
+ 26 16  1  0  0  0  0
+ 27  6  1  0  0  0  0
+ 27 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12000
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC2=C(C(=O)N=C(N2)C2=CC(C)=C(OCCO)C(C)=C2)C(OC)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H22N2O5/c1-11-7-13(8-12(2)18(11)27-6-5-23)19-21-15-9-14(25-3)10-16(26-4)17(15)20(24)22-19/h7-10,23H,5-6H2,1-4H3,(H,21,22,24)
+
+> <INCHI_KEY>
+NETXMUIMUZJUTB-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H22N2O5
+
+> <MOLECULAR_WEIGHT>
+370.3991
+
+> <EXACT_MASS>
+370.152871824
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.351087065279393e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.202335350458355
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[4-(2-hydroxyethoxy)-3,5-dimethylphenyl]-5,7-dimethoxy-1,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+2.49
+
+> <JCHEM_LOGP>
+3.008952710000001
+
+> <ALOGPS_LOGS>
+-3.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.103600968176746
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.629600330203507
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5174774169553742
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+103.39129999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.32e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12000
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Apabetalone
+
+> <SYNONYMS>
+Apabetalone
+
+$$$$

@@ -1,0 +1,159 @@
+
+  Mrv1652306231722462D          
+
+ 23 24  0  0  0  0            999 V2000
+   -1.4534    0.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5967   -0.0375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.4534   -0.8499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0854   -1.3802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8606   -1.0981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0039   -0.2856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3719    0.2447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7717   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3592    0.6770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4658    0.6770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2908    0.6770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7033    1.3915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5283    1.3915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9408    0.6770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5283   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7033   -0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4658   -0.1480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1333   -0.6329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8783   -1.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0533   -1.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2016   -0.6329    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4658    1.5020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1801    0.0000    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 10 22  1  0  0  0  0
+M  CHG  2   2   1  23  -1
+M  END
+> <DATABASE_ID>
+DB13666
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[I-].C[N+]1(CCC(O)(C2=CC=CS2)C2=CC=CC=C2)CCOCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H24NO2S.HI/c1-19(11-13-21-14-12-19)10-9-18(20,17-8-5-15-22-17)16-6-3-2-4-7-16;/h2-8,15,20H,9-14H2,1H3;1H/q+1;/p-1
+
+> <INCHI_KEY>
+IOFXEUZPIIUQAG-UHFFFAOYSA-M
+
+> <FORMULA>
+C18H24INO2S
+
+> <MOLECULAR_WEIGHT>
+445.36
+
+> <EXACT_MASS>
+445.05725
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.07563612568348
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-[3-hydroxy-3-phenyl-3-(thiophen-2-yl)propyl]-4-methylmorpholin-4-ium iodide
+
+> <ALOGPS_LOGP>
+-1.23
+
+> <JCHEM_LOGP>
+-1.6141660894717456
+
+> <ALOGPS_LOGS>
+-5.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.824093064483929
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7505416935947293
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.46
+
+> <JCHEM_REFRACTIVITY>
+102.00980000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.24e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-[3-hydroxy-3-phenyl-3-(thiophen-2-yl)propyl]-4-methylmorpholin-4-ium iodide
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13666
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tiemonium iodide
+
+> <SYNONYMS>
+Tiemonium iodide
+
+$$$$

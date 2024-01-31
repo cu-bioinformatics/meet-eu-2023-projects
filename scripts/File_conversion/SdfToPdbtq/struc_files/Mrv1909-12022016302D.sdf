@@ -1,0 +1,161 @@
+
+  Mrv1909 12022016302D          
+
+ 20 21  0  0  0  0            999 V2000
+    1.4683    0.7665    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9532    0.0989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4683   -0.5684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6837   -0.3135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0308   -0.7261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7454   -0.3135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7454    0.5114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0308    0.9240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6837    0.5114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7783    0.0989    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7783   -0.7261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7783    0.9240    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6034    0.0989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4598    0.9240    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7233    1.5511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4598   -0.7261    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1743   -0.3135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8889   -0.7261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8889   -1.5511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6034   -0.3135    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  1  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+  2 10  1  0  0  0  0
+  7 14  2  0  0  0  0
+  1 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  6 16  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15969
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(CC2=C\C(=N\NC(N)=O)C(=O)C=C12)S(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N4O5S/c1-14-7-4-8(15)6(12-13-10(11)16)2-5(7)3-9(14)20(17,18)19/h2,4,9H,3H2,1H3,(H3,11,13,16)(H,17,18,19)/b12-6-
+
+> <INCHI_KEY>
+OZCACMPSTYQSMM-SDQBBNPISA-N
+
+> <FORMULA>
+C10H12N4O5S
+
+> <MOLECULAR_WEIGHT>
+300.29
+
+> <EXACT_MASS>
+300.052840676
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0000185899208163
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.423761169584612
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5Z)-5-[(carbamoylamino)imino]-1-methyl-6-oxo-2,3,5,6-tetrahydro-1H-indole-2-sulfonic acid
+
+> <ALOGPS_LOGP>
+-1.02
+
+> <JCHEM_LOGP>
+-2.518782126518938
+
+> <ALOGPS_LOGS>
+-2.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.641959509564911
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.292184007954254
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.6249128967620257
+
+> <JCHEM_POLAR_SURFACE_AREA>
+142.16000000000003
+
+> <JCHEM_REFRACTIVITY>
+70.8235
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butropium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15969
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carbazochrome sulfonic acid
+
+> <SALTS>
+Carbazochrome sodium sulfonate
+
+$$$$

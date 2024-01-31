@@ -1,0 +1,170 @@
+3SC
+  Mrv0541 02241213102D          
+
+ 28 31  0  0  0  0            999 V2000
+   -2.2779    1.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4933    0.8086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4933   -0.0164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2779   -0.2713    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7628    0.3961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7788    1.2211    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0644    0.8086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0644   -0.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7788   -0.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7788   -1.2539    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6501    1.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4933   -1.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4933   -2.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2078   -2.9039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2078   -3.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4933   -4.1414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7788   -3.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7788   -2.9039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6501    2.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3646    2.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0791    2.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0791    1.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3646    0.8086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5329    1.8482    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9808    2.4613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288    3.0744    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0644    2.4586    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.3646    3.2836    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 24  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 27  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 28  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22 21  2  0  0  0  0
+ 23 11  2  0  0  0  0
+ 23 22  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07065
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=C(Cl)C(=CC=C1)C1=NC2=C(SC#N)C=NN2C(NCC2=CC=NC=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H12Cl2N6S/c20-14-3-1-2-13(18(14)21)15-8-17(24-9-12-4-6-23-7-5-12)27-19(26-15)16(10-25-27)28-11-22/h1-8,10,24H,9H2
+
+> <INCHI_KEY>
+AHPKUZJCNHGFQA-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H12Cl2N6S
+
+> <MOLECULAR_WEIGHT>
+427.31
+
+> <EXACT_MASS>
+426.022120518
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.010374824616716792
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.17451622208979
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{[5-(2,3-dichlorophenyl)-7-{[(pyridin-4-yl)methyl]amino}pyrazolo[1,5-a]pyrimidin-3-yl]sulfanyl}formonitrile
+
+> <ALOGPS_LOGP>
+4.60
+
+> <JCHEM_LOGP>
+4.260407229
+
+> <ALOGPS_LOGS>
+-4.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.020509939858369
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.9
+
+> <JCHEM_REFRACTIVITY>
+123.91559999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.60e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07065
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)-3-thiocyanatopyrazolo[1,5-a]pyrimidin-7-amine
+
+$$$$

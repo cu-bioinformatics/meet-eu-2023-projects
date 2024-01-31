@@ -1,0 +1,177 @@
+
+  Mrv1909 03232018162D          
+
+ 28 29  0  0  0  0            999 V2000
+   -1.2546    1.5523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1769    0.7721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0803    1.5523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5872    2.0428    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0053    0.7721    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4879    0.1045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3083    0.1850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5790    0.8445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9571    0.1126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5148   -0.5791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6943   -0.5469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7507    0.8847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3056    0.1045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1340    0.1045    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7641    1.4799    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5442   -0.6113    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3726   -0.6113    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7828   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3726   -2.0428    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6112   -1.3270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0215    1.5441    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8927   -1.3110    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.3431    0.9008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7828    0.1045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6112    0.1045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0215    0.8203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0215   -0.6113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1393    1.1099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  1  0  0  0
+ 15 23  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 24  1  1  0  0  0
+ 18 20  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 23 28  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12271
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C[C@H](N[C@@H](CC1=CN=CN1CC1=CC(Cl)=CC(Cl)=C1)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H23Cl2N3O4/c1-11(2)3-16(18(25)26)23-17(19(27)28)7-15-8-22-10-24(15)9-12-4-13(20)6-14(21)5-12/h4-6,8,10-11,16-17,23H,3,7,9H2,1-2H3,(H,25,26)(H,27,28)/t16-,17-/m0/s1
+
+> <INCHI_KEY>
+NTCCRGGIJNDEAB-IRXDYDNUSA-N
+
+> <FORMULA>
+C19H23Cl2N3O4
+
+> <MOLECULAR_WEIGHT>
+428.31
+
+> <EXACT_MASS>
+427.106561653
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9959805656994223
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.39439340696953
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-{[(1S)-1-carboxy-2-{1-[(3,5-dichlorophenyl)methyl]-1H-imidazol-5-yl}ethyl]amino}-4-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+1.64
+
+> <JCHEM_LOGP>
+-1.2813947144250815
+
+> <ALOGPS_LOGS>
+-4.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.162265148297917
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.4759194212169837
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.15152963596809
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.45
+
+> <JCHEM_REFRACTIVITY>
+106.20459999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.80e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-{[(1S)-1-carboxy-2-{3-[(3,5-dichlorophenyl)methyl]imidazol-4-yl}ethyl]amino}-4-methylpentanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12271
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB06387
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+ORE-1001
+
+$$$$

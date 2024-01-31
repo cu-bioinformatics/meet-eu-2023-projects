@@ -1,0 +1,155 @@
+
+  Mrv1652310201623502D          
+
+ 20 21  0  0  0  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12291
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)NC1=CC=C(C=C1)C(=O)NC1=CC=CC=C1N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15N3O2/c1-10(19)17-12-8-6-11(7-9-12)15(20)18-14-5-3-2-4-13(14)16/h2-9H,16H2,1H3,(H,17,19)(H,18,20)
+
+> <INCHI_KEY>
+VAZAPHZUAVEOMC-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H15N3O2
+
+> <MOLECULAR_WEIGHT>
+269.304
+
+> <EXACT_MASS>
+269.116426735
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.022646474784977
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2-aminophenyl)-4-acetamidobenzamide
+
+> <ALOGPS_LOGP>
+1.51
+
+> <JCHEM_LOGP>
+1.4739150349999997
+
+> <ALOGPS_LOGS>
+-3.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.448307169407023
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.475710715255648
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.2402656263998133
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.22
+
+> <JCHEM_REFRACTIVITY>
+81.1549
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.51e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tacedinaline
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12291
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tacedinaline
+
+> <SYNONYMS>
+tacedinalina; Tacedinaline
+
+$$$$

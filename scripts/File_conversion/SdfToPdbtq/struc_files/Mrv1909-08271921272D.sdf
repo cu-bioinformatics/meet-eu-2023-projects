@@ -1,0 +1,177 @@
+
+  Mrv1909 08271921272D          
+
+ 27 30  0  0  1  0            999 V2000
+    1.6273   -1.6144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2148   -2.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6273   -3.0433    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4478   -3.1295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6193   -3.9365    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049   -4.3490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2918   -3.7970    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4848   -3.9685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1492   -4.7222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6711   -4.6359    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8427   -3.8290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5571   -3.4165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5571   -2.5915    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8427   -2.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1282   -2.5915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4848   -2.0394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1492   -1.2858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6711   -1.3720    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1282   -3.4165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3730   -4.2721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -5.0925    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0404   -3.7871    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7941   -4.1227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4616   -3.6378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1290   -3.1529    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9465   -4.3052    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9766   -2.9703    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+  8 19  1  0  0  0  0
+ 11 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15091
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[C@@H]1CN(C[C@@H]1C1=CN=C2C=NC3=C(C=CN3)N12)C(=O)NCC(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19F3N6O/c1-2-10-7-25(16(27)24-9-17(18,19)20)8-11(10)13-5-22-14-6-23-15-12(26(13)14)3-4-21-15/h3-6,10-11,21H,2,7-9H2,1H3,(H,24,27)/t10-,11+/m1/s1
+
+> <INCHI_KEY>
+WYQFJHHDOKWSHR-MNOVXSKESA-N
+
+> <FORMULA>
+C17H19F3N6O
+
+> <MOLECULAR_WEIGHT>
+380.375
+
+> <EXACT_MASS>
+380.157243745
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.09280608215689
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S,4R)-3-ethyl-4-{1,5,7,10-tetraazatricyclo[7.3.0.0^{2,6}]dodeca-2(6),3,7,9,11-pentaen-12-yl}-N-(2,2,2-trifluoroethyl)pyrrolidine-1-carboxamide
+
+> <ALOGPS_LOGP>
+2.57
+
+> <JCHEM_LOGP>
+0.8463130729999997
+
+> <ALOGPS_LOGS>
+-3.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.6848449943767
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.993118922478569
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.10991023290036
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.32
+
+> <JCHEM_REFRACTIVITY>
+93.03380000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.07e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3S,4R)-3-ethyl-4-{1,5,7,10-tetraazatricyclo[7.3.0.0^{2,6}]dodeca-2(6),3,7,9,11-pentaen-12-yl}-N-(2,2,2-trifluoroethyl)pyrrolidine-1-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15091
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Upadacitinib
+
+> <SYNONYMS>
+Upadacitinib
+
+> <PRODUCTS>
+Rinvoq
+
+> <SALTS>
+Upadacitinib hemihydrate; Upadacitinib tartrate
+
+$$$$

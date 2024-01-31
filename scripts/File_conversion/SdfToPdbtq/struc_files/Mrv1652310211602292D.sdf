@@ -1,0 +1,150 @@
+
+  Mrv1652310211602292D          
+
+ 19 20  0  0  0  0            999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+  3 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12818
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(O)=C2C(=O)OC(=CC2=C1)C(C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12O6/c1-6(12(15)16)10-4-7-3-8(18-2)5-9(14)11(7)13(17)19-10/h3-6,14H,1-2H3,(H,15,16)
+
+> <INCHI_KEY>
+BPZCXUROMKDLGX-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H12O6
+
+> <MOLECULAR_WEIGHT>
+264.233
+
+> <EXACT_MASS>
+264.063388106
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.49447271656094
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(8-hydroxy-6-methoxy-1-oxo-1H-isochromen-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+2.35
+
+> <JCHEM_LOGP>
+2.345400822333333
+
+> <ALOGPS_LOGS>
+-2.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.478685728437759
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.315956992716852
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.072864024395037
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.06000000000002
+
+> <JCHEM_REFRACTIVITY>
+66.35910000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(8-hydroxy-6-methoxy-1-oxoisochromen-3-yl)propanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12818
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+NM-3
+
+$$$$

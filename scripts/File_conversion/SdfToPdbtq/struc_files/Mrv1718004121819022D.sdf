@@ -1,0 +1,158 @@
+
+  Mrv1718004121819022D          
+
+ 22 18  0  0  0  0            999 V2000
+   -3.2520    1.6904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5375    2.1029    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8231    1.6904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5375    2.9279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8231    0.8654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1086    2.1029    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.9665    2.1029    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3165    2.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7290    1.7410    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5540    1.7410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3165    1.0265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9665    1.0265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9665    2.4554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4915    2.4554    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8075   -1.4990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2200   -2.2134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2200   -0.7845    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8075   -2.9279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0450   -2.2134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3941    2.5154    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+   -2.5375    1.2779    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1415    2.4554    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  3  2  0  0  0  0
+  6  3  1  0  0  0  0
+  7  1  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 10  2  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 16  2  0  0  0  0
+ 19 16  1  0  0  0  0
+  2 21  1  1  0  0  0
+  9 22  1  6  0  0  0
+M  CHG  3   6  -1   7  -1  20   2
+M  END
+> <DATABASE_ID>
+DB11197
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Fe++].NCC(O)=O.[H][C@](N)(CS)C(O)=O.[H][C@](N)(C[S-])C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C3H7NO2S.C2H5NO2.Fe/c2*4-2(1-7)3(5)6;3-1-2(4)5;/h2*2,7H,1,4H2,(H,5,6);1,3H2,(H,4,5);/q;;;+2/p-2/t2*2-;;/m00../s1
+
+> <INCHI_KEY>
+NIBOCUPOPAKNJE-NVKWYWNSSA-L
+
+> <FORMULA>
+C8H17FeN3O6S2
+
+> <MOLECULAR_WEIGHT>
+371.2
+
+> <EXACT_MASS>
+370.990814
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.667836512245623
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+lambda2-iron(2+) (2R)-2-amino-3-sulfanylpropanoic acid 2-aminoacetic acid (2R)-2-amino-3-sulfanidylpropanoate
+
+> <ALOGPS_LOGP>
+-2.57
+
+> <JCHEM_LOGP>
+-2.7921332976482773
+
+> <ALOGPS_LOGS>
+-0.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.171891903949282
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.345995198078135
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.053809511128133
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.15
+
+> <JCHEM_REFRACTIVITY>
+39.8029
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.31e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lambda2-iron(2+) L-cysteinate(2-) L-cysteine glycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11197
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ferrous cysteine glycinate
+
+> <SYNONYMS>
+Ferrous cysteine glycinate chelate (1:2:1)
+
+> <PRODUCTS>
+DermaNIC; EnBrace HR; EnLyte; Enl; Escavite D; Escavite Lq; PramLyte
+
+$$$$

@@ -1,0 +1,169 @@
+
+  Mrv0541 05041411162D          
+
+ 25 27  0  0  1  0            999 V2000
+    0.4929    2.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0592    1.7023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8785    0.1674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1561    0.2144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2910    0.8818    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8785    1.5963    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0535    1.5963    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7478    1.8738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6410    0.8818    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6342   -1.0343    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5181   -0.8517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8167    0.1181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9912    1.7023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4392    2.6585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0535    0.1674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3356    0.3006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5015    2.2094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0980    1.0534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4306    2.2094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8341    1.0534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1493   -0.3668    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1842    1.8738    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7760    0.2144    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054    2.1898    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1111    2.4193    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  1  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  4  1  6  0  0  0
+  9  7  1  0  0  0  0
+ 15  3  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 16  4  1  0  0  0  0
+ 17  7  1  0  0  0  0
+ 17  8  1  0  0  0  0
+ 18  5  1  0  0  0  0
+ 19  6  1  0  0  0  0
+ 20  8  1  0  0  0  0
+ 20  9  1  0  0  0  0
+ 21 10  1  0  0  0  0
+ 21 11  2  0  0  0  0
+ 21 12  2  0  0  0  0
+ 21 16  1  0  0  0  0
+ 22 13  2  0  0  0  0
+ 22 14  2  0  0  0  0
+ 22 18  1  0  0  0  0
+ 22 19  1  0  0  0  0
+  5 23  1  1  0  0  0
+  6 24  1  1  0  0  0
+  7 25  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB02894
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@@]3([H])[C@]1([H])OS(=O)(=O)O2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15NO10S2/c1-8(2)17-7-6-5(18-22(13,14)19-6)3-15-9(7,20-8)4-16-21(10,11)12/h5-7H,3-4H2,1-2H3,(H2,10,11,12)/t5-,6-,7+,9+/m1/s1
+
+> <INCHI_KEY>
+GGOAQSGCBDRTHT-JAKMQLQISA-N
+
+> <FORMULA>
+C9H15NO10S2
+
+> <MOLECULAR_WEIGHT>
+361.346
+
+> <EXACT_MASS>
+361.013737085
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-8.182885337660457e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.880492514636984
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(1S,2S,6R,9S)-11,11-dimethyl-4,4-dioxo-3,5,8,10,12-pentaoxa-4lambda6-thiatricyclo[7.3.0.0^{2,6}]dodecan-9-yl]methyl sulfamate
+
+> <ALOGPS_LOGP>
+-0.51
+
+> <JCHEM_LOGP>
+-0.6239413220000003
+
+> <ALOGPS_LOGS>
+-1.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.087057923717964
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.9677985226908015
+
+> <JCHEM_POLAR_SURFACE_AREA>
+149.68
+
+> <JCHEM_REFRACTIVITY>
+66.30780000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02894
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02924
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfamic Acid 2,3-O-(1-Methylethylidene)-4,5-O-Sulfonyl-Beta-Fructopyranose Ester
+
+$$$$

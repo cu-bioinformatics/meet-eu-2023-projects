@@ -1,0 +1,151 @@
+
+  Mrv0541 05031420412D          
+
+ 15 16  0  0  1  0            999 V2000
+    1.2695    1.7474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846    1.0799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0937    2.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3237    1.0799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8388    1.7474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0542    1.4924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5417    3.1451    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0542    0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7966    3.9297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7347    2.9736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8388    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2446    4.5428    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6036    4.1012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2695    0.4125    0.0000 Se  0  0  0  0  0  0  0  0  0  0  0  0
+    3.3487    3.3166    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  5  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  1  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  3  1  0  0  0  0
+  8  6  2  0  0  0  0
+  9  7  1  0  0  0  0
+  7 10  1  1  0  0  0
+ 11  4  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  9  2  0  0  0  0
+ 13  9  1  0  0  0  0
+ 14  2  1  0  0  0  0
+ 14  8  1  0  0  0  0
+  7 15  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03043
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC1=CNC2=C1C=C[Se]2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N2O2Se/c10-7(9(12)13)3-5-4-11-8-6(5)1-2-14-8/h1-2,4,7,11H,3,10H2,(H,12,13)/t7-/m0/s1
+
+> <INCHI_KEY>
+MXAFHQSEFHIRDF-ZETCQYMHSA-N
+
+> <FORMULA>
+C9H10N2O2Se
+
+> <MOLECULAR_WEIGHT>
+257.15
+
+> <EXACT_MASS>
+257.990749402
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.004130858665225556
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.30828209687013
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-{6H-selenopheno[2,3-b]pyrrol-4-yl}propanoic acid
+
+> <ALOGPS_LOGP>
+-1.71
+
+> <JCHEM_LOGP>
+-1.9540208957579788
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.13936948637991
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8683903047438217
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.381460653062957
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11
+
+> <JCHEM_REFRACTIVITY>
+59.5922
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03043
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00092
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(S)-2-Amino-3-(6h-Selenolo[2,3-B]-Pyrrol-4-Yl)-Propionic Acid
+
+$$$$

@@ -1,0 +1,160 @@
+STS
+  Mrv0541 02241214112D          
+
+ 20 22  0  0  0  0            999 V2000
+   -2.2841   -1.4845    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4591   -1.4845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0466   -0.7701    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2216   -0.7701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2634   -1.4375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0480   -1.1826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0480   -0.3576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2634   -0.1026    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7625    0.0549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4769   -0.3576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4769   -1.1826    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.7625   -1.5951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4591   -0.0556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0466    0.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4591    1.3733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0466    2.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2216    2.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1909    1.3733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2216    0.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7546   -1.2758    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  6  0  0  0
+  3 20  1  6  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  CHG  1  11   1
+M  END
+> <DATABASE_ID>
+DB08575
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CS)(CC1=CC=CC=C1)C1=NC2=C(N1)C=C[NH+]=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15N3S/c19-10-12(8-11-4-2-1-3-5-11)15-17-13-6-7-16-9-14(13)18-15/h1-7,9,12,19H,8,10H2,(H,17,18)/p+1/t12-/m1/s1
+
+> <INCHI_KEY>
+DCUCDCAIOMIBEA-GFCCVEGCSA-O
+
+> <FORMULA>
+C15H16N3S
+
+> <MOLECULAR_WEIGHT>
+270.373
+
+> <EXACT_MASS>
+270.106493217
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.04090750083963479
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.390735471993068
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(2S)-1-phenyl-3-sulfanylpropan-2-yl]-1H-imidazo[4,5-c]pyridin-5-ium
+
+> <ALOGPS_LOGP>
+0.64
+
+> <JCHEM_LOGP>
+2.9573893049999995
+
+> <ALOGPS_LOGS>
+-5.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.325483574137328
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.065600723066384
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.643108201679179
+
+> <JCHEM_POLAR_SURFACE_AREA>
+42.82
+
+> <JCHEM_REFRACTIVITY>
+80.21170000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08575
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[(1S)-1-BENZYL-2-SULFANYLETHYL]-1H-IMIDAZO[4,5-C]PYRIDIN-5-IUM
+
+$$$$

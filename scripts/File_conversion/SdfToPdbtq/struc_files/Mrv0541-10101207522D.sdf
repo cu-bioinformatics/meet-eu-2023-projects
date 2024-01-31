@@ -1,0 +1,168 @@
+
+  Mrv0541 10101207522D          
+
+ 24 24  0  0  1  0            999 V2000
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.9355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -2.3645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4454    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  5 12  1  1  0  0  0
+  4 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+  3 18  1  1  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+  2 23  1  6  0  0  0
+  1 24  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03956
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@H]1[C@H](O)[C@@H](OP(O)(O)=O)[C@H](OP(O)(O)=O)[C@@H](O)[C@H]1OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H15O15P3/c7-1-2(8)5(20-23(13,14)15)6(21-24(16,17)18)3(9)4(1)19-22(10,11)12/h1-9H,(H2,10,11,12)(H2,13,14,15)(H2,16,17,18)/t1-,2-,3-,4-,5+,6+/m0/s1
+
+> <INCHI_KEY>
+MMWCIQZXVOZEGG-LKPKBOIGSA-N
+
+> <FORMULA>
+C6H15O15P3
+
+> <MOLECULAR_WEIGHT>
+420.0956
+
+> <EXACT_MASS>
+419.962379346
+
+> <JCHEM_ACCEPTOR_COUNT>
+12
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-5.850273209473648
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.485879359862214
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+9
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(1R,2S,3S,4S,5S,6R)-2,3,5-trihydroxy-4,6-bis(phosphonooxy)cyclohexyl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.86
+
+> <JCHEM_LOGP>
+-4.152707746
+
+> <ALOGPS_LOGS>
+-1.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-6
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-6
+
+> <JCHEM_PKA>
+1.0368235573274425
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.5363206524866494
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.668899673475526
+
+> <JCHEM_POLAR_SURFACE_AREA>
+260.96999999999997
+
+> <JCHEM_REFRACTIVITY>
+68.3937
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.48e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03956
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01809
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Inositol 2,4,5-trisphosphate
+
+$$$$

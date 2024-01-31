@@ -1,0 +1,167 @@
+5SC
+  Mrv0541 02241213152D          
+
+ 26 29  0  0  0  0            999 V2000
+   -2.1329    0.8911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3483    0.6362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3483   -0.1888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1329   -0.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6179    0.2237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338    1.0487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0806    0.6362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0806   -0.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338   -0.6013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338   -1.4263    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7951    1.0487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3483   -1.8388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3483   -2.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0628   -3.0763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0628   -3.9013    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.3483   -4.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338   -3.9013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338   -3.0763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7951    1.8737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5096    2.2862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2240    1.8737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2240    1.0487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5096    0.6362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3879    1.6757    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0806    2.2862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7773   -4.3138    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 24  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  7  6  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 19  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 25  1  0  0  0  0
+ 21 20  2  0  0  0  0
+ 22 21  1  0  0  0  0
+ 23 22  2  0  0  0  0
+ 23 11  1  0  0  0  0
+ 26 15  1  0  0  0  0
+M  CHG  2  15   1  26  -1
+M  END
+> <DATABASE_ID>
+DB07179
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C=CC=C1)C1=NC2=C(Br)C=NN2C(NCC2=C[N+]([O-])=CC=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H16BrN5O/c1-13-5-2-3-7-15(13)17-9-18(25-19(23-17)16(20)11-22-25)21-10-14-6-4-8-24(26)12-14/h2-9,11-12,21H,10H2,1H3
+
+> <INCHI_KEY>
+DXUJQXZHHGJMFM-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H16BrN5O
+
+> <MOLECULAR_WEIGHT>
+410.267
+
+> <EXACT_MASS>
+409.053822806
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.4936023087219752e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.560565376028634
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-({[3-bromo-5-(2-methylphenyl)pyrazolo[1,5-a]pyrimidin-7-yl]amino}methyl)pyridin-1-ium-1-olate
+
+> <ALOGPS_LOGP>
+3.07
+
+> <JCHEM_LOGP>
+2.7769352219999996
+
+> <ALOGPS_LOGS>
+-5.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.1914170445602015
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.16
+
+> <JCHEM_REFRACTIVITY>
+116.41690000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.18e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07179
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-((3-bromo-5-o-tolylpyrazolo[1,5-a]pyrimidin-7-ylamino)methyl)pyridine 1-oxide
+
+$$$$

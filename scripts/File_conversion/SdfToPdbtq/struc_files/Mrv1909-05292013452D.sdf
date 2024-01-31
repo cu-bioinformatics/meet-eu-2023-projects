@@ -1,0 +1,175 @@
+
+  Mrv1909 05292013452D          
+
+ 24 27  0  0  0  0            999 V2000
+    1.0515    1.5056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0515    0.6806    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0515   -0.1443    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3392   -0.5661    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3731   -0.1505    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3731    0.6806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3392    1.0962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0876   -0.5661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0876   -1.3973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3731   -1.8129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3392   -1.3973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8002   -1.8129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5126   -1.3973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5126   -0.5661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8002   -0.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2271   -1.8109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3731   -0.9755    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3392    0.2588    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8362   -0.3992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3211    0.2681    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8362    0.9355    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0528    1.8129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2271    0.5372    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0515   -0.9755    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 13  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+  5 17  1  6  0  0  0
+  4 18  1  1  0  0  0
+  3 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  2 21  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 21 22  1  1  0  0  0
+ 20 23  1  6  0  0  0
+  3 24  1  6  0  0  0
+M  ISO  1  23  18
+M  END
+> <DATABASE_ID>
+DB15690
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12C[C@@H]([18F])[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H23FO2/c1-18-7-6-13-12-5-3-11(20)8-10(12)2-4-14(13)15(18)9-16(19)17(18)21/h3,5,8,13-17,20-21H,2,4,6-7,9H2,1H3/t13-,14-,15+,16-,17+,18+/m1/s1/i19-1
+
+> <INCHI_KEY>
+KDLLNMRYZGUVMA-ZYMZXAKXSA-N
+
+> <FORMULA>
+C18H23FO2
+
+> <MOLECULAR_WEIGHT>
+289.381
+
+> <EXACT_MASS>
+289.170742648
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.00034408940593533196
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.11143950243458
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,2R,3aS,3bR,9bS,11aS)-2-(¹⁸F)fluoro-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-1,7-diol
+
+> <ALOGPS_LOGP>
+3.33
+
+> <JCHEM_LOGP>
+3.561689495333334
+
+> <ALOGPS_LOGS>
+-3.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.481376358188234
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.326748396343131
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4631791771475275
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+79.5741
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.45e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fluoroestradiol f-18
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15690
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Fluoroestradiol F-18
+
+> <SYNONYMS>
+(18F)FES; 16-alpha-(18-Fluoro)-17betaestradiol; 16-alpha-(18F)Fluoro-17beta-estradiol; 16alpha-(18F)Fluoro-17beta-estradiol; F-18 16 alpha-Fluoroestradiol; F-18 Fes; Fes F-18
+
+> <PRODUCTS>
+Cerianna
+
+$$$$

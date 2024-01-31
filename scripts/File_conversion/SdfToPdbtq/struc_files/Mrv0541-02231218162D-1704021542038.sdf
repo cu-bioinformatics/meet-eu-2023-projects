@@ -1,0 +1,160 @@
+
+  Mrv0541 02231218162D          
+
+ 18 19  0  0  1  0            999 V2000
+    1.6500   -1.3578    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3826   -1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8177   -2.5127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4331   -2.4265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2863    0.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7152    0.2492    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0007    1.4868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7152    2.7243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1277   -1.8453    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3027   -1.8453    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7152   -0.5758    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0478   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6126   -2.5127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2631   -0.8057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4296    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0007    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4296    1.4868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7152    1.8993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 10  3  1  1  0  0  0
+  4 13  1  0  0  0  0
+  5 16  2  0  0  0  0
+ 11  6  1  6  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06433
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)\C1=C/F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12FN3O4/c11-3-5-8(16)6(4-15)18-9(5)14-2-1-7(12)13-10(14)17/h1-3,6,8-9,15-16H,4H2,(H2,12,13,17)/b5-3+/t6-,8+,9-/m1/s1
+
+> <INCHI_KEY>
+GFFXZLZWLOBBLO-ASKVSEFXSA-N
+
+> <FORMULA>
+C10H12FN3O4
+
+> <MOLECULAR_WEIGHT>
+257.2184
+
+> <EXACT_MASS>
+257.081184092
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0009503781780250195
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.050807473028485
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-[(2R,3E,4S,5R)-3-(fluoromethylidene)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.22
+
+> <JCHEM_LOGP>
+-1.927385605
+
+> <ALOGPS_LOGS>
+-1.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.700558475354157
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.27733150565886
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.978559913420981
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.37999999999998
+
+> <JCHEM_REFRACTIVITY>
+57.72260000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.27e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06433
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tezacitabine
+
+> <SYNONYMS>
+2'-Deoxy-2'-(fluoromethylene)cytidine; Tezacitabine
+
+> <SALTS>
+Tezacitabine monohydrate
+
+$$$$

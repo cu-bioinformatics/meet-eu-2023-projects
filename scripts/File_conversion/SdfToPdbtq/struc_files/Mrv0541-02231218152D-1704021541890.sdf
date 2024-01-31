@@ -1,0 +1,160 @@
+
+  Mrv0541 02231218152D          
+
+ 21 25  0  0  0  0            999 V2000
+    6.5428   -1.4388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8235    0.9922    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558   -1.5086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4953   -1.0961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7088   -0.2992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2021   -1.1731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8695   -2.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9017   -1.9580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2472   -0.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4880    0.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6440    0.9059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.5007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3398   -1.6523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4110    1.7066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5533   -2.4492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8235    2.4211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1367   -3.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3398   -3.2461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8235    3.2461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5380    2.8336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06200
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C(C1CC1)N1CC2CN(CC3CC3)CC(C1)C21CCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H32N2/c1-2-8-19(7-1)17-11-20(9-15-3-4-15)12-18(19)14-21(13-17)10-16-5-6-16/h15-18H,1-14H2
+
+> <INCHI_KEY>
+CTIRHWCPXYGDGF-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H32N2
+
+> <MOLECULAR_WEIGHT>
+288.4708
+
+> <EXACT_MASS>
+288.256549034
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.6888154016089447
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.70322772463667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3,7-bis(cyclopropylmethyl)-3,7-diazaspiro[bicyclo[3.3.1]nonane-9,1'-cyclopentane]
+
+> <ALOGPS_LOGP>
+3.54
+
+> <JCHEM_LOGP>
+2.7811932639999988
+
+> <ALOGPS_LOGS>
+-4.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.262824442169167
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+88.50610000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06200
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tedisamil
+
+> <SYNONYMS>
+Tedisamil
+
+$$$$

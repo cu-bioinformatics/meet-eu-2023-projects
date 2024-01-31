@@ -1,0 +1,159 @@
+
+  Mrv1909 10161919282D          
+
+ 24 20  0  0  0  0            999 V2000
+    0.2492   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4651   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4651   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1796   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2492    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2492    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4651    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4651    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1796    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0742    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4867    0.7144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4867   -0.7144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5757    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9796    0.4760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5671    1.1905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9796    1.9049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7421    1.1905    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.8046    0.4760    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2698    0.1190    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+    5.9350   -1.9123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5225   -1.1978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350   -0.4834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6975   -1.1978    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.7600   -1.9123    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+M  CHG  3  17  -1  19   2  23  -1
+M  END
+> <DATABASE_ID>
+DB15556
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Zn++].NCC([O-])=O.NCC([O-])=O.OC(=O)CC(O)(CC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O7.2C2H5NO2.Zn/c7-3(8)1-6(13,5(11)12)2-4(9)10;2*3-1-2(4)5;/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);2*1,3H2,(H,4,5);/q;;;+2/p-2
+
+> <INCHI_KEY>
+AORYXJPNCRHPND-UHFFFAOYSA-L
+
+> <FORMULA>
+C10H16N2O11Zn
+
+> <MOLECULAR_WEIGHT>
+405.62
+
+> <EXACT_MASS>
+404.004551
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.50640357527398
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+zinc(2+) 2-hydroxypropane-1,2,3-tricarboxylic acid bis(2-aminoacetate)
+
+> <ALOGPS_LOGP>
+-1.33
+
+> <JCHEM_LOGP>
+-1.3226874519999998
+
+> <ALOGPS_LOGS>
+-0.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+4.674836176324
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.0479515131680732
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.1856934502319305
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.13
+
+> <JCHEM_REFRACTIVITY>
+35.6239
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.06e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+magnesium malate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15556
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Zinc glycinate citrate
+
+> <PRODUCTS>
+Fosteum; Vp-gstn
+
+$$$$

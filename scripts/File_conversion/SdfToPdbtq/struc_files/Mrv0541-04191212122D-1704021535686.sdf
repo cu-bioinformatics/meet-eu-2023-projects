@@ -1,0 +1,170 @@
+
+  Mrv0541 04191212122D          
+
+ 20 20  0  0  1  0            999 V2000
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.6500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+M  CHG  2  14   1  17  -1
+M  END
+> <DATABASE_ID>
+DB00446
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12Cl2N2O5/c12-10(13)11(18)14-8(5-16)9(17)6-1-3-7(4-2-6)15(19)20/h1-4,8-10,16-17H,5H2,(H,14,18)/t8-,9-/m1/s1
+
+> <INCHI_KEY>
+WIIZWVCIJKGZOK-RKDXNWHRSA-N
+
+> <FORMULA>
+C11H12Cl2N2O5
+
+> <MOLECULAR_WEIGHT>
+323.129
+
+> <EXACT_MASS>
+322.012326918
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.019979292568870394
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.13100162611271
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide
+
+> <ALOGPS_LOGP>
+1.15
+
+> <JCHEM_LOGP>
+0.8787034880000002
+
+> <ALOGPS_LOGS>
+-2.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.5494428426382
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.690661370166266
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7948502347233966
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+72.1965
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.61e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00446
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00862; EXPT00942
+
+> <DRUG_GROUPS>
+approved; vet_approved; withdrawn
+
+> <GENERIC_NAME>
+Chloramphenicol
+
+> <SYNONYMS>
+Chloramphénicol; Chloramphenicol; Chloramphenicolum; Chlornitromycin; Cloramfenicol; Cloranfenicol; D-(−)-2,2-dichloro-N-(β-hydroxy-α-(hydroxymethyl)-p-nitrophenylethyl)acetamide; D-(−)-threo-1-p-nitrophenyl-2-dichloroacetylamino-1,3-propanediol; Laevomycetinum; Levomicetina; Levomycetin
+
+> <PRODUCTS>
+Actinac Pwr; Actinac Pws; Cebenicol Oph Liq 0.4%; Chloramphenicol; Chloromycetin; Chloromycetin Oph Ont 1%; Chloromycetin Oph Soln 0.5%; Chloromycetin Otic; Chloroptic Dps 0.5%; Chloroptic Oph Ont 1%; Econochlor; Minims Chloramphenicol 0.5%; Novo-chlorocap Cap 250mg; Odan-chloramphenicol; Ophtho-chloram Liq 0.5%; Ophthocort Ont; PMS-chloramphenicol Ophthalmic Ointment; PMS-chloramphenicol Ophthalmic Soln 0.5%; Pentamycetin Liq 2.5mg/ml; Pentamycetin Ont 10mg/gm; Pentamycetin Ophthalmic Solution 0.5% - Liq; Pentamycetin/hc; Sopamycetin Oph Ont 0.2%; Sopamycetin Soln Otique 5%; Sopamycetin Solution Ophthalmique 0.2%; Sopamycetin/hc Ointment; Sopamycetin/hc Ont; Sopamycetin/hc Susp
+
+> <INTERNATIONAL_BRANDS>
+Brochlor; Chloramex; Chlorocid; Chlorocol; Chlorsig; Fenicol; Globenicol; Halomycetin; Oleomycetin; Sificetina
+
+$$$$

@@ -1,0 +1,148 @@
+
+  Mrv1652310201623182D          
+
+ 17 20  0  0  1  0            999 V2000
+    2.3566    1.1144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6421    0.7019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7115   -0.0212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3566   -0.5356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0710   -0.1231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0710    0.7019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7855   -0.5356    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5701   -0.2806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0550   -0.9481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5701   -1.6155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7855   -1.3606    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0710   -1.7731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3566   -1.3606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7115   -1.8749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9072   -1.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5493   -0.9481    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9072   -0.2048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  1  1  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+  3 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12071
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C1C[C@H]2CN3CCNCC4=C3C(=CC=C4)[C@H]2C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H20N2/c1-3-11-9-16-7-8-17-10-12-4-2-5-13(12)14(6-1)15(11)17/h1,3,6,12-13,16H,2,4-5,7-10H2/t12-,13-/m0/s1
+
+> <INCHI_KEY>
+NPTIPEQJIDTVKR-STQMWFEESA-N
+
+> <FORMULA>
+C15H20N2
+
+> <MOLECULAR_WEIGHT>
+228.339
+
+> <EXACT_MASS>
+228.162648652
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.7238064919989
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(12R,16S)-7,10-diazatetracyclo[8.6.1.0^{5,17}.0^{12,16}]heptadeca-1,3,5(17)-triene
+
+> <ALOGPS_LOGP>
+2.80
+
+> <JCHEM_LOGP>
+2.5854054173333334
+
+> <ALOGPS_LOGS>
+-2.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.902771040523596
+
+> <JCHEM_POLAR_SURFACE_AREA>
+15.27
+
+> <JCHEM_REFRACTIVITY>
+71.4952
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.52e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(12R,16S)-7,10-diazatetracyclo[8.6.1.0^{5,17}.0^{12,16}]heptadeca-1,3,5(17)-triene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12071
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Vabicaserin
+
+> <SYNONYMS>
+Vabicaserin
+
+> <SALTS>
+Vabicaserin Hydrochloride
+
+$$$$

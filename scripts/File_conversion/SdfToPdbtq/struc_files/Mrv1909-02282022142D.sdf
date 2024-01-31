@@ -1,0 +1,170 @@
+
+  Mrv1909 02282022142D          
+
+ 23 23  0  0  0  0            999 V2000
+   -1.4214   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1345   -0.7526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8570   -1.1581    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8570   -1.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1345   -2.3886    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4214   -1.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5780   -2.5423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5701   -2.3886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1345    0.0768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7084   -0.7526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0139   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7084   -0.7526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4215   -1.1581    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1252   -0.7526    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1252    0.0768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8429    0.4870    0.0000 S   0  3  1  0  0  0  0  0  0  0  0  0
+    3.5701    0.0768    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8429    1.3072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701    1.7221    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701    2.5423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8429   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701   -0.7526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7084    0.0768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  4  2  0  0  0  0
+  9  2  2  0  0  0  0
+ 10  1  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 18 16  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 14 21  1  6  0  0  0
+ 22 21  1  0  0  0  0
+ 23 12  2  0  0  0  0
+M  CHG  2  16   1  17  -1
+M  END
+> <DATABASE_ID>
+DB04222
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CSC[S@+]([O-])C[C@H](CO)NC(=O)\C=C\C1=C(C)NC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H19N3O5S2/c1-8-10(12(19)16-13(20)14-8)3-4-11(18)15-9(5-17)6-23(21)7-22-2/h3-4,9,17H,5-7H2,1-2H3,(H,15,18)(H2,14,16,19,20)/b4-3+/t9-,23+/m0/s1
+
+> <INCHI_KEY>
+XKLZIVIOZDNKEQ-CLQLPEFOSA-N
+
+> <FORMULA>
+C13H19N3O5S2
+
+> <MOLECULAR_WEIGHT>
+361.437
+
+> <EXACT_MASS>
+361.076612113
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.010519816712362299
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.60878192109183
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-N-[(2S)-1-hydroxy-3-[(R)-(methylsulfanyl)methanesulfinyl]propan-2-yl]-3-(6-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-5-yl)prop-2-enamide
+
+> <ALOGPS_LOGP>
+-1.32
+
+> <JCHEM_LOGP>
+-2.4821507096666666
+
+> <ALOGPS_LOGS>
+-2.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.70926169975885
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.973405601030635
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.3385871865573152
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.6
+
+> <JCHEM_REFRACTIVITY>
+91.66539999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.59e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-saccharopine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04222
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02949
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sparsomycin
+
+> <SYNONYMS>
+Esparsomicina; Sparsomycin; Sparsomycine; Sparsomycinum
+
+$$$$

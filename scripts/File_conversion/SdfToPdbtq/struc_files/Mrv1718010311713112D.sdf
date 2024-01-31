@@ -1,0 +1,150 @@
+
+  Mrv1718010311713112D          
+
+ 19 19  0  0  0  0            999 V2000
+   -1.0724   -0.2556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3585   -0.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3595   -1.4940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0745   -1.9055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7884   -1.4922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7874   -0.6672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0714    0.5697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3563    0.9820    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7884    0.5689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0736    0.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3585    0.5693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0738    1.6415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2066    1.8510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0320    2.5655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3591    2.2199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3560    1.8074    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.0753   -2.5655    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3565    0.4320    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3583    0.0193    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 16  8  1  0  0  0  0
+  8 18  1  1  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 19 11  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 16 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+M  CHG  1  16  -1
+M  END
+> <DATABASE_ID>
+DB08692
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N(C(C)=O)[C@]([H])(CC1=CC=C(Cl)C=C1)[B-](O)(O)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14BClNO4/c1-7(14)13-10(11(15,16)17)6-8-2-4-9(12)5-3-8/h2-5,10,15-17H,6H2,1H3,(H,13,14)/q-1/t10-/m1/s1
+
+> <INCHI_KEY>
+FPCXTDQHLFRWCJ-SNVBAGLBSA-N
+
+> <FORMULA>
+C10H14BClNO4
+
+> <MOLECULAR_WEIGHT>
+258.486
+
+> <EXACT_MASS>
+258.070441114
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.21322313095567
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(1S)-2-(4-chlorophenyl)-1-acetamidoethyl]trihydroxyboranuide
+
+> <ALOGPS_LOGP>
+0.76
+
+> <JCHEM_LOGP>
+-0.24999999999999978
+
+> <ALOGPS_LOGS>
+-3.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.178039873809727
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.998435495789636
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.19961566486002
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.79
+
+> <JCHEM_REFRACTIVITY>
+59.787499999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.15e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1S)-2-(4-chlorophenyl)-1-acetamidoethyl]trihydroxyboranuide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08692
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-1-(4-chlorophenyl)-2-(acetamido)ethane boronic acid
+
+$$$$

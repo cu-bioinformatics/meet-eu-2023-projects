@@ -1,0 +1,171 @@
+505
+  Mrv0541 02231214442D          
+
+ 23 24  0  0  1  0            999 V2000
+    1.9058    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934   -0.7145    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7308    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9683   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7934   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6184   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5078    0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5078   -1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0309   -1.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0163   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7308   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+DB00505
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[N+](CC)(CC)CCC(O)(C1CCCCC1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H36NO/c1-4-22(5-2,6-3)18-17-21(23,19-13-9-7-10-14-19)20-15-11-8-12-16-20/h7,9-10,13-14,20,23H,4-6,8,11-12,15-18H2,1-3H3/q+1
+
+> <INCHI_KEY>
+NPRHVSBSZMAEIN-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H36NO
+
+> <MOLECULAR_WEIGHT>
+318.5166
+
+> <EXACT_MASS>
+318.279689779
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+59
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9999997954024065
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.174040546223225
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3-cyclohexyl-3-hydroxy-3-phenylpropyl)triethylazanium
+
+> <ALOGPS_LOGP>
+2.31
+
+> <JCHEM_LOGP>
+0.2904066095282539
+
+> <ALOGPS_LOGS>
+-7.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.689009313358829
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3722273263368483
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+111.22260000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.68e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00505
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00286
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Tridihexethyl
+
+> <INTERNATIONAL_BRANDS>
+Pathilon; Propethonum
+
+> <SALTS>
+Tridihexethyl chloride
+
+$$$$

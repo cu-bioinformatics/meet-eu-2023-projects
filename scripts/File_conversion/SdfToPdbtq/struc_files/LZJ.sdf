@@ -1,0 +1,156 @@
+LZJ
+  Mrv0541 02241213532D          
+
+ 20 22  0  0  0  0            999 V2000
+    0.5458  -12.8439    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5458  -12.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1687  -11.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1687  -10.7814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5458  -10.3689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2603  -10.7814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9747  -10.3689    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2603  -11.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9747  -12.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6892  -11.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4037  -12.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1181  -11.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8326  -12.0189    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9747  -12.8439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2603  -13.2564    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6892  -13.2564    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4037  -12.8439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1181  -13.2564    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8326  -12.8439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5471  -13.2564    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08144
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=NC(N)=C(C=C2C=N1)C1=C(Br)C=CC=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H9Br2N5/c14-8-2-1-3-9(15)10(8)7-4-6-5-18-13(17)20-12(6)19-11(7)16/h1-5H,(H4,16,17,18,19,20)
+
+> <INCHI_KEY>
+HGIPWJYTPOHUGK-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H9Br2N5
+
+> <MOLECULAR_WEIGHT>
+395.052
+
+> <EXACT_MASS>
+392.922470607
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0030605243708284923
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.15671786795744
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-(2,6-dibromophenyl)pyrido[2,3-d]pyrimidine-2,7-diamine
+
+> <ALOGPS_LOGP>
+3.02
+
+> <JCHEM_LOGP>
+3.3325169223333333
+
+> <ALOGPS_LOGS>
+-4.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.822466926195984
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.487126025364714
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.71
+
+> <JCHEM_REFRACTIVITY>
+88.25850000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.18e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08144
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(2,6-dibromophenyl)pyrido[2,3-d]pyrimidine-2,7-diamine
+
+$$$$

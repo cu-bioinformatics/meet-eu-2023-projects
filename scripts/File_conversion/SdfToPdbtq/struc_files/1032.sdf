@@ -1,0 +1,161 @@
+1032
+  Mrv0541 02231215112D          
+
+ 19 19  0  0  0  0            999 V2000
+    3.0791    0.8745    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2540    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.8381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.8381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6995    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.9371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.3496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    3.3496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5 19  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01032
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H19NO4S/c1-3-9-14(10-4-2)19(17,18)12-7-5-11(6-8-12)13(15)16/h5-8H,3-4,9-10H2,1-2H3,(H,15,16)
+
+> <INCHI_KEY>
+DBABZHXKTCFAPX-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H19NO4S
+
+> <MOLECULAR_WEIGHT>
+285.359
+
+> <EXACT_MASS>
+285.103478791
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9996578622221707
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.963000414701327
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(dipropylsulfamoyl)benzoic acid
+
+> <ALOGPS_LOGP>
+1.52
+
+> <JCHEM_LOGP>
+2.442872324333333
+
+> <ALOGPS_LOGS>
+-2.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.534349644303132
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.67999999999999
+
+> <JCHEM_REFRACTIVITY>
+73.8107
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.25e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01032
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00167
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Probenecid
+
+> <SYNONYMS>
+4-((Dipropylamino)sulfonyl)benzoic acid; 4-(Di-n-propylsulfamoyl)benzoesäure; 4-(N,N-Dipropylsulfamoyl)benzoesäure; p-(Dipropylsulfamoyl)benzoic acid; Probenecid; Probenecid acid; Probenecida; Probenecide; Probenecidum
+
+> <PRODUCTS>
+Benemid Tab 500mg; Benuryl; Pro Biosan Kit; Probenecid; Probenecid and Colchicine
+
+> <INTERNATIONAL_BRANDS>
+Benecid; Benemid; Probalan; Probecid; Proben
+
+$$$$

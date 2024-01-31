@@ -1,0 +1,151 @@
+FC1
+  Mrv0541 02231216132D          
+
+ 18 19  0  0  0  0            999 V2000
+   -0.2195   -0.1357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3629    1.1018    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0774   -0.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3629   -1.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9340    1.1018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485   -0.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9340    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3629    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485   -0.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485    1.5143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3528    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6384   -0.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6384   -0.1357    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4949    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0774   -0.9607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6485    2.3393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2094   -0.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9239    0.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02462
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCCOC1=CC(=O)SC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17NO2S/c1-15(2)8-5-9-17-12-10-14(16)18-13-7-4-3-6-11(12)13/h3-4,6-7,10H,5,8-9H2,1-2H3
+
+> <INCHI_KEY>
+DIOZFKOOIBATNZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H17NO2S
+
+> <MOLECULAR_WEIGHT>
+263.355
+
+> <EXACT_MASS>
+263.097999483
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9965183956548104
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.898813514676295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[3-(dimethylamino)propoxy]-2H-thiochromen-2-one
+
+> <ALOGPS_LOGP>
+2.71
+
+> <JCHEM_LOGP>
+1.8791322113333337
+
+> <ALOGPS_LOGS>
+-2.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.456705904354626
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.54
+
+> <JCHEM_REFRACTIVITY>
+77.51989999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.95e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02462
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01399
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thiocoumarin
+
+$$$$

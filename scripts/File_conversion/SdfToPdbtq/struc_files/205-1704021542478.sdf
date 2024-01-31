@@ -1,0 +1,156 @@
+205
+  Mrv0541 02241213042D          
+
+ 20 22  0  0  0  0            999 V2000
+    1.3645   -1.0236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6500   -0.6111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0789   -0.6111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0789    0.2139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3645    0.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6500    0.2139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8571    0.5159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4446   -0.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6196   -0.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6821    0.5159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6821   -0.9131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0946   -0.1986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8571   -0.9131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7934    0.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7934    1.4514    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5079    0.2139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1346    0.4688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1346   -0.8660    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4446   -1.6275    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4446    1.2304    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  6  2  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06907
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=CC2=C(C=C1)N=C(O2)C1=C(Cl)C=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H7Cl2NO3/c15-8-2-1-3-9(16)12(8)13-17-10-5-4-7(14(18)19)6-11(10)20-13/h1-6H,(H,18,19)
+
+> <INCHI_KEY>
+XVNRKPCHMYOPPL-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H7Cl2NO3
+
+> <MOLECULAR_WEIGHT>
+308.116
+
+> <EXACT_MASS>
+306.980298509
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9996013064050528
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.971223362680043
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2,6-dichlorophenyl)-1,3-benzoxazole-6-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.85
+
+> <JCHEM_LOGP>
+4.210307916666666
+
+> <ALOGPS_LOGS>
+-4.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.600813000950746
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7565821098367524
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.33
+
+> <JCHEM_REFRACTIVITY>
+84.69049999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.87e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06907
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2,6-DICHLOROPHENYL)-1,3-BENZOXAZOLE-6-CARBOXYLIC ACID
+
+$$$$

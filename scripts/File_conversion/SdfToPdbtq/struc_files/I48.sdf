@@ -1,0 +1,171 @@
+I48
+  Mrv0541 02241213452D          
+
+ 27 29  0  0  0  0            999 V2000
+   -5.3608    1.5674    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.6463    1.9799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9318    1.5674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9318    0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6463    0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3608    0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2174    0.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5029    0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7884    0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0739    0.7424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3595    0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3550    0.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0695    0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0695   -0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3550   -0.9076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3595   -0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3550   -1.7326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7839    0.7424    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4984    0.3299    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0859   -0.3846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9109    1.0443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2129   -0.0826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9274    0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418   -0.0826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418   -0.9076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9274   -1.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2129   -0.9076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 27  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+M  CHG  1   1   1
+M  END
+> <DATABASE_ID>
+DB07944
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(OCCNC2=CC=[NH+]C=C2)=CC(NS(=O)(=O)C2=CC=CC=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H21N3O3S/c1-16-13-18(23-27(24,25)20-5-3-2-4-6-20)15-19(14-16)26-12-11-22-17-7-9-21-10-8-17/h2-10,13-15,23H,11-12H2,1H3,(H,21,22)/p+1
+
+> <INCHI_KEY>
+MPTWCWHNLVMCRW-UHFFFAOYSA-O
+
+> <FORMULA>
+C20H22N3O3S
+
+> <MOLECULAR_WEIGHT>
+384.472
+
+> <EXACT_MASS>
+384.138187275
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8130737352887487
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.99322782159604
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[2-(3-benzenesulfonamido-5-methylphenoxy)ethyl]amino}pyridin-1-ium
+
+> <ALOGPS_LOGP>
+1.09
+
+> <JCHEM_LOGP>
+1.8395278751061945
+
+> <ALOGPS_LOGS>
+-5.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.679665194595079
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.84793618666339
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.57
+
+> <JCHEM_REFRACTIVITY>
+107.77919999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.72e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07944
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-{3-METHYL-5-[2-(PYRIDIN-4-YLAMINO)-ETHOXY]-PHENYL}-BENZENESULFONAMIDE
+
+$$$$

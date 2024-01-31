@@ -1,0 +1,173 @@
+NS6
+  Mrv0541 02241214002D          
+
+ 28 31  0  0  0  0            999 V2000
+   -3.6440   -0.8256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1960   -1.4387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7835   -2.1532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9765   -1.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8903   -1.1612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1758   -0.7487    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4614   -1.1612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1758    0.0763    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4614    0.4888    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0740    1.2173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8487    1.2173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7469    0.0763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0324    0.4888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7469   -0.7487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0324   -1.1612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6821   -0.7487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6821    0.0763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3965    0.4888    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8090   -0.2256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9840    1.2033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1110    0.9013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1110    1.7263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8255    2.1388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5399    1.7263    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2544    2.1388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5399    0.9013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8255    0.4888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1758   -1.3326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6 28  1  1  0  0  0
+  7 14  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10  9  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 12  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 26 24  1  0  0  0  0
+ 27 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08304
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CC2=C(C=C(C=C2)S(=O)(=O)N2CCN(C)CC2)S(=O)(=O)N1)C1CCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H27N3O4S2/c1-20-8-10-21(11-9-20)27(24,25)16-7-6-15-12-17(14-4-2-3-5-14)19-26(22,23)18(15)13-16/h6-7,13-14,17,19H,2-5,8-12H2,1H3/t17-/m1/s1
+
+> <INCHI_KEY>
+QZBQVXXESPXFPZ-QGZVFWFLSA-N
+
+> <FORMULA>
+C18H27N3O4S2
+
+> <MOLECULAR_WEIGHT>
+413.555
+
+> <EXACT_MASS>
+413.144297747
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.07201736067058781
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.02678297664251
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-cyclopentyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1lambda6,2-benzothiazine-1,1-dione
+
+> <ALOGPS_LOGP>
+0.77
+
+> <JCHEM_LOGP>
+1.4728253110000014
+
+> <ALOGPS_LOGS>
+-3.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.566160124250523
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.907201617687718
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.78999999999999
+
+> <JCHEM_REFRACTIVITY>
+105.23779999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08304
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R)-3-cyclopentyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide
+
+$$$$

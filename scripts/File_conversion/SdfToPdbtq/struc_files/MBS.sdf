@@ -1,0 +1,179 @@
+MBS
+  Mrv0541 02231217402D          
+
+ 29 30  0  0  0  0            999 V2000
+   -5.0141   -2.2305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2997   -1.8180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5852   -2.2305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8707   -1.8180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1563   -1.4055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4418   -0.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7273   -1.4055    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7273   -2.2305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0128   -2.6430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4418   -2.6430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0128   -0.9930    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7016   -1.4055    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4161   -1.8180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2891   -2.1200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1141   -0.6911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7016    0.0234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1141    0.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9391    0.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3516    0.0234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9391   -0.6911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3516    1.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9391    2.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3516    2.8813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1766    2.8813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5891    2.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1766    1.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5891    3.5958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1766    4.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2330   -1.6975    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  3  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  6  0  0  0
+  7 29  1  6  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04416
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CC#CCOC)(NS(=O)(=O)C1=CC=C(C=C1)C1=CC=C(OC)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H21NO6S/c1-26-14-4-3-5-19(20(22)23)21-28(24,25)18-12-8-16(9-13-18)15-6-10-17(27-2)11-7-15/h6-13,19,21H,5,14H2,1-2H3,(H,22,23)/t19-/m1/s1
+
+> <INCHI_KEY>
+QJKGJGURDPRKGW-LJQANCHMSA-N
+
+> <FORMULA>
+C20H21NO6S
+
+> <MOLECULAR_WEIGHT>
+403.449
+
+> <EXACT_MASS>
+403.108958099
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0004833284950023
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.38526605901703
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-6-methoxy-2-{4'-methoxy-[1,1'-biphenyl]-4-sulfonamido}hex-4-ynoic acid
+
+> <ALOGPS_LOGP>
+2.42
+
+> <JCHEM_LOGP>
+2.697976035
+
+> <ALOGPS_LOGS>
+-4.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.19824735273586
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.175516732635901
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.096637904049776
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.92999999999999
+
+> <JCHEM_REFRACTIVITY>
+104.90380000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.30e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04416
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02128
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+R-2-{[4'-Methoxy-(1,1'-Biphenyl)-4-Yl]-Sulfonyl}-Amino-6-Methoxy-Hex-4-Ynoic Acid
+
+$$$$

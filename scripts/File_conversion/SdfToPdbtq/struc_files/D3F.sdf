@@ -1,0 +1,166 @@
+D3F
+  Mrv0541 02241213322D          
+
+ 28 29  0  0  0  0            999 V2000
+   -0.0728    2.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6417    2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6417    1.3789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728    0.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7872    1.3789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7872    2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5017    2.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728    0.1414    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7522    0.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8978    0.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728   -0.6836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6417   -1.0961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6417   -1.9211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728   -2.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7872   -1.9211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7872   -1.0961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5017   -0.6836    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.2162   -1.0961    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.5017    0.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728   -3.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728   -3.9836    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7522   -3.1586    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8978   -3.1586    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3562   -0.6836    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0706   -1.0961    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.3562    0.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3562    0.9664    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0728    3.4414    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 28  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 27  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+M  CHG  4  17   1  18  -1  24   1  25  -1
+M  END
+> <DATABASE_ID>
+DB07620
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(=C(Cl)C=C1Cl)S(=O)(=O)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H7Cl2F3N2O6S/c1-6-2-12(9(16)5-8(6)15)28(26,27)13-10(20(22)23)3-7(14(17,18)19)4-11(13)21(24)25/h2-5H,1H3
+
+> <INCHI_KEY>
+INAZPZCJNPPHGV-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H7Cl2F3N2O6S
+
+> <MOLECULAR_WEIGHT>
+459.181
+
+> <EXACT_MASS>
+457.935396685
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.2463565965046
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,5-dichloro-2-[2,6-dinitro-4-(trifluoromethyl)benzenesulfonyl]-4-methylbenzene
+
+> <ALOGPS_LOGP>
+3.43
+
+> <JCHEM_LOGP>
+5.407408062333333
+
+> <ALOGPS_LOGS>
+-6.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+120.42000000000002
+
+> <JCHEM_REFRACTIVITY>
+92.8557
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.66e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07620
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[(2,4-DICHLORO-5-METHYLPHENYL)SULFONYL]-1,3-DINITRO-5-(TRIFLUOROMETHYL)BENZENE
+
+$$$$

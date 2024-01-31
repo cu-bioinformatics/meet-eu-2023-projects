@@ -1,0 +1,149 @@
+THZ
+  Mrv1909 10301918542D          
+
+ 20 21  0  0  0  0            999 V2000
+   -0.6753   -0.7264    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6753    0.0985    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3898    0.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1043    0.0985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8187    0.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5332    0.0985    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2477    0.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9622    0.0985    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2477    1.3360    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0390    0.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0390    1.3360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7535    0.0985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5072    0.4340    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0592   -0.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8842   -0.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2967   -0.8934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8842   -1.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0592   -1.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6467   -0.8934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8398   -0.7219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 12 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08624
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](CCCNC(N)=N)C(=O)C1=NC2=CC=CC=C2S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17N5OS/c14-8(4-3-7-17-13(15)16)11(19)12-18-9-5-1-2-6-10(9)20-12/h1-2,5-6,8H,3-4,7,14H2,(H4,15,16,17)/t8-/m0/s1
+
+> <INCHI_KEY>
+MAJHCCQPIDXPAN-QMMMGPOBSA-N
+
+> <FORMULA>
+C13H17N5OS
+
+> <MOLECULAR_WEIGHT>
+291.372
+
+> <EXACT_MASS>
+291.115380881
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.443783472071107
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(4S)-4-amino-5-(1,3-benzothiazol-2-yl)-5-oxopentyl]guanidine
+
+> <ALOGPS_LOGP>
+0.59
+
+> <JCHEM_LOGP>
+0.783058467
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.789109845009197
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.999309347415041
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.88000000000001
+
+> <JCHEM_REFRACTIVITY>
+88.28810000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.30e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tigecycline
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08624
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[(4S)-4-amino-5-(1,3-benzothiazol-2-yl)-5-oxopentyl]guanidine
+
+$$$$

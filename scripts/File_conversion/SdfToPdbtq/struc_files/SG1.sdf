@@ -1,0 +1,157 @@
+SG1
+  Mrv0541 02231217392D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.6203    0.7315    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8357    0.4766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6642   -0.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8796   -0.5854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2665   -0.0333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5182   -0.2883    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7731   -1.0729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2882   -1.7403    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5981   -1.0729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8530   -0.2883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1856    0.1967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4380    0.7736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1751    1.3257    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.0036    2.1326    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9597    1.0707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2226    1.0286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4049    0.9864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8753   -0.0531    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3654    1.5161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  1 18  2  0  0  0  0
+  1 19  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  CHG  2  13   1  14  -1
+M  END
+> <DATABASE_ID>
+DB04394
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(N2CCCC2=O)C(=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N3O5S/c11-19(17,18)7-3-4-8(9(6-7)13(15)16)12-5-1-2-10(12)14/h3-4,6H,1-2,5H2,(H2,11,17,18)
+
+> <INCHI_KEY>
+FPCPYSKJIRSWIG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11N3O5S
+
+> <MOLECULAR_WEIGHT>
+285.276
+
+> <EXACT_MASS>
+285.041941167
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.002506329377655133
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.961045800232938
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-nitro-4-(2-oxopyrrolidin-1-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.32
+
+> <JCHEM_LOGP>
+-0.15195982499999983
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.59987200203101
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.950726551747759
+
+> <JCHEM_POLAR_SURFACE_AREA>
+123.60999999999999
+
+> <JCHEM_REFRACTIVITY>
+65.41060000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.34e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04394
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02892
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Nitro-4-(2-Oxo-Pyrrolidin-1-Yl)-Benzenesulfonamide
+
+$$$$

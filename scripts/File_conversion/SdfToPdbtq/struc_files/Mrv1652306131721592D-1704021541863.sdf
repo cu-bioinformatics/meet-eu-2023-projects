@@ -1,0 +1,180 @@
+
+  Mrv1652306131721592D          
+
+ 31 35  0  0  1  0            999 V2000
+   -3.8974    1.8646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6425    1.0799    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6425   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1274    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5350    1.3237    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0164    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 23 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+ 21 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 29 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06160
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H]1NCC2=CC(=CC=C12)C1=CC=C2C(=O)C(=CN(C3CC3)C2=C1OC(F)F)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H20F2N2O4/c1-11-15-5-2-12(8-13(15)9-26-11)16-6-7-17-19(21(16)31-23(24)25)27(14-3-4-14)10-18(20(17)28)22(29)30/h2,5-8,10-11,14,23,26H,3-4,9H2,1H3,(H,29,30)/t11-/m1/s1
+
+> <INCHI_KEY>
+NJDRXTDGYFKORP-LLVKDONJSA-N
+
+> <FORMULA>
+C23H20F2N2O4
+
+> <MOLECULAR_WEIGHT>
+426.42
+
+> <EXACT_MASS>
+426.139113458
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.389143292884185
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-cyclopropyl-8-(difluoromethoxy)-7-[(1R)-1-methyl-2,3-dihydro-1H-isoindol-5-yl]-4-oxo-1,4-dihydroquinoline-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.71
+
+> <JCHEM_LOGP>
+1.6222796387144944
+
+> <ALOGPS_LOGS>
+-4.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.0503735569164645
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.879737479108723
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+110.36869999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.32e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-cyclopropyl-8-(difluoromethoxy)-7-[(1R)-1-methyl-2,3-dihydro-1H-isoindol-5-yl]-4-oxoquinoline-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06160
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Garenoxacin
+
+> <SYNONYMS>
+Garenoxacin; Garénoxacine; Garenoxacino; Garenoxacinum
+
+> <SALTS>
+Garenoxacin mesylate
+
+$$$$

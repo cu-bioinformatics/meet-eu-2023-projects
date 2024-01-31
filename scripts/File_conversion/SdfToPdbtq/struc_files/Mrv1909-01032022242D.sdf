@@ -1,0 +1,148 @@
+
+  Mrv1909 01032022242D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.4566   -1.3796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8856   -0.5546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4146   -1.4081    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0277   -0.5546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0277    1.0953    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4242    1.1239    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1717   -0.1593    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8846    1.1152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7422   -0.1421    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4566   -0.5546    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7422    0.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1711   -0.1421    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6867   -0.1421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6867    0.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1711    0.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4242   -0.5832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1717    0.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0277    0.2703    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 10  1  1  6  0  0  0
+ 12  2  1  6  0  0  0
+  3 16  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+  9 18  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03918
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CNC2=C(N1)C(=O)N=C(N)N2)[C@H](O)[C@@H](C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3-4,6,12,15-16H,2H2,1H3,(H4,10,11,13,14,17)/t3-,4-,6-/m1/s1
+
+> <INCHI_KEY>
+FNKQXYHWGSIFBK-ZMIZWQJLSA-N
+
+> <FORMULA>
+C9H15N5O3
+
+> <MOLECULAR_WEIGHT>
+241.2471
+
+> <EXACT_MASS>
+241.117489371
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0248067313851491
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.52083309191429
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6R)-2-amino-6-[(1S,2R)-1,2-dihydroxypropyl]-1,4,5,6,7,8-hexahydropteridin-4-one
+
+> <JCHEM_LOGP>
+-2.6621297606666667
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.010511203269347
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.51676238081279
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.405484488413579
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.0
+
+> <JCHEM_REFRACTIVITY>
+68.4334
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-({4-[(2E)-N-({2-amino-4-oxo-1H-pyrido[3,2-d]pyrimidin-6-yl}methyl)-3-{5-carbamoyl-3-[(2R,3R,4S,5R)-3,4-dihydroxy-5-[(phosphonooxy)methyl]oxolan-2-yl]imidazol-4-yl}prop-2-enamido]phenyl}formamido)pentanedioic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03918
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00702
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6S-5,6,7,8-Tetrahydrobiopterin
+
+$$$$

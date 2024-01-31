@@ -1,0 +1,148 @@
+
+  Mrv1533005111518282D          
+
+ 18 19  0  0  0  0            999 V2000
+   -4.3973   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5722   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9848   -1.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3973   -2.6664    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5722   -2.6664    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  7  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  8  5  1  0  0  0  0
+ 12  5  2  0  0  0  0
+  9  6  2  0  0  0  0
+ 10  6  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 13 10  2  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14 11  2  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 17  1  0  0  0  0
+  4 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09064
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(OC1=CC=C(C=C1)C1CC1(Cl)Cl)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14Cl2O3/c1-12(2,11(16)17)18-9-5-3-8(4-6-9)10-7-13(10,14)15/h3-6,10H,7H2,1-2H3,(H,16,17)
+
+> <INCHI_KEY>
+KPSRODZRAIWAKH-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H14Cl2O3
+
+> <MOLECULAR_WEIGHT>
+289.15
+
+> <EXACT_MASS>
+288.0319997
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.079393356983008
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[4-(2,2-dichlorocyclopropyl)phenoxy]-2-methylpropanoic acid
+
+> <ALOGPS_LOGP>
+3.97
+
+> <JCHEM_LOGP>
+3.6223862579999997
+
+> <ALOGPS_LOGS>
+-4.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.687365803229848
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.914740447164342
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+70.50220000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.79e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ciprofibrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09064
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Ciprofibrate
+
+> <SYNONYMS>
+Ciprofibrate; ciprofibrato
+
+$$$$

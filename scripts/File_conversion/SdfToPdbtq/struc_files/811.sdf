@@ -1,0 +1,164 @@
+811
+  Mrv0541 02231215012D          
+
+ 17 18  0  0  1  0            999 V2000
+    4.1496   -1.2476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0301   -0.9926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5847   -2.6996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2001   -2.6134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2001    1.9132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4822    0.0624    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1496    0.5473    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0697    1.3320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0441    2.7530    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0697   -2.0322    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8147   -1.2476    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8947   -2.0322    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4822   -0.7626    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3796   -2.6996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8147    0.5473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8947    1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3796    1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+ 11  2  1  1  0  0  0
+ 10  3  1  1  0  0  0
+  4 14  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6  7  1  0  0  0  0
+ 13  6  1  6  0  0  0
+  6 15  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 15  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  6  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00811
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N4O5/c9-6(16)7-10-2-12(11-7)8-5(15)4(14)3(1-13)17-8/h2-5,8,13-15H,1H2,(H2,9,16)/t3-,4-,5-,8-/m1/s1
+
+> <INCHI_KEY>
+IWUCXVSUMQZMFG-AFCXAGJDSA-N
+
+> <FORMULA>
+C8H12N4O5
+
+> <MOLECULAR_WEIGHT>
+244.2047
+
+> <EXACT_MASS>
+244.080769514
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.719907730333767e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.183386850843227
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-1,2,4-triazole-3-carboxamide
+
+> <ALOGPS_LOGP>
+-1.92
+
+> <JCHEM_LOGP>
+-2.7682973950000003
+
+> <ALOGPS_LOGS>
+-0.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.561724634545378
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.878700833908924
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.1589688807359824
+
+> <JCHEM_POLAR_SURFACE_AREA>
+143.72000000000003
+
+> <JCHEM_REFRACTIVITY>
+64.5744
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.32e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00811
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00081; EXPT02825; DB01693
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ribavirin
+
+> <SYNONYMS>
+1-beta-D-Ribofuranosyl-1,2,4-triazole-3-carboxamide; 1-beta-D-Ribofuranosyl-1H-1,2,4-triazole-3-carboxamide; RBV; Ribavirin; Ribavirina; Ribavirine; Ribavirinum; Tribavirin
+
+> <PRODUCTS>
+Copegus; Ibavyr; Moderiba; Pegasys Rbv; Pegetron; RIBASPHERE RibaPak; Rebetol; Rebetron Ready To Use Solution (albumin(human)free) (6000000 Iu/ml and 200mg Capsules); Rebetron Solution (albumin (human) Free) (18 Miu Multi-dose Pen / 200mg Capsules); Ribasphere; Ribavirin; Ribavirin Biopartners; Ribavirin Mylan; Ribavirin Teva; Ribavirin Teva Pharma B.V.; Victrelis Triple; Virazole; Virazole Pws 6gm/vial
+
+> <INTERNATIONAL_BRANDS>
+Rebretron; Ribamide; Vilona; Viramid; Virazide
+
+$$$$

@@ -1,0 +1,150 @@
+
+  Mrv0541 05041400162D          
+
+ 15 14  0  0  1  0            999 V2000
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.6500   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  3  2  0  0  0  0
+  8  3  1  0  0  0  0
+  4  9  1  6  0  0  0
+ 10  5  2  0  0  0  0
+ 11  5  1  0  0  0  0
+ 12  6  2  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14  1  1  0  0  0  0
+  4 15  1  6  0  0  0
+M  CHG  3   8  -1  11  -1  13  -1
+M  END
+> <DATABASE_ID>
+DB03964
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]\C(C([O-])=O)=C(/C([O-])=O)[C@@]([H])(O)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h1,4,9H,(H,7,8)(H,10,11)(H,12,13)/p-3/b2-1+/t4-/m1/s1
+
+> <INCHI_KEY>
+WUUVSJBKHXDKBS-ROFOPDMZSA-K
+
+> <FORMULA>
+C6H3O7
+
+> <MOLECULAR_WEIGHT>
+187.0838
+
+> <EXACT_MASS>
+186.98787745
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.998968159965767
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.726353792159632
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+-3
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1E,3R)-3-hydroxyprop-1-ene-1,2,3-tricarboxylate
+
+> <ALOGPS_LOGP>
+-0.54
+
+> <JCHEM_LOGP>
+-1.2361954026666666
+
+> <ALOGPS_LOGS>
+-0.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.3516496119281824
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.694183041147892
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.197592325078934
+
+> <JCHEM_POLAR_SURFACE_AREA>
+140.62
+
+> <JCHEM_REFRACTIVITY>
+69.08
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.95e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03964
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00582
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroxy-Aconitate Ion
+
+$$$$

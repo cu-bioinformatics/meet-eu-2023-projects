@@ -1,0 +1,165 @@
+HNA
+  Mrv0541 02231216382D          
+
+ 21 23  0  0  0  0            999 V2000
+    1.5106   -0.8017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7961   -0.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7961    0.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5106    0.8483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2250    0.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2250   -0.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0816    0.8483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6329    0.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6329   -0.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0816   -0.8017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3473   -0.8017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0618   -0.3892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0618    0.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3473    0.8483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0816   -1.6267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0816    1.6733    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5106   -1.6267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3473   -1.6267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5106    1.6733    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.7961    2.0858    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.2250    2.0858    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  CHG  2  19   1  20  -1
+M  END
+> <DATABASE_ID>
+DB03035
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=CC2=C1C(=O)C1=C(O)C=CC(=C1C2=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H7NO6/c16-8-3-1-2-6-10(8)14(19)12-9(17)5-4-7(15(20)21)11(12)13(6)18/h1-5,16-17H
+
+> <INCHI_KEY>
+RIYCICFDXLNQPV-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H7NO6
+
+> <MOLECULAR_WEIGHT>
+285.2085
+
+> <EXACT_MASS>
+285.027336961
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.1675567953733959
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.660820025952802
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4,5-dihydroxy-1-nitro-9,10-dihydroanthracene-9,10-dione
+
+> <ALOGPS_LOGP>
+2.02
+
+> <JCHEM_LOGP>
+3.5515596206666666
+
+> <ALOGPS_LOGS>
+-3.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.477861248713341
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.991997934519236
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.397540221717922
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.4333
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03035
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01762
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,8-Di-Hydroxy-4-Nitro-Anthraquinone
+
+$$$$

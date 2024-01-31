@@ -1,0 +1,155 @@
+TC8
+  Mrv0541 02241214122D          
+
+ 21 23  0  0  0  0            999 V2000
+   -1.0434    1.9473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0434    1.1223    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3289    0.7098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3856    1.1223    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1000    0.7098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8145    1.1223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5290    0.7098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5290   -0.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8145   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1000   -0.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3856   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3856   -1.3527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3289   -0.1152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0434   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0434   -1.3527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3289   -1.7652    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7579   -1.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4723   -1.3527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4723   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7579   -0.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7579    0.7098    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08602
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CSC1=NC2=CC=CC=C2C(=O)N1C1=C(F)C=CC=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10F2N2OS/c1-21-15-18-12-8-3-2-5-9(12)14(20)19(15)13-10(16)6-4-7-11(13)17/h2-8H,1H3
+
+> <INCHI_KEY>
+BFNBJSXMXXQLAW-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10F2N2OS
+
+> <MOLECULAR_WEIGHT>
+304.315
+
+> <EXACT_MASS>
+304.048190052
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+4.794900401442921e-10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.43040664415337
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(2,6-difluorophenyl)-2-(methylsulfanyl)-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+3.14
+
+> <JCHEM_LOGP>
+4.314399531333334
+
+> <ALOGPS_LOGS>
+-4.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.3186547008987146
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.67
+
+> <JCHEM_REFRACTIVITY>
+80.41630000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.90e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08602
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(2,6-difluorophenyl)-2-(methylthio)quinazolin-4(3H)-one
+
+$$$$

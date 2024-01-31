@@ -1,0 +1,150 @@
+
+  Mrv1909 10141921352D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.9165   -1.8043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5040   -1.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9165   -0.3753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6790   -1.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2665   -0.3753    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6790    0.3390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4415   -0.3753    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0433   -1.0428    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2115   -1.8274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8279   -0.7878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8279    0.0371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0433    0.2920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4954    0.5220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2491    0.1864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9165    0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8303    1.4918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0766    1.8274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4091    1.3425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6555    1.6780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  6  1  6  0  0  0
+  7  5  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15553
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H]1OC(=N[C@H]1[C@H](O)CC(O)=O)C1=CC=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15NO5/c1-7-12(10(16)6-11(17)18)14-13(19-7)8-4-2-3-5-9(8)15/h2-5,7,10,12,15-16H,6H2,1H3,(H,17,18)/t7-,10+,12+/m0/s1
+
+> <INCHI_KEY>
+HYNVCGWXNJDHLB-HNBZJPLGSA-N
+
+> <FORMULA>
+C13H15NO5
+
+> <MOLECULAR_WEIGHT>
+265.265
+
+> <EXACT_MASS>
+265.095022587
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.319957447704603
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-hydroxy-3-[(4S,5S)-2-(2-hydroxyphenyl)-5-methyl-4,5-dihydro-1,3-oxazol-4-yl]propanoic acid
+
+> <ALOGPS_LOGP>
+0.67
+
+> <JCHEM_LOGP>
+1.6236564529485151
+
+> <ALOGPS_LOGS>
+-2.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.371213981112225
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8003242915634368
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8218542182282624
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.35000000000001
+
+> <JCHEM_REFRACTIVITY>
+66.15340000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.75e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R)-3-[(4S,5S)-2-(5-chloro-2-hydroxyphenyl)-5-methyl-4,5-dihydro-1,3-oxazol-4-yl]-3-hydroxypropanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15553
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Leptazoline C
+
+$$$$

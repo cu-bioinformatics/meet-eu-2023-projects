@@ -1,0 +1,156 @@
+
+  Mrv1652310211600312D          
+
+ 21 24  0  0  1  0            999 V2000
+    4.3228    1.7357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9629    0.9934    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4311    1.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6190    1.4789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3387    0.7029    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8705    0.0722    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.6826    0.2174    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3340   -0.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0168    0.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7875    0.9666    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5484    1.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3093    1.6043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9089    1.7826    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5902   -0.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7781   -0.8489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2463   -0.2182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4342   -0.3634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0976    0.2673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1827    1.0432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9948    1.1884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5266    0.5577    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 11 12  3  0  0  0  0
+ 10 13  1  1  0  0  0
+  6 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 20  1  6  0  0  0
+  5 21  1  0  0  0  0
+ 16 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12474
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@]12CC[C@H]3[C@@H](CCC4=CCCC[C@H]34)[C@@H]1CC[C@@]2(O)C#C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H28O/c1-3-20(21)13-11-18-17-9-8-14-6-4-5-7-15(14)16(17)10-12-19(18,20)2/h1,6,15-18,21H,4-5,7-13H2,2H3/t15-,16+,17+,18-,19-,20-/m0/s1
+
+> <INCHI_KEY>
+YNVGQYHLRCDXFQ-XGXHKTLJSA-N
+
+> <FORMULA>
+C20H28O
+
+> <MOLECULAR_WEIGHT>
+284.443
+
+> <EXACT_MASS>
+284.214015522
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.686786944996015
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,10R,11S,14R,15S)-14-ethynyl-15-methyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-14-ol
+
+> <ALOGPS_LOGP>
+4.00
+
+> <JCHEM_LOGP>
+4.036700516333333
+
+> <ALOGPS_LOGS>
+-4.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.594932036944744
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.6637767270403687
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+86.8064
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.66e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2R,10R,11S,14R,15S)-14-ethynyl-15-methyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-14-ol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12474
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Lynestrenol
+
+> <SYNONYMS>
+Lynestrenol
+
+$$$$

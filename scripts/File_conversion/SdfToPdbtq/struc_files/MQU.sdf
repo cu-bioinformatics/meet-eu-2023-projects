@@ -1,0 +1,160 @@
+MQU
+  Mrv0541 02241213562D          
+
+ 22 24  0  0  0  0            999 V2000
+   -0.5171    1.0474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2315    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2315    2.2849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9460    2.6974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1974    1.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1974    2.2849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9119    2.6974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8065   -2.1018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7446   -3.0580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5171    0.2224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1036   -3.4995    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6144   -2.6164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2544   -1.4887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5515   -2.8864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1925   -2.4449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4475   -1.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1046   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9296   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1845   -0.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1504   -0.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9574   -0.0910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5094   -0.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08203
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COCC(COC)N1C=CC2=C1C=CC1=NC(N)=NC(N)=C21
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H19N5O2/c1-21-7-9(8-22-2)20-6-5-10-12(20)4-3-11-13(10)14(16)19-15(17)18-11/h3-6,9H,7-8H2,1-2H3,(H4,16,17,18,19)
+
+> <INCHI_KEY>
+MQTGHZCEDQNMOZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H19N5O2
+
+> <MOLECULAR_WEIGHT>
+301.3437
+
+> <EXACT_MASS>
+301.153874877
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.39465396501182326
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.47671931534825
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-(1,3-dimethoxypropan-2-yl)-7H-pyrrolo[3,2-f]quinazoline-1,3-diamine
+
+> <ALOGPS_LOGP>
+1.25
+
+> <JCHEM_LOGP>
+1.3287082943333337
+
+> <ALOGPS_LOGS>
+-2.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.77345004035409
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.981319742020313
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.21
+
+> <JCHEM_REFRACTIVITY>
+86.20120000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08203
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-[2-METHOXY-1-(METHOXYMETHYL)ETHYL]-7H-PYRROLO[3,2-F] QUINAZOLINE-1,3-DIAMINE
+
+$$$$

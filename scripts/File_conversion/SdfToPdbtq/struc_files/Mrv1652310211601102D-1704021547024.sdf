@@ -1,0 +1,155 @@
+
+  Mrv1652310211601102D          
+
+ 20 21  0  0  1  0            999 V2000
+    1.5356    5.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8212    5.1777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1067    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    4.3527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6078    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    3.1152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7512    3.1152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0367    4.3527    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    5.5902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    2.2902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6548    1.8053    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9097    1.0206    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7347    1.0206    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9897    1.8053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2197    0.3532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8841   -0.4005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4248    0.3532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1298    2.0602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  3  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12  6  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 15 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 14 19  1  6  0  0  0
+ 13 20  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB12606
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC#CC1=CN([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N2O6/c1-2-3-6-4-14(12(19)13-10(6)18)11-9(17)8(16)7(5-15)20-11/h4,7-9,11,15-17H,5H2,1H3,(H,13,18,19)/t7-,8-,9+,11-/m1/s1
+
+> <INCHI_KEY>
+QLOCVMVCRJOTTM-SDNRWEOFSA-N
+
+> <FORMULA>
+C12H14N2O6
+
+> <MOLECULAR_WEIGHT>
+282.252
+
+> <EXACT_MASS>
+282.085186179
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.793234762199667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-(prop-1-yn-1-yl)-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.67
+
+> <JCHEM_LOGP>
+-1.5458476576666662
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.619815547967931
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.436130595136284
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9802996430844013
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.33000000000001
+
+> <JCHEM_REFRACTIVITY>
+65.48610000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.00e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-(prop-1-yn-1-yl)-3H-pyrimidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12606
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Netivudine
+
+> <SYNONYMS>
+Netivudine
+
+$$$$

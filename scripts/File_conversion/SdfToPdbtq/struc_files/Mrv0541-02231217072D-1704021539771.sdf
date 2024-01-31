@@ -1,0 +1,147 @@
+
+  Mrv0541 02231217072D          
+
+ 13 13  0  0  0  0            999 V2000
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  CHG  2  11   1  12  -1
+M  END
+> <DATABASE_ID>
+DB03705
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNC1=C(C(=O)NC(N)=N1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7N5O3/c1-7-3-2(10(12)13)4(11)9-5(6)8-3/h1H3,(H4,6,7,8,9,11)
+
+> <INCHI_KEY>
+NMCMUSAXKISTKW-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H7N5O3
+
+> <MOLECULAR_WEIGHT>
+185.1408
+
+> <EXACT_MASS>
+185.054889115
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.3569397717626939
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.780620137786013
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-(methylamino)-5-nitro-3,4-dihydropyrimidin-4-one
+
+> <ALOGPS_LOGP>
+-0.77
+
+> <JCHEM_LOGP>
+-1.0837935206666665
+
+> <ALOGPS_LOGS>
+-1.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.775673547129468
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.255656705379881
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8464270630184254
+
+> <JCHEM_POLAR_SURFACE_AREA>
+122.65
+
+> <JCHEM_REFRACTIVITY>
+51.14860000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.27e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03705
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00278
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Methylamino-5-Nitroisocytosine
+
+$$$$

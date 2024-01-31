@@ -1,0 +1,178 @@
+
+  Mrv1909 12152020022D          
+
+ 28 30  0  0  1  0            999 V2000
+   -0.7145    6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.5375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 12  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 19 23  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+  8 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+  5 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16338
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NCCN[C@H]1CC[C@H](CC(=O)N[C@H]2CC3=CC=CC(C(O)=O)=C3OB2O)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28BN3O5/c21-8-9-22-14-6-4-12(5-7-14)10-17(24)23-16-11-13-2-1-3-15(19(25)26)18(13)28-20(16)27/h1-3,12,14,16,22,27H,4-11,21H2,(H,23,24)(H,25,26)/t12-,14-,16-/m0/s1
+
+> <INCHI_KEY>
+PFZUWUXKQPRWAL-NOLJZWGESA-N
+
+> <FORMULA>
+C19H28BN3O5
+
+> <MOLECULAR_WEIGHT>
+389.26
+
+> <EXACT_MASS>
+389.212201
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.5815161504926397
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.74531857159515
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R)-2-hydroxy-3-{2-[(1r,4r)-4-[(2-aminoethyl)amino]cyclohexyl]acetamido}-3,4-dihydro-2H-1,2-benzoxaborinine-8-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.95
+
+> <JCHEM_LOGP>
+-1.6592408013046749
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+8.502872554798088
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7826231291629147
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.380337086591481
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.91
+
+> <JCHEM_REFRACTIVITY>
+99.70489999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.11e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+revaprazan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16338
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Taniborbactam
+
+> <SYNONYMS>
+Taniborbactam
+
+$$$$

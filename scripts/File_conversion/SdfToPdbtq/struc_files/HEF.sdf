@@ -1,0 +1,160 @@
+HEF
+  Mrv0541 02241213432D          
+
+ 21 22  0  0  0  0            999 V2000
+    0.2806   -0.6902    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2806   -1.5152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9951   -1.9277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4339   -1.9277    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1483   -1.5152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8628   -1.9277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1483   -0.6902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4339   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8628   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9951   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7095   -0.6902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4240   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1385   -0.6902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8530   -0.2777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4339    0.5473    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1483    0.9598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8628    0.5473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5773    0.9598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5773    1.7848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8628    2.1973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1483    1.7848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07892
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(SC2=CC=CC=C2)N(COCCO)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N2O4S/c1-10-12(18)15-14(19)16(9-20-8-7-17)13(10)21-11-5-3-2-4-6-11/h2-6,17H,7-9H2,1H3,(H,15,18,19)
+
+> <INCHI_KEY>
+HDMHBHNRWDNNCD-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H16N2O4S
+
+> <MOLECULAR_WEIGHT>
+308.353
+
+> <EXACT_MASS>
+308.0830777
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0012964896890949194
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.585175703311855
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(2-hydroxyethoxy)methyl]-5-methyl-6-(phenylsulfanyl)-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+1.09
+
+> <JCHEM_LOGP>
+1.5513475600000004
+
+> <ALOGPS_LOGS>
+-2.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.119127241708412
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.886669998156094
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.747247021949682
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+89.35010000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.87e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07892
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(2-HYDROXYETHYLOXYMETHYL)-6-PHENYL THIOTHYMINE
+
+$$$$

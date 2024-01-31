@@ -1,0 +1,183 @@
+
+  Mrv1909 12152018162D          
+
+ 30 33  0  0  1  0            999 V2000
+   -1.0530    2.0928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3884    1.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3672    1.9351    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0318    1.4463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9408    0.6263    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7874    1.7775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4520    1.2886    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1808    1.6753    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9375    1.3467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5619    1.8858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4072    2.6962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0317    3.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8108    2.9642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4353    3.5033    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.9655    2.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3411    1.6146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1523    0.5501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9723    0.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3034   -0.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1234   -0.3875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4546   -1.1432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8146   -0.9611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9947   -0.8701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6635   -0.1145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8392   -0.1467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4119   -0.8524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7317   -1.6129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6087   -0.6641    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    0.1580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3000    0.4778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 10 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 17 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+  7 30  1  0  0  0  0
+ 25 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16239
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCNC(=O)C[C@@H]1N=C(C2=CC=C(Cl)C=C2)C2=CC(OC)=CC=C2N2C(C)=NN=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H22ClN5O2/c1-4-24-20(29)12-18-22-27-26-13(2)28(22)19-10-9-16(30-3)11-17(19)21(25-18)14-5-7-15(23)8-6-14/h5-11,18H,4,12H2,1-3H3,(H,24,29)/t18-/m0/s1
+
+> <INCHI_KEY>
+AAAQFGUYHFJNHI-SFHVURJKSA-N
+
+> <FORMULA>
+C22H22ClN5O2
+
+> <MOLECULAR_WEIGHT>
+423.9
+
+> <EXACT_MASS>
+423.1462027
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0022673912136302937
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.82688731151809
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(7S)-9-(4-chlorophenyl)-12-methoxy-3-methyl-2,4,5,8-tetraazatricyclo[8.4.0.0^{2,6}]tetradeca-1(14),3,5,8,10,12-hexaen-7-yl]-N-ethylacetamide
+
+> <ALOGPS_LOGP>
+2.53
+
+> <JCHEM_LOGP>
+2.5659748969999994
+
+> <ALOGPS_LOGS>
+-4.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.311353539735432
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.933685470062636
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.357229514686613
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.39999999999999
+
+> <JCHEM_REFRACTIVITY>
+127.33900000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.70e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-({4-[2-(3-methoxyphenyl)-2-oxoethoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16239
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Molibresib
+
+> <SYNONYMS>
+Bet inhibitor gsk525762; Molibresib
+
+$$$$

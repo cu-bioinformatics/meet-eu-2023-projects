@@ -1,0 +1,56 @@
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_3
+REMARK    2  A    between atoms: CA_3  and  CB_6
+REMARK    3  A    between atoms: N_4  and  CA_18
+REMARK    4  A    between atoms: CB_6  and  CG_7
+REMARK    5  A    between atoms: CG_7  and  CD_8
+REMARK    6  A    between atoms: CG_11  and  CB_16
+REMARK    7  A    between atoms: C_15  and  CA_18
+REMARK    8  A    between atoms: CB_16  and  CA_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  TRP A   2       0.523  -0.682   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  C   GLU A   1       0.226   0.715   0.000  0.00  0.00    +0.000 C 
+ATOM      3  O   GLU A   1      -0.581   0.544   0.000  0.00  0.00    +0.000 OA
+ATOM      4  N   TRP A   2       0.778   0.102   0.000  0.00  0.00    +0.000 NA
+BRANCH   2   5
+ATOM      5  CA  GLU A   1       0.481   1.500   0.000  0.00  0.00    +0.000 C 
+ATOM      6  N   GLU A   1      -0.071   2.113   0.000  0.00  0.00    +0.000 NA
+BRANCH   5   7
+ATOM      7  CB  GLU A   1       1.288   1.671   0.000  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  CG  GLU A   1       1.543   2.456   0.000  0.00  0.00    +0.000 C 
+BRANCH   8   9
+ATOM      9  CD  GLU A   1       2.350   2.628   0.000  0.00  0.00    +0.000 C 
+ATOM     10  OE1 GLU A   1       2.605   3.412   0.000  0.00  0.00    +0.000 OA
+ATOM     11  OE2 GLU A   1       2.902   2.014   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+ENDBRANCH   2   5
+ENDBRANCH   1   4
+BRANCH   1  12
+ATOM     12  C   TRP A   2       1.075  -1.296   0.000  0.00  0.00    +0.000 C 
+ATOM     13  O   TRP A   2       1.882  -1.124   0.000  0.00  0.00    +0.000 OA
+ATOM     14  OXT TRP A   2       0.820  -2.080   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1  12
+BRANCH   1  15
+ATOM     15  CB  TRP A   2      -0.284  -0.854   0.000  0.00  0.00    +0.000 C 
+BRANCH  15  16
+ATOM     16  CG  TRP A   2      -0.539  -1.638   0.000  0.00  0.00    +0.000 A 
+ATOM     17  NE1 TRP A   2      -0.539  -2.973   0.000  0.00  0.00    +0.000 NA
+ATOM     18  CD1 TRP A   2      -0.054  -2.306   0.000  0.00  0.00    +0.000 A 
+ATOM     19  CD2 TRP A   2      -1.324  -1.893   0.000  0.00  0.00    +0.000 A 
+ATOM     20  CE2 TRP A   2      -1.324  -2.718   0.000  0.00  0.00    +0.000 A 
+ATOM     21  CE3 TRP A   2      -2.038  -1.481   0.000  0.00  0.00    +0.000 A 
+ATOM     22  CZ2 TRP A   2      -2.038  -3.131   0.000  0.00  0.00    +0.000 A 
+ATOM     23  CZ3 TRP A   2      -2.752  -1.893   0.000  0.00  0.00    +0.000 A 
+ATOM     24  CH2 TRP A   2      -2.753  -2.718   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH  15  16
+ENDBRANCH   1  15
+TORSDOF 8

@@ -1,0 +1,183 @@
+
+  Mrv1909 11182221372D          
+
+ 30 33  0  0  0  0            999 V2000
+   -1.4289    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -3.7125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4302   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1447   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1447   -4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4302   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+  3 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 23 28  1  0  0  0  0
+ 24 29  1  0  0  0  0
+  2 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17136
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=C(NCC2=CC=C(C=C2)C(=O)NC2=CC=CN=C2)C(=O)C2=C(C=CC=C2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H16ClN3O3/c24-19-20(22(29)18-6-2-1-5-17(18)21(19)28)26-12-14-7-9-15(10-8-14)23(30)27-16-4-3-11-25-13-16/h1-11,13,26H,12H2,(H,27,30)
+
+> <INCHI_KEY>
+WCXAUCDLLSWGQS-UHFFFAOYSA-N
+
+> <FORMULA>
+C23H16ClN3O3
+
+> <MOLECULAR_WEIGHT>
+417.85
+
+> <EXACT_MASS>
+417.0880191
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.002330205694976201
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.16170865390425
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[(3-chloro-1,4-dioxo-1,4-dihydronaphthalen-2-yl)amino]methyl}-N-(pyridin-3-yl)benzamide
+
+> <ALOGPS_LOGP>
+3.55
+
+> <JCHEM_LOGP>
+2.758697564666666
+
+> <ALOGPS_LOGS>
+-5.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.391354093674078
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.679096556635882
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.368407904543011
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.16
+
+> <JCHEM_REFRACTIVITY>
+117.36319999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.77e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl 3-[(12R,13R,22S,23S)-17-(1-butoxyethyl)-4-butyl-12-ethyl-13,18,22,27-tetramethyl-3,5-dioxo-4,8,24,25,26-pentaazahexacyclo[19.2.1.1^{6,9}.1^{11,14}.1^{16,19}.0^{2,7}]heptacosa-1,6,9(27),10,14(26),15,17,19,21(24)-nonaen-23-yl]propanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17136
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+MPT-0L055
+
+> <SYNONYMS>
+4-(((3-chloro-1,4-dihydro-1,4-dioxo-2-naphthalenyl)amino)methyl)-n-3-pyridinylbenzamide; 4-(((3-chloro-1,4-dioxo-1,4 dihydronaphthalen-2-yl)amino)methyl)-n-(pyridine-3-yl)benzamide; Benzamide, 4-(((3-chloro-1,4-dihydro-1,4-dioxo-2-naphthalenyl)amino)methyl)-n-3-pyridinyl-
+
+$$$$

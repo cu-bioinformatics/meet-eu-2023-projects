@@ -1,0 +1,176 @@
+PFA
+  Mrv0541 02231216452D          
+
+ 27 29  0  0  0  0            999 V2000
+    3.5054    0.4075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5054   -0.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2199   -0.8300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2199   -1.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9344   -2.0675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7909   -0.8300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7909   -1.6550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5054   -2.0675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0765   -0.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3620   -0.8300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6475   -0.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0669   -0.8300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0765    0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3620    0.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3620    1.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6475    0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0669    0.8200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7814    0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7814   -0.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4959    0.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2104    0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9248    0.8200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6393    0.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9248    1.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2104   -0.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4959   -0.8300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9248   -0.8300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03181
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C1=CC(OC2=C(C)C=C(C=C2C)N2N=CC(=O)NC2=O)=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H21N3O4/c1-11(2)16-9-15(5-6-17(16)24)27-19-12(3)7-14(8-13(19)4)23-20(26)22-18(25)10-21-23/h5-11,24H,1-4H3,(H,22,25,26)
+
+> <INCHI_KEY>
+RXQAVKWRCZYGMV-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H21N3O4
+
+> <MOLECULAR_WEIGHT>
+367.3984
+
+> <EXACT_MASS>
+367.153206175
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.8255994843812029
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.560223806512184
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{4-[4-hydroxy-3-(propan-2-yl)phenoxy]-3,5-dimethylphenyl}-2,3,4,5-tetrahydro-1,2,4-triazine-3,5-dione
+
+> <ALOGPS_LOGP>
+3.62
+
+> <JCHEM_LOGP>
+4.518153897666666
+
+> <ALOGPS_LOGS>
+-4.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.190712411358291
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.326718803378947
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6790781314854053
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.23
+
+> <JCHEM_REFRACTIVITY>
+101.19109999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03181
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02554
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[4-(4-Hydroxy-3-Isopropyl-Phenoxy)-3,5-Dimethyl-Phenyl]-2h-[1,2,4]Triazine-3,5-Dione
+
+$$$$

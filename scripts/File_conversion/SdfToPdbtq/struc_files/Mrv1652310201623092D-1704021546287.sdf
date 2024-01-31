@@ -1,0 +1,155 @@
+
+  Mrv1652310201623092D          
+
+ 20 21  0  0  1  0            999 V2000
+    2.0367    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0367    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    3.2384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    2.0009    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    0.7634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    0.7634    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512   -0.0616    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4186   -0.5465    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1637   -1.3312    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3387   -1.3312    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0837   -0.5465    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8538   -1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1893   -2.7523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6486   -1.9986    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2032   -0.2916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    3.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6078    3.6509    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  1  8  1  0  0  0  0
+  9  8  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 12 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 11 16  1  6  0  0  0
+ 10 17  1  1  0  0  0
+  2 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11998
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC[C@H]1O[C@H]([C@@H](O)[C@@H]1O)N1C=C(\C=C\Br)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13BrN2O6/c12-2-1-5-3-14(11(19)13-9(5)18)10-8(17)7(16)6(4-15)20-10/h1-3,6-8,10,15-17H,4H2,(H,13,18,19)/b2-1+/t6-,7-,8+,10-/m1/s1
+
+> <INCHI_KEY>
+GCQYYIHYQMVWLT-HQNLTJAPSA-N
+
+> <FORMULA>
+C11H13BrN2O6
+
+> <MOLECULAR_WEIGHT>
+349.137
+
+> <EXACT_MASS>
+347.995699
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.42301474321485
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-[(E)-2-bromoethenyl]-1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.66
+
+> <JCHEM_LOGP>
+-1.3972054976666666
+
+> <ALOGPS_LOGS>
+-1.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.62015196435527
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.736453544015816
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9802996409893936
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.33000000000001
+
+> <JCHEM_REFRACTIVITY>
+69.18740000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.48e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sorivudine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11998
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Sorivudine
+
+> <SYNONYMS>
+Sorivudine
+
+$$$$

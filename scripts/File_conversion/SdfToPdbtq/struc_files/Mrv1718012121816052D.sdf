@@ -1,0 +1,180 @@
+
+  Mrv1718012121816052D          
+
+ 31 28  0  0  0  0            999 V2000
+   -0.8415   -2.0744    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1130   -1.6558    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5406   -1.6264    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8707   -2.8991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5945   -2.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1130   -0.8352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2817   -2.0368    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5406   -0.8018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3229   -1.6977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5945   -2.8991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9850   -1.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3025   -2.8700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3229   -0.8687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0430   -2.1120    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.7135   -1.9990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8331    1.6265    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1046    2.0451    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5322    2.0743    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8624    0.8017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6028    1.6265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1046    2.8658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2733    1.6641    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5322    2.8991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313    2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6028    0.8017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9766    2.0743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2942    0.8310    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313    2.8322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0514    1.5888    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.7051    1.7017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7135    0.0774    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  1  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  1  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  1  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  6  0  0  0
+  9 13  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  1  0  0  0
+ 17 20  1  0  0  0  0
+ 17 21  1  1  0  0  0
+ 18 22  1  0  0  0  0
+ 18 23  1  1  0  0  0
+ 20 24  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 22 27  1  6  0  0  0
+ 24 28  2  0  0  0  0
+ 24 29  1  0  0  0  0
+ 26 30  1  0  0  0  0
+M  CHG  3  14  -1  29  -1  31   2
+M  END
+> <DATABASE_ID>
+DB00326
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Ca++].OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(O)C([O-])=O.OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(O)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C7H14O8.Ca/c2*8-1-2(9)3(10)4(11)5(12)6(13)7(14)15;/h2*2-6,8-13H,1H2,(H,14,15);/q;;+2/p-2/t2*2-,3-,4+,5-,6?;/m11./s1
+
+> <INCHI_KEY>
+FATUQANACHZLRT-KMRXSBRUSA-L
+
+> <FORMULA>
+C14H26CaO16
+
+> <MOLECULAR_WEIGHT>
+490.425
+
+> <EXACT_MASS>
+490.084675939
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.340947433815025
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+calcium bis((3R,4S,5R,6R)-2,3,4,5,6,7-hexahydroxyheptanoate)
+
+> <ALOGPS_LOGP>
+-1.91
+
+> <JCHEM_LOGP>
+-4.040079252666667
+
+> <ALOGPS_LOGS>
+-1.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.467210588266337
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.384685145485427
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9742118640167448
+
+> <JCHEM_POLAR_SURFACE_AREA>
+161.51
+
+> <JCHEM_REFRACTIVITY>
+55.070600000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.98e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+calcium gluceptate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00326
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00841
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Calcium glucoheptonate
+
+> <SYNONYMS>
+Calcii glucoheptonas; calcium (2ξ)-D-gluco-heptonate; calcium bis[(2ξ)-D-glycero-D-gulo-heptonate]; calcium bis[(2ξ)-D-glycero-D-ido-heptonate]; calcium bis[(3R,4S,5R,6R)-2,3,4,5,6,7-hexahydroxyheptanoate]; Calcium gluceptate; Calcium glucoheptonat; Calcium glucoheptonate; Calcium glucoheptonate (1:2); Glucoheptonate de calcium; Glucoheptonato calcico
+
+> <PRODUCTS>
+Calcium Liq Alsi; Calcium Liquid; Glucoheptonate; Liquid Calcium; Sirop De Calcium 625mg/5ml
+
+$$$$

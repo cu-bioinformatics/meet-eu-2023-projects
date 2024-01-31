@@ -1,0 +1,159 @@
+RF1
+  Mrv0541 02241214072D          
+
+ 23 25  0  0  0  0            999 V2000
+   -0.8433    3.7533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8433    2.9283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6683    2.9283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0183    2.9283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8433    2.1033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1288    1.6908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5857    2.1033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1288    0.8658    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5857    0.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5857   -0.3717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8433    0.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8433   -0.3717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1288   -0.7842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1288   -1.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7962   -2.0941    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5387   -2.0941    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2837   -2.8787    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5413   -2.8787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0262   -3.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8512   -3.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1061   -4.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4387   -4.8157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7713   -4.3308    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  2  0  0  0  0
+ 19 18  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 21 20  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08469
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(C)OC(=O)N1CCC(CC1)C1=NC(=NO1)C1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H21N3O3S/c1-16(2,3)21-15(20)19-8-6-11(7-9-19)14-17-13(18-22-14)12-5-4-10-23-12/h4-5,10-11H,6-9H2,1-3H3
+
+> <INCHI_KEY>
+METBQPRXNZHZMB-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H21N3O3S
+
+> <MOLECULAR_WEIGHT>
+335.421
+
+> <EXACT_MASS>
+335.130362243
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+9.286968831791584e-11
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.664934147545324
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+tert-butyl 4-[3-(thiophen-2-yl)-1,2,4-oxadiazol-5-yl]piperidine-1-carboxylate
+
+> <ALOGPS_LOGP>
+3.77
+
+> <JCHEM_LOGP>
+3.256396291666667
+
+> <ALOGPS_LOGS>
+-3.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.0286442921931314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.46000000000001
+
+> <JCHEM_REFRACTIVITY>
+98.84250000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.87e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08469
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+tert-butyl 4-(3-thiophen-2-yl-1,2,4-oxadiazol-5-yl)piperidine-1-carboxylate
+
+$$$$

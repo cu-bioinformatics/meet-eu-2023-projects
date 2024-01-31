@@ -1,0 +1,176 @@
+371
+  Mrv0541 02241213092D          
+
+ 28 31  0  0  0  0            999 V2000
+   -0.1050   -2.3389    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8195   -2.7514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8195   -3.5764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1050   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3239   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0384   -3.5764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0384   -2.7514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3239   -2.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6094   -2.7514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6094   -3.5764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1050   -4.8139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5340   -2.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2484   -2.7514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9629   -2.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9629   -1.5139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2484   -1.1014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5340   -1.5139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7529   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5340   -3.9889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2484   -0.2764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6774   -1.1014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9114   -0.2443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6565   -1.0289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3239   -1.5139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9914   -1.0289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7364   -0.2443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5498   -1.6362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8001   -0.8659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3 19  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 24  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 22 26  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 25 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07024
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(N2CCCS2(=O)=O)=C2OC(=C(O)C(=O)C2=C1)C1=CC=C(O)C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H17NO7S/c1-10-7-12-16(23)17(24)18(11-3-4-14(21)15(22)9-11)27-19(12)13(8-10)20-5-2-6-28(20,25)26/h3-4,7-9,21-22,24H,2,5-6H2,1H3
+
+> <INCHI_KEY>
+CEXBEGBNDJVZPK-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H17NO7S
+
+> <MOLECULAR_WEIGHT>
+403.406
+
+> <EXACT_MASS>
+403.072572593
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.044707653694568576
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.55011055164903
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[2-(3,4-dihydroxyphenyl)-3-hydroxy-6-methyl-4-oxo-4H-chromen-8-yl]-1lambda6,2-thiazolidine-1,1-dione
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+1.2642907579999998
+
+> <ALOGPS_LOGS>
+-2.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.919082676034204
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.403862899445043
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.825850136842702
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.37
+
+> <JCHEM_REFRACTIVITY>
+102.54169999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.81e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07024
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(3,4-DIHYDROXYPHENYL)-8-(1,1-DIOXIDOISOTHIAZOLIDIN-2-YL)-3-HYDROXY-6-METHYL-4H-CHROMEN-4-ONE
+
+$$$$

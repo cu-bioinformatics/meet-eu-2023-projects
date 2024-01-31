@@ -1,0 +1,178 @@
+
+  Mrv0541 05041402072D          
+
+ 28 30  0  0  1  0            999 V2000
+    3.6959    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    0.0709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0650   -2.5822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9509   -0.7681    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4358   -0.5422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3976   -3.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3988   -1.3812    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5919   -1.2097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2643   -1.3492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6538   -2.1658    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2563   -0.4560    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9788   -1.7617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7578   -0.9396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4838   -3.8876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6439   -2.7315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5106   -1.6847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0768   -0.1006    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1339   -0.8829    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8909   -0.7311    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  9  1  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 11  4  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12  5  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13  6  2  0  0  0  0
+ 14  8  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 15 18  1  1  0  0  0
+ 19  7  1  0  0  0  0
+ 19 12  1  0  0  0  0
+ 20 13  1  0  0  0  0
+ 20 16  2  0  0  0  0
+ 21  8  1  0  0  0  0
+ 21 16  1  0  0  0  0
+ 21 17  1  0  0  0  0
+  9 22  1  6  0  0  0
+ 23 14  2  0  0  0  0
+ 24 14  1  0  0  0  0
+ 25 17  2  0  0  0  0
+ 26  6  1  0  0  0  0
+  9 27  1  6  0  0  0
+ 15 28  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03914
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]\C(C1=CNC2=CC=CC=C12)=C1\N=C(N(CC(O)=O)C1=O)[C@@]([H])(N)[C@@]([H])(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H18N4O4/c1-9(22)15(18)16-20-13(17(25)21(16)8-14(23)24)6-10-7-19-12-5-3-2-4-11(10)12/h2-7,9,15,19,22H,8,18H2,1H3,(H,23,24)/b13-6-/t9-,15+/m1/s1
+
+> <INCHI_KEY>
+COQNVMWLDCUFMG-HNGJRXCUSA-N
+
+> <FORMULA>
+C17H18N4O4
+
+> <MOLECULAR_WEIGHT>
+342.3492
+
+> <EXACT_MASS>
+342.132805084
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.21381619665709883
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.34855813387878
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-[(4Z)-2-[(1R,2R)-1-amino-2-hydroxypropyl]-4-[(1H-indol-3-yl)methylidene]-5-oxo-4,5-dihydro-1H-imidazol-1-yl]acetic acid
+
+> <ALOGPS_LOGP>
+0.06
+
+> <JCHEM_LOGP>
+-2.4289333000505704
+
+> <ALOGPS_LOGS>
+-3.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.7123278591828
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.544529163126121
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.563722020604866
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.01000000000002
+
+> <JCHEM_REFRACTIVITY>
+90.9918
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.41e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03914
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01021
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[2-(1-amino-2-hydroxy-propyl)-4-(1H-indol-3-ylmethylene)-5-oxo-4,5-dihydro-imidazol-1-yl]-acetaldehyde
+
+$$$$

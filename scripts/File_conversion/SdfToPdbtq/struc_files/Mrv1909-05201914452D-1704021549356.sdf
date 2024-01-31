@@ -1,0 +1,148 @@
+
+  Mrv1909 05201914452D          
+
+ 18 19  0  0  1  0            999 V2000
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+  2 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15050
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=C(N=C(C=N2)[C@H](O)[C@H](O)CO)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N5O4/c10-9-13-7-5(8(18)14-9)12-3(1-11-7)6(17)4(16)2-15/h1,4,6,15-17H,2H2,(H3,10,11,13,14,18)/t4-,6+/m1/s1
+
+> <INCHI_KEY>
+BMQYVXCPAOLZOK-XINAWCOVSA-N
+
+> <FORMULA>
+C9H11N5O4
+
+> <MOLECULAR_WEIGHT>
+253.2147
+
+> <EXACT_MASS>
+253.081103865
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.038947773716462
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-[(1S,2R)-1,2,3-trihydroxypropyl]-3,4-dihydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.75
+
+> <JCHEM_LOGP>
+-2.752333907333333
+
+> <ALOGPS_LOGS>
+-1.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.461214090294927
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.985898630641074
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7232686427134809
+
+> <JCHEM_POLAR_SURFACE_AREA>
+153.95000000000002
+
+> <JCHEM_REFRACTIVITY>
+60.1102
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.26e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15050
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Neopterin
+
+$$$$

@@ -1,0 +1,158 @@
+
+  Mrv1909 02012020062D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.0132    0.1577    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6965    0.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6965    1.3933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7229    0.5783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7229    1.3933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0132    1.8139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3548   -1.9453    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6440   -1.1567    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0132   -0.6572    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6703   -1.1567    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4337   -1.9453    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9070   -2.6026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4327   -0.9464    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8281   -2.6289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4327    0.1577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0132    2.6289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4327    1.8139    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  9  1  1  1  0  0  0
+  3  2  1  0  0  0  0
+ 15  2  2  0  0  0  0
+  6  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+ 17  5  1  0  0  0  0
+ 16  6  2  0  0  0  0
+ 11  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  7 14  1  6  0  0  0
+  9  8  1  0  0  0  0
+  8 13  1  6  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB12947
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=C(F)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11FN2O5/c1-3-5(13)6(14)8(17-3)12-2-4(10)7(15)11-9(12)16/h2-3,5-6,8,13-14H,1H3,(H,11,15,16)/t3-,5-,6-,8-/m1/s1
+
+> <INCHI_KEY>
+ZWAOHEXOSAUJHY-ZIYNGMLESA-N
+
+> <FORMULA>
+C9H11FN2O5
+
+> <MOLECULAR_WEIGHT>
+246.1924
+
+> <EXACT_MASS>
+246.065199677
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.07774199234887937
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.986521742730226
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-methyloxolan-2-yl]-5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.77
+
+> <JCHEM_LOGP>
+-1.1688892649999998
+
+> <ALOGPS_LOGS>
+-0.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.65748522962968
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.074210785214104
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6273636606527755
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.1
+
+> <JCHEM_REFRACTIVITY>
+51.2248
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.77e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,8H,9H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12947
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Doxifluridine
+
+> <SYNONYMS>
+1-(β-D-5-desoxyribofuranoxyl)-5-fluoruracil; 5-fluoro-5'-deoxyuridine; 5'-deoxy-5-fluorouridine; 5'-DFUR; Doxifluridina; Doxifluridine; Doxifluridinum
+
+> <INTERNATIONAL_BRANDS>
+Flutron; Furtulon
+
+$$$$

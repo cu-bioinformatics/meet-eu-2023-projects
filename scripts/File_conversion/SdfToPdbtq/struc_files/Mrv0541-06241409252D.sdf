@@ -1,0 +1,163 @@
+
+  Mrv0541 06241409252D          
+
+ 18 19  0  0  0  0            999 V2000
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.2375    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 11  8  2  0  0  0  0
+ 12  5  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13  8  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 18  1  1  0  0  0  0
+ 18  9  1  0  0  0  0
+ 18 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09019
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(CC1=CC(Br)=CC(Br)=C1N)C1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20Br2N2/c1-18(12-5-3-2-4-6-12)9-10-7-11(15)8-13(16)14(10)17/h7-8,12H,2-6,9,17H2,1H3
+
+> <INCHI_KEY>
+OJGDCBLYJGHCIH-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H20Br2N2
+
+> <MOLECULAR_WEIGHT>
+376.13
+
+> <EXACT_MASS>
+373.999323944
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9942074385390682
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.97976765884821
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,4-dibromo-6-{[cyclohexyl(methyl)amino]methyl}aniline
+
+> <ALOGPS_LOGP>
+4.08
+
+> <JCHEM_LOGP>
+4.422492411333334
+
+> <ALOGPS_LOGS>
+-5.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.88721557186338
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.234467777614094
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.259999999999998
+
+> <JCHEM_REFRACTIVITY>
+85.56090000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.62e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09019
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Bromhexine
+
+> <SYNONYMS>
+3,5-dibromo-N(alpha)-cyclohexyl-N(alpha)-methyltoluene-alpha-2-diamine; Bromexina; Bromhexina; Bromhexine; Bromhexinum; N-cyclohexyl-N-methyl-(2-amino-3,5-dibrombenzyl)amine
+
+> <PRODUCTS>
+Bromhexine Hydrochloride
+
+> <INTERNATIONAL_BRANDS>
+Amiorel; Bisolmed; Bisolvon; Bisolvon Chesty; Fluibron
+
+> <SALTS>
+Bromhexine hydrochloride
+
+$$$$

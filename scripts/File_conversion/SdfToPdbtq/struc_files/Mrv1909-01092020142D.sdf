@@ -1,0 +1,147 @@
+
+  Mrv1909 01092020142D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.4290    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8581   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1435    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1435   -0.4124    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8581    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580    0.8250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10  5  2  0  0  0  0
+ 11 10  1  0  0  0  0
+  2 11  2  0  0  0  0
+  1 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15610
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)NC1=CC=C(OC(F)(F)F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7F3N2O2/c9-8(10,11)15-6-3-1-5(2-4-6)13-7(12)14/h1-4H,(H3,12,13,14)
+
+> <INCHI_KEY>
+LOSFVIMHTOMZKT-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H7F3N2O2
+
+> <MOLECULAR_WEIGHT>
+220.151
+
+> <EXACT_MASS>
+220.045961962
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-7.54442578198392e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.24260430130518
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[4-(trifluoromethoxy)phenyl]urea
+
+> <ALOGPS_LOGP>
+2.32
+
+> <JCHEM_LOGP>
+2.308522236
+
+> <ALOGPS_LOGS>
+-3.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.122186503994753
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4804632577358046
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.35
+
+> <JCHEM_REFRACTIVITY>
+42.66800000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.88e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,9S,10S)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-triene
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15610
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4-(trifluoromethoxy)phenyl)urea
+
+> <PRODUCTS>
+Uremol 10%
+
+$$$$

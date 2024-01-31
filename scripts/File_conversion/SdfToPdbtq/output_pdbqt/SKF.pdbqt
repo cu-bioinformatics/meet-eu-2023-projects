@@ -1,0 +1,25 @@
+REMARK  Name = SKF
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  S_5
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -0.361   0.853   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -1.075   0.441   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -1.075  -0.384   0.000  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -0.361  -0.797   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       0.354  -0.384   0.000  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       0.354   0.441   0.000  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       1.068  -0.797   0.000  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1       1.783   0.441   0.000  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1       1.068   0.853   0.000  0.00  0.00    +0.000 C 
+ATOM     10  N   UNL     1       1.783  -0.384   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   3  11
+ATOM     11  S   UNL     1      -1.790  -0.797   0.000  0.00  0.00    +0.000 S 
+ATOM     12  O   UNL     1      -2.504  -1.209   0.000  0.00  0.00    +0.000 OA
+ATOM     13  O   UNL     1      -1.377  -1.511   0.000  0.00  0.00    +0.000 OA
+ATOM     14  N   UNL     1      -2.202  -0.083   0.000  0.00  0.00    +0.000 NA
+ENDBRANCH   3  11
+TORSDOF 1

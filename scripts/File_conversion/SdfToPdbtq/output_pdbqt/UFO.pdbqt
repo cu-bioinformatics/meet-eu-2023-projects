@@ -1,0 +1,25 @@
+REMARK  Name = UFO
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -1.324   0.234   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -0.609   0.647   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       0.105  -0.591   0.000  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -0.609  -1.003   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -1.324  -0.591   0.000  0.00  0.00    +0.000 A 
+ATOM      6  N   UNL     1       0.820  -1.003   0.000  0.00  0.00    +0.000 N 
+ATOM      7  C   UNL     1       0.820  -1.828   0.000  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1       1.534  -0.591   0.000  0.00  0.00    +0.000 C 
+ATOM      9  C   UNL     1       1.534   0.234   0.000  0.00  0.00    +0.000 C 
+ATOM     10  N   UNL     1       0.820   0.647   0.000  0.00  0.00    +0.000 N 
+ATOM     11  C   UNL     1       0.820   1.472   0.000  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       0.105   0.234   0.000  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1  14
+ATOM     13  N   UNL     1      -2.038   1.472   0.000  0.00  0.00    +0.000 NA
+ATOM     14  C   UNL     1      -2.038   0.647   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   1  14
+TORSDOF 1

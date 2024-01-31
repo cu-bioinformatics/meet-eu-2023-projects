@@ -1,0 +1,170 @@
+
+  Mrv0541 05041405422D          
+
+ 24 26  0  0  1  0            999 V2000
+   -3.1034    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909    0.8085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659    0.8085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4534    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.5396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1681    0.5547    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3522    0.3352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    1.5229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    2.7604    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  2  0  0  0  0
+  8  4  2  0  0  0  0
+  8  5  1  0  0  0  0
+  9  6  2  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  7  1  1  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16  6  1  0  0  0  0
+ 16 10  1  0  0  0  0
+ 16 14  1  0  0  0  0
+ 17  7  1  0  0  0  0
+ 11 18  1  6  0  0  0
+ 12 19  1  1  0  0  0
+ 13 20  1  6  0  0  0
+ 10 21  1  6  0  0  0
+ 11 22  1  1  0  0  0
+ 12 23  1  6  0  0  0
+ 13 24  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02862
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CO)N2C=C(N=C2[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N2O4/c17-7-10-11(18)12(19)13(20)14-15-9(6-16(10)14)8-4-2-1-3-5-8/h1-6,10-13,17-20H,7H2/t10-,11-,12+,13-/m1/s1
+
+> <INCHI_KEY>
+DLVNFMROYKHANV-FVCCEPFGSA-N
+
+> <FORMULA>
+C14H16N2O4
+
+> <MOLECULAR_WEIGHT>
+276.2878
+
+> <EXACT_MASS>
+276.11100701
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.001573085681302721
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.66479051866623
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5R,6R,7S,8S)-5-(hydroxymethyl)-2-phenyl-5H,6H,7H,8H-imidazo[1,2-a]pyridine-6,7,8-triol
+
+> <ALOGPS_LOGP>
+0.01
+
+> <JCHEM_LOGP>
+-0.4332292506666669
+
+> <ALOGPS_LOGS>
+-1.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.423130461158983
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.291989100837844
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.199000054263236
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+70.48039999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.89e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02862
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01838
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Gluco-Phenylimidazole
+
+$$$$

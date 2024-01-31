@@ -1,0 +1,178 @@
+
+  Mrv1909 09292222212D          
+
+ 29 31  0  0  0  0            999 V2000
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 23 28  1  0  0  0  0
+  9 29  2  0  0  0  0
+  3 29  1  0  0  0  0
+M  ISO  1  15  18
+M  END
+> <DATABASE_ID>
+DB17020
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=C(OC)C(CN(C(=O)C[18F])C2=CC=CC=C2OC2=CC=CC=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H22FNO4/c1-27-19-12-13-21(28-2)17(14-19)16-25(23(26)15-24)20-10-6-7-11-22(20)29-18-8-4-3-5-9-18/h3-14H,15-16H2,1-2H3/i24-1
+
+> <INCHI_KEY>
+NSOMTOOLHNHIJA-MIGPCILRSA-N
+
+> <FORMULA>
+C23H22FNO4
+
+> <MOLECULAR_WEIGHT>
+394.433
+
+> <EXACT_MASS>
+394.155820859
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.1664634286254714e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.7292019708732
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(2,5-dimethoxyphenyl)methyl]-2-(¹⁸F)fluoro-N-(2-phenoxyphenyl)acetamide
+
+> <ALOGPS_LOGP>
+4.34
+
+> <JCHEM_LOGP>
+4.058283749
+
+> <ALOGPS_LOGS>
+-5.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.499116597255238
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.654595816181961
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.0
+
+> <JCHEM_REFRACTIVITY>
+107.82680000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.10e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17020
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+PBR-06 F-18
+
+> <SYNONYMS>
+Acetamide, n-((2,5-dimethoxyphenyl)methyl)-2-(fluoro-18f)-n-(2-phenoxyphenyl)-
+
+$$$$

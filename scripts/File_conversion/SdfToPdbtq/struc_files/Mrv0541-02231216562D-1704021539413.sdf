@@ -1,0 +1,168 @@
+
+  Mrv0541 02231216562D          
+
+ 24 24  0  0  1  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270    1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  6 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+  2 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03433
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H](CNCC1=C(O)C(C)=NC=C1COP(O)(O)=O)OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H20N2O9P2/c1-7(22-24(18,19)20)3-12-5-10-9(6-21-23(15,16)17)4-13-8(2)11(10)14/h4,7,12,14H,3,5-6H2,1-2H3,(H2,15,16,17)(H2,18,19,20)/t7-/m1/s1
+
+> <INCHI_KEY>
+JMZWWHLIKAYMPJ-SSDOTTSWSA-N
+
+> <FORMULA>
+C11H20N2O9P2
+
+> <MOLECULAR_WEIGHT>
+386.232
+
+> <EXACT_MASS>
+386.064403272
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.7848477175968283
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.55114456784119
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R)-1-[({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)amino]propan-2-yl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-4.097411823518242
+
+> <ALOGPS_LOGS>
+-2.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+1.932991330686272
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.3020657506722184
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.53481117218205
+
+> <JCHEM_POLAR_SURFACE_AREA>
+178.67
+
+> <JCHEM_REFRACTIVITY>
+82.9943
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03433
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00153
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+{3-[(3-Hydroxy-2-Methyl-5-Phosphonooxymethyl-Pyridin-4-Ylmethyl)-Amino]-2-Methyl-Propyl}-Phosphonic Acid
+
+$$$$

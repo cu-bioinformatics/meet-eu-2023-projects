@@ -1,0 +1,166 @@
+JK3
+  Mrv0541 02241213482D          
+
+ 25 27  0  0  0  0            999 V2000
+    1.5560    0.9948    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9799   -1.7060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6473   -2.1909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3924   -2.9755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5674   -2.9755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3125   -2.1909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5278   -1.9360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0853   -2.4880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3563   -1.1290    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4283   -0.8741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0414   -1.4261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8260   -1.1711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9975   -0.3642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3845    0.1879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5998   -0.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0133    0.4850    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7979    0.2300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4110    0.7820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1583    1.2919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4548    1.8440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2395    1.5890    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8525    2.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6810    2.9480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5095    3.7550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8773   -3.6430    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  2  6  2  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 25  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14  1  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 16  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 18  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 24 23  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08021
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=C(N2CCN(CC#C)CC2)C(NC(=O)C2=CC=C(Br)O2)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H17BrClN3O2/c1-2-8-22-9-11-23(12-10-22)17-13(20)4-3-5-14(17)21-18(24)15-6-7-16(19)25-15/h1,3-7H,8-12H2,(H,21,24)
+
+> <INCHI_KEY>
+MEFJFXHHHNDHEN-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H17BrClN3O2
+
+> <MOLECULAR_WEIGHT>
+422.703
+
+> <EXACT_MASS>
+421.019267157
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.08238811392696567
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.22527800072701
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-bromo-N-{3-chloro-2-[4-(prop-2-yn-1-yl)piperazin-1-yl]phenyl}furan-2-carboxamide
+
+> <ALOGPS_LOGP>
+3.50
+
+> <JCHEM_LOGP>
+3.3817765439999996
+
+> <ALOGPS_LOGS>
+-3.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.224352297715397
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.953209021803801
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.720000000000006
+
+> <JCHEM_REFRACTIVITY>
+104.2509
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.88e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08021
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-bromo-N-(3-chloro-2-(4-(prop-2-ynyl)piperazin-1-yl)phenyl)furan-2-carboxamide
+
+$$$$

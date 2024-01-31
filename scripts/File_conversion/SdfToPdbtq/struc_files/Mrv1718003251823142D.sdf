@@ -1,0 +1,173 @@
+
+  Mrv1718003251823142D          
+
+ 28 30  0  0  0  0            999 V2000
+    1.7120    0.0316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1409   -0.7933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4265   -1.2058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9975   -1.2058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9763    1.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2555   -1.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2830   -0.7933    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.1488   -0.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1968    0.0271    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6101    0.1986    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.8162    0.1604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3951    0.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0226   -0.5157    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.5699   -0.1751    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5699   -0.7933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7300    0.9809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3088    0.8315    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0625   -1.1449    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8430   -0.6020    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8099    0.5791    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9456    0.9523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8554   -1.2058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4705   -1.1288    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7120   -0.7933    0.0000 S   0  3  0  0  0  0  0  0  0  0  0  0
+    0.9749   -0.3439    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0166    0.8240    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4339    0.2418    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3182   -1.2859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0  0  0  0
+  7  4  1  6  0  0  0
+  9  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11  8  2  0  0  0  0
+ 12  8  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 14 11  1  0  0  0  0
+ 16  5  2  0  0  0  0
+ 16 11  1  0  0  0  0
+ 17  5  1  0  0  0  0
+ 17 12  2  0  0  0  0
+ 18  6  2  0  0  0  0
+ 18  8  1  0  0  0  0
+ 19  6  1  0  0  0  0
+ 19 12  1  0  0  0  0
+ 13 19  1  1  0  0  0
+  9 20  1  6  0  0  0
+ 10 21  1  6  0  0  0
+ 22  2  1  0  0  0  0
+ 22 15  1  0  0  0  0
+  7 23  1  0  0  0  0
+ 13 23  1  0  0  0  0
+ 24  1  1  0  0  0  0
+ 24  3  1  0  0  0  0
+ 24  4  1  0  0  0  0
+  7 25  1  1  0  0  0
+  9 26  1  1  0  0  0
+ 10 27  1  1  0  0  0
+ 13 28  1  6  0  0  0
+M  CHG  1  24   1
+M  END
+> <DATABASE_ID>
+DB02523
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(C[S+](C)CCON)O[C@@]([H])(N2C=NC3=C(N)N=CN=C23)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H21N6O4S/c1-24(3-2-22-15)4-7-9(20)10(21)13(23-7)19-6-18-8-11(14)16-5-17-12(8)19/h5-7,9-10,13,20-21H,2-4,15H2,1H3,(H2,14,16,17)/q+1/t7-,9+,10+,13+,24?/m0/s1
+
+> <INCHI_KEY>
+RMAOLICYOBWFLA-OCVRIJAPSA-N
+
+> <FORMULA>
+C13H21N6O4S
+
+> <MOLECULAR_WEIGHT>
+357.409
+
+> <EXACT_MASS>
+357.13449888
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.2639216422172
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R)-2-(6-amino-9H-purin-9-yl)-5-({[2-(aminooxy)ethyl](methyl)sulfaniumyl}methyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+0.43
+
+> <JCHEM_LOGP>
+-2.7030489605426116
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.949630073774852
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.443856576924471
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.498612662735778
+
+> <JCHEM_POLAR_SURFACE_AREA>
+154.56
+
+> <JCHEM_REFRACTIVITY>
+88.10579999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.96e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,3S,4R,5R)-2-({[2-(aminooxy)ethyl](methyl)sulfaniumyl}methyl)-5-(6-aminopurin-9-yl)oxolane-3,4-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02523
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00380
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-aminooxyethyl-[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methyl]-methyl-sulfonium
+
+$$$$

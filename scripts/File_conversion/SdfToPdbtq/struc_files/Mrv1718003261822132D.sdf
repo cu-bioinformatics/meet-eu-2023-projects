@@ -1,0 +1,172 @@
+
+  Mrv1718003261822132D          
+
+ 29 29  0  0  0  0            999 V2000
+    1.4289   -0.5634    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    3.1490    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433    1.4990    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.7365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.9115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.9115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.2615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.3884    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2539   -0.5634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3019    3.8634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.5615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    1.0865    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5558    2.2134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6039   -0.5634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1269    2.4345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7308    0.7845    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.0384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -3.8634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.9115    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7144    1.4990    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    0.6740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.4990    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7144    0.6740    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.2615    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -1.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.6259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578   -3.0384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  6  0  0  0
+  1 16  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 17  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4 23  1  0  0  0  0
+ 21  5  1  6  0  0  0
+ 22  6  1  1  0  0  0
+ 24  7  1  1  0  0  0
+ 25  8  1  6  0  0  0
+ 26  9  1  6  0  0  0
+ 10 27  1  0  0  0  0
+ 19 28  2  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02028
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OCC(=O)COP(O)(=O)OC1[C@H](O)[C@H](O)[C@@H](OP(O)(O)=O)[C@H](OP(O)(O)=O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H19O17P3/c10-1-3(11)2-23-29(21,22)26-7-4(12)5(13)8(24-27(15,16)17)9(6(7)14)25-28(18,19)20/h4-10,12-14H,1-2H2,(H,21,22)(H2,15,16,17)(H2,18,19,20)/t4-,5+,6+,7?,8-,9-/m1/s1
+
+> <INCHI_KEY>
+JBQPYAMQMBKZDT-WKBARDANSA-N
+
+> <FORMULA>
+C9H19O17P3
+
+> <MOLECULAR_WEIGHT>
+492.1582
+
+> <EXACT_MASS>
+491.983508718
+
+> <JCHEM_ACCEPTOR_COUNT>
+13
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.18984340055483
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+9
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(1R,2S,3R,5S,6R)-2,3,5-trihydroxy-4-{[hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-6-(phosphonooxy)cyclohexyl]oxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.82
+
+> <JCHEM_LOGP>
+-4.784386238333333
+
+> <ALOGPS_LOGS>
+-1.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-5
+
+> <JCHEM_PKA>
+1.1992282654526951
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.6236014774065293
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6679538618266445
+
+> <JCHEM_POLAR_SURFACE_AREA>
+287.27
+
+> <JCHEM_REFRACTIVITY>
+84.21389999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.43e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1R,2S,3R,5S,6R)-2,3,5-trihydroxy-4-{[hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-6-(phosphonooxy)cyclohexyl]oxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02028
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01828
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1R,2R,3S,4R,6S)-3,4,6-Trihydroxy-5-{[(S)-hydroxy(3-hydroxy-2-oxopropoxy)phosphoryl]oxy}-1,2-cyclohexanediyl bis[dihydrogen (phosphate)]
+
+$$$$

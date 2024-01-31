@@ -1,0 +1,159 @@
+
+  Mrv1909 11191922352D          
+
+ 21 21  0  0  0  0            999 V2000
+   -0.3571    0.6185    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3571   -0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0718    1.0310    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.6187    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7862    0.6184    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.2063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3573   -0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5009    1.0310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2152    0.6185    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3573   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.8562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5008    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5008   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.8563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0718    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2152    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  7  1  6  0  0  0
+  4  8  1  1  0  0  0
+  6  9  1  1  0  0  0
+  5 10  1  1  0  0  0
+ 11 10  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 12  1  0  0  0  0
+  7 12  1  0  0  0  0
+  1 15  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  1  6  0  0  0
+ 17 20  1  0  0  0  0
+ 20 15  1  0  0  0  0
+ 21 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02397
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)O[C@@H]1OC[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H20N2O8/c1-4(15)13-7-9(17)8(16)6(2-14)21-11(7)20-3-5(12)10(18)19/h5-9,11,14,16-17H,2-3,12H2,1H3,(H,13,15)(H,18,19)/t5-,6+,7+,8-,9+,11-/m0/s1
+
+> <INCHI_KEY>
+REDMNGDGDYFZRE-WKWISIMFSA-N
+
+> <FORMULA>
+C11H20N2O8
+
+> <MOLECULAR_WEIGHT>
+308.2851
+
+> <EXACT_MASS>
+308.121965626
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.888031155424745
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-{[(2S,3R,4R,5R,6R)-3-acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}propanoic acid
+
+> <ALOGPS_LOGP>
+-3.19
+
+> <JCHEM_LOGP>
+-5.946676476528275
+
+> <ALOGPS_LOGS>
+-0.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.23157525981552
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8036205607305729
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.81889668490172
+
+> <JCHEM_POLAR_SURFACE_AREA>
+171.57000000000002
+
+> <JCHEM_REFRACTIVITY>
+65.55560000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.20e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2lambda5-triaz-1-en-2-yn-1-ide hydrate diiron
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02397
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03081
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O-(N-acetyl-alpha-D-galactosaminyl)-L-serine
+
+> <SYNONYMS>
+Tn Antigen; α-D-GalNAc-Ser
+
+$$$$

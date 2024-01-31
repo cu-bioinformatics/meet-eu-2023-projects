@@ -1,0 +1,181 @@
+451
+  Mrv0541 02231214412D          
+
+ 24 25  0  0  1  0            999 V2000
+    4.9509    0.6683    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.6683    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    1.4933    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    3.9683    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.4933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -3.4568    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -3.4568    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    3.1433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.8068    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.2193    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5220   -0.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -3.0443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.7308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    3.1433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    2.7308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 22  1  0  0  0  0
+  4 23  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 24  1  0  0  0  0
+ 11  9  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00451
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H11I4NO4/c16-8-4-7(5-9(17)13(8)21)24-14-10(18)1-6(2-11(14)19)3-12(20)15(22)23/h1-2,4-5,12,21H,3,20H2,(H,22,23)/t12-/m0/s1
+
+> <INCHI_KEY>
+XUIIKFGFIJCVMT-LBPRGKRZSA-N
+
+> <FORMULA>
+C15H11I4NO4
+
+> <MOLECULAR_WEIGHT>
+776.87
+
+> <EXACT_MASS>
+776.686681525
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.27612989324114234
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.401554616111895
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoic acid
+
+> <ALOGPS_LOGP>
+1.15
+
+> <JCHEM_LOGP>
+3.7273070498224867
+
+> <ALOGPS_LOGS>
+-4.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.426761076989792
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.27345586539235944
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.433364269995794
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.78
+
+> <JCHEM_REFRACTIVITY>
+126.78799999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.98e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00451
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00235; EXPT02993
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Levothyroxine
+
+> <SYNONYMS>
+3,3',5,5'-Tetraiodo-L-thyronine; 3,5,3',5'-Tetraiodo-L-thyronine; 4-(4-Hydroxy-3,5-diiodophenoxy)-3,5-diiodo-L-phenylalanine; L-T4; L-Thyroxine; Levothyroxin; LT4; O-(4-Hydroxy-3,5-diidophenyl)-3,5-diiodo-L-tyrosine; O-(4-Hydroxy-3,5-diiodophenyl)-3,5-diiodo-L-tyrosine; T4; Thyroxine
+
+> <PRODUCTS>
+Eltroxin; Eltroxin 150 Tab; Eltroxin Tab 100mcg; Eltroxin Tab 200mcg; Eltroxin Tab 300mcg; Eltroxin Tab 50mcg; Ermeza; Euthyrox; Levo-T; Levo-T 100mcg - Tab; Levo-T 125mcg - Tab; Levo-T 150mcg - Tab; Levo-T 200mcg - Tab; Levo-T 25mcg - Tab; Levo-T 300mcg - Tab; Levo-T 50mcg - Tab; Levo-T 75mcg - Tab; Levotec 100mcg Tablets USP; Levotec 112mcg Tablets USP; Levotec 125mcg Tablets USP; Levotec 150mcg Tablets USP; Levotec 175mcg Tablets USP; Levotec 200mcg Tablets USP; Levotec 25mcg Tablets USP; Levotec 300mcg Tablets USP; Levotec 50mcg Tablets USP; Levotec 75mcg Tablets USP; Levothroid; Levothroxine Sodium; Levothyroxine; Levothyroxine Sodium; Levothyroxine Sodium Injection; Levothyroxine Sodium for Injection; Levothyroxine and Liothyronine Thyroid; Levothyroxine sodium; Levoxyl; NP Thyroid 120; NP Thyroid 15; NP Thyroid 30; NP Thyroid 60; NP Thyroid 90; Novothyrox; Np Thyroid; Np Thyroid 60; Np Thyroid 90; PMS-levothyroxine Sodium Tab 100mcg; PMS-levothyroxine Sodium Tab 125mcg; PMS-levothyroxine Sodium Tab 150mcg; PMS-levothyroxine Sodium Tab 200mcg; PMS-levothyroxine Sodium Tab 25mcg; PMS-levothyroxine Sodium Tab 300mcg; PMS-levothyroxine Sodium Tab 50mcg; PMS-levothyroxine Sodium Tab 75mcg; Synthroid; Synthroid Liq Inj 500mcg/vial USP; Synthroid Tab 100mcg USP; Synthroid Tab 112mcg USP; Synthroid Tab 125mcg USP; Synthroid Tab 150mcg USP; Synthroid Tab 175mcg USP; Synthroid Tab 200mcg USP; Synthroid Tab 25mcg USP; Synthroid Tab 300mcg Tab; Synthroid Tab 50mcg USP; Synthroid Tab 75mcg USP; Synthroid Tab 88mcg USP; Thyquidity; Thyroid; Thyrolar; Tirocap; Tirosint; Tirosint SOL; Unithroid
+
+> <INTERNATIONAL_BRANDS>
+Eutirox; Letrox; Levaxin; Levothyrox; Oroxine; Thyrax
+
+> <SALTS>
+Levothyroxine sodium
+
+$$$$

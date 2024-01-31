@@ -1,0 +1,70 @@
+REMARK  Name = C4P
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_10
+REMARK    2  A    between atoms: CA_10  and  C_11
+REMARK    3  A    between atoms: CA_10  and  CB_26
+REMARK    4  A    between atoms: N_13  and  C_14
+REMARK    5  A    between atoms: C_14  and  C_15
+REMARK    6  A    between atoms: C_14  and  C_17
+REMARK    7  A    between atoms: C_17  and  S_18
+REMARK    8  A    between atoms: S_18  and  C_19
+REMARK    9  A    between atoms: C_19  and  C_20
+REMARK   10  A    between atoms: CB_26  and  CG_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  PHE A   1      -1.188   0.054   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   PHE A   1      -1.903  -0.359   0.000  0.00  0.00    +0.000 NA
+ATOM      3  C   UNK A   0      -2.617   0.054   0.000  0.00  0.00    +0.000 C 
+ATOM      4  O   UNK A   0      -2.617   0.879   0.000  0.00  0.00    +0.000 OA
+ATOM      5  N   UNK A   0      -3.332  -0.359   0.000  0.00  0.00    +0.000 N 
+ATOM      6  C   UNK A   0      -3.332  -1.184   0.000  0.00  0.00    +0.000 C 
+ATOM      7  C   UNK A   0      -4.046  -1.596   0.000  0.00  0.00    +0.000 C 
+ATOM      8  O   UNK A   0      -4.761  -1.184   0.000  0.00  0.00    +0.000 OA
+ATOM      9  C   UNK A   0      -4.761  -0.359   0.000  0.00  0.00    +0.000 C 
+ATOM     10  C   UNK A   0      -4.046   0.054   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   1   2
+BRANCH   1  11
+ATOM     11  C   PHE A   1      -0.474  -0.359   0.000  0.00  0.00    +0.000 C 
+ATOM     12  O   PHE A   1      -0.474  -1.184   0.000  0.00  0.00    +0.000 OA
+ATOM     13  N   UNK A   2       0.241   0.054   0.000  0.00  0.00    +0.000 NA
+BRANCH  13  14
+ATOM     14  C   UNK A   2       0.955  -0.359   0.000  0.00  0.00    +0.000 C 
+BRANCH  14  15
+ATOM     15  C   UNK A   2       0.955  -1.184   0.000  0.00  0.00    +0.000 C 
+ATOM     16  O   UNK A   2       1.669  -1.596   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  14  15
+BRANCH  14  17
+ATOM     17  C   UNK A   2       1.669   0.054   0.000  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  S   UNK A   2       2.384  -0.359   0.000  0.00  0.00    +0.000 S 
+BRANCH  18  19
+ATOM     19  C   UNK A   2       3.099   0.054   0.000  0.00  0.00    +0.000 C 
+BRANCH  19  20
+ATOM     20  C   UNK A   2       3.813  -0.359   0.000  0.00  0.00    +0.000 A 
+ATOM     21  C   UNK A   2       4.527   0.054   0.000  0.00  0.00    +0.000 A 
+ATOM     22  C   UNK A   2       5.242  -0.359   0.000  0.00  0.00    +0.000 A 
+ATOM     23  C   UNK A   2       5.242  -1.184   0.000  0.00  0.00    +0.000 A 
+ATOM     24  C   UNK A   2       4.527  -1.596   0.000  0.00  0.00    +0.000 A 
+ATOM     25  C   UNK A   2       3.813  -1.184   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  14  17
+ENDBRANCH  13  14
+ENDBRANCH   1  11
+BRANCH   1  26
+ATOM     26  CB  PHE A   1      -1.188   0.879   0.000  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  CG  PHE A   1      -0.474   1.291   0.000  0.00  0.00    +0.000 A 
+ATOM     28  CD1 PHE A   1      -0.474   2.116   0.000  0.00  0.00    +0.000 A 
+ATOM     29  CE1 PHE A   1       0.241   2.529   0.000  0.00  0.00    +0.000 A 
+ATOM     30  CZ  PHE A   1       0.955   2.116   0.000  0.00  0.00    +0.000 A 
+ATOM     31  CE2 PHE A   1       0.955   1.291   0.000  0.00  0.00    +0.000 A 
+ATOM     32  CD2 PHE A   1       0.241   0.879   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH  26  27
+ENDBRANCH   1  26
+TORSDOF 10

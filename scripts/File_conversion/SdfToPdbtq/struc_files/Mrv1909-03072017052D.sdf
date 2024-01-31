@@ -1,0 +1,153 @@
+
+  Mrv1909 03072017052D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.9201    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2057   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4912    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3666   -0.8130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8978   -0.8130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2057    1.2374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4912    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.9201    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6272    0.3790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6272   -0.5127    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2232   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9376    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6521   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3666    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.6759   -0.9569    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+    1.6521   -1.2374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9376    0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  0  0  0  0
+  6  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  8  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  2  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  4  0  0  0
+ 12 17  1  4  0  0  0
+M  CHG  2   7   1  15  -1
+M  END
+> <DATABASE_ID>
+DB14198
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Cl-].[H]C(Cl)=C([H])C[N+]12CN3CN(CN(C3)C1)C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16ClN4.ClH/c10-2-1-3-14-7-11-4-12(8-14)6-13(5-11)9-14;/h1-2H,3-9H2;1H/q+1;/p-1
+
+> <INCHI_KEY>
+UKHVLWKBNNSRRR-UHFFFAOYSA-M
+
+> <FORMULA>
+C9H16Cl2N4
+
+> <MOLECULAR_WEIGHT>
+251.156
+
+> <EXACT_MASS>
+250.075201946
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0005087696585682
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.778450313541274
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-(3-chloroprop-2-en-1-yl)-1,3,5,7-tetraazatricyclo[3.3.1.1^{3,7}]decan-1-ium chloride
+
+> <ALOGPS_LOGP>
+-2.68
+
+> <JCHEM_LOGP>
+-2.7217554094717453
+
+> <ALOGPS_LOGS>
+-0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6985706461557832
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.72
+
+> <JCHEM_REFRACTIVITY>
+66.8733
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.97e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lugol's iodine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB14198
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Quaternium-15
+
+> <SYNONYMS>
+1-(3-Chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride; 3,5,7-Triaza-1-azoniaadamantane, 1-(3-chloroallyl)-, chloride; 3,5,7-Triaza-1-azoniatricyclo(3.3.1.13,7)decane, 1-(3-chloro-2-propen-1-yl)-, chloride (1:1); Methenamine 3-chloroallylochloride; N-(3-Chloroallyl)hexaminium chloride; Quaternium 15
+
+> <PRODUCTS>
+T.R.U.E. Test Thin-Layer Rapid Use Patch Test
+
+$$$$

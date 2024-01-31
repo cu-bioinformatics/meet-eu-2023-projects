@@ -1,0 +1,159 @@
+
+  Mrv1909 01012021052D          
+
+ 19 20  0  0  0  0            999 V2000
+   -4.0042   -0.3365    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2897    0.0759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2897    0.9009    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5753   -0.3365    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8608    0.0759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1463   -0.3365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4319    0.0759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2824   -0.3365    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2824   -1.1615    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9970   -1.5740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7115   -1.1615    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7115   -0.3365    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9970    0.0759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4961   -1.4164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9810   -0.7490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4961   -0.0815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9970   -2.3990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9970    0.9009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7977   -1.9819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+ 10 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 10 17  2  0  0  0  0
+  2  3  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 11 19  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04433
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CCCN1C(=O)[C@H](CCCNC(N)=N)NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H19N5O2/c12-11(13)14-5-1-3-7-10(18)16-6-2-4-8(16)9(17)15-7/h7-8H,1-6H2,(H,15,17)(H4,12,13,14)/t7-,8-/m0/s1
+
+> <INCHI_KEY>
+ZRJHYOXNWCMGMW-YUMQZZPRSA-N
+
+> <FORMULA>
+C11H19N5O2
+
+> <MOLECULAR_WEIGHT>
+253.3009
+
+> <EXACT_MASS>
+253.153874877
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9999396592555184
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.68446130424735
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-{3-[(3S,8aS)-1,4-dioxo-octahydropyrrolo[1,2-a]pyrazin-3-yl]propyl}guanidine
+
+> <ALOGPS_LOGP>
+-2.17
+
+> <JCHEM_LOGP>
+-2.140307920858981
+
+> <ALOGPS_LOGS>
+-2.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.271356554777084
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.166326854994079
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.31
+
+> <JCHEM_REFRACTIVITY>
+75.7097
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.60e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-3H,5H-pyrrolo[3,2-d]pyrimidin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04433
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00499
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Verpacamide A
+
+> <SYNONYMS>
+Cyclo-(L-arginine-L-proline) inhibitor
+
+$$$$

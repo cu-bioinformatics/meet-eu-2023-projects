@@ -1,0 +1,156 @@
+
+  Mrv1652306231722432D          
+
+ 21 24  0  0  1  0            999 V2000
+    4.3228    1.7357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9629    0.9934    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4311    1.6241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6190    1.4789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3387    0.7029    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8705    0.0722    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.6826    0.2174    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.3340   -0.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0168    0.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7875    0.9666    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.5484    1.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9089    1.7826    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5902   -0.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7781   -0.8489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2463   -0.2182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4342   -0.3634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0976    0.2673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9098    0.1221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1827    1.0432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9948    1.1884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5266    0.5577    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  1  0  0  0
+  6 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 20  1  6  0  0  0
+  5 21  1  0  0  0  0
+ 15 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13533
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28O2/c1-18-9-7-15-14-6-4-13(20)11-12(14)3-5-16(15)17(18)8-10-19(18,2)21/h11,14-17,21H,3-10H2,1-2H3/t14-,15+,16+,17-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+ZXSWTMLNIIZPET-ZOFHRBRSSA-N
+
+> <FORMULA>
+C19H28O2
+
+> <MOLECULAR_WEIGHT>
+288.431
+
+> <EXACT_MASS>
+288.208930142
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.21259218917912
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,10R,11S,14S,15S)-14-hydroxy-14,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-5-one
+
+> <ALOGPS_LOGP>
+3.13
+
+> <JCHEM_LOGP>
+3.3459528460000008
+
+> <ALOGPS_LOGS>
+-3.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.278756208488634
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.5280642934745322
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+84.59289999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.02e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2R,10R,11S,14S,15S)-14-hydroxy-14,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-5-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13533
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Methylestrenolone
+
+> <SYNONYMS>
+Normethandrone
+
+$$$$

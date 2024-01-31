@@ -1,0 +1,155 @@
+
+  Mrv1909 11252021452D          
+
+ 17 18  0  0  0  0            999 V2000
+    0.1086   -0.9688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8221   -0.5596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8221    0.2672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1086    0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6051   -0.5596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6026    0.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3146    0.6784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0299    0.2674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0284   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3158   -0.9700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1069    1.5118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1086   -1.7958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2325    0.9939    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6167    0.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0299    1.2127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6442    1.5752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4455    1.7958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  8  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+  6  4  1  0  0  0  0
+  1 12  2  0  0  0  0
+  5  6  2  0  0  0  0
+  3 13  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 13 15  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 13 16  2  0  0  0  0
+  7  8  2  0  0  0  0
+ 13 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15944
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1(CC(=O)C2=C(C=CC=C2)C1=O)S(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10O5S/c1-11(17(14,15)16)6-9(12)7-4-2-3-5-8(7)10(11)13/h2-5H,6H2,1H3,(H,14,15,16)
+
+> <INCHI_KEY>
+WIXFIQKTHUVFDI-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H10O5S
+
+> <MOLECULAR_WEIGHT>
+254.26
+
+> <EXACT_MASS>
+254.024894596
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0000000162601999
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.265966368176933
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methyl-1,4-dioxo-1,2,3,4-tetrahydronaphthalene-2-sulfonic acid
+
+> <ALOGPS_LOGP>
+-0.47
+
+> <JCHEM_LOGP>
+0.8691278926666667
+
+> <ALOGPS_LOGS>
+-2.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.70703564488432
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.4721387051475514
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.437532857054727
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.50999999999999
+
+> <JCHEM_REFRACTIVITY>
+59.80630000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fimasartan potassium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15944
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Menadione bisulfite
+
+> <SALTS>
+Menadione sodium bisulfite anhydrous; Menadione sodium bisulfite trihydrate
+
+$$$$

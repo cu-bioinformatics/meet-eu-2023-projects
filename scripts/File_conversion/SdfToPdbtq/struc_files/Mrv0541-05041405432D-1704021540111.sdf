@@ -1,0 +1,164 @@
+
+  Mrv0541 05041405432D          
+
+ 22 22  0  0  1  0            999 V2000
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  3  5  1  6  0  0  0
+  6  4  1  0  0  0  0
+  1  7  1  1  0  0  0
+  2  8  1  1  0  0  0
+  9  5  2  0  0  0  0
+ 10  5  1  0  0  0  0
+  6 11  1  6  0  0  0
+ 15  3  1  0  0  0  0
+ 15  6  1  0  0  0  0
+  4 16  1  6  0  0  0
+ 17 12  1  0  0  0  0
+ 17 13  2  0  0  0  0
+ 17 14  2  0  0  0  0
+ 17 16  1  0  0  0  0
+  1 18  1  6  0  0  0
+  2 19  1  6  0  0  0
+  3 20  1  1  0  0  0
+  4 21  1  1  0  0  0
+  6 22  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03935
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)O[C@@]([H])(C(O)=O)[C@]([H])(O)[C@]([H])(O)[C@@]1([H])OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O10S/c7-1-2(8)4(16-17(12,13)14)6(11)15-3(1)5(9)10/h1-4,6-8,11H,(H,9,10)(H,12,13,14)/t1-,2+,3-,4-,6+/m1/s1
+
+> <INCHI_KEY>
+COJBCAMFZDFGFK-TVSWGBMESA-N
+
+> <FORMULA>
+C6H10O10S
+
+> <MOLECULAR_WEIGHT>
+274.203
+
+> <EXACT_MASS>
+273.99946723
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9999920445829336
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.516698361405297
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R,6S)-3,4,6-trihydroxy-5-(sulfooxy)oxane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.59
+
+> <JCHEM_LOGP>
+-4.502545808905509
+
+> <ALOGPS_LOGS>
+-0.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+2.7726560399704847
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.1378794375062427
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.72081235060138
+
+> <JCHEM_POLAR_SURFACE_AREA>
+170.82
+
+> <JCHEM_REFRACTIVITY>
+45.7826
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.82e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03935
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01845
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,4-Dideoxy-O2-Sulfo-Glucuronic Acid
+
+$$$$

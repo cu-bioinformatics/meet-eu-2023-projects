@@ -1,0 +1,163 @@
+
+  Mrv0541 05041406282D          
+
+ 21 22  0  0  1  0            999 V2000
+    1.3556   -0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.5396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4534    1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3984    0.0709    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1681    0.5547    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3522    0.3352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    1.5229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    2.7604    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5549    2.7559    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  6  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  2  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  1  1  0  0  0  0
+  3 12  1  6  0  0  0
+  4 13  1  1  0  0  0
+  5 14  1  1  0  0  0
+ 15  7  2  0  0  0  0
+ 16  8  2  0  0  0  0
+  2 17  1  6  0  0  0
+  3 18  1  1  0  0  0
+  4 19  1  6  0  0  0
+  5 20  1  6  0  0  0
+  6 21  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02742
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12NC(=O)C(=O)N1[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@]2([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N2O6/c11-1-2-3(12)4(13)5(14)6-9-7(15)8(16)10(2)6/h2-6,11-14H,1H2,(H,9,15)/t2-,3-,4+,5+,6+/m1/s1
+
+> <INCHI_KEY>
+OIURYJWYVIAOCW-PQMKYFCFSA-N
+
+> <FORMULA>
+C8H12N2O6
+
+> <MOLECULAR_WEIGHT>
+232.1907
+
+> <EXACT_MASS>
+232.069536126
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0011569070808525243
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.32122454283561
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5R,6R,7S,8R,8aS)-6,7,8-trihydroxy-5-(hydroxymethyl)-octahydroimidazo[1,2-a]pyridine-2,3-dione
+
+> <ALOGPS_LOGP>
+-2.47
+
+> <JCHEM_LOGP>
+-3.745120184
+
+> <ALOGPS_LOGS>
+-0.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.679862245512101
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.937172103150155
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7973834143597296
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.33
+
+> <JCHEM_REFRACTIVITY>
+47.42269999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02742
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01973
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Kifunensine
+
+$$$$

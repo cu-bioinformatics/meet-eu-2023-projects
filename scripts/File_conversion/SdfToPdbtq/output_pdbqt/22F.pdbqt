@@ -1,0 +1,29 @@
+REMARK  Name = 22F
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_7  and  C_8
+REMARK    2  A    between atoms: C_8  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -0.478  -0.448   0.000  0.00  0.00    +0.000 C 
+ATOM      2  O   UNL     1      -1.192  -0.860   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   9
+ATOM      3  F   UNL     1      -0.478   2.852   0.000  0.00  0.00    +0.000 F 
+ATOM      4  C   UNL     1      -0.478   2.027   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -1.192   1.615   0.000  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -1.192   0.790   0.000  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       0.236   1.615   0.000  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       0.236   0.790   0.000  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -0.478   0.377   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   1   9
+BRANCH   1  10
+ATOM     10  C   UNL     1       0.236  -0.860   0.000  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1       0.236  -1.685   0.000  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL     1       0.951  -2.098   0.000  0.00  0.00    +0.000 A 
+ATOM     13  N   UNL     1       1.665  -1.685   0.000  0.00  0.00    +0.000 NA
+ATOM     14  C   UNL     1       1.665  -0.860   0.000  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       0.951  -0.448   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   1  10
+TORSDOF 2

@@ -1,0 +1,171 @@
+WAN
+  Mrv0541 02241214172D          
+
+ 26 28  0  0  0  0            999 V2000
+   -3.7238    2.0487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4688    1.2641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6619    1.0926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4069    0.3079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6223    0.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9078    0.4655    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8918   -0.3595    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4069   -1.0269    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6619   -1.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6223   -0.7720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9078   -1.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9078   -2.0095    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1934   -0.7720    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1934    0.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5211    0.4655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6074    1.2860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4143    1.4575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7499    2.2112    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0854    2.9649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5036    1.8756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9962    2.5467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8268    0.7430    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2748    0.1299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4463   -0.6770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2309   -0.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4025   -1.7389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 14  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 23  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08729
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCC1=NN(C)C2=C1N=C(NC2=O)C1=C(OCC)SC(=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H19N5O4S2/c1-4-6-9-11-12(20(3)19-9)14(21)18-13(17-11)8-7-10(26(16,22)23)25-15(8)24-5-2/h7H,4-6H2,1-3H3,(H2,16,22,23)(H,17,18,21)
+
+> <INCHI_KEY>
+FENWRHVHBZQJGW-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H19N5O4S2
+
+> <MOLECULAR_WEIGHT>
+397.472
+
+> <EXACT_MASS>
+397.087845501
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.04265227171450631
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.1442764209544
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-ethoxy-4-{1-methyl-7-oxo-3-propyl-1H,6H,7H-pyrazolo[4,3-d]pyrimidin-5-yl}thiophene-2-sulfonamide
+
+> <ALOGPS_LOGP>
+2.20
+
+> <JCHEM_LOGP>
+1.1695521569999994
+
+> <ALOGPS_LOGS>
+-3.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.181266841085527
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.501728230214523
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3801761514814337
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.67
+
+> <JCHEM_REFRACTIVITY>
+109.45599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.31e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08729
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-ethoxy-4-(1-methyl-7-oxo-3-propyl-6,7-dihydro-1H-pyrazolo[4,3-d]pyrimidin-5-yl)thiophene-2-sulfonamide
+
+$$$$

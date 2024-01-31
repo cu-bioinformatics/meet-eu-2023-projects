@@ -1,0 +1,172 @@
+NCW
+  Mrv0541 02241213582D          
+
+ 27 28  0  0  0  0            999 V2000
+    0.9435    0.5631    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5348   -0.1765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9566   -0.9233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5170   -1.3630    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4456   -1.3476    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0928   -0.7829    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5837   -2.1647    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0159   -2.8913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0677   -1.7361    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0477   -0.8120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1966   -2.0714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5765   -2.4482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0963   -1.7361    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3048   -0.2262    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7256    0.4876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5488    0.4661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9635    1.1826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7887    1.1729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2250    1.8720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0576    1.8878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4878    2.5888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3122    2.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3827   -0.7950    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8318   -1.2158    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4351   -0.7639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1318   -1.9635    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3074   -1.2037    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 23  1  1  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  5 25  1  6  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  7 26  1  1  0  0  0
+  9 10  1  6  0  0  0
+  9 13  1  0  0  0  0
+  9 27  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 24  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08260
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CO[C@@]([H])(N1C(=S)NCCCCCCCC)[C@]([H])(O)[C@@]([H])(O)[C@]2([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H28N2O4S/c1-2-3-4-5-6-7-8-16-15(22)17-10-9-21-14(17)13(20)12(19)11(10)18/h10-14,18-20H,2-9H2,1H3,(H,16,22)/t10-,11+,12-,13+,14+/m0/s1
+
+> <INCHI_KEY>
+LFSNQOFOMJLHIW-MEBFFEOJSA-N
+
+> <FORMULA>
+C15H28N2O4S
+
+> <MOLECULAR_WEIGHT>
+332.459
+
+> <EXACT_MASS>
+332.176978084
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.979680995625628e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.35006209800459
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.4038525136666657
+
+> <ALOGPS_LOGS>
+-2.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.363622338926733
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.49290521534675
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4857756963834254
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.19000000000001
+
+> <JCHEM_REFRACTIVITY>
+87.502
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.05e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08260
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide
+
+$$$$

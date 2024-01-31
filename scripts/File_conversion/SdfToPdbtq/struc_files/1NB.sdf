@@ -1,0 +1,147 @@
+1NB
+  Mrv0541 02241213042D          
+
+ 15 15  0  0  0  0            999 V2000
+    0.4611    0.4681    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4611   -0.3569    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1285   -0.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2534    1.7056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8900    0.4681    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9910   -0.5868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8736   -1.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2064   -0.8418    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2534    0.8806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0486   -1.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9679    2.1181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1756    0.8806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0446    0.1762    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9814   -0.0918    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2977   -0.2650    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  6  0  0  0
+  1 13  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 14  1  6  0  0  0
+  3  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 12  2  0  0  0  0
+  8  6  1  6  0  0  0
+  7 10  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 15  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB06901
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CC=C)(C=O)[C@@]1([H])CCC[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16O2/c1-2-4-8(7-11)9-5-3-6-10(9)12/h2,7-10,12H,1,3-6H2/t8-,9+,10-/m0/s1
+
+> <INCHI_KEY>
+NEWBFDLFXDTFGD-AEJSXWLSSA-N
+
+> <FORMULA>
+C10H16O2
+
+> <MOLECULAR_WEIGHT>
+168.2328
+
+> <EXACT_MASS>
+168.115029756
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.1733482022224933e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.09265735780217
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-[(1R,2S)-2-hydroxycyclopentyl]pent-4-enal
+
+> <ALOGPS_LOGP>
+1.23
+
+> <JCHEM_LOGP>
+1.294943894
+
+> <ALOGPS_LOGS>
+-1.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.051230648498596
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.925471744073839
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8311357540714237
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+48.3077
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.22e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06901
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2-HYDROXY-CYCLOPENTYL)-PENT-4-ENAL
+
+$$$$

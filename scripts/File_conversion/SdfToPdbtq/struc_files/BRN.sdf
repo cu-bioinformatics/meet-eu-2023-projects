@@ -1,0 +1,166 @@
+BRN
+  Mrv0541 02231217032D          
+
+ 21 22  0  0  0  0            999 V2000
+   -1.2356   -0.8783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5211   -1.2908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5211   -2.1158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2356   -2.5283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9500   -2.1158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9500   -1.2908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2356   -3.3533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9500   -3.7658    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5211   -3.7658    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2356   -0.0533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5211    0.3592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5211    1.1842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1934    1.5967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1934    2.4217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9078    2.8342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6223    2.4217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6223    1.5967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9078    1.1842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3368    2.8342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3368    3.6592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0513    2.4217    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03608
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=N)C1=CC=C(N\N=N\C2=CC=C(C=C2)C(N)=N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H15N7/c15-13(16)9-1-5-11(6-2-9)19-21-20-12-7-3-10(4-8-12)14(17)18/h1-8H,(H3,15,16)(H3,17,18)(H,19,20)
+
+> <INCHI_KEY>
+XNYZHCFCZNMTFY-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H15N7
+
+> <MOLECULAR_WEIGHT>
+281.3158
+
+> <EXACT_MASS>
+281.138893515
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9998885610353114
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.173326192924407
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(2E)-3-(4-carbamimidoylphenyl)triaz-2-en-1-yl]benzene-1-carboximidamide
+
+> <ALOGPS_LOGP>
+1.09
+
+> <JCHEM_LOGP>
+1.7629520969999999
+
+> <ALOGPS_LOGS>
+-3.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.91402861828855
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.06821401114979
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.49
+
+> <JCHEM_REFRACTIVITY>
+108.72829999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.02e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03608
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00754
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diminazene
+
+> <SYNONYMS>
+4,4'-(1-triazene-1,3-diyl)bis-benzenecarboximidamide; 4,4'-(diazoamino)benzamidine; Diminazène; Diminazene; Diminazeno; Diminazenum
+
+> <INTERNATIONAL_BRANDS>
+Azidin; Berenil; Ganasag; Pirocide
+
+$$$$

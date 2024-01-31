@@ -1,0 +1,163 @@
+
+  Mrv1909 05082120232D          
+
+ 22 24  0  0  1  0            999 V2000
+   -0.7604    1.6190    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0459    1.2076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0459    0.3826    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3829    0.3826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3829    1.2076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6663    1.6190    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0951    1.6190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8116    1.2076    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8116    0.3826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0951   -0.0308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5260   -0.0308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7604   -0.0308    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9998   -0.8025    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2607   -1.5562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4711   -1.1765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1667   -1.6190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4600   -0.3518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8311   -0.8025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0972   -0.0308    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4441    0.4747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8117    0.3826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5261   -0.0308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  2  0  0  0  0
+ 10  9  1  0  0  0  0
+  9  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  5  7  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 13 18  1  0  0  0  0
+  1  2  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12  3  1  1  0  0  0
+ 13 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 19 21  1  1  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06329
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)O[C@@H]1C[C@@H](CO)O[C@H]1N1C(=O)SC2=CN=C(N)N=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N4O5S/c1-5(18)20-7-2-6(4-17)21-10(7)16-9-8(22-12(16)19)3-14-11(13)15-9/h3,6-7,10,17H,2,4H2,1H3,(H2,13,14,15)/t6-,7+,10+/m0/s1
+
+> <INCHI_KEY>
+HOOMGTNENMZAFP-NYNCVSEMSA-N
+
+> <FORMULA>
+C12H14N4O5S
+
+> <MOLECULAR_WEIGHT>
+326.33
+
+> <EXACT_MASS>
+326.068490741
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.00023520885121425055
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.292818959291964
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3R,5S)-2-{5-amino-2-oxo-2H,3H-[1,3]thiazolo[4,5-d]pyrimidin-3-yl}-5-(hydroxymethyl)oxolan-3-yl acetate
+
+> <ALOGPS_LOGP>
+-0.48
+
+> <JCHEM_LOGP>
+-0.27781934633333344
+
+> <ALOGPS_LOGS>
+-1.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.741904971607296
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.630105731091279
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.372088874329792
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.87
+
+> <JCHEM_REFRACTIVITY>
+77.2016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.13e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mitoquinone cation mesylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06329
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+RG-7795
+
+$$$$

@@ -1,0 +1,149 @@
+
+  Mrv0541 05041405502D          
+
+ 23 26  0  0  0  0            999 V2000
+   -0.2628    2.8035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3646    1.3382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5222    5.5522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9116    3.4007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5441    2.6320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1097    2.1228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0071    4.8848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1972    3.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4046    3.9596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4445    2.1228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7375    4.4723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9196    2.5075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7771    3.4327    0.0000 Cu  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3491    3.6240    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1896    1.3382    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7375    5.2973    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7401    2.5937    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9566    3.3465    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.7771    2.6077    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.5222    4.2173    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5841    3.2612    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3291    4.0458    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+    1.2251    2.8196    0.0000 O   0  3  0  0  0  0  0  0  0  0  0  0
+  5  1  2  0  0  0  0
+  6  2  2  0  0  0  0
+  7  3  2  0  0  0  0
+  8  4  2  0  0  0  0
+ 14  1  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15  2  1  0  0  0  0
+ 15 10  1  0  0  0  0
+ 16  3  1  0  0  0  0
+ 16 11  1  0  0  0  0
+ 17  4  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18  5  1  0  0  0  0
+ 18  9  2  0  0  0  0
+ 18 13  1  0  0  0  0
+ 19  6  1  0  0  0  0
+ 19 10  2  0  0  0  0
+ 19 13  1  0  0  0  0
+ 20  7  1  0  0  0  0
+ 20 11  2  0  0  0  0
+ 20 13  1  0  0  0  0
+ 21  8  1  0  0  0  0
+ 21 12  2  0  0  0  0
+ 21 13  1  0  0  0  0
+ 22 13  1  0  0  0  0
+ 23 13  1  0  0  0  0
+M  CHG  6  13  -4  18   1  19   1  20   1  22   1  23   1
+M  END
+> <DATABASE_ID>
+DB04231
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[OH2+][Cu-4]([OH2+])([N]1=CNC=C1)([N+]1=CNC=C1)([N+]1=CNC=C1)[N+]1=CNC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/4C3H4N2.Cu.2H2O/c4*1-2-5-3-4-1;;;/h4*1-3H,(H,4,5);;2*1H2/q;;;;+1;;
+
+> <INCHI_KEY>
+HBZDUNQUBNOQIC-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H20CuN8O2
+
+> <MOLECULAR_WEIGHT>
+371.886
+
+> <EXACT_MASS>
+371.100523003
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.711320005102124
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+tris(1H-imidazol-3-ium-3-yl)(3H-1lambda4-imidazol-1-yl)dioxidaniumylcoppertetrauide
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.43
+
+> <JCHEM_REFRACTIVITY>
+109.6885
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04231
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01867
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tetra(imidazole)diaquacopper (I)
+
+$$$$

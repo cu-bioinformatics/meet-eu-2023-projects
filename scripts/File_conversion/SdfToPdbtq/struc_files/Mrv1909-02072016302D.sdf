@@ -1,0 +1,173 @@
+
+  Mrv1909 02072016302D          
+
+ 20 21  0  0  0  0            999 V2000
+   -0.0252    1.9231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6892    1.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0252    0.2731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6892    0.6856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7397    1.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7397    0.6856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9586    1.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4738    1.7655    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4737    0.4307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4541    0.2732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8830    0.2732    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5975    0.6857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5357   -0.5255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2385   -1.9231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7905   -1.3101    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5975   -1.4815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7286   -0.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1686    0.6857    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5810    1.4001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7561    1.4001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  8  1  0  0  0  0
+  4  2  1  0  0  0  0
+  3  4  2  0  0  0  0
+  9  4  1  0  0  0  0
+  5  1  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  5  2  0  0  0  0
+  6 10  1  0  0  0  0
+  9  7  2  0  0  0  0
+  8  7  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 18 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00669
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNS(=O)(=O)CC1=CC=C2NC=C(CCN(C)C)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H21N3O2S/c1-15-20(18,19)10-11-4-5-14-13(8-11)12(9-16-14)6-7-17(2)3/h4-5,8-9,15-16H,6-7,10H2,1-3H3
+
+> <INCHI_KEY>
+KQKPFRSPSRPDEB-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H21N3O2S
+
+> <MOLECULAR_WEIGHT>
+295.4
+
+> <EXACT_MASS>
+295.135447621
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9970462644693793
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.30534147815051
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-{3-[2-(dimethylamino)ethyl]-1H-indol-5-yl}-N-methylmethanesulfonamide
+
+> <ALOGPS_LOGP>
+1.17
+
+> <JCHEM_LOGP>
+0.7419288613400098
+
+> <ALOGPS_LOGS>
+-3.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.140195724720275
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.244987975521886
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.536988551879368
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.2
+
+> <JCHEM_REFRACTIVITY>
+82.08419999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.27e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2S,4R,8S,9S,11S,12R,13S)-12-fluoro-11-hydroxy-8-(2-hydroxyacetyl)-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.0^{2,9}.0^{4,8}.0^{13,18}]icosa-14,17-dien-16-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00669
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00379
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Sumatriptan
+
+> <SYNONYMS>
+(3-[2-(dimethylamino)ethyl]-1H-indol-5-yl)-N-methylmethanesulfonamide; 1-[3-(2-dimethylaminoethyl)-1H-indol-5-yl]-N-methyl-methanesulfonamide; 3-(2-(dimethylamino)ethyl)-N-methyl-1H-indole-5-methanesulfonamide; 3-[2-(dimethylamino)ethyl]-N-methylindole-5-methanesulfonamide; Sumatriptán; Sumatriptan; Sumatriptanum
+
+> <PRODUCTS>
+Act Sumatriptan; Alsuma; Apo-sumatriptan; Ava-sumatriptan; Dom-sumatriptan; Imitrex; Imitrex - Tab 50mg; Imitrex Df - Tab 100mg; Imitrex Df - Tab 25mg; Imitrex Df - Tab 50mg; Imitrex Inj 12mg/ml; Imitrex Tab 100mg; Migranow; Mylan-sumatriptan; Ntp-sumatriptan DF; Nu-sumatriptan; Onzetra; Onzetra Xsail; PHL-sumatriptan; PMS-sumatriptan; Q-sumatriptan; Ratio-sumatriptan; Riva-sumatriptan; Sandoz Sumatriptan; Sdz-sumatriptan; SumaChip; Sumansetron; Sumatriptan; Sumatriptan DF; Sumatriptan Injection; Sumatriptan Injection, USP; Sumatriptan Succinate; Sumatriptan Succinate and Naproxen Sodium; Sumatriptan and Naproxen Sodium; Sumavel DosePro; Suvexx; Taro-sumatriptan; Teva-sumatriptan; Teva-sumatriptan DF; Tosymra; Treximet; ZEMBRACE SymTouch; Zecuity; Zembrace Symtouch
+
+> <INTERNATIONAL_BRANDS>
+Adracon; Altaxa; Apigrane; Boots Pharmacy Migraine Relief; Cinie; Frimig; Illument; Imigen; Imigran; Imigran mite; Imigran Radis; Imigrane; Imitrex Oral; Migralgin; Migraneitor; Nazdav; Sapphirex; Sumatran; Sumax; Suminat; Youshu
+
+> <SALTS>
+Sumatriptan hemisulfate; Sumatriptan succinate
+
+$$$$

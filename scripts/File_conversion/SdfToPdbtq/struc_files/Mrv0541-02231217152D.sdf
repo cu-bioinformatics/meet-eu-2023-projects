@@ -1,0 +1,155 @@
+
+  Mrv0541 02231217152D          
+
+ 17 18  0  0  1  0            999 V2000
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+  6 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03886
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H](O)[C@@H](O)C1=CN=C2N=C(N)NC(=O)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h2-3,6,15-16H,1H3,(H3,10,11,13,14,17)/t3-,6-/m1/s1
+
+> <INCHI_KEY>
+LHQIJBMDNUYRAM-AWFVSMACSA-N
+
+> <FORMULA>
+C9H11N5O3
+
+> <MOLECULAR_WEIGHT>
+237.2153
+
+> <EXACT_MASS>
+237.086189243
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0010329709326894604
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.413339566517323
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-[(1S,2R)-1,2-dihydroxypropyl]-3,4-dihydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.12
+
+> <JCHEM_LOGP>
+-1.7054239406666662
+
+> <ALOGPS_LOGS>
+-1.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.632745521210676
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.986441271471117
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6607095245267692
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.72000000000003
+
+> <JCHEM_REFRACTIVITY>
+58.56649999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.71e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03886
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00708
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Biopterin
+
+$$$$

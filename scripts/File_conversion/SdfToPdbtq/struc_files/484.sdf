@@ -1,0 +1,159 @@
+484
+  Mrv0541 02231214432D          
+
+ 17 19  0  0  0  0            999 V2000
+    5.0992   -1.2518    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020   -0.3499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6702   -0.4268    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8694    0.8062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5511   -0.4554    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5511    1.2518    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.9777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9557   -0.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3846   -0.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992   -0.4268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8136   -0.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3846    0.8107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8136    0.8107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0992    1.2232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2986   -0.0314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2986    0.8279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 12  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 14  2  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00484
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+BrC1=C(NC2=NCCN2)C=CC2=NC=CN=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10BrN5/c12-9-7(17-11-15-5-6-16-11)1-2-8-10(9)14-4-3-13-8/h1-4H,5-6H2,(H2,15,16,17)
+
+> <INCHI_KEY>
+XYLJNLCSTIOKRM-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H10BrN5
+
+> <MOLECULAR_WEIGHT>
+292.135
+
+> <EXACT_MASS>
+291.011957992
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9539593560512221
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.743934063999156
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-bromo-N-(4,5-dihydro-1H-imidazol-2-yl)quinoxalin-6-amine
+
+> <ALOGPS_LOGP>
+1.27
+
+> <JCHEM_LOGP>
+1.3715845303333332
+
+> <ALOGPS_LOGS>
+-3.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.31635216122091
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.2
+
+> <JCHEM_REFRACTIVITY>
+68.4944
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.54e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00484
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00034
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Brimonidine
+
+> <SYNONYMS>
+5-Bromo-6-(2-imidazolin-2-ylamino)quinoxaline; Brimonidina; Brimonidine; Brimonidinum; Bromoxidine
+
+> <PRODUCTS>
+Alphagan; Alphagan P; Apo-brimonidine; Apo-brimonidine-timop; BRIMONIDINE TARTRATE and TIMOLOL MALEATE; Brim-Dor PF; Brimonidine; Brimonidine Ophthalmic; Brimonidine P; Brimonidine Tartrate; Brimonidine Tartrate 0.25% / Ivermectin 1% / Metronidazole 1% / Niacinamide 4%; Brimonidine Tartrate 0.25% / Potassium Azeloyl Diglycinate 8%; Brimonidine Tartrate Ophthalmic Solution; Brimonidine Tartrate Ophthalmic Solution 0.2%; Brimonidine Tartrate Ophthalmic Solution, 0.2%; Brimonidine Tartrate and Timolol Maleate; Brimonidine Tartrate/Timolol Maleate; Brimonidine Tartrate/Timolol Maleate Ophthalmic Solution; Brimonidine tartrate; Combigan; Dom-brimonidine; Jamp-brimonidine; LUMIFY Redness Reliever Eye Drops; Lumify; Med-brimonidine; Mirvaso; Onreltea; PMS-brimonidine; Ratio-brimonidine; Riva-brimonidine; Sandoz Brimonidine; Simbrinza; Tim-Brim-Dor PF; Tim-Brim-Dor-Lat
+
+> <SALTS>
+Brimonidine tartrate
+
+$$$$

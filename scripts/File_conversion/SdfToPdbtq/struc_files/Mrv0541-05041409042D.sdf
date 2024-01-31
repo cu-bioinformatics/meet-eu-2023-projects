@@ -1,0 +1,157 @@
+
+  Mrv0541 05041409042D          
+
+ 19 18  0  0  1  0            999 V2000
+   -1.6500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.7125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    2.8579    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1250    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    2.1434    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    1.4289    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  6  1  0  0  0  0
+ 10  3  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  4  1  0  0  0  0
+ 12  9  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14 11  2  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16  7  1  0  0  0  0
+ 16  9  1  0  0  0  0
+ 17  8  1  0  0  0  0
+ 10 18  1  6  0  0  0
+ 18 17  1  0  0  0  0
+ 10 19  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03187
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CCCCC(O)=O)(CCSCN)SSCCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H23NO3S3/c12-9-16-7-5-10(18-17-8-6-13)3-1-2-4-11(14)15/h10,13H,1-9,12H2,(H,14,15)/t10-/m0/s1
+
+> <INCHI_KEY>
+BFRWEULQQALYNZ-JTQLQIEISA-N
+
+> <FORMULA>
+C11H23NO3S3
+
+> <MOLECULAR_WEIGHT>
+313.5
+
+> <EXACT_MASS>
+313.084005677
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.04232263345979476
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.5565604132317
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6S)-8-[(aminomethyl)sulfanyl]-6-[(2-hydroxyethyl)disulfanyl]octanoic acid
+
+> <ALOGPS_LOGP>
+-0.53
+
+> <JCHEM_LOGP>
+-1.1012278766931023
+
+> <ALOGPS_LOGS>
+-3.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.438226953758301
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.061574995357601
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.330706349560247
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+82.80869999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.05e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03187
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02450
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(Hydroxyethyldithio)-8-(Aminomethylthio)Octanoic Acid
+
+$$$$

@@ -1,0 +1,156 @@
+TPD
+  Mrv0541 02231216362D          
+
+ 19 20  0  0  0  0            999 V2000
+   -0.4288    2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6981   -1.0284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6981   -1.8534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3656   -2.3383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1106   -3.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2856   -3.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3987    3.6385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2463    3.4560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5812    2.4861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9138    2.9711    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3962    2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6511    1.5190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0163    1.0341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6838    1.5190    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0163    0.2091    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8087    0.2091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8413    0.2091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0163   -0.6159    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0307   -2.3383    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 19  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02986
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(S1)S(=O)(=O)NCC1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N2O4S4/c10-18(12,13)8-3-4-9(17-8)19(14,15)11-6-7-2-1-5-16-7/h1-5,11H,6H2,(H2,10,12,13)
+
+> <INCHI_KEY>
+STOTVDLYLKWVJB-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10N2O4S4
+
+> <MOLECULAR_WEIGHT>
+338.447
+
+> <EXACT_MASS>
+337.952339578
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.09501048434624774
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.94158901146946
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N2-[(thiophen-2-yl)methyl]thiophene-2,5-disulfonamide
+
+> <ALOGPS_LOGP>
+0.16
+
+> <JCHEM_LOGP>
+1.158771807666667
+
+> <ALOGPS_LOGS>
+-2.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+8.932735163178332
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.040616224779578
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+72.19860000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02986
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03089
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(2-Thienylmethyl)-2,5-Thiophenedisulfonamide
+
+$$$$

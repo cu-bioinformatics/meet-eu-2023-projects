@@ -1,0 +1,140 @@
+TL6
+  Mrv0541 02241214132D          
+
+ 13 13  0  0  0  0            999 V2000
+   -1.7153   -1.6900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2304   -1.0226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4854   -0.2380    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8179    0.2470    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3699    0.8601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1505   -0.2380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6341    0.0170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4054   -1.0226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0795   -1.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2659    0.8601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5411    0.6885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0931    1.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8382    2.0862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08628
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(O)[C@](C)(SC1=O)\C=C\C=C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O2S/c1-4-5-6-10(3)8(11)7(2)9(12)13-10/h4-6,11H,1H2,2-3H3/b6-5+/t10-/m1/s1
+
+> <INCHI_KEY>
+TXGVAQMIEXZDPM-BRAIEQGRSA-N
+
+> <FORMULA>
+C10H12O2S
+
+> <MOLECULAR_WEIGHT>
+196.266
+
+> <EXACT_MASS>
+196.055800318
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.7323979782856627
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.573584438057335
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(5R)-5-[(1E)-buta-1,3-dien-1-yl]-4-hydroxy-3,5-dimethyl-2,5-dihydrothiophen-2-one
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+2.3034240280000002
+
+> <ALOGPS_LOGS>
+-2.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.562742253766512
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.11522866158555
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+57.7298
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.82e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08628
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(5R)-5-[(1E)-BUTA-1,3-DIENYL]-4-HYDROXY-3,5-DIMETHYLTHIOPHEN-2(5H)-ONE
+
+$$$$

@@ -1,0 +1,197 @@
+
+  Mrv1909 02062022452D          
+
+ 31 34  0  0  0  0            999 V2000
+    0.8340    0.3306    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8340   -0.4943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6590    0.3306    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6590   -0.4943    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4436   -0.7492    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.9285   -0.0818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4436    0.5855    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6473   -0.4868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6473    0.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6986   -1.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5055   -1.7054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1465   -2.1470    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1195    0.7431    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5948    0.3306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5948   -0.3293    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2506   -1.0777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6590    1.1556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2009    1.7365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6145    1.0227    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0635    0.4088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3093    0.7431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3942    1.5637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2770   -0.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0640   -0.6357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2429   -1.4411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6350   -1.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8480   -1.7511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6691   -0.9457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8722   -0.7322    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6473   -0.0524    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8108    2.1470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  1  0  0  0
+  1  2  1  0  0  0  0
+  2 16  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  5 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  3 17  1  6  0  0  0
+ 14 21  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 23 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 24 30  1  0  0  0  0
+ 22 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00301
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=C(Cl)C=CC=C1F)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H17ClFN3O5S/c1-7-10(12(23-29-7)11-8(20)5-4-6-9(11)21)15(25)22-13-16(26)24-14(18(27)28)19(2,3)30-17(13)24/h4-6,13-14,17H,1-3H3,(H,22,25)(H,27,28)/t13-,14+,17-/m1/s1
+
+> <INCHI_KEY>
+UIOFUWFRIANQPC-JKIFEVAISA-N
+
+> <FORMULA>
+C19H17ClFN3O5S
+
+> <MOLECULAR_WEIGHT>
+453.872
+
+> <EXACT_MASS>
+453.056147271
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9994415917645392
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.690961989530194
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-[3-(2-chloro-6-fluorophenyl)-5-methyl-1,2-oxazole-4-amido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+2.444441594666667
+
+> <ALOGPS_LOGS>
+-3.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.638424587889926
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.747546333668006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9294601599604333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.74
+
+> <JCHEM_REFRACTIVITY>
+106.85350000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.45e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cefazolin sodium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00301
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00609
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Flucloxacillin
+
+> <SYNONYMS>
+(2S,5R,6R)-6-({[3-(2-chloro-6-fluorophenyl)-5-methyl-1,2-oxazol-4-yl]carbonyl}amino)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 3-(2-Chloro-6-fluorophenyl)-5-methyl-4-isoxazolylpenicillin; Floxacillin; Flucloxacilina; Flucloxacillin; Flucloxacilline; Flucloxacillinum
+
+> <PRODUCTS>
+Fluclox 250; Fluclox 250 Cap 250mg; Fluclox 500 Cap 500mg; Fluclox-125 Pws 125mg/5ml; Fluclox-250 Cap 250mg
+
+> <INTERNATIONAL_BRANDS>
+Flopen; Floxapen; Fluclox; Softapen; Staphylex
+
+> <SALTS>
+Flucloxacillin sodium
+
+$$$$

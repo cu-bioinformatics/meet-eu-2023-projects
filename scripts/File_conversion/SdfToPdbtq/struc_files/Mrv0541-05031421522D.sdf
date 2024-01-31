@@ -1,0 +1,179 @@
+
+  Mrv0541 05031421522D          
+
+ 31 30  0  0  1  0            999 V2000
+    2.5855    4.0954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3013    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3013   -5.8046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1743   -6.1066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -4.6776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5855    3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868    2.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    2.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8724    1.6204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0145    1.6204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8724    0.7954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4434   -1.6796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8724   -4.9796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8724   -4.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1579   -2.0921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7289   -0.4421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4434   -0.8546    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0145    0.7954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1579    0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868   -5.3921    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3000    0.3829    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4434    0.7954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -2.9171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9829   -2.9171    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7289    0.3829    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1579   -3.7421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1579   -0.4421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1579   -2.9171    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7289   -1.2671    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  0  0  0  0
+  7  2  1  0  0  0  0
+  8  6  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 12  1  0  0  0  0
+ 21 13  1  0  0  0  0
+ 22  3  1  0  0  0  0
+ 22  4  1  0  0  0  0
+ 22  5  1  0  0  0  0
+ 22 15  1  0  0  0  0
+ 23 20  2  0  0  0  0
+ 24 21  2  0  0  0  0
+ 27 18  1  0  0  0  0
+ 27 20  1  0  0  0  0
+ 28 16  1  0  0  0  0
+ 19 29  1  6  0  0  0
+ 29 21  1  0  0  0  0
+ 30 17  1  0  0  0  0
+ 30 25  2  0  0  0  0
+ 30 26  1  0  0  0  0
+ 30 28  1  0  0  0  0
+ 19 31  1  6  0  0  0
+M  CHG  2  22   1  26  -1
+M  END
+> <DATABASE_ID>
+DB03827
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CCP([O-])(=O)OCC[N+](C)(C)C)(COC(=O)CCCCC)OC(=O)CCCCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H42NO7P/c1-6-8-10-12-20(23)27-18-19(29-21(24)13-11-9-7-2)14-17-30(25,26)28-16-15-22(3,4)5/h19H,6-18H2,1-5H3/t19-/m0/s1
+
+> <INCHI_KEY>
+BRTDPJPTKQNAET-IBGZPJMESA-N
+
+> <FORMULA>
+C21H42NO7P
+
+> <MOLECULAR_WEIGHT>
+451.5344
+
+> <EXACT_MASS>
+451.269889215
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+72
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.8727911125226981e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+50.3148857928097
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(trimethylazaniumyl)ethyl [(3S)-3,4-bis(hexanoyloxy)butyl]phosphonate
+
+> <ALOGPS_LOGP>
+-0.01
+
+> <JCHEM_LOGP>
+-1.5285738698050788
+
+> <ALOGPS_LOGS>
+-5.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2724901572644067
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.741521936087601
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.96000000000001
+
+> <JCHEM_REFRACTIVITY>
+126.87809999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+20
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03827
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00186
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3s)-3,4-Di-N-Hexanoyloxybutyl-1-Phosphocholine
+
+$$$$

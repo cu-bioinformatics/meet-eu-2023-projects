@@ -1,0 +1,159 @@
+CNQ
+  Mrv0541 02231216592D          
+
+ 20 22  0  0  0  0            999 V2000
+   -2.2909   -1.1611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5764   -1.5736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8620   -1.1611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8620   -0.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5764    0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2909   -0.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1475   -1.5736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5670   -1.1611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5670   -0.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1475    0.0764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5764    0.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2909    1.3139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8620    1.3139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2815    0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2815    0.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9959    1.3139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7104    0.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7104    0.0764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9959   -0.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4249    1.3139    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03509
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C1=CC=CC2=NC=C(N=C12)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10ClN3O/c16-10-6-4-9(5-7-10)13-8-18-12-3-1-2-11(15(17)20)14(12)19-13/h1-8H,(H2,17,20)
+
+> <INCHI_KEY>
+FLYGLPYJEQPCFY-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10ClN3O
+
+> <MOLECULAR_WEIGHT>
+283.712
+
+> <EXACT_MASS>
+283.051239664
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.163210011409269e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.685411528559207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(4-chlorophenyl)quinoxaline-5-carboxamide
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+2.7868390283333335
+
+> <ALOGPS_LOGS>
+-4.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.096626545983888
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.2371543901772546
+
+> <JCHEM_POLAR_SURFACE_AREA>
+68.87
+
+> <JCHEM_REFRACTIVITY>
+76.0978
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.19e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03509
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00973
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide
+
+$$$$

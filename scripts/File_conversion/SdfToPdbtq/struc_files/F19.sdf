@@ -1,0 +1,157 @@
+F19
+  Mrv0541 02241213372D          
+
+ 21 22  0  0  0  0            999 V2000
+   -1.7849   -1.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0705   -0.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0705   -0.0437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7849    0.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4995   -0.0437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4995   -0.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2140   -1.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9285   -0.8688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9285   -0.0437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2140    0.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3559    0.3688    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0566   -0.3457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7685    1.0833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7876    0.7814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5022    0.3688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0732    0.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3586    0.7814    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9312    1.1939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6293    0.0668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2167    0.7814    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8042    1.4958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07732
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OP(O)(=O)OCCNS(=O)(=O)C1=CC2=C(C=CC=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14NO6PS/c14-20(15,16)19-8-7-13-21(17,18)12-6-5-10-3-1-2-4-11(10)9-12/h1-6,9,13H,7-8H2,(H2,14,15,16)
+
+> <INCHI_KEY>
+FCROUVVWZFPGFM-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14NO6PS
+
+> <MOLECULAR_WEIGHT>
+331.281
+
+> <EXACT_MASS>
+331.027944387
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8572651104164448
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.838034335568878
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[2-(naphthalene-2-sulfonamido)ethoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+0.46
+
+> <JCHEM_LOGP>
+0.9787613646666662
+
+> <ALOGPS_LOGS>
+-2.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.52538557429733
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.500978118798573
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.93
+
+> <JCHEM_REFRACTIVITY>
+76.72800000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07732
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[(2-NAPHTHYLSULFONYL)AMINO]ETHYL DIHYDROGEN PHOSPHATE
+
+$$$$

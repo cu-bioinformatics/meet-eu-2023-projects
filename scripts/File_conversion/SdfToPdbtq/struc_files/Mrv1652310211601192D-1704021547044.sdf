@@ -1,0 +1,142 @@
+
+  Mrv1652310211601192D          
+
+ 16 15  0  0  0  0            999 V2000
+    0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4122   -0.3157    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2334    0.5834    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3343    0.7622    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3157    0.7622    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5834    0.5834    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7622   -0.3157    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  CHG  1   5   1
+M  ISO  8   1   2   3   2   4   2  10   2  11   2  12   2  14   2  15   2
+M  ISO  1  16   2
+M  END
+> <DATABASE_ID>
+DB12628
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[2H]C([2H])([2H])[N+](CCO)(C([2H])([2H])[2H])C([2H])([2H])[2H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1/i1D3,2D3,3D3
+
+> <INCHI_KEY>
+OEYIOHPDSNJKLS-GQALSZNTSA-N
+
+> <FORMULA>
+C5H14NO
+
+> <MOLECULAR_WEIGHT>
+113.227
+
+> <EXACT_MASS>
+113.163481208
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.565614618192722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-hydroxyethyl)tri(2H3)methylazanium
+
+> <ALOGPS_LOGP>
+-3.59
+
+> <JCHEM_LOGP>
+-4.662269162805079
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.968714076810006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.249884462803304
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+42.193999999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2-hydroxyethyl)tri(2H3)methylazanium
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12628
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Methyl-D9-choline
+
+$$$$

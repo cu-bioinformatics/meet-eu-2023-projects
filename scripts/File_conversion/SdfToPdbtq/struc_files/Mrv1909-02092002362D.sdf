@@ -1,0 +1,177 @@
+
+  Mrv1909 02092002362D          
+
+ 29 31  0  0  0  0            999 V2000
+    1.0827   -1.8075    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4109   -1.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7545   -1.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6585   -0.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5069   -0.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9666    0.1369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8152    0.0662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6484    0.8794    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.5511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7898    2.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2848    3.0008    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0980    2.9301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5929    3.6017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9312    3.7432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1181    3.8493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5677   -1.5953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1988    0.1369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3653   -1.5646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6415   -3.7176    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1241   -3.0555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4308   -3.4765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4308   -2.6214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6372   -2.3714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1544   -3.8493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1502   -2.2180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8561   -2.6214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8561   -3.4765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5929   -2.1872    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.6827   -3.0423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  2  0  0  0  0
+  5  3  2  0  0  0  0
+ 16  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+ 17  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  6  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 14 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 15 14  1  0  0  0  0
+  2 18  1  0  0  0  0
+ 23 18  2  0  0  0  0
+ 20 19  1  0  0  0  0
+ 21 19  1  0  0  0  0
+ 23 20  1  0  0  0  0
+ 29 20  2  0  0  0  0
+ 22 21  2  0  0  0  0
+ 24 21  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 25 22  1  0  0  0  0
+ 27 24  2  0  0  0  0
+ 26 25  2  0  0  0  0
+ 27 26  1  0  0  0  0
+ 28 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08009
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(Cl)C=C3)=C1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H27ClN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-
+
+> <INCHI_KEY>
+XPLJEFSRINKZLC-ATVHPVEESA-N
+
+> <FORMULA>
+C22H27ClN4O2
+
+> <MOLECULAR_WEIGHT>
+414.928
+
+> <EXACT_MASS>
+414.182253835
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9909439665141884
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.2289102077241
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-{[(3Z)-5-chloro-2-oxo-2,3-dihydro-1H-indol-3-ylidene]methyl}-N-[2-(diethylamino)ethyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide
+
+> <ALOGPS_LOGP>
+3.64
+
+> <JCHEM_LOGP>
+3.388719553666666
+
+> <ALOGPS_LOGS>
+-4.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.821905018309575
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.268056894425841
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.04174504812807
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.23
+
+> <JCHEM_REFRACTIVITY>
+120.8547
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.20e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-4-(2,5-difluorophenyl)-N-[(3R,4S)-3-fluoro-1-methylpiperidin-4-yl]-2-(hydroxymethyl)-N-methyl-2-phenyl-5H-pyrrole-1-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08009
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+SU-11652
+
+$$$$

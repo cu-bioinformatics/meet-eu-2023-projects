@@ -1,0 +1,181 @@
+INQ
+  Mrv0541 02231216492D          
+
+ 29 32  0  0  0  0            999 V2000
+   -3.6807    0.5107    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5057    0.5107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6807   -0.3143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8557    0.5107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3708   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5862    0.0982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5862    0.9232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3708    1.1781    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8717   -0.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1572    0.0982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1572    0.9232    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8717    1.3357    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2590    2.0641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4844    2.0641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5572   -0.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2717   -1.5518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2717   -2.3768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5572   -2.7893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1572   -2.3768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1572   -1.5518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5572   -1.1393    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2717    0.9232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5572    1.3357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5572    2.1607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2717    2.5732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9862    2.1607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9862    1.3357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7006    0.9232    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6807    1.3357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 29  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 27  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03262
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC2=C(S1)S(=O)(=O)N(C(CN1CCOCC1)=C2)C1=CC(O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19N3O6S3/c18-28(22,23)16-9-12-8-14(11-19-4-6-26-7-5-19)20(29(24,25)17(12)27-16)13-2-1-3-15(21)10-13/h1-3,8-10,21H,4-7,11H2,(H2,18,22,23)
+
+> <INCHI_KEY>
+PZLYYZPXSSNGJS-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H19N3O6S3
+
+> <MOLECULAR_WEIGHT>
+457.544
+
+> <EXACT_MASS>
+457.043597425
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.07200428394016992
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.36603743546621
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(3-hydroxyphenyl)-3-[(morpholin-4-yl)methyl]-1,1-dioxo-2H-1lambda6-thieno[3,2-e][1,2]thiazine-6-sulfonamide
+
+> <ALOGPS_LOGP>
+0.96
+
+> <JCHEM_LOGP>
+1.0215628873333333
+
+> <ALOGPS_LOGS>
+-3.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.400477260298313
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.116445149010724
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.51323414821574
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.24
+
+> <JCHEM_REFRACTIVITY>
+108.91810000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03262
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01890
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Al-6619, [2h-Thieno[3,2-E]-1,2-Thiazine-6-Sulfonamide,2-(3-Hydroxyphenyl)-3-(4-Morpholinyl)-, 1,1-Dioxide]
+
+$$$$

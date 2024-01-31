@@ -1,0 +1,155 @@
+
+  Mrv1572001271616192D          
+
+ 20 21  0  0  0  0            999 V2000
+    1.4289    8.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    7.4250    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    7.0125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.7750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    5.7750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0329    4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6829    4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    4.9500    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  2  0  0  0  0
+  7  1  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  3  2  0  0  0  0
+  9  4  1  0  0  0  0
+ 10  5  2  0  0  0  0
+ 10  6  1  0  0  0  0
+ 11  7  2  0  0  0  0
+ 11  8  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15  7  1  0  0  0  0
+ 15 12  2  0  0  0  0
+ 16  8  2  0  0  0  0
+ 16 12  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 20 10  1  0  0  0  0
+ 20 17  1  0  0  0  0
+ 20 18  2  0  0  0  0
+ 20 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11547
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC(C)=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13BrN4O2S/c1-7-11(13)8(2)16-12(15-7)17-20(18,19)10-5-3-9(14)4-6-10/h3-6H,14H2,1-2H3,(H,15,16,17)
+
+> <INCHI_KEY>
+KWXCNODTHBHSIQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H13BrN4O2S
+
+> <MOLECULAR_WEIGHT>
+357.23
+
+> <EXACT_MASS>
+355.99426
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.255751154866566
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(5-bromo-4,6-dimethylpyrimidin-2-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.71
+
+> <JCHEM_LOGP>
+1.418753771333333
+
+> <ALOGPS_LOGS>
+-3.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.989270584903777
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9704131063207693
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+81.00669999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfabromomethazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11547
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Sulfabromomethazine
+
+> <SYNONYMS>
+5-bromosulfamethazine; Bromosulfamethazine
+
+> <SALTS>
+Sulfabromomethazine sodium
+
+$$$$

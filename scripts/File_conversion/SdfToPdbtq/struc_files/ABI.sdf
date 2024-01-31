@@ -1,0 +1,143 @@
+ABI
+  Mrv0541 02231215502D          
+
+ 12 13  0  0  0  0            999 V2000
+    0.3102    0.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3102   -0.8174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4043   -1.2299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1187   -0.8174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1187    0.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4043    0.4201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0247    0.4201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3883   -0.4049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0247    1.2451    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7392    0.0076    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.9033   -1.0723    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9033    0.2626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+M  CHG  1  10   1
+M  END
+> <DATABASE_ID>
+DB01939
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=[NH2+])C1=CC2=C(C=C1)N=CN2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8N4/c9-8(10)5-1-2-6-7(3-5)12-4-11-6/h1-4H,(H3,9,10)(H,11,12)/p+1
+
+> <INCHI_KEY>
+UHGFPMUGEQINGV-UHFFFAOYSA-O
+
+> <FORMULA>
+C8H9N4
+
+> <MOLECULAR_WEIGHT>
+161.1839
+
+> <EXACT_MASS>
+161.082721308
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.040961447740991
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.751650755233335
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[amino(1H-1,3-benzodiazol-6-yl)methylidene]azanium
+
+> <ALOGPS_LOGP>
+-0.58
+
+> <JCHEM_LOGP>
+-0.19050144982470174
+
+> <ALOGPS_LOGS>
+-2.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.768753378793763
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.917419654537136
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.28999999999999
+
+> <JCHEM_REFRACTIVITY>
+57.440999999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01939
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00397
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Amidino-Benzimidazole
+
+$$$$

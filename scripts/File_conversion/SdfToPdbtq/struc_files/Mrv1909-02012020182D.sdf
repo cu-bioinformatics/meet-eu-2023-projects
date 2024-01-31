@@ -1,0 +1,180 @@
+
+  Mrv1909 02012020182D          
+
+ 27 30  0  0  0  0            999 V2000
+   -2.5240   -0.6023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5240    0.2007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8141    0.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8141    1.4382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5240    1.8491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2524    1.4475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2524    0.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9107   -0.0233    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4484   -0.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1184    0.1821    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1184   -0.6023    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8327   -1.0319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3993   -1.0319    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3150   -0.6491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3150    0.1775    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0250    0.5978    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7345    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4630    0.5837    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4630    1.4148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1868    1.7978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1774    0.1680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9107    0.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7345   -0.6351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3899    0.6070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3993   -1.8491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1184   -1.4568    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1184    1.0365    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  2  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9  1  2  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12  1  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 21 18  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 23 17  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 24 10  1  0  0  0  0
+ 25 13  1  0  0  0  0
+ 11 26  1  1  0  0  0
+ 10 27  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB13399
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC3=CNC4=CC=CC(=C34)[C@@]1([H])C[C@@H](CN2C)NC(=O)N(CC)CC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H28N4O/c1-4-24(5-2)20(25)22-14-10-16-15-7-6-8-17-19(15)13(11-21-17)9-18(16)23(3)12-14/h6-8,11,14,16,18,21H,4-5,9-10,12H2,1-3H3,(H,22,25)/t14-,16+,18+/m0/s1
+
+> <INCHI_KEY>
+JOAHPSVPXZTVEP-YXJHDRRASA-N
+
+> <FORMULA>
+C20H28N4O
+
+> <MOLECULAR_WEIGHT>
+340.471
+
+> <EXACT_MASS>
+340.226311538
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.7639855087422335
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.1445545522771
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3,3-diethyl-1-[(2R,4S,7R)-6-methyl-6,11-diazatetracyclo[7.6.1.0^{2,7}.0^{12,16}]hexadeca-1(16),9,12,14-tetraen-4-yl]urea
+
+> <ALOGPS_LOGP>
+2.58
+
+> <JCHEM_LOGP>
+2.202213672
+
+> <ALOGPS_LOGS>
+-3.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.072397770693936
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.53918868258374
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.510146430301204
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+101.19310000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.75e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,8H,9H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13399
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Terguride
+
+> <SYNONYMS>
+Tergurida; Terguride; Terguridum
+
+> <INTERNATIONAL_BRANDS>
+Teluron
+
+$$$$

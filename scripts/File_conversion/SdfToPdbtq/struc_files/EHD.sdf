@@ -1,0 +1,173 @@
+EHD
+  Mrv0541 02231217502D          
+
+ 26 30  0  0  0  0            999 V2000
+   -1.5381   -1.8849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2832   -1.1003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8352   -0.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6422   -0.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1942   -0.0456    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9393    0.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4913    1.3521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5803    0.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7733    0.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1323    0.9105    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.2756    1.7230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5388    1.4836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7458    1.2562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4762   -0.9288    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1912   -1.4137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8587   -0.9288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6657   -1.1003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2177   -0.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9627    0.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558    0.4689    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6037   -0.1442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2213   -0.1442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0247   -0.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5767   -0.0456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3217    0.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5148    0.9105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 22  2  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  2  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04690
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=CC=CC=C4N=C13)C2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H16N2O4/c1-2-20(25)14-8-16-17-12(7-11-5-3-4-6-15(11)21-17)9-22(16)18(23)13(14)10-26-19(20)24/h3-8,25H,2,9-10H2,1H3/t20-/m0/s1
+
+> <INCHI_KEY>
+VSJKWCGYPAHWDS-FQEVSTJZSA-N
+
+> <FORMULA>
+C20H16N2O4
+
+> <MOLECULAR_WEIGHT>
+348.352
+
+> <EXACT_MASS>
+348.11100701
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+9.889409647373279e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.402929817367834
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(19S)-19-ethyl-19-hydroxy-17-oxa-3,13-diazapentacyclo[11.8.0.0^{2,11}.0^{4,9}.0^{15,20}]henicosa-1(21),2,4,6,8,10,15(20)-heptaene-14,18-dione
+
+> <ALOGPS_LOGP>
+1.91
+
+> <JCHEM_LOGP>
+1.2202432380000001
+
+> <ALOGPS_LOGS>
+-2.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.71053349505143
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.073286676093204
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.73
+
+> <JCHEM_REFRACTIVITY>
+94.4925
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.11e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04690
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Camptothecin
+
+> <SYNONYMS>
+(+)-camptothecin; (+)-camptothecine; (S)-(+)-camptothecin; 20(S)-camptothecine; 21,22-Secocamptothecin-21-oic acid lactone; Camptothecine; D-camptothecin
+
+$$$$

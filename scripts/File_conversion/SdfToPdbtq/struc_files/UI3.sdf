@@ -1,0 +1,164 @@
+UI3
+  Mrv0541 02231216392D          
+
+ 24 26  0  0  0  0            999 V2000
+   -1.3014   -1.5169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5869   -1.9294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1275   -1.5169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1275   -0.6919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5869   -0.2794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3014   -0.6919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8420   -1.9294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5565   -1.5169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5565   -0.6919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8420   -0.2794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2710   -0.2794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9854   -0.6919    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2710    0.5456    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0159   -0.2794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0159    0.5456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5869    0.5456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2544    1.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9994    1.8151    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1744    1.8151    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0805    1.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4843    2.4826    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9693    3.1500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8169    2.9675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1518    1.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03046
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=C2C=CC(=CC2=C1C1=CN(N=C1)S(C)(=O)=O)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16N4O3S/c1-23-14-6-5-10-3-4-11(16(17)18)7-13(10)15(14)12-8-19-20(9-12)24(2,21)22/h3-9H,1-2H3,(H3,17,18)
+
+> <INCHI_KEY>
+KQUXAFOLFXHVQN-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H16N4O3S
+
+> <MOLECULAR_WEIGHT>
+344.388
+
+> <EXACT_MASS>
+344.094311088
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9999452781107977
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.963447179517374
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-(1-methanesulfonyl-1H-pyrazol-4-yl)-7-methoxynaphthalene-2-carboximidamide
+
+> <ALOGPS_LOGP>
+1.49
+
+> <JCHEM_LOGP>
+0.49177705666666655
+
+> <ALOGPS_LOGS>
+-3.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.26139249014804
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.06
+
+> <JCHEM_REFRACTIVITY>
+102.33879999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.45e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03046
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03180
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-Methoxy-8-[1-(Methylsulfonyl)-1h-Pyrazol-4-Yl]Naphthalene-2-Carboximidamide
+
+$$$$

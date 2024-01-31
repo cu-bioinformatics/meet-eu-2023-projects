@@ -1,0 +1,172 @@
+
+  Mrv1718001051815262D          
+
+ 28 30  0  0  1  0            999 V2000
+   -1.2400    2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4331    2.4949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1190    3.1080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9259    2.9365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809    2.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6288    1.5387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1781    1.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    0.7541    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992    0.4992    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837    0.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837   -1.4124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    0.1271    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6684    1.0091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8399    1.8160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4780    3.5496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2849    3.3780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8370    3.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3890    4.6042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 10 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+  8 23  1  1  0  0  0
+ 23 24  1  0  0  0  0
+  4 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06166
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CO[P@](=O)(C1=C(NC2=CC=C(Cl)C=C12)C(N)=O)C1=CC(C)=CC(\C=C\C#N)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H17ClN3O3P/c1-12-8-13(4-3-7-22)10-15(9-12)28(26,27-2)19-16-11-14(21)5-6-17(16)24-18(19)20(23)25/h3-6,8-11,24H,1-2H3,(H2,23,25)/b4-3+/t28-/m0/s1
+
+> <INCHI_KEY>
+CGBYTKOSZYQOPV-CCEZBSFNSA-N
+
+> <FORMULA>
+C20H17ClN3O3P
+
+> <MOLECULAR_WEIGHT>
+413.8
+
+> <EXACT_MASS>
+413.0696061
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.90385890858452
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(S)-(methyl (2-carbamoyl-5-chloro-1H-indol-3-yl)({3-[(1E)-2-cyanoeth-1-en-1-yl]-5-methylphenyl})phosphinate)
+
+> <ALOGPS_LOGP>
+3.47
+
+> <JCHEM_LOGP>
+3.5385999999999993
+
+> <ALOGPS_LOGS>
+-4.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.488223205873034
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.803330420571113
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5819113060153693
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.97
+
+> <JCHEM_REFRACTIVITY>
+110.508
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.43e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(S)-(methyl 2-carbamoyl-5-chloro-1H-indol-3-yl(3-[(1E)-2-cyanoeth-1-en-1-yl]-5-methylphenyl)phosphinate)
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06166
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Fosdevirine
+
+> <SYNONYMS>
+Fosdevirine
+
+$$$$

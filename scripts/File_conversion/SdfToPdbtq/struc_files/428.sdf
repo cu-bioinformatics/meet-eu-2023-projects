@@ -1,0 +1,162 @@
+428
+  Mrv0541 02231214402D          
+
+ 18 18  0  0  1  0            999 V2000
+    4.2365   -1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.0495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.6005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.0495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -2.8381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.8745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    3.3496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.8745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.1120    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    2.5246    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.3630    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5220    0.0495    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8075   -1.1880    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5220   -1.6005    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2365   -0.3630    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5220   -2.4256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    2.5246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+ 11  2  1  6  0  0  0
+ 13  3  1  1  0  0  0
+ 15  4  1  1  0  0  0
+  5 16  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7 10  2  0  0  0  0
+ 12  8  1  1  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB00428
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(N=O)C(=O)N[C@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15N3O7/c1-11(10-17)8(16)9-4-6(14)5(13)3(2-12)18-7(4)15/h3-7,12-15H,2H2,1H3,(H,9,16)/t3-,4-,5-,6-,7+/m1/s1
+
+> <INCHI_KEY>
+ZSJLQEPLLKMAKR-GKHCUFPYSA-N
+
+> <FORMULA>
+C8H15N3O7
+
+> <MOLECULAR_WEIGHT>
+265.2206
+
+> <EXACT_MASS>
+265.090999849
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.4019766222054744e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.74213525939503
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methyl-3-nitroso-1-[(2S,3R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea
+
+> <ALOGPS_LOGP>
+-1.71
+
+> <JCHEM_LOGP>
+-2.7202855550000002
+
+> <ALOGPS_LOGS>
+-0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.495225806417498
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.42514615892902
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9810236083276225
+
+> <JCHEM_POLAR_SURFACE_AREA>
+151.92000000000002
+
+> <JCHEM_REFRACTIVITY>
+55.955200000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00428
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00209
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Streptozocin
+
+> <SYNONYMS>
+2-Deoxy-2-(((methylnitrosoamino)carbonyl)amino)-D-glucopyranose; 2-Deoxy-2-(3-methyl-3-nitrosoureido)-D-glucopyranose; Estreptozocina; N-D-Glucosyl-(2)-N'-nitrosomethylharnstoff; N-D-Glucosyl-(2)-N'-nitrosomethylurea; Streptozocin; Streptozocine; Streptozocinium; Streptozocinum; Streptozotocin
+
+> <PRODUCTS>
+Zanosar; Zanosar Sterile Powder
+
+$$$$

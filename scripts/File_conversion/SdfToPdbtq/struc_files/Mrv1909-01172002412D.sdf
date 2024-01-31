@@ -1,0 +1,164 @@
+
+  Mrv1909 01172002412D          
+
+ 19 19  0  0  0  0            999 V2000
+   -1.1112    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3684    0.2232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7760    1.4946    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6551   -0.1844    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1932    0.2232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6600   -1.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4026    1.4314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4456    1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3780   -1.4218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4075    2.2515    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0533   -1.4265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3202    1.0238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7666   -1.0189    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9115   -0.1844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4799   -1.4314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0485   -2.2515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0286    1.4460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1982   -1.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9115   -1.4363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  1  1  0  0  0  0
+  8  3  1  0  0  0  0
+  9  6  2  0  0  0  0
+ 10  7  2  0  0  0  0
+ 11  6  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14  5  1  0  0  0  0
+ 15 13  1  0  0  0  0
+ 16 11  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18 15  1  0  0  0  0
+ 19 18  1  0  0  0  0
+  5  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09009
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCNC(C)C(=O)NC1=C(SC=C1C)C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H20N2O3S/c1-5-6-14-9(3)12(16)15-10-8(2)7-19-11(10)13(17)18-4/h7,9,14H,5-6H2,1-4H3,(H,15,16)
+
+> <INCHI_KEY>
+QTGIAADRBBLJGA-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H20N2O3S
+
+> <MOLECULAR_WEIGHT>
+284.374
+
+> <EXACT_MASS>
+284.119463206
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9795980329529448
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.54147076251795
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl 4-methyl-3-[2-(propylamino)propanamido]thiophene-2-carboxylate
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+3.2472810526666667
+
+> <ALOGPS_LOGS>
+-4.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.611078430441422
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.6819138839737
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.43
+
+> <JCHEM_REFRACTIVITY>
+76.7782
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.85e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+edaglitazone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09009
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Articaine
+
+> <SYNONYMS>
+Articaína; Articaine; Articainum
+
+> <PRODUCTS>
+4% Astracaine Dental With Epinephrine 1:200,000 (0.005mg/ml); 4% Astracaine Dental With Epinephrine Forte 1:100,000 (0.01mg/ml); Articadent; Articaine; Articaine HCl and Epinephrine; Articaine Hydrochloride and Epinephrine; Articaine Hydrochloride and Epinephrine Bitartrate Injection; Orabloc; Orabloc 1:100,000; Orabloc 1:200,000; Posicaine N; Posicaine Sp; Septanest N; Septanest Sp; Septocaine; Septocaine and Epinephrine; Ultacan; Ultacan Forte; Ultracaine D-S Forte Injection; Ultracaine D-S Injection; Ultracaine DS Forte Inj; Ultracaine DS Inj; Zorcaine
+
+> <INTERNATIONAL_BRANDS>
+Septanest; Septocaine; Ultracaine
+
+> <SALTS>
+Articaine hydrochloride
+
+$$$$

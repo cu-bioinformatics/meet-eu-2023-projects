@@ -1,0 +1,29 @@
+REMARK  Name = MIB
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -0.213   0.091   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -0.698   0.759   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       0.572   0.346   0.000  0.00  0.00    +0.000 A 
+ATOM      4  N   UNL     1      -0.213   1.426   0.000  0.00  0.00    +0.000 N 
+ATOM      5  C   UNL     1      -0.468   2.211   0.000  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1       0.572   1.171   0.000  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       1.286  -0.066   0.000  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       1.286   1.584   0.000  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       2.001   0.346   0.000  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1       2.001   1.171   0.000  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1  12
+ATOM     11  C   UNL     1      -1.275  -0.865   0.000  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1      -0.468  -0.693   0.000  0.00  0.00    +0.000 C 
+BRANCH  11  14
+ATOM     13  O   UNL     1      -2.337  -1.821   0.000  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1      -1.530  -1.649   0.000  0.00  0.00    +0.000 C 
+ATOM     15  C   UNL     1      -0.978  -2.263   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  11  14
+ENDBRANCH   1  12
+TORSDOF 2

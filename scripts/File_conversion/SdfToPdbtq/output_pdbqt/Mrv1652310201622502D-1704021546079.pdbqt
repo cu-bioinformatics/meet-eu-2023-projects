@@ -1,0 +1,41 @@
+REMARK  Name = 
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_4  and  C_7
+REMARK    2  A    between atoms: N_9  and  C_10
+REMARK    3  A    between atoms: C_12  and  C_19
+REMARK    4  A    between atoms: C_15  and  CA_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK A   2       1.429   4.704   0.000  0.00  0.00    +0.000 C 
+ATOM      2  C   UNK A   2       2.096   4.219   0.000  0.00  0.00    +0.000 C 
+ATOM      3  C   UNK A   2       1.841   3.434   0.000  0.00  0.00    +0.000 C 
+ATOM      4  N   UNK A   2       1.016   3.434   0.000  0.00  0.00    +0.000 N 
+ATOM      5  C   UNK A   2       0.761   4.219   0.000  0.00  0.00    +0.000 C 
+ATOM      6  C   GLY A   1       0.531   2.767   0.000  0.00  0.00    +0.000 C 
+ATOM      7  O   GLY A   1       0.867   2.013   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1  10
+ATOM      8  C   UNK A   2       2.143   5.941   0.000  0.00  0.00    +0.000 C 
+ATOM      9  O   UNK A   2       2.858   5.529   0.000  0.00  0.00    +0.000 OA
+ATOM     10  N   UNK A   2       1.429   5.529   0.000  0.00  0.00    +0.000 NA
+BRANCH   8  14
+ATOM     11  C   UNK A   2       2.143   8.416   0.000  0.00  0.00    +0.000 A 
+ATOM     12  C   UNK A   2       2.858   8.004   0.000  0.00  0.00    +0.000 A 
+ATOM     13  C   UNK A   2       2.858   7.179   0.000  0.00  0.00    +0.000 A 
+ATOM     14  C   UNK A   2       2.143   6.766   0.000  0.00  0.00    +0.000 A 
+ATOM     15  C   UNK A   2       1.429   7.179   0.000  0.00  0.00    +0.000 A 
+ATOM     16  C   UNK A   2       1.429   8.004   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   8  14
+ENDBRANCH   1  10
+BRANCH   3  17
+ATOM     17  C   UNK A   2       2.326   2.767   0.000  0.00  0.00    +0.000 C 
+ATOM     18  O   UNK A   2       1.991   2.013   0.000  0.00  0.00    +0.000 OA
+ATOM     19  O   UNK A   2       3.147   2.853   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   3  17
+BRANCH   6  20
+ATOM     20  CA  GLY A   1      -0.289   2.853   0.000  0.00  0.00    +0.000 C 
+ATOM     21  N   GLY A   1      -0.774   2.185   0.000  0.00  0.00    +0.000 NA
+ENDBRANCH   6  20
+TORSDOF 4

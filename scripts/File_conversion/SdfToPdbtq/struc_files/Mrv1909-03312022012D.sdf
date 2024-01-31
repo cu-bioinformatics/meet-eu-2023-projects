@@ -1,0 +1,164 @@
+
+  Mrv1909 03312022012D          
+
+ 21 23  0  0  0  0            999 V2000
+    0.4124    0.8662    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1137    0.3712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3712    0.6188    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7012    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7738    0.8662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1962   -0.4949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0725    1.1137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6600   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5262    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5162    0.5363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9388   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7325    0.6188    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4849   -0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5988   -0.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1763    0.9900    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9388   -0.8662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4337    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1350    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4337    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1763   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0213   -1.6500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  1  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 13 16  1  6  0  0  0
+  5  9  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 12 19  1  6  0  0  0
+ 19 20  3  0  0  0  0
+ 11 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15653
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(F)=NC2=C1N=CN2[C@H]1C[C@H](O)[C@@](CO)(O1)C#C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12FN5O3/c1-2-12(4-19)6(20)3-7(21-12)18-5-15-8-9(14)16-11(13)17-10(8)18/h1,5-7,19-20H,3-4H2,(H2,14,16,17)/t6-,7+,12+/m0/s1
+
+> <INCHI_KEY>
+IKKXOSBHLYMWAE-QRPMWFLTSA-N
+
+> <FORMULA>
+C12H12FN5O3
+
+> <MOLECULAR_WEIGHT>
+293.258
+
+> <EXACT_MASS>
+293.092417429
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.6762464412458474e-10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.018316981569587
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,5R)-5-(6-amino-2-fluoro-9H-purin-9-yl)-2-ethynyl-2-(hydroxymethyl)oxolan-3-ol
+
+> <ALOGPS_LOGP>
+-0.34
+
+> <JCHEM_LOGP>
+-0.417512951333333
+
+> <ALOGPS_LOGS>
+-2.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.161407144517815
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.324294058018623
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.785858873192255
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.31
+
+> <JCHEM_REFRACTIVITY>
+70.0183
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+valomaciclovir stearate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15653
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Islatravir
+
+> <SYNONYMS>
+4'-ethynyl-2-fluoro-2'-deoxyadenosine; Islatravir
+
+$$$$

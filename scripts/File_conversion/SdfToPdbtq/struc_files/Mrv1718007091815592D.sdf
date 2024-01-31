@@ -1,0 +1,175 @@
+
+  Mrv1718007091815592D          
+
+ 29 24  0  0  0  0            999 V2000
+   -1.9041    0.0957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2061   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9041    0.9207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3811   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3331   -0.7292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6186   -0.3167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1897    1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6186    1.3332    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.9686   -1.7457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9686   -0.3167    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.3331   -1.5542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0475   -0.3167    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -3.0311    0.3976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8265    0.2783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5245   -0.8485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8265    1.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3495   -0.8485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3975   -0.5466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120   -0.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1120    1.5158    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5410    1.5158    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7620   -0.1341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7620   -1.5630    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3975   -1.3716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6831   -0.1341    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6995    0.5803    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3331    1.7457    0.0000 Mn  0  2  0  0  0  0  0  0  0  0  0  0
+   -0.5561    0.3976    0.0000 Mn  0  2  0  0  0  0  0  0  0  0  0  0
+   -4.7620    0.0957    0.0000 Mn  0  2  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  6  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  3  2  0  0  0  0
+  8  3  1  0  0  0  0
+  9  4  2  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  5  2  0  0  0  0
+ 12  5  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 16 14  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 19 15  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 16  2  0  0  0  0
+ 21 16  1  0  0  0  0
+ 22 17  2  0  0  0  0
+ 23 17  1  0  0  0  0
+ 24 18  2  0  0  0  0
+ 25 18  1  0  0  0  0
+ 26 19  1  0  0  0  0
+M  CHG  8   8  -1  10  -1  12  -1  21  -1  23  -1  25  -1  27   2  28   2
+M  CHG  1  29   2
+M  END
+> <DATABASE_ID>
+DB14495
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Mn++].[Mn++].[Mn++].OC(CC([O-])=O)(CC([O-])=O)C([O-])=O.OC(CC([O-])=O)(CC([O-])=O)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C6H8O7.3Mn/c2*7-3(8)1-6(13,5(11)12)2-4(9)10;;;/h2*13H,1-2H2,(H,7,8)(H,9,10)(H,11,12);;;/q;;3*+2/p-6
+
+> <INCHI_KEY>
+OAVRWNUUOUXDFH-UHFFFAOYSA-H
+
+> <FORMULA>
+C12H10Mn3O14
+
+> <MOLECULAR_WEIGHT>
+543.012
+
+> <EXACT_MASS>
+542.821187
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.227786958814349
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+trimanganese(2+) bis(2-hydroxypropane-1,2,3-tricarboxylate)
+
+> <ALOGPS_LOGP>
+0.09
+
+> <JCHEM_LOGP>
+-1.3226874519999998
+
+> <ALOGPS_LOGS>
+-2.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+4.674836176324
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.0479515131680732
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.185693450231931
+
+> <JCHEM_POLAR_SURFACE_AREA>
+140.61999999999998
+
+> <JCHEM_REFRACTIVITY>
+68.13520000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.03e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trimanganese(2+) dicitrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14495
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Manganese citrate
+
+> <SYNONYMS>
+Manganese citrate anhydrous; Trimanganese dicitrate
+
+> <PRODUCTS>
+Collag-EN; Manganese Citrate; Release; Tricare Prenatal 2-part Daily Prenatal Vitamin System; Tricare Prenatal Quick Dissolve
+
+> <SALTS>
+Manganese citrate decahydrate
+
+$$$$

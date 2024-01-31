@@ -1,0 +1,174 @@
+D13
+  Mrv0541 02241213322D          
+
+ 27 30  0  0  0  0            999 V2000
+   -0.1446    0.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5228   -0.2099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2679   -0.9946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5571   -0.9946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8120   -0.2099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7528   -1.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5733   -1.5758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0582   -2.2432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7227   -2.9969    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9022   -3.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4173   -2.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0420   -1.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7065   -2.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1914   -3.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8558   -3.8368    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0119   -2.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3474   -2.2432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8625   -1.5758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1446    1.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8591    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8591    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1446    2.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5699    2.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5699    1.5125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1446    3.5750    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8591    3.9875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5699    3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB07607
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[S@@](=O)C1=CC=C(C=C1)C1=NC(=C(N1)C1=CC(I)=CC=C1)C1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H16IN3OS/c1-27(26)18-7-5-15(6-8-18)21-24-19(14-9-11-23-12-10-14)20(25-21)16-3-2-4-17(22)13-16/h2-13H,1H3,(H,24,25)/t27-/m1/s1
+
+> <INCHI_KEY>
+RXDZANYWRNIAOR-HHHXNRCGSA-N
+
+> <FORMULA>
+C21H16IN3OS
+
+> <MOLECULAR_WEIGHT>
+485.341
+
+> <EXACT_MASS>
+485.005876259
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.00769214825469261
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.36470201302596
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-[5-(3-iodophenyl)-2-{4-[(R)-methanesulfinyl]phenyl}-1H-imidazol-4-yl]pyridine
+
+> <ALOGPS_LOGP>
+3.99
+
+> <JCHEM_LOGP>
+3.924534905333334
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.852061484617698
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.795884820379639
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.8946508965276365
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.64
+
+> <JCHEM_REFRACTIVITY>
+129.45950000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07607
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[5-(3-IODO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-1H-IMIDAZOL-4-YL]-PYRIDINE
+
+$$$$

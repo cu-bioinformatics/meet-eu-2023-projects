@@ -1,0 +1,146 @@
+
+  Mrv1909 02122015372D          
+
+ 14 15  0  0  0  0            999 V2000
+    0.9641    2.2319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1337    1.4239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3079    0.6204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6919    0.0668    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0892    0.3213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660   -0.7410    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3480   -1.4060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8660   -2.0756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0803   -1.8212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0803   -0.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338   -0.5847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3480   -0.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3480   -1.8212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6338   -2.2319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  4  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02211
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(CC#C)[C@@H]1CCC2=C1C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15N/c1-3-10-14(2)13-9-8-11-6-4-5-7-12(11)13/h1,4-7,13H,8-10H2,2H3/t13-/m1/s1
+
+> <INCHI_KEY>
+CSVGVHNFFZWQJU-CYBMUJFWSA-N
+
+> <FORMULA>
+C13H15N
+
+> <MOLECULAR_WEIGHT>
+185.2649
+
+> <EXACT_MASS>
+185.120449485
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9665069079707285
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.694301601456846
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R)-N-methyl-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+2.6869498703333328
+
+> <ALOGPS_LOGS>
+-3.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.460249719663542
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+59.761700000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.65e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hadacidin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02211
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02792
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R)-N-methyl-N-2-propynyl-1-indanamine
+
+> <SYNONYMS>
+N-Methyl-N-propargyl-1(R)-aminoindan
+
+$$$$

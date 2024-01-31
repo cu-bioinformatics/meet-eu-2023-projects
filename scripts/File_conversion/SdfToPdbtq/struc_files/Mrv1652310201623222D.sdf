@@ -1,0 +1,158 @@
+
+  Mrv1652310201623222D          
+
+ 20 21  0  0  1  0            999 V2000
+   -4.8946    4.3527    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8946    3.5277    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.6091    3.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3235    3.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3235    4.3527    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.6091    4.7652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0380    4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0380    5.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7525    6.0027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3235    6.0027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1801    3.1152    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1801    2.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8946    1.8777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4656    1.8777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4656    1.0527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7982    0.5678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0531   -0.2169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8781   -0.2169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1331    0.5678    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1801    4.7652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  2 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 15 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12107
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OB1O[C@H](CC(O)=O)CC[C@@H]1NC(=O)CC1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H16BNO5S/c15-11(7-9-2-1-5-20-9)14-10-4-3-8(6-12(16)17)19-13(10)18/h1-2,5,8,10,18H,3-4,6-7H2,(H,14,15)(H,16,17)/t8-,10-/m0/s1
+
+> <INCHI_KEY>
+IOOWNWLVCOUUEX-WPRPVWTQSA-N
+
+> <FORMULA>
+C12H16BNO5S
+
+> <MOLECULAR_WEIGHT>
+297.13
+
+> <EXACT_MASS>
+297.084224
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.666128691638324
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(3R,6S)-2-hydroxy-3-[2-(thiophen-2-yl)acetamido]-1,2-oxaborinan-6-yl]acetic acid
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.8551000000000002
+
+> <ALOGPS_LOGS>
+-3.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.835145419107965
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7495732286577232
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.58935250602193
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.86
+
+> <JCHEM_REFRACTIVITY>
+67.1398
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.55e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3R,6S)-2-hydroxy-3-[2-(thiophen-2-yl)acetamido]-1,2-oxaborinan-6-yl]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12107
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Vaborbactam
+
+> <SYNONYMS>
+Vaborbactam
+
+> <PRODUCTS>
+Vabomere; Vaborem
+
+$$$$

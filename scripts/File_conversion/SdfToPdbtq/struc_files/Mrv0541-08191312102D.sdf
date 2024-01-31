@@ -1,0 +1,194 @@
+
+  Mrv0541 08191312102D          
+
+ 31 34  0  0  1  0            999 V2000
+    1.8036   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045   -1.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8036    1.2211    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3045    1.3786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885    0.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1245   -0.2714    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4100    0.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100   -1.5089    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1245   -1.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8390    0.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8390   -1.5089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5534   -0.2714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045   -0.2714    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3045    0.5536    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100    0.1411    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4100   -0.6839    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0189    0.9661    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0189    1.7911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0189    0.1411    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0189   -0.6839    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2679   -1.5089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5534   -1.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1245    0.5536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5181    1.6336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8036    2.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2202    2.6295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5181    2.4586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100   -2.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2326    1.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9470    1.6336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2326    0.3961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 19 13  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 19  1  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13  2  1  0  0  0  0
+ 17  3  1  0  0  0  0
+ 17  4  1  0  0  0  0
+  5  1  1  0  0  0  0
+ 15  6  1  0  0  0  0
+ 15  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 22  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 15 16  1  6  0  0  0
+ 17 18  1  1  0  0  0
+ 19 20  1  6  0  0  0
+ 22 21  2  0  0  0  0
+  6 23  1  1  0  0  0
+  3 24  1  6  0  0  0
+  3 25  1  1  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+  8 28  1  6  0  0  0
+ 24 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 29 31  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00603
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@](OC(C)=O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C[C@H](C)C2=CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H34O4/c1-14-12-18-19(22(4)9-6-17(27)13-21(14)22)7-10-23(5)20(18)8-11-24(23,15(2)25)28-16(3)26/h13-14,18-20H,6-12H2,1-5H3/t14-,18+,19-,20-,22+,23-,24-/m0/s1
+
+> <INCHI_KEY>
+PSGAAPLEWMOORI-PEINSRQWSA-N
+
+> <FORMULA>
+C24H34O4
+
+> <MOLECULAR_WEIGHT>
+386.5244
+
+> <EXACT_MASS>
+386.245709576
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+62
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.0274305183224514e-11
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.06121759484705
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3aS,3bR,5S,9aR,9bS,11aS)-1-acetyl-5,9a,11a-trimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl acetate
+
+> <ALOGPS_LOGP>
+3.42
+
+> <JCHEM_LOGP>
+4.1293237843333355
+
+> <ALOGPS_LOGS>
+-5.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.525687143506744
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.732129729989705
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.904302756399779
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.440000000000005
+
+> <JCHEM_REFRACTIVITY>
+107.80539999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.21e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00603
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00627
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Medroxyprogesterone acetate
+
+> <SYNONYMS>
+(6α)-17-(Acetyloxy)-6-methylpreg-4-ene-3,20-dione; 17-Acetoxy-6α-methylprogesterone; 17α-hydroxy-6α-methylprogesterone acetate; 6-alpha-Methyl-17-alpha-acetoxyprogesterone; 6-alpha-Methyl-17-alpha-hydroxyprogesterone acetate; 6α-Methyl-17-acetoxy progesterone; 6α-Methyl-17α-hydroxyprogesterone acetate; 6α-Methyl-4-pregnene-3,20-dion-17α-ol acetate; Medroxyacetate progesterone; Medroxyprogesterone 17-acetate; Medroxyprogesterone acetate; Methylacetoxyprogesterone; Metigestrona; MPA
+
+> <PRODUCTS>
+Apo-medroxy; Apo-medroxy Tablets; Depo-Provera; Depo-SubQ Provera; Dom-medroxyprogesterone; Gen-medroxy Tablet 10mg; Gen-medroxy Tablet 2.5mg; Gen-medroxy Tablet 5mg; Lunelle Monthly Contraceptive; Medroxy-2.5; Medroxy-5; Medroxyprogesterone; Medroxyprogesterone Acetate; Medroxyprogesterone Acetate Injectable Suspension USP; Medroxyprogesterone acetate; Meprogest; Nu-medroxy; PMS-medroxyprogesterone; Penta-medroxyprogesterone Tablets; Premphase; Premplus; Premplus Cycle; Prempro; Proclim; Provera; Provera 100mg Tablets; Provera 10mg Tablets; Provera 2.5mg Tablets; Provera 5mg Tablets; Provera Pak 10mg Tablets; Provera Pak 5mg Tablets; Ratio-mpa; Taro-medroxyprogesterone Injection; Teva-medroxyprogesterone; Truemed Group LLC
+
+> <INTERNATIONAL_BRANDS>
+Depo-subq provera 104
+
+$$$$

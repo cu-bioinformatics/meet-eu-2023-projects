@@ -1,0 +1,164 @@
+
+  Mrv0541 04191212142D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.6795    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3939    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3939   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6795   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9650   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9650    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2505    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2505   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1784    1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8929    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8929   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6073    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1784    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1084   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1084   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 11 15  1  6  0  0  0
+  3 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00788
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1
+
+> <INCHI_KEY>
+CMWTZPSULFXXJA-VIFPVBQESA-N
+
+> <FORMULA>
+C14H14O3
+
+> <MOLECULAR_WEIGHT>
+230.2592
+
+> <EXACT_MASS>
+230.094294314
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9984523218733179
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.805555879075378
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+3.29
+
+> <JCHEM_LOGP>
+2.985785874666666
+
+> <ALOGPS_LOGS>
+-3.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.190353313973411
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.828411505428834
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+64.85350000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.11e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00788
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01135; DB08298
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Naproxen
+
+> <SYNONYMS>
+(+)-(S)-6-Methoxy-α-methyl-2-naphthaleneacetic acid; (+)-(S)-Naproxen; (+)-2-(6-Methoxy-2-naphthyl)propionic acid; (+)-2-(Methoxy-2-naphthyl)-propionic acid; (+)-2-(Methoxy-2-naphthyl)-propionsäure; (+)-Naproxen; (S)-(+)-2-(6-Methoxy-2-naphthyl)propionic acid; (S)-(+)-Naproxen; (S)-2-(6-Methoxy-2-naphthyl)propanoic acid; (S)-2-(6-Methoxy-2-naphthyl)propionic acid; (S)-6-Methoxy-alpha-methyl-2-naphthaleneacetic acid; (S)-Naproxen; Naprolag; Naproxen; Naproxène; Naproxeno; Naproxenum
+
+> <PRODUCTS>
+7 Select Naproxen Sodium; Aleve; Aleve Back and Body Pain; Aleve Back and Muscle Pain; Aleve Caplets; Aleve Caplets - Easy Open Arthritis Cap; Aleve Easy Open Arthritis Cap; Aleve Gelcaps; Aleve Headache Pain; Aleve Liquid Gels; Aleve Nighttime; Aleve PM; Aleve-D Sinus and Cold; Aleve-D Sinus and Headache; All Day Back and Muscle Pain Relief; All Day Pain Relief; All Day Pain Relief Back and Muscle Pain; All Day Pain Relief Naproxen Sodium; All Day Relief; All Day Sinus and Cold D; All Night Pain Relief PM; Ana-Dent PAIN RELIEF; Ana-Dent Toothache Relief; AnaDent; Anaprox; Anaprox DS; Anaprox DS Tab 550mg; Apo Naproxen Tab 125mg; Apo-napro-NA; Apo-napro-NA DS; Apo-naproxen; Apo-naproxen EC; Apo-naproxen EC Tablets; Apo-naproxen SR Tablets 750mg; Ava-naproxen EC; Back and Muscle Pain; Basic Care Naproxen Sodium; Basic Care Naproxen Sodium PM; Bayer Aleve; Being Well all day pain relief; Belmora Flanax; Berkley and Jensen Naproxen Sodium; Betr Headache Pain Relief; CAREALL Naproxen; Calmadol Pain Reliever; Care One All Day Pain Relief; Care One Naproxen Sodium; CareOne Naproxen Sodium; Careone Naproxen Sodium; Careone Naproxen Sodium PM; Caring Mill All Day Pain Relief; Clear Choice Naproxen Sodium; Cold FAid; Comfort Pac with Naproxen; DG Health Naproxen Sodium; Dg Health All Day Pain Relief; Dg Health Naproxen Sodium; Dg Health Naproxen Sodium PM; EC-Naprosyn; EC-naproxen; Equaline All Day Pain Relief; Equaline Naproxen Sodium; Equaline Naproxen Sodium PM; Equate All Day Pain Relief; Equate All Night Pain Relief; Equate Naproxen Sodium; Equate Sinus and Cold D; Equipto - Naproxen External Cream Compounding Kit; Exchange Select Naproxen Sodium; Family Wellness Naproxen Sodium; First Aid Direct Naproxen Sodium; Flanax; Flanax Menstrual Pain Reliever; Flanax Naproxen; Flanax Pain Relief Kit; Flanax Pain Reliever; Flanax Pain Reliever/Fever Reducer; Flanax Pain Reliever/Fever reducer; Flanax Pain and Fever Reliever; Formucare Naproxen Sodium Pain Reliever Fever Reducer; Fulton Street Market Naproxen Sodium; Good Neighbor Pharmacy Naproxen Sodium; Good Neighbor Pharmacy Pain Relief All Day; Good Neighbor Pharmacy Sinus and Cold D; Good Neighbor Pharmacy naproxen sodium; Good Sense All Day Pain Relief; Good Sense Naproxen Sodium; Headache Pain; Health Mart Naproxen Sodium; Health Mart Sinus and Cold D; Healthy Accents All Day Pain Relief; Healthy Accents Naproxen Sodium; Humana Pharmacy All Day Pain Relief; Kirkland Signature Naproxen Sodium; Leader All Day; Leader All Day Pain Relief; Leader All Day Sinus and Cold D; Leader Naproxen Sodium; Leader Sinus and Cold D; Leader Sinus and Cold-D; Lil Drug Store Pain Relief All Day; Maxidol Liquid Gels; Medique Mediproxen; Medique at Home Mediproxen; Members Mark Naproxen Sodium; Menstridol; Midol Extended Relief; Motrimax 12 Hour; Motrimax 12 Hour Tablets; Mylan-naproxen EC; Mylan-naproxen/esomeprazole Mr; Naprelan; NaproPax; Napropak; Napropak Cool; Naprosyn; Naprosyn 250mg; Naprosyn 250mg Tablets; Naprosyn 375mg; Naprosyn 375mg Tablets; Naprosyn 500 Mg Suppositories; Naprosyn 500 Mg Tablets; Naprosyn E 250mg Tablets - Ect; Naprosyn E Tab 250mg; Naprosyn E Tab 375mg; Naprosyn E Tab 500mg; Naprosyn Sup 500mg; Naprosyn Sus 25mg/ml; Naprosyn-SR Tab 750mg; Naprotin; Naproxen; Naproxen - 250; Naproxen - 500; Naproxen 125 Tab 125mg; Naproxen All day relief for pain; Naproxen Back and Muscle Pain; Naproxen Caplets; Naproxen Caplets All day relief for pain; Naproxen Capsules 200 mg; Naproxen Delayed Release; Naproxen Delayed-release; Naproxen EC; Naproxen Headache Pain; Naproxen Kit; Naproxen Liquid Gels; Naproxen Menstrual Pain Relief; Naproxen Oral Suspension; Naproxen PM; Naproxen Pain Relief; Naproxen Sodium; Naproxen Sodium (NSAID) Fever Reducer/ Pain Reliever; Naproxen Sodium 220mg; Naproxen Sodium All Day Pain Relief; Naproxen Sodium BACK AND MUSCLE PAIN; Naproxen Sodium Back and Muscle Pain; Naproxen Sodium Back and Muscle Pain Caplets; Naproxen Sodium Caplets; Naproxen Sodium Capsules; Naproxen Sodium DS; Naproxen Sodium Diphenhydramine HCl; Naproxen Sodium HEADACHE PAIN; Naproxen Sodium Headache Pain; Naproxen Sodium Headache Pain Caplets; Naproxen Sodium PM; Naproxen Sodium Tablets; Naproxen Sodium and Diphenhydramine HCl; Naproxen Sodium and Diphenhydramine Hydrochloride; Naproxen Sodium and Pseudoephedrine Hydrochloride Sinus and Cold; Naproxen Sodium and Pseudoephedrine Hydrochloride Sinus and Headache; Naproxen Tablets; Naproxen and Esomeprazole Magnesium; Naproxen and esomeprazole magnesium; Naproxen delayed release; Naproxen sodium; Naproxen-375; Naproxen-NA; Naproxen-NA DF; NaproxenPax; Novo-naprox Tab 125mg; Ntp-naproxen; Ntp-naproxen EC; Ntp-naproxen Sodium; Ntp-naproxen Sodium DS; Nu-napro-NA; Nu-napro-NA DS; Nu-naprox EC; Nu-naprox Tab 125mg; Nu-naprox Tab 250mg; Nu-naprox Tab 375mg; Nu-naprox Tab 500mg; Nx 12 Hour; PMS-naproxen; PMS-naproxen EC; PREVACID NapraPAC 250; PREVACID NapraPAC 375; PREVACID NapraPAC 500; Pain Relief; Pain Relief All Day; Pain Reliever; Pain Reliever & Sleep Aid; Pain Zero; Pain and Fever Relief; Pediapharm Naproxen Suspension; Preferred Plus Sinus and Cold D; Prevacid Naprapac; Pro-naproxen EC; Pro-naproxen EC - 375; Rapidol Naproxen; Ratio-naproxen; Ratio-naproxen E; Rexall All Day Pain Relief; Rhodiaprox - 500mg/sup; Riva-naproxen; Riva-naproxen Sodium; Riva-naproxen Sodium DS; Rugby All Day Relief; Rx Act All Day Pain Relief; Rx Act Naproxen Sodium; Rx Act all day pain relief; SALLUS Pain Relief Collection with Naproxen; Sab-naproxen; ShopRite Naproxen Sodium; Signature Care Naproxen Sodium; Signature Care Naproxen Sodium PM; Signature Care Pain Relief; Simply Right Naproxen Sodium; Sinus and Cold D; Smart Sense Naproxen Sodium; Smart Sense naproxen sodium; Sound Body Naproxen Sodium; Sudafed 12 Hour Pressure And Pain; Sudafed Sinus 12 Hour Pressure plus Pain; Sudafed Sinus and Pain 12 Hour; Sumatriptan Succinate and Naproxen Sodium; Sumatriptan and Naproxen Sodium; Sunmark All Day Relief; Sunmark Naproxen Sodium; Sunmark Sinus and Cold D; Suvexx; Synflex DS Tab 550mg; Synflex Tab 275mg; Teva-naproxen; Teva-naproxen EC; Teva-naproxen SR; Teva-naproxen Sodium; Teva-naproxen Sodium DS; Theraproxen; Theraproxen-500; Theraproxen-90; TopCare All Day Pain Relief; Topcare All Day Pain Relief; Topcare All Night Pain Relief PM; Topcare Back and Muscle Pain; Topcare Naproxen Sodium; Topcare Sinus and Cold D; Trepoxen-250; Treximet; Up and Up Naproxen Sodium; Up and Up Naproxen Sodium PM; Up and Up Naproxen sodium; Up and Up Sinus and Cold D; Vicks Sinex D Severe Sinus and Cold; Vimovo; Waymade-naproxen; Waymade-naproxen Sodium; Waymade-naproxen Sodium DS; Xpect Naproxen Sodium
+
+> <INTERNATIONAL_BRANDS>
+Alidase; Alpoxen; Alpron; Apain; Apranax; Apronax; Bonyl; Bruproxen; Bumaflex N; Congex; Debril; Deproxen; Dysmenalgit; Emox; Emoxen; Eurogesic; Fabralgina; Feminax Ultra; Flogotone; Gerinap; Honlow; Improstan; Inflamax; Inza; Iraxen; Jinkangpuli; Lexinax; Melgar; Messelxen; Mobilat; Naprometin; Naprosyn CR; Naprosyn EC; Naprosyn Entero; Naprosyn SR; Naprosyne; Naproval; Naprux; Neuralprona; Noflam; Nopain; Prexan; Priaxen; Princeps; Pronaxen; Proxen; Proxen S; Proxen SR; Releve; Repro; Reuxen; Riproxen; Sanaprox; Seladin; Servinaprox; Tarproxen; Ticoflex; Tundra; Xenar; Xenar-CR
+
+> <SALTS>
+Naproxen sodium
+
+$$$$

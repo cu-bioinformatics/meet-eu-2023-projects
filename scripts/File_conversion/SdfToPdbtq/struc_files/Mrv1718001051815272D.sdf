@@ -1,0 +1,155 @@
+
+  Mrv1718001051815272D          
+
+ 20 21  0  0  0  0            999 V2000
+   -1.8414   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164   -0.1105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2211   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2211    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0461    0.6039    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 10 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06458
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(CC1=CC=CC=C1)(NC(=O)CN)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H20N2O/c1-17(19-16(20)13-18,15-10-6-3-7-11-15)12-14-8-4-2-5-9-14/h2-11H,12-13,18H2,1H3,(H,19,20)
+
+> <INCHI_KEY>
+YSGASDXSLKIKOD-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H20N2O
+
+> <MOLECULAR_WEIGHT>
+268.36
+
+> <EXACT_MASS>
+268.157563272
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.1506218502263
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-amino-N-(1,2-diphenylpropan-2-yl)acetamide
+
+> <ALOGPS_LOGP>
+2.48
+
+> <JCHEM_LOGP>
+2.3472090729999997
+
+> <ALOGPS_LOGS>
+-4.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.606071084039346
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.138474141742302
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+81.01089999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.95e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+remacemide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06458
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Remacemide
+
+> <SYNONYMS>
+Remacemide
+
+> <SALTS>
+Remacemide Hydrochloride
+
+$$$$

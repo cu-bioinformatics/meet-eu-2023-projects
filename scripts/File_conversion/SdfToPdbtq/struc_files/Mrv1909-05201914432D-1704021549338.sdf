@@ -1,0 +1,151 @@
+
+  Mrv1909 05201914432D          
+
+ 19 21  0  0  1  0            999 V2000
+    0.2078    7.4964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6127    7.4102    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9482    6.6565    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5357    5.9420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0878    5.3289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    5.6645    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7552    6.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    5.2520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    4.4270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2704    4.0145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2704    3.1895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    2.7770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9684    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9849    4.4270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9849    5.2520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6993    5.6645    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2704    5.6645    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+  8 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15027
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN[C@@H]1CCN(C1)C1=CC(NCC2CC2)=NC(N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H22N6/c1-15-10-4-5-19(8-10)12-6-11(17-13(14)18-12)16-7-9-2-3-9/h6,9-10,15H,2-5,7-8H2,1H3,(H3,14,16,17,18)/t10-/m1/s1
+
+> <INCHI_KEY>
+ISBHYKVAFKTATD-SNVBAGLBSA-N
+
+> <FORMULA>
+C13H22N6
+
+> <MOLECULAR_WEIGHT>
+262.361
+
+> <EXACT_MASS>
+262.190594732
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.29643319708481
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N4-(cyclopropylmethyl)-6-[(3R)-3-(methylamino)pyrrolidin-1-yl]pyrimidine-2,4-diamine
+
+> <ALOGPS_LOGP>
+1.64
+
+> <JCHEM_LOGP>
+1.0337082939999993
+
+> <ALOGPS_LOGS>
+-3.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.053786026857814
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.59488268478004
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.1
+
+> <JCHEM_REFRACTIVITY>
+79.8511
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.47e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15027
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Adriforant
+
+> <SYNONYMS>
+Adriforant; PF-03893787
+
+$$$$

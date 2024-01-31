@@ -1,0 +1,153 @@
+
+  Mrv1909 02282218392D          
+
+ 18 18  0  0  0  0            999 V2000
+   -3.2151    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4677    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.8802    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9131   -0.2467    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0881    1.1822    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -0.7697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.1822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.7697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -1.1822    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  6 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+  4 17  2  0  0  0  0
+  2 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16759
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)CC(=O)NC1=CC(=C(Cl)C=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H9ClF3NO2/c1-6(17)4-10(18)16-7-2-3-9(12)8(5-7)11(13,14)15/h2-3,5H,4H2,1H3,(H,16,18)
+
+> <INCHI_KEY>
+GNYIJZMBLZXJEJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H9ClF3NO2
+
+> <MOLECULAR_WEIGHT>
+279.64
+
+> <EXACT_MASS>
+279.0273907
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0002139786164687751
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.041495133530105
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[4-chloro-3-(trifluoromethyl)phenyl]-3-oxobutanamide
+
+> <ALOGPS_LOGP>
+2.81
+
+> <JCHEM_LOGP>
+2.9147033099999993
+
+> <ALOGPS_LOGS>
+-4.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.640458893798723
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.66954133330528
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.505780787376634
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+61.59470000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.83e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tpmpa
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16759
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fasentin
+
+$$$$

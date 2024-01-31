@@ -1,0 +1,180 @@
+
+  Mrv1652310201622452D          
+
+ 28 32  0  0  1  0            999 V2000
+    2.8810    1.0550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0964    1.3099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7615    1.3099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0164    2.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    2.0945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  2  6  1  0  0  0  0
+  7  3  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+  8 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11760
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1N=CN=C1[C@@H]1[C@H](NC2=C3C1=NNC(=O)C3=CC(F)=C2)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H14F2N6O/c1-27-18(22-8-23-27)15-16(9-2-4-10(20)5-3-9)24-13-7-11(21)6-12-14(13)17(15)25-26-19(12)28/h2-8,15-16,24H,1H3,(H,26,28)/t15-,16-/m1/s1
+
+> <INCHI_KEY>
+HWGQMRYQVZSGDQ-HZPDHXFCSA-N
+
+> <FORMULA>
+C19H14F2N6O
+
+> <MOLECULAR_WEIGHT>
+380.359
+
+> <EXACT_MASS>
+380.119715421
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.82303563143831
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(11S,12R)-7-fluoro-11-(4-fluorophenyl)-12-(1-methyl-1H-1,2,4-triazol-5-yl)-2,3,10-triazatricyclo[7.3.1.0^{5,13}]trideca-1,5,7,9(13)-tetraen-4-one
+
+> <ALOGPS_LOGP>
+2.93
+
+> <JCHEM_LOGP>
+2.111473602333333
+
+> <ALOGPS_LOGS>
+-3.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.438530829060104
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.482976091937143
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.6566239350134295
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.2
+
+> <JCHEM_REFRACTIVITY>
+111.27019999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(11S,12R)-7-fluoro-11-(4-fluorophenyl)-12-(2-methyl-1,2,4-triazol-3-yl)-2,3,10-triazatricyclo[7.3.1.0^{5,13}]trideca-1,5,7,9(13)-tetraen-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11760
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Talazoparib
+
+> <SYNONYMS>
+Talazoparib
+
+> <PRODUCTS>
+Talzenna
+
+> <SALTS>
+Talazoparib tosylate
+
+$$$$

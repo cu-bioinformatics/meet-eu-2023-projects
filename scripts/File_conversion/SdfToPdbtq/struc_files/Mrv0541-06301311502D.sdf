@@ -1,0 +1,194 @@
+
+  Mrv0541 06301311502D          
+
+ 31 34  0  0  0  0            999 V2000
+   -1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1270    2.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020    2.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    7.4250    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  6  5  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 12 11  2  0  0  0  0
+ 15  7  2  0  0  0  0
+ 15  8  1  0  0  0  0
+ 16  5  1  0  0  0  0
+ 16  6  1  0  0  0  0
+ 17  9  2  0  0  0  0
+ 17 10  1  0  0  0  0
+ 18 11  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 19 13  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 20  3  2  0  0  0  0
+ 21 12  1  0  0  0  0
+ 22  4  2  0  0  0  0
+ 22 20  1  0  0  0  0
+ 23 14  1  0  0  0  0
+ 24 15  1  0  0  0  0
+ 24 20  1  0  0  0  0
+ 24 21  2  0  0  0  0
+ 25 16  1  0  0  0  0
+ 25 21  1  0  0  0  0
+ 26 17  1  0  0  0  0
+ 27 22  1  0  0  0  0
+ 27 25  2  0  0  0  0
+ 18 28  1  6  0  0  0
+ 19 29  1  6  0  0  0
+ 30 23  2  0  0  0  0
+ 31 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08860
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@H](C[C@H](O)\C=C\C1=C(C2=CC=C(F)C=C2)C2=CC=CC=C2N=C1C1CC1)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C25H24FNO4/c26-17-9-7-15(8-10-17)24-20-3-1-2-4-22(20)27-25(16-5-6-16)21(24)12-11-18(28)13-19(29)14-23(30)31/h1-4,7-12,16,18-19,28-29H,5-6,13-14H2,(H,30,31)/b12-11+/t18-,19-/m1/s1
+
+> <INCHI_KEY>
+VGYFMXBACGZSIL-MCBHFWOFSA-N
+
+> <FORMULA>
+C25H24FNO4
+
+> <MOLECULAR_WEIGHT>
+421.4608
+
+> <EXACT_MASS>
+421.168936466
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9910737625602783
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.763317507151925
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R,5S,6E)-7-[2-cyclopropyl-4-(4-fluorophenyl)quinolin-3-yl]-3,5-dihydroxyhept-6-enoic acid
+
+> <ALOGPS_LOGP>
+3.75
+
+> <JCHEM_LOGP>
+2.9240361675412205
+
+> <ALOGPS_LOGS>
+-5.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.64928752610674
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.127096472813344
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.857390763772056
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.65000000000002
+
+> <JCHEM_REFRACTIVITY>
+115.73919999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.94e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08860
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB06514
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pitavastatin
+
+> <SYNONYMS>
+Pitavastatia; Pitavastatin; Pitavastatina; Pitavastatine; Pitavastatinum
+
+> <PRODUCTS>
+Livalo; Pitavastatin; Zypitamag
+
+> <SALTS>
+Pitavastatin calcium; Pitavastatin magnesium
+
+$$$$

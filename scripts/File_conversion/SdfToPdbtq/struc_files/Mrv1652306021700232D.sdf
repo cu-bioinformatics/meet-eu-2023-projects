@@ -1,0 +1,158 @@
+
+  Mrv1652306021700232D          
+
+ 22 25  0  0  0  0            999 V2000
+    0.5124   -0.8668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7927   -0.0908    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3245   -0.7215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1366   -0.5763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4169    0.1995    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8851    0.8302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0730    0.6850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5412    1.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2709    1.1705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5512    0.3946    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0193   -0.2361    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2996   -1.0120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1118   -1.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6436   -0.5265    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3633    0.2493    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0146    0.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6975    0.2927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4681   -0.4997    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.2290   -0.8186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5896   -1.3157    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0035   -1.2689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2290    0.3447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 18 19  1  6  0  0  0
+ 18 20  1  1  0  0  0
+ 14 21  1  1  0  0  0
+  5 22  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB01474
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@]1(O)CC[C@H]2[C@@H]3CCC4=C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H32O2/c1-18-9-6-14(21)12-13(18)4-5-15-16(18)7-10-19(2)17(15)8-11-20(19,3)22/h12,14-17,21-22H,4-11H2,1-3H3/t14-,15+,16-,17-,18-,19-,20-/m0/s1
+
+> <INCHI_KEY>
+BNUOCVTVOYWNJC-DTMQFJJTSA-N
+
+> <FORMULA>
+C20H32O2
+
+> <MOLECULAR_WEIGHT>
+304.474
+
+> <EXACT_MASS>
+304.24023027
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.136072748396415
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,5S,10R,11S,14S,15S)-2,14,15-trimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-ene-5,14-diol
+
+> <ALOGPS_LOGP>
+3.52
+
+> <JCHEM_LOGP>
+3.2346614780000005
+
+> <ALOGPS_LOGS>
+-3.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.504415926529536
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.500012057072685
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+89.9654
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.39e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2R,5S,10R,11S,14S,15S)-2,14,15-trimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-ene-5,14-diol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01474
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+17alpha-methyl-3beta,17beta-dihydroxyandrost-4-ene
+
+> <SYNONYMS>
+17-Methylandrost-4-ene-3beta,17beta-diol
+
+$$$$

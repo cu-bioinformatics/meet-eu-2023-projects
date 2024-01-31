@@ -1,0 +1,145 @@
+
+  Mrv1909 12152018182D          
+
+ 15 16  0  0  1  0            999 V2000
+   -0.3020    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.8882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.0632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    3.1257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    3.5382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    3.1257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704    1.8882    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9849    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704    1.0632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6829    0.3487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.3487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    1.8882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    1.0632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  4 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16295
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C1=CC=CC([C@H](C)C2CC2)=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20O/c1-9(2)12-5-4-6-13(14(12)15)10(3)11-7-8-11/h4-6,9-11,15H,7-8H2,1-3H3/t10-/m1/s1
+
+> <INCHI_KEY>
+BMEARIQHWSVDBS-SNVBAGLBSA-N
+
+> <FORMULA>
+C14H20O
+
+> <MOLECULAR_WEIGHT>
+204.313
+
+> <EXACT_MASS>
+204.151415264
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00011118675099450893
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.64244574232372
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(1R)-1-cyclopropylethyl]-6-(propan-2-yl)phenol
+
+> <ALOGPS_LOGP>
+4.53
+
+> <JCHEM_LOGP>
+4.427560654333334
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.953898665661354
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.986191812214507
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+63.7679
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.46e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-({4-[2-(3-methoxyphenyl)-2-oxoethoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB16295
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+HSK-3486
+
+$$$$

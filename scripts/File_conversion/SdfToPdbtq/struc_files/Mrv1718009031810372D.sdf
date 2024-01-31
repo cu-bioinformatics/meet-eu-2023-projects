@@ -1,0 +1,160 @@
+
+  Mrv1718009031810372D          
+
+ 21 22  0  0  0  0            999 V2000
+    0.8293   -0.0237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1788   -0.5292    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0819    0.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6184   -0.2513    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5648    1.0876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0831   -1.3155    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4825   -0.0424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7968    0.7962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9069   -1.3113    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1564   -0.5249    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9032    0.4698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2866    1.1989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3994   -1.9853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3447   -0.2277    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3936   -1.9727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8649   -0.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8409    0.7296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5422    1.1618    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5184    1.9853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3447    0.9517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5501    0.3402    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  4  2  0  0  0  0
+  4  1  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  2  1  0  0  0  0
+  7  2  1  0  0  0  0
+  8  1  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11  3  1  0  0  0  0
+ 12 11  2  0  0  0  0
+  6 13  1  6  0  0  0
+ 14 11  1  0  0  0  0
+  9 15  1  6  0  0  0
+ 10 16  1  1  0  0  0
+ 17 16  1  0  0  0  0
+  3  5  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14663
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C1=NN(C=N1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N4O8P/c9-6(15)7-10-2-12(11-7)8-5(14)4(13)3(20-8)1-19-21(16,17)18/h2-5,8,13-14H,1H2,(H2,9,15)(H2,16,17,18)/t3-,4-,5-,8-/m1/s1
+
+> <INCHI_KEY>
+SDWIOXKHTFOULX-AFCXAGJDSA-N
+
+> <FORMULA>
+C8H13N4O8P
+
+> <MOLECULAR_WEIGHT>
+324.1846
+
+> <EXACT_MASS>
+324.047099924
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.392309633309473
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-5-(3-carbamoyl-1H-1,2,4-triazol-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.67
+
+> <JCHEM_LOGP>
+-2.918694436
+
+> <ALOGPS_LOGS>
+-1.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.250345697114751
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2263180005130367
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.1608031120881357
+
+> <JCHEM_POLAR_SURFACE_AREA>
+190.24999999999997
+
+> <JCHEM_REFRACTIVITY>
+75.4473
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.34e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4R,5R)-5-(3-carbamoyl-1,2,4-triazol-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14663
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT001876
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ribavirin monophosphate
+
+> <SYNONYMS>
+Ribavirin 5'-monophosphate; Virazole 5'-phosphate
+
+$$$$

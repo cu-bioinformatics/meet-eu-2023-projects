@@ -1,0 +1,155 @@
+EES
+  Mrv0541 02241213362D          
+
+ 18 20  0  0  0  0            999 V2000
+    0.0654   -1.2170    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.3203   -0.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1050   -0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8194   -0.5900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5339   -0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2484   -0.5900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5339    0.6475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8194    1.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1050    0.6475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3203    0.9025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1646    0.2350    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9896    0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4021    0.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2271    0.9495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4021   -0.4794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2271   -0.4794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6396    0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4646    0.2350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07708
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)N1N=C2C=CC(O)=CC2=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H9ClN2O2/c14-13-11-7-10(18)5-6-12(11)15-16(13)8-1-3-9(17)4-2-8/h1-7,17-18H
+
+> <INCHI_KEY>
+ZNHQDSBJVFFIAK-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H9ClN2O2
+
+> <MOLECULAR_WEIGHT>
+260.676
+
+> <EXACT_MASS>
+260.035255249
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.005368792971349945
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.767592700011665
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-chloro-2-(4-hydroxyphenyl)-2H-indazol-5-ol
+
+> <ALOGPS_LOGP>
+3.60
+
+> <JCHEM_LOGP>
+3.146316093333333
+
+> <ALOGPS_LOGS>
+-3.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.4465785473724
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.300474561278891
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.5794250276194429
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.28
+
+> <JCHEM_REFRACTIVITY>
+69.2656
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.22e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07708
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-CHLORO-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL
+
+$$$$

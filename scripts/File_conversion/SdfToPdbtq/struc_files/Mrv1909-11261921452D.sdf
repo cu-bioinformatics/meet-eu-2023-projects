@@ -1,0 +1,149 @@
+
+  Mrv1909 11261921452D          
+
+ 16 16  0  0  0  0            999 V2000
+   -0.3572    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7863   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7863    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.6187    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -0.6187    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0717    0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572    0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7863    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7863    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5148    0.3630    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  8  2  1  1  0  0  0
+  9  3  1  6  0  0  0
+ 10  4  1  6  0  0  0
+  5 13  1  0  0  0  0
+  6 14  2  0  0  0  0
+ 12  7  1  1  0  0  0
+  7 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  1  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02320
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO6/c1-3(11)9-8-7(14)6(13)5(12)4(2-10)15-8/h4-8,10,12-14H,2H2,1H3,(H,9,11)/t4-,5-,6+,7-,8-/m1/s1
+
+> <INCHI_KEY>
+IBONACLSSOLHFU-JAJWTYFOSA-N
+
+> <FORMULA>
+C8H15NO6
+
+> <MOLECULAR_WEIGHT>
+221.2078
+
+> <EXACT_MASS>
+221.089937217
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.00430387650453
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]acetamide
+
+> <ALOGPS_LOGP>
+-2.55
+
+> <JCHEM_LOGP>
+-3.220574411666667
+
+> <ALOGPS_LOGS>
+0.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.495691626929943
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.474310183279963
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.074857083673675
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.25
+
+> <JCHEM_REFRACTIVITY>
+47.0247
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.55e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-{[(1S)-1-{[(1S)-1-carbamoyl-2-carboxyethyl]carbamoyl}-2-phenylethyl]amino}-4-phenylbutanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02320
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02300
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-beta-D-glucopyranosylacetamide
+
+> <SYNONYMS>
+1-N-acetyl-beta-D-glucosamine
+
+$$$$

@@ -1,0 +1,187 @@
+
+  Mrv1909 02012020132D          
+
+ 31 32  0  0  0  0            999 V2000
+    1.4531    0.1421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0242    0.1421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7388    0.5546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6903    0.5546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7388    1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6903    1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4046    0.1421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0242    1.7921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4046    1.7921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4531    1.7921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4046    2.6171    0.0000 Hg  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1677    0.5546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1192    0.5546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1677    1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1192    1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8822    1.7759    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.8822    1.7921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8337    0.1421    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8822    0.1421    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0242   -1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6903   -1.7921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6903   -2.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0242   -3.0296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7388   -2.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7388   -1.7921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4531   -1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1677   -1.7921    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.4531   -0.5546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6901    3.0296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9200   -0.7445    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+   -1.9039   -1.7490    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+ 12 14  1  0  0  0  0
+  1 12  2  0  0  0  0
+  3  1  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+ 10 14  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 13  2  0  0  0  0
+  9 15  2  0  0  0  0
+ 13 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  2 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 11 29  1  0  0  0  0
+M  CHG  4  16  -1  27  -1  30   1  31   1
+M  END
+> <DATABASE_ID>
+DB13392
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Na+].[Na+].O[Hg]C1=C([O-])C(Br)=CC2=C1OC1=CC(=O)C(Br)=CC1=C2C1=CC=CC=C1C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H9Br2O5.Hg.2Na.H2O/c21-13-5-11-17(7-15(13)23)27-18-8-16(24)14(22)6-12(18)19(11)9-3-1-2-4-10(9)20(25)26;;;;/h1-7,24H,(H,25,26);;;;1H2/q;3*+1;/p-3
+
+> <INCHI_KEY>
+SQFDQLBYJKFDDO-UHFFFAOYSA-K
+
+> <FORMULA>
+C20H8Br2HgNa2O6
+
+> <MOLECULAR_WEIGHT>
+750.65
+
+> <EXACT_MASS>
+749.818928236
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.944227911550364
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.76480929843177
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+disodium [2,7-dibromo-9-(2-carboxylatophenyl)-6-oxido-3-oxo-3H-xanthen-5-yl]mercurol
+
+> <ALOGPS_LOGP>
+3.77
+
+> <JCHEM_LOGP>
+3.074499999999999
+
+> <ALOGPS_LOGS>
+-3.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.771176537946415
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.612430805347035
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.96782348551242
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.72000000000001
+
+> <JCHEM_REFRACTIVITY>
+142.01300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.44e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(3aS,4R,10aS)-2-amino-5,10,10-trihydroxy-6-imino-1H,3aH,4H,8H,9H-pyrrolo[1,2-c]purin-4-yl]methyl carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13392
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Merbromin
+
+> <SYNONYMS>
+Merbromin; Merbromina; Merbromine; Merbrominum; Mercurochrome
+
+> <INTERNATIONAL_BRANDS>
+Mercurochrome
+
+$$$$

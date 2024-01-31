@@ -1,0 +1,161 @@
+
+  Mrv0541 05041407162D          
+
+ 20 21  0  0  0  0            999 V2000
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    2.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0768    3.1465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7302    3.3181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2662    1.5326    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9017    2.5111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7123    2.1680    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5586    4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4199    4.7605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0553    3.7820    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0947    2.3396    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2483    3.9535    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+  7  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  3  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 11  4  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  9  1  0  0  0  0
+ 19  9  1  0  0  0  0
+ 19 13  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 19 15  2  0  0  0  0
+ 20  9  1  0  0  0  0
+ 20 16  1  0  0  0  0
+ 20 17  1  0  0  0  0
+ 20 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06548
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(CC1=CN=C2C=CC=CN12)(P(O)(O)=O)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2O7P2/c12-9(19(13,14)15,20(16,17)18)5-7-6-10-8-3-1-2-4-11(7)8/h1-4,6,12H,5H2,(H2,13,14,15)(H2,16,17,18)
+
+> <INCHI_KEY>
+VMMKGHQPQIEGSQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12N2O7P2
+
+> <MOLECULAR_WEIGHT>
+322.1483
+
+> <EXACT_MASS>
+322.011973772
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.4491598425131986
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.486950357893278
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1-hydroxy-2-{imidazo[1,2-a]pyridin-3-yl}-1-phosphonoethyl)phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.48
+
+> <JCHEM_LOGP>
+-3.4886486464548185
+
+> <ALOGPS_LOGS>
+-1.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+1.4403048446118636
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.6772034437743951
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.074388791325564
+
+> <JCHEM_POLAR_SURFACE_AREA>
+152.59
+
+> <JCHEM_REFRACTIVITY>
+69.0375
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.68e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06548
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Minodronic acid
+
+> <SYNONYMS>
+Minodronate; Minodronic acid
+
+$$$$

@@ -1,0 +1,171 @@
+S17
+  Mrv0541 02241214082D          
+
+ 27 27  0  0  0  0            999 V2000
+   -6.2350   -4.7666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0145   -5.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6382   -4.4966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.4177   -4.7666    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4822   -3.6864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7027   -3.4164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0791   -3.9565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2995   -3.6864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6759   -4.2265    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.8318   -5.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6113   -5.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2081   -5.5767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3640   -6.3869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8963   -3.9565    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2727   -4.4966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4286   -5.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4931   -4.2265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8695   -4.7666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0899   -4.4966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4663   -5.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3133   -4.7666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9369   -5.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7165   -5.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8724   -4.2265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3401   -5.5767    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1197   -5.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2276   -4.4177    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  1  0  0  0
+  9 27  1  1  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08505
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC1=CC=C(Br)C=C1)(NC(=O)CCCCCCC(=O)NO)C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H25BrN2O5/c1-26-18(24)15(12-13-8-10-14(19)11-9-13)20-16(22)6-4-2-3-5-7-17(23)21-25/h8-11,15,25H,2-7,12H2,1H3,(H,20,22)(H,21,23)/t15-/m0/s1
+
+> <INCHI_KEY>
+UPYGSQPRAHMDPD-HNNXBMFYSA-N
+
+> <FORMULA>
+C18H25BrN2O5
+
+> <MOLECULAR_WEIGHT>
+429.306
+
+> <EXACT_MASS>
+428.094684567
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.01223667811911466
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.87372521483423
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl (2S)-3-(4-bromophenyl)-2-[7-(hydroxycarbamoyl)heptanamido]propanoate
+
+> <ALOGPS_LOGP>
+2.44
+
+> <JCHEM_LOGP>
+2.6041214033333335
+
+> <ALOGPS_LOGS>
+-4.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.162542364763556
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.90723610695759
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5480566606511446
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.73
+
+> <JCHEM_REFRACTIVITY>
+99.8361
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.78e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08505
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+methyl 4-bromo-N-[8-(hydroxyamino)-8-oxooctanoyl]-L-phenylalaninate
+
+$$$$

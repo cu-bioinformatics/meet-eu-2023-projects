@@ -1,0 +1,178 @@
+MYE
+  Mrv0541 02231217322D          
+
+ 29 29  0  0  0  0            999 V2000
+   -4.1650   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4506   -1.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7361   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0216   -1.7136    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3072   -1.3011    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5927   -1.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5927   -2.5386    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1218   -1.3011    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1218   -0.4761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5927   -0.0636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3072   -0.4761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5927    0.7614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8363   -1.7136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5507   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5507   -0.4761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2652   -1.7136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9797   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6941   -1.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4086   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1231   -1.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1231   -2.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8375   -2.9511    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    4.4086   -2.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6941   -2.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0216   -2.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3072   -2.9511    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8795   -1.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0216   -1.1297    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3839   -1.0092    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 27  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4 25  1  0  0  0  0
+  4 28  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  1  0  0  0
+  8 29  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 24  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04234
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CCCC)(NC(=O)[C@]([H])(CC(C)C)NC(=O)OCC1=CC=C(Br)C=C1)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H29BrN2O4/c1-4-5-6-17(12-24)22-19(25)18(11-14(2)3)23-20(26)27-13-15-7-9-16(21)10-8-15/h7-10,12,14,17-18H,4-6,11,13H2,1-3H3,(H,22,25)(H,23,26)/t17-,18-/m0/s1
+
+> <INCHI_KEY>
+UEDKSAKLZBMNMA-ROUUACIJSA-N
+
+> <FORMULA>
+C20H29BrN2O4
+
+> <MOLECULAR_WEIGHT>
+441.359
+
+> <EXACT_MASS>
+440.131070073
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.6509324447389876e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.39170859493599
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4-bromophenyl)methyl N-[(1S)-3-methyl-1-{[(2S)-1-oxohexan-2-yl]carbamoyl}butyl]carbamate
+
+> <ALOGPS_LOGP>
+3.01
+
+> <JCHEM_LOGP>
+4.323286798666666
+
+> <ALOGPS_LOGS>
+-5.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.715321491294494
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.864737038745247
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.5939001931695596
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.5
+
+> <JCHEM_REFRACTIVITY>
+107.5717
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.46e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04234
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02267
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N2-({[(4-Bromophenyl)Methyl]Oxy}Carbonyl)-N1-[(1s)-1-Formylpentyl]-L-Leucinamide
+
+$$$$

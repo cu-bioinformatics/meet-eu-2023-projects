@@ -1,0 +1,157 @@
+
+  Mrv1718010311713082D          
+
+ 22 23  0  0  0  0            999 V2000
+    0.3586    0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0729    1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0729    1.8296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3586    2.2421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658    1.8296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658    1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7873    0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5016    1.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5016    1.8296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7873    2.2421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3635   -0.2348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3500   -0.6529    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5016   -0.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7826   -0.6626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0691   -0.2445    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7781   -1.3238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5079   -1.5176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7278   -2.2421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0581   -1.8982    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3444   -1.4798    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.3538   -0.1019    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0728    0.3064    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+ 10  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 20 12  1  0  0  0  0
+ 12 21  1  1  0  0  0
+ 14 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 22 15  1  0  0  0  0
+ 20 17  1  0  0  0  0
+ 20 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+M  CHG  1  20  -1
+M  END
+> <DATABASE_ID>
+DB08566
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N(C(C)=O)[C@]([H])(CC1=C2C=CC=CC2=CC=C1)[B-](O)(O)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H17BNO4/c1-10(17)16-14(15(18,19)20)9-12-7-4-6-11-5-2-3-8-13(11)12/h2-8,14,18-20H,9H2,1H3,(H,16,17)/q-1/t14-/m1/s1
+
+> <INCHI_KEY>
+XDFLCBUAVBYWFW-CQSZACIVSA-N
+
+> <FORMULA>
+C14H17BNO4
+
+> <MOLECULAR_WEIGHT>
+274.1
+
+> <EXACT_MASS>
+274.125063503
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.67828687598105
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+trihydroxy[(1S)-1-[(1-hydroxyethylidene)amino]-2-(naphthalen-1-yl)ethyl]boranuide
+
+> <ALOGPS_LOGP>
+1.35
+
+> <JCHEM_LOGP>
+1.2705000000000002
+
+> <ALOGPS_LOGS>
+-3.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.19094773020239
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.153416112759214
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.035540913183903
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.28000000000002
+
+> <JCHEM_REFRACTIVITY>
+71.95460000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.46e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trihydroxy[(1S)-1-[(1-hydroxyethylidene)amino]-2-(naphthalen-1-yl)ethyl]boranuide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08566
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-1-naphthyl-2-acetamido-ethane boronic acid
+
+$$$$

@@ -1,0 +1,143 @@
+
+  Mrv1718007111813112D          
+
+ 16 12  0  0  0  0            999 V2000
+    0.4125    0.4287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.1432    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.0003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.2858    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7714    0.4287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3589   -0.2858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3589    1.1432    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7714   -1.0003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5339   -0.2858    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4753    0.0000 Fe  0  2  0  0  0  0  0  0  0  0  0  0
+    2.8286   -2.6503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286   -4.3003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036   -3.4753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6536   -3.4753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286   -3.4753    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  2  0  0  0  0
+  5  2  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  1  0  0  0  0
+  9  7  2  0  0  0  0
+ 10  7  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 16 14  2  0  0  0  0
+ 16 15  2  0  0  0  0
+M  CHG  3   5  -1  10  -1  11   2
+M  END
+> <DATABASE_ID>
+DB14501
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Fe++].NCC([O-])=O.NCC([O-])=O.OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C2H5NO2.Fe.H2O4S/c2*3-1-2(4)5;;1-5(2,3)4/h2*1,3H2,(H,4,5);;(H2,1,2,3,4)/q;;+2;/p-2
+
+> <INCHI_KEY>
+YJYOLOWXCPIBSY-UHFFFAOYSA-L
+
+> <FORMULA>
+C4H10FeN2O8S
+
+> <MOLECULAR_WEIGHT>
+302.041
+
+> <EXACT_MASS>
+301.950728129
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.2458071632050665
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+lambda2-iron(2+) sulfuric acid bis(2-aminoacetate)
+
+> <ALOGPS_LOGP>
+-1.47
+
+> <JCHEM_LOGP>
+-3.409459573132419
+
+> <ALOGPS_LOGS>
+0.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.3074568824727404
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.240341660583645
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.15
+
+> <JCHEM_REFRACTIVITY>
+26.8405
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.11e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lambda2-iron(2+) sulfuric acid diaminoacetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14501
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT000081
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Ferrous glycine sulfate
+
+> <SYNONYMS>
+Ferrous (II) Glycine Sulphate Complex; Ferrous glycine sulphate; Iron(II) glycine sulfate
+
+$$$$

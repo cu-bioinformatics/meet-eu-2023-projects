@@ -1,0 +1,155 @@
+
+  Mrv1909 12152018152D          
+
+ 20 21  0  0  1  0            999 V2000
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7859   -3.9674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2708   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7859   -2.6326    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0409   -1.8479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8478   -1.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1028   -0.8918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3577   -0.1072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  3  0  0  0  0
+ 11 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+  8 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16213
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(C)C(=O)OC1=CC2=C(CC[C@H]2NCC#C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20N2O2/c1-4-10-17-15-9-7-12-6-8-13(11-14(12)15)20-16(19)18(3)5-2/h1,6,8,11,15,17H,5,7,9-10H2,2-3H3/t15-/m1/s1
+
+> <INCHI_KEY>
+LHXOCOHMBFOVJS-OAHLLOKOSA-N
+
+> <FORMULA>
+C16H20N2O2
+
+> <MOLECULAR_WEIGHT>
+272.348
+
+> <EXACT_MASS>
+272.152477892
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9346818305746255
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.782635969083685
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-[(prop-2-yn-1-yl)amino]-2,3-dihydro-1H-inden-5-yl N-ethyl-N-methylcarbamate
+
+> <ALOGPS_LOGP>
+2.00
+
+> <JCHEM_LOGP>
+2.3817774596666674
+
+> <ALOGPS_LOGS>
+-4.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.155629795540447
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.57
+
+> <JCHEM_REFRACTIVITY>
+78.81810000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.55e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16213
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Ladostigil
+
+> <SYNONYMS>
+Ladostigil; Tv-3326 free base
+
+$$$$

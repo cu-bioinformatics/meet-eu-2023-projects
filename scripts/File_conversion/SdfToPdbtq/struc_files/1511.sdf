@@ -1,0 +1,162 @@
+1511
+  Mrv0541 02231215322D          
+
+ 20 22  0  0  0  0            999 V2000
+    2.5466   -2.3592    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.6079   -1.4649    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3402    2.3592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1838    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0374    0.9709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1106   -0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8539    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3673    0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4988   -0.3478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1880   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5230    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -0.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6981    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4818   -1.5367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7075   -1.1639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3759   -1.1635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2668   -0.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0209   -1.6779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9118   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7888   -1.3765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  2  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01511
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC2=C(NC(=O)CN=C2C2=CC=CC=C2Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10Cl2N2O/c16-9-5-6-13-11(7-9)15(18-8-14(20)19-13)10-3-1-2-4-12(10)17/h1-7H,8H2,(H,19,20)
+
+> <INCHI_KEY>
+CHIFCDOIPRCHCF-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10Cl2N2O
+
+> <MOLECULAR_WEIGHT>
+305.159
+
+> <EXACT_MASS>
+304.017018366
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+6.113190570734906e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.440928206000443
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-chloro-5-(2-chlorophenyl)-2,3-dihydro-1H-1,4-benzodiazepin-2-one
+
+> <ALOGPS_LOGP>
+3.46
+
+> <JCHEM_LOGP>
+3.8160651750000003
+
+> <ALOGPS_LOGS>
+-4.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.293636772928373
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.049184533048918
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.46
+
+> <JCHEM_REFRACTIVITY>
+81.50080000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.42e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01511
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+Delorazepam
+
+> <SYNONYMS>
+Chlordesmethyldiazepam; Clordesmetildiazepam; Delorazepam; Delorazepamum
+
+> <INTERNATIONAL_BRANDS>
+Delorazepam Almus; Delorazepam Alter; Delorazepam Aurobindo; Delorazepam DOC; Delorazepam EG; Delorazepam Germed; Delorazepam Hexal; Delorazepam Mylan; Delorazepam Pensa; Delorazepam Ranbaxy; Delorazepam ratiopharm; Delorazepam Sandoz; Delorazepam Teva; Delorazepam Winthrop; EN
+
+$$$$

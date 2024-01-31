@@ -1,0 +1,164 @@
+CII
+  Mrv0541 02241213302D          
+
+ 23 24  0  0  0  0            999 V2000
+  -10.0180    0.2109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.0180   -0.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7324   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7324   -1.8516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4469   -2.2641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1614   -1.8516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.1614   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4469   -0.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3035   -1.0266    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.5890   -0.6141    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -8.5890    0.2109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8745    0.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3035    0.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8745   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8745   -1.8516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1601   -0.6141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4456   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7311   -0.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0167   -1.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0167   -1.8516    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7311   -2.2641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4456   -1.8516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0947   -0.3221    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10  9  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 23  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07560
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](NC(=O)C1CCCCC1)(C(C)C)C(=O)NC1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H25N3O2/c1-12(2)15(17(22)19-14-8-10-18-11-9-14)20-16(21)13-6-4-3-5-7-13/h8-13,15H,3-7H2,1-2H3,(H,20,21)(H,18,19,22)/t15-/m0/s1
+
+> <INCHI_KEY>
+VYLDPSVXLWTIAJ-HNNXBMFYSA-N
+
+> <FORMULA>
+C17H25N3O2
+
+> <MOLECULAR_WEIGHT>
+303.3993
+
+> <EXACT_MASS>
+303.194677059
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.04101700099470004
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.70280744666482
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-(cyclohexylformamido)-3-methyl-N-(pyridin-4-yl)butanamide
+
+> <ALOGPS_LOGP>
+2.33
+
+> <JCHEM_LOGP>
+2.457762198000001
+
+> <ALOGPS_LOGS>
+-3.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.15965465947204
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.364519592993343
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.631212245689362
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.09
+
+> <JCHEM_REFRACTIVITY>
+86.2593
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.07e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07560
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[(1S)-2-methyl-1-(pyridin-4-ylcarbamoyl)propyl]cyclohexanecarboxamide
+
+$$$$

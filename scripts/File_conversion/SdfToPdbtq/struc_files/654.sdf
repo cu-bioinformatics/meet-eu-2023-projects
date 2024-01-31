@@ -1,0 +1,152 @@
+654
+  Mrv0541 02231216382D          
+
+ 18 20  0  0  0  0            999 V2000
+    0.5514    2.8142    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2964    2.0295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5286    2.0295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7835    2.8142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1161    3.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7813    1.3621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6063    1.3621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5264    0.5775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1938    0.0926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8613    0.5775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1938   -0.7324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4794   -1.1449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4794   -1.9699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2351   -2.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2351   -0.7324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9496   -1.1449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9496   -1.9699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6640   -2.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03030
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C(CN2C=NC(=C2)C2=CC=CS2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H14N2S/c1-12-4-6-13(7-5-12)9-17-10-14(16-11-17)15-3-2-8-18-15/h2-8,10-11H,9H2,1H3
+
+> <INCHI_KEY>
+UMOFOLLUKPBVQG-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H14N2S
+
+> <MOLECULAR_WEIGHT>
+254.35
+
+> <EXACT_MASS>
+254.087769148
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.013736502179398159
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.5147591319242
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(4-methylphenyl)methyl]-4-(thiophen-2-yl)-1H-imidazole
+
+> <ALOGPS_LOGP>
+4.21
+
+> <JCHEM_LOGP>
+4.126570092666666
+
+> <ALOGPS_LOGS>
+-3.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.143883199459415
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.82
+
+> <JCHEM_REFRACTIVITY>
+75.2174
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.98e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB03030
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00269
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(2-Thienyl)-1-(4-Methylbenzyl)-1h-Imidazole
+
+$$$$

@@ -1,0 +1,150 @@
+
+  Mrv1718009151814532D          
+
+ 19 20  0  0  0  0            999 V2000
+   -1.0717   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    3.7125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  2  0  0  0  0
+  8  6  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  1  1  0  0  0  0
+ 11  2  2  0  0  0  0
+ 11  3  1  0  0  0  0
+ 12  4  2  0  0  0  0
+ 12  5  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 15 13  1  0  0  0  0
+ 16  6  1  0  0  0  0
+ 16  7  1  0  0  0  0
+ 16 10  1  0  0  0  0
+ 17  8  1  0  0  0  0
+ 17  9  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 10  2  0  0  0  0
+ 19 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06465
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)N1CCN(CC1)NC(=O)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16FN3O2/c1-10(18)16-6-8-17(9-7-16)15-13(19)11-2-4-12(14)5-3-11/h2-5H,6-9H2,1H3,(H,15,19)
+
+> <INCHI_KEY>
+XTOKQKWTUYYVAO-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H16FN3O2
+
+> <MOLECULAR_WEIGHT>
+265.288
+
+> <EXACT_MASS>
+265.12265493
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.410956853153653
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-acetylpiperazin-1-yl)-4-fluorobenzamide
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+-0.0901035796666663
+
+> <ALOGPS_LOGS>
+-1.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.312232001731829
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.3102646598023412
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.65
+
+> <JCHEM_REFRACTIVITY>
+68.76750000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.11e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-(4-acetylpiperazin-1-yl)-4-fluorobenzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06465
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+FK-960
+
+> <SYNONYMS>
+N-(4-Acetyl-1-piperazinyl)-4-fluorobenzamide
+
+$$$$

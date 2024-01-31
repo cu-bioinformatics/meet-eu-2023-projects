@@ -1,0 +1,122 @@
+REMARK  Name = 
+REMARK  21 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_12  and  CA_22
+REMARK    2  A    between atoms: N_13  and  CA_27
+REMARK    3  A    between atoms: N_14  and  CA_37
+REMARK    4  A    between atoms: N_15  and  CA_31
+REMARK    5  A    between atoms: N_16  and  CA_34
+REMARK    6  A    between atoms: N_18  and  CA_47
+REMARK    7  A    between atoms: CA_20  and  C_23
+REMARK    8  A    between atoms: C_21  and  CA_22
+REMARK    9  A    between atoms: CA_22  and  CB_29
+REMARK   10  A    between atoms: C_26  and  CA_27
+REMARK   11  A    between atoms: CA_27  and  CB_32
+REMARK   12  A    between atoms: CB_29  and  CG_35
+REMARK   13  A    between atoms: C_30  and  CA_31
+REMARK   14  A    between atoms: CA_31  and  CB_36
+REMARK   15  A    between atoms: C_33  and  CA_34
+REMARK   16  A    between atoms: CA_34  and  CB_38
+REMARK   17  A    between atoms: CG_35  and  CD_39
+REMARK   18  A    between atoms: CB_36  and  CG_40
+REMARK   19  A    between atoms: CA_37  and  C_44
+REMARK   20  A    between atoms: C_43  and  CA_47
+REMARK   21  A    between atoms: C_50  and  CA_51
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  VAL A   5       1.084  -0.380   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   4
+ATOM      2  O   VAL A   5       1.796   0.865   0.000  0.00  0.00    +0.000 OA
+ATOM      3  N   GLN A   6       2.491  -0.380   0.000  0.00  0.00    +0.000 NA
+ATOM      4  C   VAL A   5       1.796   0.040   0.000  0.00  0.00    +0.000 C 
+BRANCH   3   5
+ATOM      5  CA  GLN A   6       3.203   0.040   0.000  0.00  0.00    +0.000 C 
+BRANCH   5   9
+ATOM      6  O   GLN A   6       3.898  -1.205   0.000  0.00  0.00    +0.000 OA
+ATOM      7  N   PRO A   7       4.610   0.040   0.000  0.00  0.00    +0.000 N 
+ATOM      8  CA  PRO A   7       5.274  -0.445   0.000  0.00  0.00    +0.000 C 
+ATOM      9  C   GLN A   6       3.898  -0.380   0.000  0.00  0.00    +0.000 C 
+ATOM     10  CD  PRO A   7       4.853   0.801   0.000  0.00  0.00    +0.000 C 
+ATOM     11  CB  PRO A   7       5.921   0.040   0.000  0.00  0.00    +0.000 C 
+ATOM     12  CG  PRO A   7       5.662   0.801   0.000  0.00  0.00    +0.000 C 
+BRANCH   8  15
+ATOM     13  O   PRO A   7       4.546  -1.707   0.000  0.00  0.00    +0.000 OA
+ATOM     14  N   GLY A   8       5.969  -1.690   0.000  0.00  0.00    +0.000 NA
+ATOM     15  C   PRO A   7       5.274  -1.286   0.000  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     16  CA  GLY A   8       6.681  -1.286   0.000  0.00  0.00    +0.000 C 
+BRANCH  16  19
+ATOM     17  O   GLY A   8       7.393  -2.532   0.000  0.00  0.00    +0.000 OA
+ATOM     18  OXT GLY A   8       8.088  -1.286   0.000  0.00  0.00    +0.000 OA
+ATOM     19  C   GLY A   8       7.393  -1.690   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  16  19
+ENDBRANCH  14  16
+ENDBRANCH   8  15
+ENDBRANCH   5   9
+BRANCH   5  20
+ATOM     20  CB  GLN A   6       3.203   0.865   0.000  0.00  0.00    +0.000 C 
+BRANCH  20  21
+ATOM     21  CG  GLN A   6       3.898   1.270   0.000  0.00  0.00    +0.000 C 
+BRANCH  21  24
+ATOM     22  OE1 GLN A   6       3.171   2.532   0.000  0.00  0.00    +0.000 OA
+ATOM     23  NE2 GLN A   6       4.610   2.515   0.000  0.00  0.00    +0.000 NA
+ATOM     24  CD  GLN A   6       3.898   2.111   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  21  24
+ENDBRANCH  20  21
+ENDBRANCH   5  20
+ENDBRANCH   3   5
+ENDBRANCH   1   4
+BRANCH   1  26
+ATOM     25  O   LEU A   4      -0.324  -1.205   0.000  0.00  0.00    +0.000 OA
+ATOM     26  N   VAL A   5       0.388   0.040   0.000  0.00  0.00    +0.000 NA
+ATOM     27  C   LEU A   4      -0.324  -0.380   0.000  0.00  0.00    +0.000 C 
+BRANCH  27  28
+ATOM     28  CA  LEU A   4      -1.035   0.040   0.000  0.00  0.00    +0.000 C 
+BRANCH  28  30
+ATOM     29  O   VAL A   3      -2.443   0.865   0.000  0.00  0.00    +0.000 OA
+ATOM     30  N   LEU A   4      -1.731  -0.380   0.000  0.00  0.00    +0.000 NA
+ATOM     31  C   VAL A   3      -2.443   0.040   0.000  0.00  0.00    +0.000 C 
+BRANCH  31  32
+ATOM     32  CA  VAL A   3      -3.138  -0.380   0.000  0.00  0.00    +0.000 C 
+BRANCH  32  34
+ATOM     33  O   GLY A   2      -4.546  -1.205   0.000  0.00  0.00    +0.000 OA
+ATOM     34  N   VAL A   3      -3.850   0.040   0.000  0.00  0.00    +0.000 NA
+ATOM     35  C   GLY A   2      -4.546  -0.380   0.000  0.00  0.00    +0.000 C 
+BRANCH  35  36
+ATOM     36  CA  GLY A   2      -5.257   0.040   0.000  0.00  0.00    +0.000 C 
+BRANCH  36  38
+ATOM     37  O   GLY A   1      -6.665   0.865   0.000  0.00  0.00    +0.000 OA
+ATOM     38  N   GLY A   2      -5.953  -0.380   0.000  0.00  0.00    +0.000 NA
+ATOM     39  C   GLY A   1      -6.665   0.024   0.000  0.00  0.00    +0.000 C 
+BRANCH  39  41
+ATOM     40  N   GLY A   1      -8.088   0.040   0.000  0.00  0.00    +0.000 NA
+ATOM     41  CA  GLY A   1      -7.377  -0.380   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  39  41
+ENDBRANCH  36  38
+ENDBRANCH  35  36
+ENDBRANCH  32  34
+BRANCH  32  42
+ATOM     42  CB  VAL A   3      -3.138  -1.205   0.000  0.00  0.00    +0.000 C 
+ATOM     43  CG1 VAL A   3      -2.443  -1.610   0.000  0.00  0.00    +0.000 C 
+ATOM     44  CG2 VAL A   3      -3.866  -1.626   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  32  42
+ENDBRANCH  31  32
+ENDBRANCH  28  30
+BRANCH  28  45
+ATOM     45  CB  LEU A   4      -1.035   0.865   0.000  0.00  0.00    +0.000 C 
+BRANCH  45  46
+ATOM     46  CG  LEU A   4      -0.324   1.270   0.000  0.00  0.00    +0.000 C 
+ATOM     47  CD1 LEU A   4       0.388   0.865   0.000  0.00  0.00    +0.000 C 
+ATOM     48  CD2 LEU A   4      -0.324   2.111   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  45  46
+ENDBRANCH  28  45
+ENDBRANCH  27  28
+ENDBRANCH   1  26
+BRANCH   1  49
+ATOM     49  CB  VAL A   5       1.084  -1.205   0.000  0.00  0.00    +0.000 C 
+ATOM     50  CG1 VAL A   5       1.796  -1.610   0.000  0.00  0.00    +0.000 C 
+ATOM     51  CG2 VAL A   5       0.356  -1.626   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   1  49
+TORSDOF 21

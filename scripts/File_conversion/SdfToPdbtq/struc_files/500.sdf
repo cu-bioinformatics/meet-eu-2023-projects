@@ -1,0 +1,168 @@
+500
+  Mrv0541 02231214432D          
+
+ 19 20  0  0  0  0            999 V2000
+    1.6500    0.5368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4638    3.1223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6132    1.7013    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1652    1.3572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9722    1.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.5368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847    0.8143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8327    0.2011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3078    2.2824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.1242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5521    1.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.7008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.3508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.9383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1283    2.3687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.1758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 18  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00500
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(CC(O)=O)=CC=C1C(=O)C1=CC=C(C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15NO3/c1-10-3-5-11(6-4-10)15(19)13-8-7-12(16(13)2)9-14(17)18/h3-8H,9H2,1-2H3,(H,17,18)
+
+> <INCHI_KEY>
+UPSPUYADGBWSHF-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H15NO3
+
+> <MOLECULAR_WEIGHT>
+257.2845
+
+> <EXACT_MASS>
+257.105193351
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9991557602563175
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.67348466489336
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[1-methyl-5-(4-methylbenzoyl)-1H-pyrrol-2-yl]acetic acid
+
+> <ALOGPS_LOGP>
+2.81
+
+> <JCHEM_LOGP>
+2.7273309576666667
+
+> <ALOGPS_LOGS>
+-3.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9268325967969133
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.783636781466805
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.3
+
+> <JCHEM_REFRACTIVITY>
+72.3928
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.31e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00500
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01268
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tolmetin
+
+> <SYNONYMS>
+1-Methyl-5-(4-methylbenzoyl)-pyrrole-2-acetic acid; 1-Methyl-5-p-toluoylpyrrole-2-acetic acid; 5-(p-Toluoyl)-1-methylpyrrole-2-acetic acid; Tolmetin; Tolmetina; Tolmétine; Tolmetino; Tolmetinum
+
+> <PRODUCTS>
+Novo-tolmetin Capsules 400mg; Tolectin 200 Tab 200mg; Tolectin 400 Cap 400mg; Tolectin Tab 600mg; Tolmetin Sodium
+
+> <INTERNATIONAL_BRANDS>
+Tolectin; Tolectin DS
+
+> <SALTS>
+Tolmetin sodium
+
+$$$$

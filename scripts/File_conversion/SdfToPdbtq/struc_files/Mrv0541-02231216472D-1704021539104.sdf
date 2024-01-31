@@ -1,0 +1,156 @@
+
+  Mrv0541 02231216472D          
+
+ 17 19  0  0  1  0            999 V2000
+    3.2789    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0098   -1.7070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -2.3744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -2.1195    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0728   -2.6044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -1.2945    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0728   -0.8096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  6 10  1  0  0  0  0
+ 11 10  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 14 16  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03216
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC=NC2=C1N=CN2[C@@H]1C=C[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N5O2/c11-9-7-10(13-3-12-9)15(4-14-7)5-1-2-6(16)8(5)17/h1-6,8,16-17H,(H2,11,12,13)/t5-,6+,8+/m1/s1
+
+> <INCHI_KEY>
+RQPALADHFYHEHK-CHKWXVPMSA-N
+
+> <FORMULA>
+C10H11N5O2
+
+> <MOLECULAR_WEIGHT>
+233.2266
+
+> <EXACT_MASS>
+233.091274621
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.01170799473537381
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.431125569024548
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,2S,5R)-5-(6-amino-9H-purin-9-yl)cyclopent-3-ene-1,2-diol
+
+> <ALOGPS_LOGP>
+-0.63
+
+> <JCHEM_LOGP>
+-1.1525487483333334
+
+> <ALOGPS_LOGS>
+-1.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.734815101312252
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.188752543128087
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.095488203655665
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.08000000000001
+
+> <JCHEM_REFRACTIVITY>
+61.4408
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03216
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00427
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1'R,2'S)-9-(2-Hydroxy-3'-Keto-Cyclopenten-1-yl)Adenine
+
+$$$$

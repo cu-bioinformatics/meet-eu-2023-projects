@@ -1,0 +1,153 @@
+
+  Mrv1909 01292018442D          
+
+ 18 11  0  0  0  0            999 V2000
+    2.8209    0.0931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3088    0.7584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1338    0.7584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8209    1.4237    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    2.0314    1.1665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3659    1.6543    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0314    0.3414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0781   -0.6963    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8854   -0.8648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1426   -1.6543    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4353   -0.2528    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2464   -2.5898    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4126   -2.5898    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5876   -2.5898    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.7538   -2.5898    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.8752    2.5887    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    3.0414    2.5887    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+    2.2164    2.5887    0.0000 Cl  0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  CHG  8   4  -1  12  -1  13  -1  14  -1  15  -1  16   3  17   3  18  -1
+M  END
+> <DATABASE_ID>
+DB11205
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[OH-].[OH-].[OH-].[OH-].[Al+3].[Al+3].[Cl-].NC(=O)NC1NC(=O)[N-]C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O3.2Al.ClH.4H2O/c5-3(10)6-1-2(9)8-4(11)7-1;;;;;;;/h1H,(H5,5,6,7,8,9,10,11);;;1H;4*1H2/q;2*+3;;;;;/p-6
+
+> <INCHI_KEY>
+IMZDRXBSGZPLDE-UHFFFAOYSA-H
+
+> <FORMULA>
+C4H9Al2ClN4O7
+
+> <MOLECULAR_WEIGHT>
+314.55
+
+> <EXACT_MASS>
+313.9790533
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.10112706741644004
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.544061478882465
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+dialuminium(3+) 4-(carbamoylamino)-2,5-dioxoimidazolidin-1-ide chloride tetrahydroxide
+
+> <ALOGPS_LOGP>
+-1.37
+
+> <JCHEM_LOGP>
+-2.360540882
+
+> <ALOGPS_LOGS>
+-2.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.414199871379253
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.948848806915678
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3762243606061983
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.52
+
+> <JCHEM_REFRACTIVITY>
+31.222500000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.35e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fidaxomicin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11205
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Alcloxa
+
+> <SYNONYMS>
+Alcloxa; Alcloxum; Aluminium chlorohydroxyallantoinate; Aluminum chlorhydroxy allantoinate; Aluminum chlorohydroxy allantoinate; Chlorhydroxyaluminum allantoinate; Dialuminum tetrahydroxychloro allantoinate
+
+> <PRODUCTS>
+28tak Gum Care Tooth; Clean Breath Tooth; Divinetree Ssak Shark Kids Tooth; Dr.EL GUM CARE TOOTH; Dr.LORD Green Propol Tooth; Exoden Cavity; Exoden Cure Powder; Exoden Gum; Exoden White; Finefra Aid Tooth; Finefra Black Tooth; Finefra Kids Tooth; Finefra Tooth; Gray Salt; Gray Salt Tooth; Greensaltrain Tooth; Hae Yan Tooth; HiMangChanToothpaste; LACSIAN new perfect all care tooth; LACSISN perfect all care; Medi Peel Herb Denti Clinic Toothpas Te; Medi Peel Herbpirin Salt Toothpas Te; MediF Tooth; Mitchum Anti Perspirant Crm Scented; Mitchum Antipersp Crm Unscented; Rootsallo Toothpaste; Salt Tooth; Saltrain Tooth; Solmeet; Solmeet denti doctor; Watkins Roll On Deodorant
+
+$$$$

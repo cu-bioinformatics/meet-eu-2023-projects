@@ -1,0 +1,180 @@
+
+  Mrv0541 02231217582D          
+
+ 30 30  0  0  1  0            999 V2000
+    1.6500   -3.5063    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -4.3313    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.9188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.6813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2224    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    4.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    4.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 28  1  0  0  0  0
+  2 30  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 20  1  0  0  0  0
+  4 27  1  0  0  0  0
+  5 22  2  0  0  0  0
+  6 23  1  0  0  0  0
+  7 23  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+ 11  9  1  6  0  0  0
+  9 22  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 26 29  2  0  0  0  0
+ 28 30  2  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04856
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCN(CCCOC)C(=O)[C@@H](CCC(O)=O)NC(=O)C1=CC(Cl)=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H30Cl2N2O5/c1-3-4-5-11-25(12-6-13-30-2)21(29)18(9-10-19(26)27)24-20(28)15-7-8-16(22)17(23)14-15/h7-8,14,18H,3-6,9-13H2,1-2H3,(H,24,28)(H,26,27)/t18-/m1/s1
+
+> <INCHI_KEY>
+QNQZBKQEIFTHFZ-GOSISDBHSA-N
+
+> <FORMULA>
+C21H30Cl2N2O5
+
+> <MOLECULAR_WEIGHT>
+461.379
+
+> <EXACT_MASS>
+460.153177494
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9988866158890585
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.86305800701988
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4R)-4-[(3,4-dichlorophenyl)formamido]-4-[(3-methoxypropyl)(pentyl)carbamoyl]butanoic acid
+
+> <ALOGPS_LOGP>
+3.23
+
+> <JCHEM_LOGP>
+3.3711098023333332
+
+> <ALOGPS_LOGS>
+-4.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.443254041201655
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.047143063705814
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2477729738977086
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.94000000000001
+
+> <JCHEM_REFRACTIVITY>
+117.0107
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.55e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04856
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Dexloxiglumide
+
+> <SYNONYMS>
+Dexloxiglumida; Dexloxiglumide; Dexloxiglumidum
+
+$$$$

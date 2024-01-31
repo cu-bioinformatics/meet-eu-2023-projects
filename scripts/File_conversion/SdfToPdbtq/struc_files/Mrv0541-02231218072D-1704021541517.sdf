@@ -1,0 +1,160 @@
+
+  Mrv0541 02231218072D          
+
+ 18 18  0  0  0  0            999 V2000
+    1.7606    1.7779    0.0000 Ag  0  3  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.5404    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.5404    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    1.3654    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.7597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.6029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 15  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  CHG  2   1   1   5  -1
+M  END
+> <DATABASE_ID>
+DB05245
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Ag+].NC1=CC=C(C=C1)S(=O)(=O)[N-]C1=NC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9N4O2S.Ag/c11-8-2-4-9(5-3-8)17(15,16)14-10-12-6-1-7-13-10;/h1-7H,11H2;/q-1;+1
+
+> <INCHI_KEY>
+UEJSSZHHYBHCEL-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9AgN4O2S
+
+> <MOLECULAR_WEIGHT>
+357.137
+
+> <EXACT_MASS>
+355.949714262
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.505798267759741
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.09585918328209
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+silver(1+) 4-{[(pyrimidin-2-yl)azanidyl]sulfonyl}aniline
+
+> <ALOGPS_LOGP>
+0.19
+
+> <JCHEM_LOGP>
+0.38726080800000007
+
+> <ALOGPS_LOGS>
+-1.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.989915418119709
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0129080979522933
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.17
+
+> <JCHEM_REFRACTIVITY>
+63.40090000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.87e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05245
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Silver sulfadiazine
+
+> <SYNONYMS>
+Silver sulfadiazinate; Silver sulfadiazine; Silver sulphadiazine; Sulfadiazine silver; Sulfadiazine silver salt
+
+> <PRODUCTS>
+Dermazin Crm 1%; Flamazine; Flamazine C; Hydrogel AG Silver Antimicrobial Wound Dressing; RayaSore Kit; SSD Cream; Silvadene; Silver Sulfadiazene; Silver Sulfadiazine; Ssd; Ssd (1% Silver Sulfadiazine Cream USP); Ssd Silver Sulfadiazine Crm 1%; Thermazene; Thermazene Silver Sulfadiazine
+
+> <INTERNATIONAL_BRANDS>
+Dermazin; Flamazine; Silverol
+
+$$$$

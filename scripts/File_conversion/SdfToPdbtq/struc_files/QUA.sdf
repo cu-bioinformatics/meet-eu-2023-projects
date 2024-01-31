@@ -1,0 +1,159 @@
+QUA
+  Mrv0541 02231216172D          
+
+ 19 20  0  0  0  0            999 V2000
+   -2.0230    1.1238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3085    1.5363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5941    1.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1204    1.5363    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5941    0.2988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8349    1.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1204   -0.1137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5493    1.5363    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8349    0.2988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5493    2.3613    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2638    1.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1204   -0.9387    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8349   -1.3512    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5493   -0.1137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5941   -1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2638    0.2988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3085    2.3613    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0436    1.8282    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6261   -0.6468    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  1  0  0  0
+  8 11  1  0  0  0  0
+  8 18  1  6  0  0  0
+  9 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 12 15  1  0  0  0  0
+ 12 19  1  6  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02566
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(O)C1=CC(=NC2=C1C=CC[C@]2([H])O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13NO4/c1-6(14)8-5-9(12(16)17)13-11-7(8)3-2-4-10(11)15/h2-3,5-6,10,14-15H,4H2,1H3,(H,16,17)/t6-,10-/m0/s1
+
+> <INCHI_KEY>
+FCGZNXGKWUHBKD-WKEGUHRASA-N
+
+> <FORMULA>
+C12H13NO4
+
+> <MOLECULAR_WEIGHT>
+235.2359
+
+> <EXACT_MASS>
+235.084457909
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.8532634109353495
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.658865245925554
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(8S)-8-hydroxy-4-[(1S)-1-hydroxyethyl]-7,8-dihydroquinoline-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.31
+
+> <JCHEM_LOGP>
+-1.4586451170383306
+
+> <ALOGPS_LOGS>
+-1.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.623954678076093
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.0472805964508152
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.643037642155017
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.65
+
+> <JCHEM_REFRACTIVITY>
+61.687200000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.99e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02566
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02731
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-Hydroxy-4-(1-Hydroxyethyl)Quinoline-2-Carboxylic Acid
+
+$$$$

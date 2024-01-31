@@ -1,0 +1,168 @@
+934
+  Mrv0541 02231215072D          
+
+ 21 24  0  0  0  0            999 V2000
+    5.3052   -1.8593    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5950    0.7910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8000    1.5561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8205    2.2283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5065    2.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0461    0.1900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2232   -0.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3900    0.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2511    0.9551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8271    0.6849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9501   -0.5341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6204   -0.4023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8217   -0.7218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0446    1.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0022    0.6977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7451   -1.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4190   -0.1949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9966   -0.7281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6324    0.6020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5841   -0.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1002   -2.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00934
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNCCCC12CCC(C3=CC=CC=C13)C1=CC=CC=C21
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H23N/c1-21-14-6-12-20-13-11-15(16-7-2-4-9-18(16)20)17-8-3-5-10-19(17)20/h2-5,7-10,15,21H,6,11-14H2,1H3
+
+> <INCHI_KEY>
+QSLMDECMDJKHMQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H23N
+
+> <MOLECULAR_WEIGHT>
+277.4033
+
+> <EXACT_MASS>
+277.183049741
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9997135341754961
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.584461041713354
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl(3-{tetracyclo[6.6.2.0^{2,7}.0^{9,14}]hexadeca-2,4,6,9,11,13-hexaen-1-yl}propyl)amine
+
+> <ALOGPS_LOGP>
+4.89
+
+> <JCHEM_LOGP>
+4.372104774333334
+
+> <ALOGPS_LOGS>
+-6.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.542802753774973
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.03
+
+> <JCHEM_REFRACTIVITY>
+99.30170000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.50e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00934
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00747
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Maprotiline
+
+> <SYNONYMS>
+Maprotilina; Maprotiline; Maprotilinum; Maprotylina
+
+> <PRODUCTS>
+Ludiomil; Ludiomil Tab 10mg; Ludiomil Tab 25mg; Ludiomil Tab 50mg; Ludiomil Tab 75mg; Maprotiline Hydrochloride; Novo-maprotiline - Tab 10mg; PMS-maprotiline; Teva-maprotiline
+
+> <SALTS>
+Maprotiline hydrochloride
+
+$$$$

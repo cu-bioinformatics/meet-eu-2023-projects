@@ -1,0 +1,163 @@
+
+  Mrv1902 02061921292D          
+
+ 20 20  0  0  0  0            999 V2000
+   -1.0230   -1.6954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4356   -0.4258    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8481   -1.6954    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1030   -0.9108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9420   -1.1921    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6564   -0.7796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3709   -1.1921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7999   -1.1921    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0854   -0.7796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0854    0.0454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9104    0.8704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2604    0.8704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0854    0.8704    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8999   -0.6973    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5301    0.6829    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1134    0.0996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9104    0.3130    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7681   -0.9108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0287   -0.6973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0854    1.6954    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  2  0  0  0  0
+  2 18  1  0  0  0  0
+  4  3  1  0  0  0  0
+  3  1  1  0  0  0  0
+  1 18  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 11  2  0  0  0  0
+ 13 12  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+  5 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00927
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(N)=NC1=NC(CSCCC(N)=NS(N)(=O)=O)=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15N7O2S3/c9-6(15-20(12,16)17)1-2-18-3-5-4-19-8(13-5)14-7(10)11/h4H,1-3H2,(H2,9,15)(H2,12,16,17)(H4,10,11,13,14)
+
+> <INCHI_KEY>
+XUFQPHANEAPEMJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H15N7O2S3
+
+> <MOLECULAR_WEIGHT>
+337.445
+
+> <EXACT_MASS>
+337.044934829
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.660790323618677
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[({2-[(diaminomethylidene)amino]-1,3-thiazol-4-yl}methyl)sulfanyl]-N'-sulfamoylpropanimidamide
+
+> <ALOGPS_LOGP>
+-0.20
+
+> <JCHEM_LOGP>
+-1.9500818776783027
+
+> <ALOGPS_LOGS>
+-3.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.96080663134764
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.287199600783744
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.378924312799668
+
+> <JCHEM_POLAR_SURFACE_AREA>
+175.83
+
+> <JCHEM_REFRACTIVITY>
+80.46199999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.71e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+paricalcitol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00927
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00296
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Famotidine
+
+> <SYNONYMS>
+(1-Amino-3-(((2-((diaminomethylene)amino)-4-thiazolyl)methyl)thio)propylidene)sulfamide; 3-(((2-((Aminoiminomethyl)amino)-4-thiazolyl)methyl)thio)-N-(aminosulfonyl)propanimidamide; 3-(((2-((Diaminomethylene)amino)-4-thiazolyl)methyl)thio)-N(sup 2)-sulfamoylpropionamidine; Famotidina; Famotidine; Famotidinum; N-Sulfamoyl-3-((2-guanidinothiazol-4-yl)methylthio)propionamide
+
+> <PRODUCTS>
+7 Select Acid Controller; Acid Control; Acid Control Original Strength; Acid Controller; Acid Controller Complete; Acid Controller Complete dual action; Acid Controller Maximum Strength; Acid Controller Original Strength; Acid Reducer; Acid Reducer Complete; Acid Reducer Maximum Strength; Acid Reducer Original Strength; Acid Reducer Plus Antacid; Acid Relief; Acid reducer original strength; Act; Ag-famotidine; Apo-famotidine; Apo-famotidine Injectable; Apo-famotidine Tab 20mg USP; Apo-famotidine Tab 40mg USP; Basic Care Acid Reducer; Basic Care Dual Action Complete; Basic Care Heartburn Prevention; Basic Care famotidine; Bci Famotidine; Berkley and Jensen Acid Controller; Berkley and Jensen Acid Controller Complete; Berkley and Jensen Famotidine; Betr Acid Reducer; Calmicid AC Acid Reducer; Calmicid AC Maximum Strength Acid Reducer; Care One Acid Reducer Original Strength; Care One Acid Reducer and Antacid Dual Action; Care One Acid Reducer plus Antacid Dual Action; CareOne Acid Reducer; CareOne Acid Reducer Complete; CareOne Acid Relief; Careone Acid Relief; Caring Mill Famotidine; Complete; Complete Dual Action; ConRx Acid Reducer; DG Health Dual Action Complete; DG Health acid reducer complete; DUO Fusion; Dg Health Acid Reducer; Dg Health Heartburn Prevention; Dg Health Heartburn Prevention Original Strength; Dual Action; Dual Action Complete; Duexis; Equaline Complete Dual Action; Equaline Heartburn Prevention; Equate Acid Reducer Complete; Equate Famotidine; Family Wellness Acid Controller Complete; Family Wellness Acid Reducer; Family Wellness acid reducer complete; Famotidine; Famotidine - Acid Controller; Famotidine 10mg; Famotidine IV Injection; Famotidine Injection; Famotidine Omega -(with Preservative,benzyl Alcohol); Famotidine Omega -(without Preservative); Famotidine Tablets; Famotidine original strength; Famotidine-20; Famotidine-40; Fluxid; Good Neighbor Pharmacy Acid Reducer; Good Neighbor Pharmacy Acid Reducer Maximum Strength; Good Neighbor Pharmacy Complete; Good Neighbor Pharmacy Dual Action Complete; Good Neighbor Pharmacy acid reducer; Good Sense Acid Reducer; Good Sense Complete; Good Sense Dual Action Complete; Harris Teeter Acid Reducer; Harris Teeter Acid Reducer Complete; Health Mart Complete; Health Mart Dual Action Complete; Health Mart Famotidine; Healthy Accents Famotidine; Healthy Accents Famotidine Calcium Carbonate Magnesium Hydroxide; Healthy Accents Famotidine maximum strength; Heartburn Prevention; Heartburn Prevention Acid Reducer; Heartburn Prevention Original Strength; Heartburn Relief; Heartburn Relief Original Strength; Humana Pharmacy Acid Reducer; Ibuprofen and Famotidine; Ibuprofen and famotidine; Injoy Heartburn Relief; Jamp Famotidine; Kirkland Signature Acid Controller; Leader Acid Reducer; Leader Acid Reducer Complete; Leader Acid Reducer Maximum Strength; Leader Acid Reducer Original Strength; Maalox H2 Acid Controller; Major Heartburn Relief Maximum Strength; Maximum Strength; Maximum Strength Acid Reducer; Maximum Strength Pepcid Ac; Members Mark Acid Pep; Members Mark Famotidine; Mylan-famotidine; Ntp-famotidine; Nu-famotidine Tab 20mg; Nu-famotidine Tab 40mg; PEPCID AC Maximum Strength; Penta-famotidine; Pepcid; Pepcid AC; Pepcid AC MAXIMUM STRENGTH; Pepcid AC Original Strength; Pepcid Ac (chewable Tab) - 10mg; Pepcid Complete; Pepcid I.V. 10mg/ml; Pepcid Tab 20mg; Pepcid Tab 40mg; Peptic Guard; Preferred Plus Complete; Premier Value Famotidine; Ratio-famotidine 20mg; Ratio-famotidine 40mg; Rhoxal-famotidine; Riva-famotidine 20 mg; Riva-famotidine 40 mg; Rugby Famotidine; Rx Act Heartburn Prevention maximum strength; ShopRite Acid Reducer; ShopRite Complete; ShopRite Dual Action Complete; Signature Care Acid Controller; Signature Care Acid Controller Complete; Signature Care Acid Controller maximum strength; Signature Care Acid Reducer Complete; Simply Right Famotidine; Simply Right Famotidine Complete; Smart Sense Acid Reducer; Smart Sense Acid Reducer Maximum Strength; Smart Sense Complete; Smart Sense Dual Action Complete; Smart Sense Famotidine; Sound Body Acid Reducer; SunMark Acid Reducer maximum strength; Sunmark Acid Reducer; Sunmark Dual Action Complete; Sunmark complete; Teva-famotidine; TopCare Acid Reducer; TopCare Complete acid reducer plus antacid; Topcare Acid Reducer; Topcare Complete; Topcare Dual Action Complete; Tums Dual Action; Ulcidine; Up and Up Acid Controller Complete Dual Action; Up and Up Acid Reducer Original Strength; Up and Up Famotidine; Up and Up Famotidine Complete; Up and Up acid reducer original strength; Up and Up dual action acid controller complete; Zantac 360; Zantac 360 1 per blister 6 blisters; Zantac 360 2 per blister 6 blisters; Zantac 360 Cool Mint; equate Acid Controller Original Strength; smart sense Complete
+
+> <INTERNATIONAL_BRANDS>
+Amfamox; Antodine; Confobos; Cronol; Digervin; Dispromil; Duovel; Durater; Famocid; Famosan; Famotep; Famox; Famoxal; Famtac; Famulcer; Fanosin; Gaster; Lecedil; Motiax; Mylanta AR; Notidin; Nulceran; Panalba; Pepcid RPD; Pepcidin; Pepcidine; Pepdine; Pepfamin; Quamatel; Renapepsa; Rubacina; Sedanium-R; Supertidine; Tairal; Tipodex; Ulfagel; Ulfamid; Ulgarine; Vagostal
+
+$$$$

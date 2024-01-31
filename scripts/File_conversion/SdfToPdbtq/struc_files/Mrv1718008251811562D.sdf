@@ -1,0 +1,160 @@
+
+  Mrv1718008251811562D          
+
+ 23 19  0  0  0  0            999 V2000
+    0.2062    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4437    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4437   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4437   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4437    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0312    1.7861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2687   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2687   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0312    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0312    0.3572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0312   -0.3572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4437    2.5006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062    1.7861    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6812    0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6812   -1.0717    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.6812   -0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6812   -1.7861    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4437    1.7861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    1.0717    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.6187    1.7861    0.0000 Cu  0  2  0  0  0  0  0  0  0  0  0  0
+    3.0937   -1.7861    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+   -3.0937   -2.5006    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  7  3  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11  3  1  0  0  0  0
+ 11  4  1  0  0  0  0
+ 12  2  1  0  0  0  0
+ 12  5  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13  7  2  0  0  0  0
+ 14  7  1  0  0  0  0
+ 15  8  2  0  0  0  0
+ 16  8  1  0  0  0  0
+ 17  9  2  0  0  0  0
+ 18  9  1  0  0  0  0
+ 19 10  2  0  0  0  0
+ 20 10  1  0  0  0  0
+M  CHG  7  14  -1  16  -1  18  -1  20  -1  21   2  22   1  23   1
+M  END
+> <DATABASE_ID>
+DB14599
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Na+].[Na+].[Cu++].[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O8.Cu.2Na/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;;/q;+2;2*+1/p-4
+
+> <INCHI_KEY>
+KCFCAUKZKOSSBI-UHFFFAOYSA-J
+
+> <FORMULA>
+C10H12CuN2Na2O8
+
+> <MOLECULAR_WEIGHT>
+397.738
+
+> <EXACT_MASS>
+396.968502
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.522119734427537
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+copper(2+) disodium 2-({2-[bis(carboxymethyl)amino]ethyl}(carboxymethyl)amino)acetate
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+-4.924670289588848
+
+> <ALOGPS_LOGS>
+-1.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+2.8981330776935894
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.349928817402512
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.728016348707842
+
+> <JCHEM_POLAR_SURFACE_AREA>
+167.0
+
+> <JCHEM_REFRACTIVITY>
+105.69400000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.37e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+copper(2+) disodium ({2-[bis(carboxymethyl)amino]ethyl}(carboxymethyl)amino)acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14599
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT001713
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Edetate copper disodium
+
+> <SYNONYMS>
+Copper disodium edetate; Copper disodium ethylenediaminetetraacetate; Copper versenate; EDTA copper disodium salt
+
+$$$$

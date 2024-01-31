@@ -1,0 +1,157 @@
+4NA
+  Mrv0541 02241213122D          
+
+ 19 21  0  0  0  0            999 V2000
+   -2.1972   -1.0366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4828   -1.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7683   -1.0366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7683   -0.2116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4828    0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1972   -0.2116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0538   -1.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6606   -1.0366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6606   -0.2116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0538    0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3751    0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3751    1.0259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0896    1.4384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040    1.0259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040    0.2009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0896   -0.2116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5185    1.4384    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4828   -2.2741    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9117   -1.4491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07119
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC=C2C(C=CC(O)=C2Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H11ClO2/c17-16-14-7-3-11(9-12(14)4-8-15(16)19)10-1-5-13(18)6-2-10/h1-9,18-19H
+
+> <INCHI_KEY>
+YHEHVRSGKUYDON-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H11ClO2
+
+> <MOLECULAR_WEIGHT>
+270.71
+
+> <EXACT_MASS>
+270.044757303
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.14442154392237191
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.318761006319153
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-chloro-6-(4-hydroxyphenyl)naphthalen-2-ol
+
+> <ALOGPS_LOGP>
+4.35
+
+> <JCHEM_LOGP>
+4.606861967666666
+
+> <ALOGPS_LOGS>
+-4.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.882684558025506
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.7772809331285355
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.482705911674715
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+76.41099999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.30e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07119
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-CHLORO-6-(4-HYDROXYPHENYL)-2-NAPHTHOL
+
+$$$$

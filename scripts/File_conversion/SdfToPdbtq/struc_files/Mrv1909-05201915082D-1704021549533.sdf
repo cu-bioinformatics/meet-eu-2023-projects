@@ -1,0 +1,155 @@
+
+  Mrv1909 05201915082D          
+
+ 21 23  0  0  1  0            999 V2000
+   -3.3103   -2.2044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1388   -1.3975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3541   -1.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1826   -0.3356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7346    0.2775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3221    0.9920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5152    0.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9021    1.3725    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15288
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NCCC1=CNC(=S)N1[C@H]1COC2=C(C1)C=C(F)C=C2F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H15F2N3OS/c15-9-3-8-4-11(7-20-13(8)12(16)5-9)19-10(1-2-17)6-18-14(19)21/h3,5-6,11H,1-2,4,7,17H2,(H,18,21)/t11-/m1/s1
+
+> <INCHI_KEY>
+CWWWTTYMUOYSQA-LLVKDONJSA-N
+
+> <FORMULA>
+C14H15F2N3OS
+
+> <MOLECULAR_WEIGHT>
+311.35
+
+> <EXACT_MASS>
+311.090389615
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.178935389717907
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(2-aminoethyl)-1-[(3R)-6,8-difluoro-3,4-dihydro-2H-1-benzopyran-3-yl]-2,3-dihydro-1H-imidazole-2-thione
+
+> <ALOGPS_LOGP>
+1.47
+
+> <JCHEM_LOGP>
+1.6925803649145212
+
+> <ALOGPS_LOGS>
+-3.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.345622062627442
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.954809460030111
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.519999999999996
+
+> <JCHEM_REFRACTIVITY>
+81.08270000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15288
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Etamicastat
+
+> <SYNONYMS>
+Etamicastat
+
+$$$$

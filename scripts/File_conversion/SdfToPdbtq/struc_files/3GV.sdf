@@ -1,0 +1,152 @@
+3GV
+  Mrv0541 02241213102D          
+
+ 17 18  0  0  0  0            999 V2000
+    1.1034    1.1401    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3188    0.8852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3487    1.3701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0638    0.1006    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7612    0.1006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0161    0.8852    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8007    1.1401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9722    1.9471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4138    0.5881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5488   -0.5669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3692   -0.4806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7048    0.2730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8542   -1.1481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5186   -1.9018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6981   -1.9880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2132   -1.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1074    1.4619    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6 17  1  6  0  0  0
+  6  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+  9  7  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07057
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CN(C(=O)C1)C1=C(O)C=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11NO4/c13-9-4-2-1-3-8(9)12-6-7(11(15)16)5-10(12)14/h1-4,7,13H,5-6H2,(H,15,16)/t7-/m0/s1
+
+> <INCHI_KEY>
+FPQOSKXLHCTVED-ZETCQYMHSA-N
+
+> <FORMULA>
+C11H11NO4
+
+> <MOLECULAR_WEIGHT>
+221.2093
+
+> <EXACT_MASS>
+221.068807845
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0179720343670462
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.433787533988426
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.72
+
+> <JCHEM_LOGP>
+0.3771118676666665
+
+> <ALOGPS_LOGS>
+-1.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.72169212271603
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.816629173375312
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.197257386656197
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.84
+
+> <JCHEM_REFRACTIVITY>
+54.99900000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07057
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid
+
+$$$$

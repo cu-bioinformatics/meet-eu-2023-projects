@@ -1,0 +1,156 @@
+
+  Mrv1902 04091903382D          
+
+ 21 21  0  0  0  0            999 V2000
+   -2.5007    0.5231    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.9521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4842    1.2376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.9521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1658    1.2376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.9521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7862    0.1105    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0717    0.5231    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -1.1270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0717   -0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6592    1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2143   -0.3845    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.7706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 12  3  1  6  0  0  0
+ 13  4  1  1  0  0  0
+ 15  5  1  6  0  0  0
+ 16  6  1  1  0  0  0
+ 17  7  1  6  0  0  0
+  8 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 18  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 20  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 21  1  6  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04694
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O[C@](O)(C(O)=O)[C@]([H])(F)[C@H](O)[C@H]1O)[C@H](O)[C@H](O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15FO9/c10-7-5(15)4(14)6(3(13)2(12)1-11)19-9(7,18)8(16)17/h2-7,11-15,18H,1H2,(H,16,17)/t2-,3-,4-,5-,6+,7-,9+/m1/s1
+
+> <INCHI_KEY>
+KOWJBKIDVGQXJZ-QMFVTVPYSA-N
+
+> <FORMULA>
+C9H15FO9
+
+> <MOLECULAR_WEIGHT>
+286.2084
+
+> <EXACT_MASS>
+286.070010283
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.359890469199684
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4R,5R,6S)-3-fluoro-2,4,5-trihydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.63
+
+> <JCHEM_LOGP>
+-3.2854486143333332
+
+> <ALOGPS_LOGS>
+-0.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.94772611516047
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.996921305314312
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9742191776861953
+
+> <JCHEM_POLAR_SURFACE_AREA>
+167.91
+
+> <JCHEM_REFRACTIVITY>
+52.498700000000014
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.07e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,3R,4R,5R,6S)-3-fluoro-2,4,5-trihydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04694
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-anhydro-3-deoxy-3-fluoronononic acid
+
+> <SYNONYMS>
+3-deoxy-3-fluoro-D-erythro-α-L-manno-non-2-ulopyranosonic acid
+
+$$$$

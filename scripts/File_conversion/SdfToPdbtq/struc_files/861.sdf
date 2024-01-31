@@ -1,0 +1,166 @@
+861
+  Mrv0541 02231215032D          
+
+ 18 19  0  0  0  0            999 V2000
+    5.6655    0.5404    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    3.0154    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -2.7597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -2.7597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00861
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=C(O)C=CC(=C1)C1=C(F)C=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H8F2O3/c14-8-2-3-9(11(15)6-8)7-1-4-12(16)10(5-7)13(17)18/h1-6,16H,(H,17,18)
+
+> <INCHI_KEY>
+HUPFGZXOMWLGNK-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H8F2O3
+
+> <MOLECULAR_WEIGHT>
+250.1976
+
+> <EXACT_MASS>
+250.044150532
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9999530707222004
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.2887580651843
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2',4'-difluoro-4-hydroxy-[1,1'-biphenyl]-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.11
+
+> <JCHEM_LOGP>
+3.9098926369999996
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.677467474224828
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.690490099742292
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.306963933716663
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+60.86410000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.11e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00861
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00922; DB06895
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Diflunisal
+
+> <SYNONYMS>
+2-(hydroxy)-5-(2,4-difluorophenyl)benzoic acid; 2',4'-difluoro-4-hydroxy-3-biphenylcarboxylic acid; 5-(2,4-difluorophenyl)salicylic acid; Diflunisal; Diflunisalum
+
+> <PRODUCTS>
+Diflunisal; Diflunisal-250 - Tab 250mg; Diflunisal-500 - Tab 500mg; Dolobid Tab 250mg; Dolobid Tab 500mg; Novo-diflunisal; Nu-diflunisal Tab 250mg; Nu-diflunisal Tab 500mg
+
+> <INTERNATIONAL_BRANDS>
+Anton; Dolobid
+
+$$$$

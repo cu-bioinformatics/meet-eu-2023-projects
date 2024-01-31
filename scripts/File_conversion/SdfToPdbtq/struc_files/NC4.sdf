@@ -1,0 +1,149 @@
+NC4
+  Mrv0541 02241213582D          
+
+ 16 16  0  0  0  0            999 V2000
+   -1.7601   -0.0925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0457   -0.5050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3312   -0.0925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3833   -0.5050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0977   -0.0925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8122   -0.5050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5267   -0.0925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2412   -0.5050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9556   -0.0925    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3312    0.7325    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2412   -1.3300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4746   -0.5050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1891   -0.0925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1891    0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4746    1.1450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7601    0.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08257
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CCCNC(=O)NC1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H20N2O3/c14-10(15)7-4-8-12-11(16)13-9-5-2-1-3-6-9/h9H,1-8H2,(H,14,15)(H2,12,13,16)
+
+> <INCHI_KEY>
+WSVFRGGLURJIMG-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H20N2O3
+
+> <MOLECULAR_WEIGHT>
+228.2881
+
+> <EXACT_MASS>
+228.147392516
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9979207359211589
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.22938142021816
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(cyclohexylcarbamoyl)amino]butanoic acid
+
+> <ALOGPS_LOGP>
+1.18
+
+> <JCHEM_LOGP>
+0.8864460509999996
+
+> <ALOGPS_LOGS>
+-2.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.203007105255494
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.318813796032799
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6166221490133207
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.43
+
+> <JCHEM_REFRACTIVITY>
+59.489200000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08257
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-{[(CYCLOHEXYLAMINO)CARBONYL]AMINO}BUTANOIC ACID
+
+$$$$

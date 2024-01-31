@@ -1,0 +1,161 @@
+
+  Mrv1909 10301920412D          
+
+ 23 24  0  0  0  0            999 V2000
+    2.5006    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    1.4437    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.2062    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9131    0.5082    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0881   -0.9207    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  2  0  0  0  0
+ 20 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13803
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=CC(C)=C1NC(=O)C1=CC(=C(Cl)C=C1O)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15ClN2O4S/c1-8-4-3-5-9(2)14(8)18-15(20)10-6-13(23(17,21)22)11(16)7-12(10)19/h3-7,19H,1-2H3,(H,18,20)(H2,17,21,22)
+
+> <INCHI_KEY>
+MTZBBNMLMNBNJL-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H15ClN2O4S
+
+> <MOLECULAR_WEIGHT>
+354.81
+
+> <EXACT_MASS>
+354.0441058
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.4277859791861
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-chloro-N-(2,6-dimethylphenyl)-2-hydroxy-5-sulfamoylbenzamide
+
+> <ALOGPS_LOGP>
+2.73
+
+> <JCHEM_LOGP>
+2.998483524666666
+
+> <ALOGPS_LOGS>
+-4.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.734279256221988
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.172298380176808
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7194612930889246
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.49
+
+> <JCHEM_REFRACTIVITY>
+90.61749999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.46e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+elamipretide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13803
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Xipamide
+
+> <SYNONYMS>
+Xipamida; Xipamide; Xipamidum
+
+$$$$

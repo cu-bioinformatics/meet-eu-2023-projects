@@ -1,0 +1,160 @@
+
+  Mrv0541 05041404412D          
+
+ 20 20  0  0  1  0            999 V2000
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  2  1  6  0  0  0
+  6  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  1  1  0  0  0  0
+  2  9  1  1  0  0  0
+  3 10  1  6  0  0  0
+  4 11  1  1  0  0  0
+  5 12  1  6  0  0  0
+  7 13  1  1  0  0  0
+ 14  6  1  0  0  0  0
+ 14  7  1  0  0  0  0
+  2 15  1  1  0  0  0
+  3 16  1  1  0  0  0
+  4 17  1  6  0  0  0
+  5 18  1  1  0  0  0
+  6 19  1  1  0  0  0
+  7 20  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04526
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)(CO)[C@@]1([H])O[C@]([H])(O)[C@@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14O7/c8-1-2(9)6-4(11)3(10)5(12)7(13)14-6/h2-13H,1H2/t2-,3-,4-,5-,6+,7-/m0/s1
+
+> <INCHI_KEY>
+BGWQRWREUZVRGI-QQABCQGCSA-N
+
+> <FORMULA>
+C7H14O7
+
+> <MOLECULAR_WEIGHT>
+210.1819
+
+> <EXACT_MASS>
+210.073952802
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-5.479738744909478e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.932057280900608
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3S,4S,5S,6R)-6-[(1S)-1,2-dihydroxyethyl]oxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.82
+
+> <JCHEM_LOGP>
+-3.56287416
+
+> <ALOGPS_LOGS>
+0.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.601623047954275
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.293627891368423
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.974505986946932
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.61
+
+> <JCHEM_REFRACTIVITY>
+41.88589999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.85e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04526
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01620
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Glycero-D-Manno-Heptopyranose
+
+$$$$

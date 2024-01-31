@@ -1,0 +1,153 @@
+L12
+  Mrv0541 02231215512D          
+
+ 17 19  0  0  0  0            999 V2000
+    0.1345    0.6137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1204   -0.1709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9274   -0.3425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1823   -1.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6303   -1.7402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8852   -2.5248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6922   -2.6963    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2443   -2.0832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9893   -1.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3504    1.2811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6336    0.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9191    0.8686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9191    1.6936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6336    2.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3481    1.6936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1345    1.9486    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3481    0.8686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01953
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C(CC1=CC=NC=C1)C1=CNC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H14N2/c1-2-4-15-14(3-1)13(11-17-15)6-5-12-7-9-16-10-8-12/h1-4,7-11,17H,5-6H2
+
+> <INCHI_KEY>
+UUEYCHLWAOBOHG-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H14N2
+
+> <MOLECULAR_WEIGHT>
+222.2851
+
+> <EXACT_MASS>
+222.115698458
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.04483046246756782
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.20525010022263
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[2-(pyridin-4-yl)ethyl]-1H-indole
+
+> <ALOGPS_LOGP>
+3.90
+
+> <JCHEM_LOGP>
+3.390698074
+
+> <ALOGPS_LOGS>
+-4.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.278549459301434
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.671492756174717
+
+> <JCHEM_POLAR_SURFACE_AREA>
+28.68
+
+> <JCHEM_REFRACTIVITY>
+69.32580000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.69e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01953
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01988
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Inhibitor of P38 Kinase
+
+$$$$

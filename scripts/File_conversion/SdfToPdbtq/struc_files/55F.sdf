@@ -1,0 +1,174 @@
+55F
+  Mrv0541 02241213142D          
+
+ 27 30  0  0  0  0            999 V2000
+   -3.4085    0.0275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4085   -0.7975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6940   -1.2100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9795   -0.7975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9795    0.0275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6940    0.4400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2651   -1.2100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5506   -0.7975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5506    0.0275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2651    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1639    0.4400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9176    0.1044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4696    0.7175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0571    1.4320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2501    1.2604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0891   -0.7026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8737   -0.9575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0452   -1.7645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4321   -2.3165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6475   -2.0616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4760   -1.2546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3926    2.1856    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0344   -2.6136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6037   -3.1235    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9077    2.8531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0872    2.7668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2433    3.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  7  4  2  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  5  2  0  0  0  0
+ 11  9  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 13 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 17  2  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 16  2  0  0  0  0
+ 22 25  1  0  0  0  0
+ 23 20  1  0  0  0  0
+ 24 19  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 27 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07152
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)NC1=NC(=C(N1)C1=CC=C2N=CC=NC2=C1)C1=NC(C)=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H15FN6O/c1-10-13(20)4-6-15(23-10)18-17(25-19(26-18)24-11(2)27)12-3-5-14-16(9-12)22-8-7-21-14/h3-9H,1-2H3,(H2,24,25,26,27)
+
+> <INCHI_KEY>
+TYPILNNEZPSNTI-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H15FN6O
+
+> <MOLECULAR_WEIGHT>
+362.3604
+
+> <EXACT_MASS>
+362.129137337
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.011695443055210867
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.09283508042036
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[4-(5-fluoro-6-methylpyridin-2-yl)-5-(quinoxalin-6-yl)-1H-imidazol-2-yl]acetamide
+
+> <ALOGPS_LOGP>
+2.84
+
+> <JCHEM_LOGP>
+2.1451208966666666
+
+> <ALOGPS_LOGS>
+-4.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.852534327568494
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.93958548321154
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.6738922777428065
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.44999999999999
+
+> <JCHEM_REFRACTIVITY>
+96.79839999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.11e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07152
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[4-(5-fluoro-6-methylpyridin-2-yl)-5-quinoxalin-6-yl-1H-imidazol-2-yl]acetamide
+
+$$$$

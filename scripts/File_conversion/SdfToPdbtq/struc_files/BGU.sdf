@@ -1,0 +1,151 @@
+BGU
+  Mrv0541 02241213262D          
+
+ 16 18  0  0  0  0            999 V2000
+   -1.6448    0.6028    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8602    0.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1457    0.7604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5688    0.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5688   -0.4771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1457   -0.8896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8602   -0.4771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6448   -0.7321    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1297   -0.0646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9547   -0.0646    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2832   -0.8896    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9977   -0.4771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7122   -0.8896    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9977    0.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2832    0.7604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2832    1.5854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  2  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+  9  1  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07452
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=C(N1)C=C1C(=O)NC(N)=NC1=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N6O/c10-8-13-5-1-3-4(2-6(5)14-8)12-9(11)15-7(3)16/h1-2H,(H3,10,13,14)(H3,11,12,15,16)
+
+> <INCHI_KEY>
+WFECBOHPSURSGU-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8N6O
+
+> <MOLECULAR_WEIGHT>
+216.1994
+
+> <EXACT_MASS>
+216.075958908
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.04663799293540146
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.177329597947754
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,6-diamino-1H,7H,8H-imidazo[4,5-g]quinazolin-8-one
+
+> <ALOGPS_LOGP>
+-0.07
+
+> <JCHEM_LOGP>
+-0.3613561316666668
+
+> <ALOGPS_LOGS>
+-2.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.66777578096887
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.007469511257165
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.747364166272303
+
+> <JCHEM_POLAR_SURFACE_AREA>
+122.18
+
+> <JCHEM_REFRACTIVITY>
+59.27289999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.13e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07452
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-diamino-1,7-dihydro-8H-imidazo[4,5-g]quinazolin-8-one
+
+$$$$

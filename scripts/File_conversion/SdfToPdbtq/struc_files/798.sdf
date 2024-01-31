@@ -1,0 +1,168 @@
+798
+  Mrv0541 02241213172D          
+
+ 27 30  0  0  0  0            999 V2000
+    3.2701    0.4394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5556    0.0269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5556   -0.7981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2701   -1.2106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2701   -2.0356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5556   -2.4481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5556   -3.2731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2230   -3.7580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9681   -4.5426    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1431   -4.5426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8881   -3.7580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8411   -2.0356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8411   -1.2106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8411    0.4394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8411    1.2644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1266    1.6769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4122    1.2644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4122    0.4394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1266    0.0269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3023    1.6769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0168    1.2644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7312    1.6769    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4849    1.3414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0369    1.9544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6244    2.6689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8175    2.4974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7618    1.0938    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12  6  2  0  0  0  0
+ 13  3  2  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14  2  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 17  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22 21  1  6  0  0  0
+ 22 23  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 22 27  1  1  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 26 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07237
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(COC2=CC=C(C=C2)C(=O)C2=CC=C(C=C2)C2=CSC=C2)CCCN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H21NO2S/c24-22(17-5-3-16(4-6-17)19-11-13-26-15-19)18-7-9-21(10-8-18)25-14-20-2-1-12-23-20/h3-11,13,15,20,23H,1-2,12,14H2/t20-/m1/s1
+
+> <INCHI_KEY>
+VUWFJUJWAWMRQN-HXUWFJFHSA-N
+
+> <FORMULA>
+C22H21NO2S
+
+> <MOLECULAR_WEIGHT>
+363.473
+
+> <EXACT_MASS>
+363.129299611
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9996595549694267
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.278316993163834
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-({4-[4-(thiophen-3-yl)benzoyl]phenoxy}methyl)pyrrolidine
+
+> <ALOGPS_LOGP>
+4.78
+
+> <JCHEM_LOGP>
+4.8037560243333335
+
+> <ALOGPS_LOGS>
+-5.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.467805122187686
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+105.2743
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.40e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB07237
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+{4-[(2R)-pyrrolidin-2-ylmethoxy]phenyl}(4-thiophen-3-ylphenyl)methanone
+
+$$$$

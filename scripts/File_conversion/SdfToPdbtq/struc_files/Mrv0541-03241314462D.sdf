@@ -1,0 +1,181 @@
+
+  Mrv0541 03241314462D          
+
+ 30 31  0  0  0  0            999 V2000
+    6.0696    1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3552    0.6482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3552   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0696   -0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7841   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7841    0.6482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5810    0.8617    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.5810   -0.3903    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.0696   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3552   -1.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6407   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9262   -1.8268    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2118   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6407   -0.5893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3552   -2.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0696   -3.0643    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7841   -2.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7841   -1.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7718   -3.2352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3675   -3.2352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4986   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2130   -1.8268    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9275   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6420   -1.8268    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3565   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0709   -1.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7854   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4999   -1.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3565   -0.5893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5134   -0.9134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 10 15  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 25 29  2  0  0  0  0
+ 21 30  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04920
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC(Cl)=C1Cl)C(=O)OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H23Cl2NO6/c1-5-7-15(25)29-10-30-21(27)17-12(3)24-11(2)16(20(26)28-4)18(17)13-8-6-9-14(22)19(13)23/h6,8-9,18,24H,5,7,10H2,1-4H3
+
+> <INCHI_KEY>
+KPBZROQVTHLCDU-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H23Cl2NO6
+
+> <MOLECULAR_WEIGHT>
+456.316
+
+> <EXACT_MASS>
+455.090242887
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.1278278209643556e-10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.136788737203915
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl 5-{[(butanoyloxy)methoxy]carbonyl}-4-(2,3-dichlorophenyl)-2,6-dimethyl-1,4-dihydropyridine-3-carboxylate
+
+> <ALOGPS_LOGP>
+4.98
+
+> <JCHEM_LOGP>
+4.089828297666668
+
+> <ALOGPS_LOGS>
+-5.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.947757196502838
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.537082721439485
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.93
+
+> <JCHEM_REFRACTIVITY>
+113.9308
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.67e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04920
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Clevidipine
+
+> <SYNONYMS>
+Clevidipine; Clevidipine butyrate; Clevidipino
+
+> <PRODUCTS>
+Cleviprex
+
+$$$$

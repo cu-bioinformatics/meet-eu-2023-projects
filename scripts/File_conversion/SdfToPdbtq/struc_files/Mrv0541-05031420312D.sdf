@@ -1,0 +1,167 @@
+
+  Mrv0541 05031420312D          
+
+ 21 23  0  0  0  0            999 V2000
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0  0  0  0
+  5  3  1  0  0  0  0
+  7  6  2  0  0  0  0
+  9  1  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  2  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11  4  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  5  2  0  0  0  0
+ 13  7  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 15 13  1  0  0  0  0
+ 16 10  1  0  0  0  0
+ 16 13  2  0  0  0  0
+ 17 11  2  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18 14  2  0  0  0  0
+ 19 14  1  0  0  0  0
+ 20 15  2  0  0  0  0
+ 21 16  1  0  0  0  0
+ 21 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06235
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C)C2=C(C=C1)C(=O)C1=CC=CC(CC(O)=O)=C1O2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H14O4/c1-9-6-7-13-15(20)12-5-3-4-11(8-14(18)19)17(12)21-16(13)10(9)2/h3-7H,8H2,1-2H3,(H,18,19)
+
+> <INCHI_KEY>
+XGOYIMQSIKSOBS-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H14O4
+
+> <MOLECULAR_WEIGHT>
+282.2907
+
+> <EXACT_MASS>
+282.089208936
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9996022559182692
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.370948823622435
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(5,6-dimethyl-9-oxo-9H-xanthen-4-yl)acetic acid
+
+> <ALOGPS_LOGP>
+3.06
+
+> <JCHEM_LOGP>
+3.624231288333333
+
+> <ALOGPS_LOGS>
+-4.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.599776543956872
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.759474605945398
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.599999999999994
+
+> <JCHEM_REFRACTIVITY>
+78.20629999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06235
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB13081
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Vadimezan
+
+> <SYNONYMS>
+(5,6-dimethyl-9-oxoxanthen-4-yl)acetic acid; 5,6-Dimethyl-9-oxo-9H-xanthene-4-acetic acid; 5,6-Dimethylxanthenone-4-acetic acid; 5,6-Dimethylxanthenoneacetic acid; 5,6-MeXAA; Dimethyloxoxanthene acetic acid; DMXAA; Vadimézan; Vadimezan; Vadimezanum
+
+> <SALTS>
+Vadimezan sodium
+
+$$$$

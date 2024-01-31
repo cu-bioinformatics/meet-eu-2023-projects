@@ -1,0 +1,180 @@
+
+  Mrv1909 11142221182D          
+
+ 29 30  0  0  0  0            999 V2000
+   -2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 20 26  1  0  0  0  0
+ 16 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 11 29  1  0  0  0  0
+M  ISO  1  28 131
+M  END
+> <DATABASE_ID>
+DB17102
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)CCNC(=O)C1=C(OC)C=C(NC(=O)C2=CC=C(F)C=C2)C([131I])=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H25FIN3O3/c1-4-26(5-2)11-10-24-21(28)16-12-17(23)18(13-19(16)29-3)25-20(27)14-6-8-15(22)9-7-14/h6-9,12-13H,4-5,10-11H2,1-3H3,(H,24,28)(H,25,27)/i23+4
+
+> <INCHI_KEY>
+UPRRZQGAQRAODM-AWUWEVMDSA-N
+
+> <FORMULA>
+C21H25FIN3O3
+
+> <MOLECULAR_WEIGHT>
+517.354
+
+> <EXACT_MASS>
+517.094119008
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9910510070195879
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.73888105965188
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[2-(diethylamino)ethyl]-4-(4-fluorobenzamido)-5-(¹³¹I)iodo-2-methoxybenzamide
+
+> <ALOGPS_LOGP>
+4.25
+
+> <JCHEM_LOGP>
+3.7856825623333332
+
+> <ALOGPS_LOGS>
+-4.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.6722866060718
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.633397734291115
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.044334123156084
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.67000000000002
+
+> <JCHEM_REFRACTIVITY>
+123.125
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.15e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ioflubenzamide i-131
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17102
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Ioflubenzamide I-131
+
+> <SYNONYMS>
+(131i)-n-(2-(diethylamino) ethyl-4-(4 flurobenzamido)-5-(iodo)-2-methoxybenzamide; [131I]-N-(2-(diethylamino) ethyl-4-(4 flurobenzamido)-5-(iodo)-2-methoxybenzamide; Benzamide, n-(2-(diethylamino)ethyl)-4-((4-fluorobenzoyl)amino)-5-(iodo-131i)-2-methoxy-; Ioflubenzamide (131 i); Ioflubenzamide (131i); Ioflubenzamide i 131; Ioflubenzamide, I-131; N-(2-(diethylamino)ethyl)-4-((4-fluorobenzoyl)amino)-5-((sup 131)i)iodo-2-methoxybenzamide; N-(2-(diethylamino)ethyl)-4-((4-fluorobenzoyl)amino)-5-(iodo-131i)-2-methoxybenzamide
+
+$$$$

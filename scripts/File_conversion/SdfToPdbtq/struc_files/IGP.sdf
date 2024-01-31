@@ -1,0 +1,163 @@
+IGP
+  Mrv0541 02231217282D          
+
+ 21 22  0  0  0  0            999 V2000
+   -1.4809   -0.1139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9098   -0.1139    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6243   -0.5264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4973   -0.8284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3223    0.6006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1953    0.2986    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7664    0.2986    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7664    1.1236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0519   -0.1139    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0519   -0.9389    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6625    0.2986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4162   -0.0370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9682    0.5761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6712   -0.8216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7488    1.1191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5557    1.2906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7752    0.4046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4781   -0.9931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0302   -0.3800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2721    0.5906    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5576   -0.4059    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  7 20  1  6  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  9 21  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04143
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](O)(COP(O)(O)=O)[C@@]([H])(O)C1=CNC2=C1C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14NO6P/c13-10(6-18-19(15,16)17)11(14)8-5-12-9-4-2-1-3-7(8)9/h1-5,10-14H,6H2,(H2,15,16,17)/t10-,11+/m1/s1
+
+> <INCHI_KEY>
+NQEQTYPJSIEPHW-MNOVXSKESA-N
+
+> <FORMULA>
+C11H14NO6P
+
+> <MOLECULAR_WEIGHT>
+287.2057
+
+> <EXACT_MASS>
+287.055873697
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.86009539300499
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.16299478309461
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2R,3S)-2,3-dihydroxy-3-(1H-indol-3-yl)propoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-0.07957787366666655
+
+> <ALOGPS_LOGS>
+-1.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.512307194345705
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.486485478838181
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.449835539932993
+
+> <JCHEM_POLAR_SURFACE_AREA>
+123.01000000000002
+
+> <JCHEM_REFRACTIVITY>
+66.7583
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.87e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04143
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01850
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Indole-3-Glycerol Phosphate
+
+$$$$

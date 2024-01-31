@@ -1,0 +1,156 @@
+
+  Mrv1652306231722492D          
+
+ 20 21  0  0  0  0            999 V2000
+    4.1801    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    3.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    3.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091    3.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    0.7634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091    0.7634    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091   -0.0616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946   -0.4741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946   -1.2991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5620   -1.7840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3071   -2.5687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4821   -2.5687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2272   -1.7840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9972   -3.2361    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.3327   -3.9898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1767   -3.1499    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.8946    4.4759    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+  3 20  1  0  0  0  0
+M  CHG  2  17   1  19  -1
+M  END
+> <DATABASE_ID>
+DB13855
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)C(=O)N\N=C\C1=CC=C(O1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9N3O5/c16-9-3-1-8(2-4-9)12(17)14-13-7-10-5-6-11(20-10)15(18)19/h1-7,16H,(H,14,17)/b13-7+
+
+> <INCHI_KEY>
+YCWSUKQGVSGXJO-NTUHNPAUSA-N
+
+> <FORMULA>
+C12H9N3O5
+
+> <MOLECULAR_WEIGHT>
+275.22
+
+> <EXACT_MASS>
+275.054220402
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.998809656245335
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hydroxy-N'-[(1E)-(5-nitrofuran-2-yl)methylidene]benzohydrazide
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+1.7490912639999996
+
+> <ALOGPS_LOGS>
+-3.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.038650702196108
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.326515824764302
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.7356855512212137
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.97000000000001
+
+> <JCHEM_REFRACTIVITY>
+68.1811
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.05e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+akabar
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13855
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nifuroxazide
+
+> <SYNONYMS>
+Nifuroxazide
+
+$$$$

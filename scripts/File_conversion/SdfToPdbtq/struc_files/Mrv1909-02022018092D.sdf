@@ -1,0 +1,164 @@
+
+  Mrv1909 02022018092D          
+
+ 21 23  0  0  0  0            999 V2000
+    2.1479   -1.2355    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3919   -2.9794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0580    0.3912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3847   -1.9965    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8447   -1.9060    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9550    1.1013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2697    1.6321    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8634    2.5686    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5887   -0.3224    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0587   -0.8335    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3921   -0.5099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0629   -1.6584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7463   -1.2550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4092    0.4828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8381   -0.5782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5795   -2.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3229   -1.2397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3477    0.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5354    1.8116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3032    0.0900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2303   -0.0265    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2 16  2  0  0  0  0
+  3 18  2  0  0  0  0
+  4 13  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 12  2  0  0  0  0
+  5 17  1  0  0  0  0
+  6 14  2  0  0  0  0
+  6 19  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 17  2  0  0  0  0
+  9 20  1  1  0  0  0
+ 10 21  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02950
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12C=C(Br)N=C1C(=O)NCC[C@]2([H])C1=NC(N)=NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10BrN5O2/c12-6-3-5-4(7-10(19)17-11(13)16-7)1-2-14-9(18)8(5)15-6/h3-5H,1-2H2,(H,14,18)(H2,13,17,19)/t4-,5-/m0/s1
+
+> <INCHI_KEY>
+QPCBNXNDVYOBIP-WHFBIAKZSA-N
+
+> <FORMULA>
+C11H10BrN5O2
+
+> <MOLECULAR_WEIGHT>
+324.133
+
+> <EXACT_MASS>
+323.001787236
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-7.251296483956598e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.26914861135252
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-[(3aR,4S)-2-bromo-8-oxo-3aH,4H,5H,6H,7H,8H-pyrrolo[2,3-c]azepin-4-yl]-2-amino-4H-imidazol-4-one
+
+> <ALOGPS_LOGP>
+0.29
+
+> <JCHEM_LOGP>
+0.05697707333333357
+
+> <ALOGPS_LOGS>
+-3.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.52879681179441
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.128368869497583
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.28118351399111113
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.27
+
+> <JCHEM_REFRACTIVITY>
+80.33080000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-(aminomethyl)-1-(carboxymethyl)-2,5-dihydroxy-4-oxo-3H-imidazol-1-ium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02950
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01757
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hymenialdisine
+
+$$$$

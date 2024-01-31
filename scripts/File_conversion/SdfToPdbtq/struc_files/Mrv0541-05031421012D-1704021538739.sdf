@@ -1,0 +1,166 @@
+
+  Mrv0541 05031421012D          
+
+ 22 24  0  0  1  0            999 V2000
+   -0.5546    2.5320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4916    3.4294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2695    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0396    3.1994    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8242    2.9445    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0396    1.8646    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7846   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7846    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2453    3.0939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7846    3.9841    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8242    2.1195    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2247    3.3285    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6951    3.7593    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2247    1.7355    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  5  2  1  6  0  0  0
+  5  4  1  0  0  0  0
+  6  1  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12  8  1  0  0  0  0
+ 13  3  2  0  0  0  0
+ 13  7  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 14 10  2  0  0  0  0
+ 15  9  2  0  0  0  0
+ 15 10  1  0  0  0  0
+ 16  3  1  0  0  0  0
+  6 16  1  6  0  0  0
+ 16  9  1  0  0  0  0
+ 17  2  1  0  0  0  0
+  4 18  1  1  0  0  0
+ 19  5  1  0  0  0  0
+ 19  6  1  0  0  0  0
+  4 20  1  6  0  0  0
+  5 21  1  1  0  0  0
+  6 22  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02947
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)C[C@@]([H])(O[C@]1([H])CO)N1C=NC2=C(N)N=C(F)N=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12FN5O3/c11-10-14-8(12)7-9(15-10)16(3-13-7)6-1-4(18)5(2-17)19-6/h3-6,17-18H,1-2H2,(H2,12,14,15)/t4-,5+,6+/m0/s1
+
+> <INCHI_KEY>
+ZWPYUXAXLRFWQC-KVQBGUIXSA-N
+
+> <FORMULA>
+C10H12FN5O3
+
+> <MOLECULAR_WEIGHT>
+269.2324
+
+> <EXACT_MASS>
+269.09241748
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.971582873950966e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.261206172485217
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,5R)-5-(6-amino-2-fluoro-9H-purin-9-yl)-2-(hydroxymethyl)oxolan-3-ol
+
+> <ALOGPS_LOGP>
+-0.52
+
+> <JCHEM_LOGP>
+-0.5693647110000001
+
+> <ALOGPS_LOGS>
+-1.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.784552677767833
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.886663593910546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.7864601427500574
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.31000000000002
+
+> <JCHEM_REFRACTIVITY>
+62.5485
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.17e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02947
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00115
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Fluoro-2'-Deoxyadenosine
+
+$$$$

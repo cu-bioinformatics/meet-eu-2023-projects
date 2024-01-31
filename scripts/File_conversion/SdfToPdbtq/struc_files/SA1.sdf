@@ -1,0 +1,165 @@
+SA1
+  Mrv0541 02241214092D          
+
+ 23 25  0  0  0  0            999 V2000
+   -1.1494    0.9778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6645    0.3104    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1201    0.5653    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1201   -0.2597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1201    1.3903    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9048    1.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1597    2.4299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3897    0.9778    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9048    0.3104    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7417   -0.4983    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0402   -0.7615    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2033   -1.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9852   -1.8334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6040   -1.2878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4410   -0.4790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6591   -0.2159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3605   -1.0439    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5120   -0.2480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -0.0013    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6645    1.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1201    1.9742    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1579   -0.4841    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3978   -1.1476    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  5 21  1  6  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 18  1  1  0  0  0
+ 11 10  1  6  0  0  0
+ 10 17  1  6  0  0  0
+ 10 22  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 23  1  1  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08515
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)([C@@]1([H])CCCC=C1)[C@]1(NC(=O)[C@]2([H])CCO[C@]12C)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H21NO4/c1-14-11(7-8-20-14)13(19)16-15(14,9-17)12(18)10-5-3-2-4-6-10/h3,5,9-12,18H,2,4,6-8H2,1H3,(H,16,19)/t10-,11+,12+,14+,15-/m1/s1
+
+> <INCHI_KEY>
+YVABESCRHMBHJD-FUQNVFFISA-N
+
+> <FORMULA>
+C15H21NO4
+
+> <MOLECULAR_WEIGHT>
+279.3315
+
+> <EXACT_MASS>
+279.147058165
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00017203085254506142
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.768143470430232
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aR,6R,6aS)-6-[(S)-[(1S)-cyclohex-2-en-1-yl](hydroxy)methyl]-6a-methyl-4-oxo-hexahydro-2H-furo[2,3-c]pyrrole-6-carbaldehyde
+
+> <ALOGPS_LOGP>
+0.67
+
+> <JCHEM_LOGP>
+0.2238590666666677
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.817022979014647
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.764702060943945
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.074616964185398
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.63
+
+> <JCHEM_REFRACTIVITY>
+73.39099999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.09e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08515
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3AR,6R,6AS)-6-((S)-((S)-CYCLOHEX-2-ENYL)(HYDROXY)METHYL)-6A-METHYL-4-OXO-HEXAHYDRO-2H-FURO[3,2-C]PYRROLE-6-CARBALDEHYDE
+
+$$$$

@@ -1,0 +1,152 @@
+C2M
+  Mrv0541 02231217492D          
+
+ 17 18  0  0  0  0            999 V2000
+    2.1930   -0.2197    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1930   -1.0447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4785   -1.4572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7640   -1.0447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7640   -0.2197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4785    0.1928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0496    0.1928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6649   -0.2197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3794    0.1928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3794    1.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6649    1.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0496    1.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9074   -1.4572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0496   -1.4572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4785    1.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0939    1.4303    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0939   -0.2197    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04655
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C(N)=NC(N)=N1)C1=CC(Cl)=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10Cl2N4/c1-5-9(10(14)17-11(15)16-5)6-2-3-7(12)8(13)4-6/h2-4H,1H3,(H4,14,15,16,17)
+
+> <INCHI_KEY>
+VQJHOPSWBGJHQS-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H10Cl2N4
+
+> <MOLECULAR_WEIGHT>
+269.13
+
+> <EXACT_MASS>
+268.028251754
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9884104814629218
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.068894401260682
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(3,4-dichlorophenyl)-6-methylpyrimidine-2,4-diamine
+
+> <ALOGPS_LOGP>
+2.87
+
+> <JCHEM_LOGP>
+2.6518119836666667
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.21045891934583
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.934795664045915
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.82
+
+> <JCHEM_REFRACTIVITY>
+71.71990000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.58e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04655
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Metoprine
+
+> <SYNONYMS>
+Metoprine
+
+$$$$

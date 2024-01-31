@@ -1,0 +1,157 @@
+
+  Mrv1909 02092020262D          
+
+ 19 21  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 16  3  1  0  0  0  0
+ 16  1  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10  2  2  0  0  0  0
+ 15  1  2  0  0  0  0
+  2  1  1  0  0  0  0
+  2 11  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14  9  1  0  0  0  0
+  5  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  6  4  2  0  0  0  0
+  5  8  1  0  0  0  0
+  8  7  2  0  0  0  0
+  7  6  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 11 12  2  0  0  0  0
+  8 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04726
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C2=CC(C)=C(C)C=C2N=C2C(=O)NC(=O)N=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N4O2/c1-6-4-8-9(5-7(6)2)17(3)11-10(14-8)12(18)16-13(19)15-11/h4-5H,1-3H3,(H,16,18,19)
+
+> <INCHI_KEY>
+KPDQZGKJTJRBGU-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H12N4O2
+
+> <MOLECULAR_WEIGHT>
+256.26
+
+> <EXACT_MASS>
+256.096025648
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9146145613555069
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.32342280237623
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7,8,10-trimethyl-2H,3H,4H,10H-benzo[g]pteridine-2,4-dione
+
+> <ALOGPS_LOGP>
+0.52
+
+> <JCHEM_LOGP>
+1.664566578
+
+> <ALOGPS_LOGS>
+-3.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.9701536339512105
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.0778839648237085
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.13
+
+> <JCHEM_REFRACTIVITY>
+72.08860000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mozenavir
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04726
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Lumiflavin
+
+> <SYNONYMS>
+7,8,10-Trimethylbenzo(g)pteridine-2,4(3H,10H)-dione; 7,8,10-Trimethylisoalloxazine; Lumiflavin; Lumiflavine
+
+$$$$

@@ -1,0 +1,161 @@
+124
+  Mrv0541 02231216132D          
+
+ 19 21  0  0  0  0            999 V2000
+    1.9560    0.1081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9560   -0.7169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2416   -1.1294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5271   -0.7169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5271    0.1081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2416    0.5206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6705    0.5206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3850    0.1081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6705    1.3456    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.2575   -0.9718    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2575    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7424   -0.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5674   -0.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9799   -1.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8049   -1.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2174   -0.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8049    0.4101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9799    0.4101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5674    1.1245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  CHG  1   9   1
+M  END
+> <DATABASE_ID>
+DB02463
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=[NH2+])C1=CC2=C(NC(=C2)C2=CC=CC=C2O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13N3O/c16-15(17)9-5-6-12-10(7-9)8-13(18-12)11-3-1-2-4-14(11)19/h1-8,18-19H,(H3,16,17)/p+1
+
+> <INCHI_KEY>
+JPGNPKIYCTXJPG-UHFFFAOYSA-O
+
+> <FORMULA>
+C15H14N3O
+
+> <MOLECULAR_WEIGHT>
+252.2912
+
+> <EXACT_MASS>
+252.113687085
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.997656297654754
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.0383330623845
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{amino[2-(2-hydroxyphenyl)-1H-indol-5-yl]methylidene}azanium
+
+> <ALOGPS_LOGP>
+0.79
+
+> <JCHEM_LOGP>
+1.7667287582059692
+
+> <ALOGPS_LOGS>
+-4.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.062300000287326
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.640586062192057
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.225451148972454
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+86.61160000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02463
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00018
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2-Hydroxy-Phenyl)-1h-Indole-5-Carboxamidine
+
+$$$$

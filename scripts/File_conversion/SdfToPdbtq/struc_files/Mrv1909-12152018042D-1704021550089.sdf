@@ -1,0 +1,162 @@
+
+  Mrv1909 12152018042D          
+
+ 20 22  0  0  1  0            999 V2000
+    3.2789    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699    0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0098   -1.7070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -2.3744    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7798   -3.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5868   -3.3306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -2.1195    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0728   -2.6044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403   -1.2945    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0728   -0.8096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 12 11  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 15 16  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 17 18  1  1  0  0  0
+ 17 19  1  0  0  0  0
+ 19 12  1  0  0  0  0
+ 19 20  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB16075
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC=NC2=C1N=C(Cl)N2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12ClN5O4/c11-10-15-4-7(12)13-2-14-8(4)16(10)9-6(19)5(18)3(1-17)20-9/h2-3,5-6,9,17-19H,1H2,(H2,12,13,14)/t3-,5-,6-,9-/m1/s1
+
+> <INCHI_KEY>
+MHDPPLULTMGBSI-UUOKFMHZSA-N
+
+> <FORMULA>
+C10H12ClN5O4
+
+> <MOLECULAR_WEIGHT>
+301.69
+
+> <EXACT_MASS>
+301.0577816
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0005047822440605151
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.095889552131624
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R)-2-(6-amino-8-chloro-9H-purin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.39
+
+> <JCHEM_LOGP>
+-1.1769495433333335
+
+> <ALOGPS_LOGS>
+-1.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.890612353262716
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.452333559712145
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.7768464964424773
+
+> <JCHEM_POLAR_SURFACE_AREA>
+139.54000000000002
+
+> <JCHEM_REFRACTIVITY>
+68.2215
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16075
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+8-Chloroadenosine
+
+> <SYNONYMS>
+Adenosine, 8-chloro-
+
+$$$$

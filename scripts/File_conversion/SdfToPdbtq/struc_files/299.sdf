@@ -1,0 +1,166 @@
+299
+  Mrv0541 02231214352D          
+
+ 18 19  0  0  0  0            999 V2000
+    6.0424    2.5350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4006    2.0911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.9157    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -0.6018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0171   -1.9296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.6782    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930   -0.4406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3370    1.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0807    0.3525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2734    0.1824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7860    1.7509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1443    1.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.8532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4986   -1.2657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -2.0907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.8532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4 11  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00299
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)C2=C(N1)N(CCC(CO)CO)C=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15N5O3/c11-10-13-8-7(9(18)14-10)12-5-15(8)2-1-6(3-16)4-17/h5-6,16-17H,1-4H2,(H3,11,13,14,18)
+
+> <INCHI_KEY>
+JNTOCHDNEULJHD-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H15N5O3
+
+> <MOLECULAR_WEIGHT>
+253.2578
+
+> <EXACT_MASS>
+253.117489371
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+6.679175641620046e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.10608378673917
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-9-[4-hydroxy-3-(hydroxymethyl)butyl]-6,9-dihydro-3H-purin-6-one
+
+> <ALOGPS_LOGP>
+-0.86
+
+> <JCHEM_LOGP>
+-1.5479088533333338
+
+> <ALOGPS_LOGS>
+-1.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.095852930146666
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.998313908488052
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.876242539086313
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+64.59190000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.45e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00299
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00041; DB01730
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Penciclovir
+
+> <SYNONYMS>
+9-(4-hydroxy-3-(hydroxymethyl)butyl)guanine; 9-(4-hydroxy-3-hydroxymethylbut-1-yl)-guanine; 9-[2-hydroxy-1-(hydroxymethyl)-ethoxymethyl]guanine; 9-[4-hydroxy-3-(hydroxymethyl)but-1-yl]guanine; PCV; PE2; Penciclovir; Penciclovirum
+
+> <PRODUCTS>
+Denavir; Penciclovir
+
+> <SALTS>
+Penciclovir sodium
+
+$$$$

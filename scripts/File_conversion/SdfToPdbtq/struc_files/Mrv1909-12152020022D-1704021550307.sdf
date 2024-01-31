@@ -1,0 +1,181 @@
+
+  Mrv1909 12152020022D          
+
+ 31 33  0  0  0  0            999 V2000
+    2.1353   -4.2396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8498   -3.8271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5642   -4.2396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2787   -3.8271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2787   -3.0021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9932   -4.2396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7077   -3.8271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7939   -3.0066    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6009   -2.8351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0134   -3.5495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4613   -4.1626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6329   -4.9696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4175   -5.2245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5890   -6.0315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9759   -6.5836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1913   -6.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0198   -5.5216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1474   -7.3905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9321   -7.6455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1036   -8.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4905   -9.0045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7059   -8.7495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5343   -7.9426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8882   -8.7074    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6728   -8.9623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6333   -9.4920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1432   -7.9228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9364   -2.0814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2720   -1.3277    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6901   -2.4170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1828   -1.7458    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 24 27  2  0  0  0  0
+  9 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 28 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16320
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)CN1N=C(C=C1C1=CC=C(C=C1)C1=CC(=CC=C1)S(C)(=O)=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H19F3N2O4S/c1-3-30-20(27)13-26-18(12-19(25-26)21(22,23)24)15-9-7-14(8-10-15)16-5-4-6-17(11-16)31(2,28)29/h4-12H,3,13H2,1-2H3
+
+> <INCHI_KEY>
+ZUMNJDGBYXHASJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H19F3N2O4S
+
+> <MOLECULAR_WEIGHT>
+452.45
+
+> <EXACT_MASS>
+452.101762763
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.0327955584366457e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.198677317767945
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 2-(5-{3'-methanesulfonyl-[1,1'-biphenyl]-4-yl}-3-(trifluoromethyl)-1H-pyrazol-1-yl)acetate
+
+> <ALOGPS_LOGP>
+4.32
+
+> <JCHEM_LOGP>
+3.7002503900000008
+
+> <ALOGPS_LOGS>
+-5.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.192137848230708
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.30946426610950967
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.26
+
+> <JCHEM_REFRACTIVITY>
+120.31890000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.47e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+8-[(3R)-3-[1-({1-[(E)-{[(7S,9E,11S,12S,13S,14S,15R,16R,17S,18S,19E)-13-(acetyloxy)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.1^{4,7}.0^{5,28}]triaconta-1(28),2,4,9,19,21,25(29),26-octaen-26-yl]methylidene}amino]piperidin-4-yl}(methyl)amino)cyclopropyl]pyrrolidin-1-yl]-1-cyclopropyl-7-fluoro-9-methyl-4-oxoquinolizine-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16320
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Rovazolac
+
+> <SYNONYMS>
+Rovazolac
+
+$$$$

@@ -1,0 +1,159 @@
+
+  Mrv1909 11061920392D          
+
+ 20 22  0  0  0  0            999 V2000
+    0.5488    2.1981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0599    1.5394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7635    1.5394    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0229    0.7610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8014    0.5114    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3543    0.2720    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3143    0.7510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3492   -0.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3492   -0.9755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3642   -1.3847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0728   -0.9705    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0728   -0.1422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7864   -1.3797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4950   -0.9705    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7864   -2.1981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0628    0.2619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7814   -0.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0679   -1.3896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7814   -0.9755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4950    0.2619    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  4  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02021
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)[C@@H]1C[C@]2(NC(=O)NC2=O)C2=C(O1)C=CC(F)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H10FN3O4/c13-5-1-2-7-6(3-5)12(4-8(20-7)9(14)17)10(18)15-11(19)16-12/h1-3,8H,4H2,(H2,14,17)(H2,15,16,18,19)/t8-,12-/m0/s1
+
+> <INCHI_KEY>
+WAAPEIZFCHNLKK-UFBFGSQYSA-N
+
+> <FORMULA>
+C12H10FN3O4
+
+> <MOLECULAR_WEIGHT>
+279.2239
+
+> <EXACT_MASS>
+279.065534028
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.501076078895938
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4S)-6-fluoro-2',5'-dioxo-2,3-dihydrospiro[1-benzopyran-4,4'-imidazolidine]-2-carboxamide
+
+> <ALOGPS_LOGP>
+0.08
+
+> <JCHEM_LOGP>
+-0.681370682666667
+
+> <ALOGPS_LOGS>
+-2.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.6053774846628
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.673463279784094
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.906567185078478
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+62.596800000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.66e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-carbamoyl-1-[(2R,3R,4S,5R)-5-[({[(2R,3S,4R,5R)-3,4-dihydroxy-5-{imidazo[2,1-f]purin-3-yl}oxolan-2-yl]methoxy(hydroxy)phosphoryl phosphonato}oxy)methyl]-3,4-dihydroxyoxolan-2-yl]-1lambda5-pyridin-1-ylium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02021
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01433
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fidarestat
+
+> <SYNONYMS>
+(S,S)-fidarestat; Aldos; Fidarestat
+
+$$$$

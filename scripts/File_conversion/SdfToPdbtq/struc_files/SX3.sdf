@@ -1,0 +1,152 @@
+SX3
+  Mrv0541 02241214112D          
+
+ 20 21  0  0  0  0            999 V2000
+    0.0891    3.4606    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0891    2.6356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254    2.2231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8035    2.2231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8035    1.3981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0891    0.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0891    0.1606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254    1.3981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3399    0.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0544    1.3981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3399    0.1606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0544   -0.2519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0544   -1.0769    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7688   -1.4894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3399   -1.4894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254   -0.2519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254   -1.0769    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0891   -1.4894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5601   -0.7849    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254   -1.6608    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 19  1  6  0  0  0
+ 13 14  1  1  0  0  0
+ 15 17  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  1  1  0  0  0
+ 17 20  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB08579
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(C)CN(C[C@@]([H])(C)C1)C(=O)C1=CC(Br)=CC=C1N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H19BrN2O/c1-9-5-10(2)8-17(7-9)14(18)12-6-11(15)3-4-13(12)16/h3-4,6,9-10H,5,7-8,16H2,1-2H3/t9-,10+
+
+> <INCHI_KEY>
+IUPOWBZLJSPZFT-AOOOYVTPSA-N
+
+> <FORMULA>
+C14H19BrN2O
+
+> <MOLECULAR_WEIGHT>
+311.217
+
+> <EXACT_MASS>
+310.068075887
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.721815930146189e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.97516620013439
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-bromo-2-[(3R,5S)-3,5-dimethylpiperidine-1-carbonyl]aniline
+
+> <ALOGPS_LOGP>
+3.18
+
+> <JCHEM_LOGP>
+3.441376697333334
+
+> <ALOGPS_LOGS>
+-3.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.435074585068536
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.330000000000005
+
+> <JCHEM_REFRACTIVITY>
+78.3382
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08579
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}aniline
+
+$$$$

@@ -1,0 +1,169 @@
+441
+  Mrv1909 04122117592D          
+
+ 18 19  0  0  1  0            999 V2000
+    5.1206   -1.3156    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8209   -0.3932    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0011   -1.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5660   -2.5127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9506   -2.4265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2396    0.2492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6685    0.2492    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9541    1.4867    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6685    2.7242    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0810   -1.8453    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3361   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2560   -1.8453    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6685   -0.5758    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7711   -2.5127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3831    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9541    0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3831    1.4867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6685    1.8992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+ 10  4  1  6  0  0  0
+  5 14  1  0  0  0  0
+  6 16  2  0  0  0  0
+ 13  7  1  1  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 18  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  1  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00441
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11F2N3O4/c10-9(11)6(16)4(3-15)18-7(9)14-2-1-5(12)13-8(14)17/h1-2,4,6-7,15-16H,3H2,(H2,12,13,17)/t4-,6-,7-/m1/s1
+
+> <INCHI_KEY>
+SDUQYLNIPVEERB-QPPQHZFASA-N
+
+> <FORMULA>
+C9H11F2N3O4
+
+> <MOLECULAR_WEIGHT>
+263.1981
+
+> <EXACT_MASS>
+263.071762265
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.000413558131252493
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.62331760577378
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-[(2R,4R,5R)-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+0.14
+
+> <JCHEM_LOGP>
+-1.466539628
+
+> <ALOGPS_LOGS>
+-1.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.67865974719476
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.517069799137504
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6475582642344992
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.37999999999998
+
+> <JCHEM_REFRACTIVITY>
+53.2503
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.23e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,3-dimethoxy-6-(piperazin-1-ylmethyl)phenyl sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00441
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00201
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Gemcitabine
+
+> <SYNONYMS>
+2'-Deoxy-2',2'-difluorocytidine; 2',2'-Difluorodeoxycytidine; 4-amino-1-((2R,4R,5R)-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)-tetrahydrofuran-2-yl)pyrimidin-2(1H)-one; Gemcitabin; Gemcitabina; Gemcitabine; Gemcitabinum
+
+> <PRODUCTS>
+Act Gemcitabine; Aj-gemcitabine; Gemcitabine; Gemcitabine HCl; Gemcitabine Hydrochloride; Gemcitabine Hydrochloride for Injection; Gemcitabine Injection; Gemcitabine Sun for Injection; Gemcitabine for Injection; Gemcitabine for Injection Concentrate; Gemcitabine for Injection USP; Gemcitabine for Injection, USP; Gemcitabine hydrochloride; Gemzar; Gemzar (1gm/vial); Gemzar (200mg/vial); Infugem
+
+> <INTERNATIONAL_BRANDS>
+Abine; Abingem; Acytabin; Celgem; Celzar; Cytogem; Daplax; Dercin; Eriogem; Fotinex; Gebina; Gembio; Gemcired; Gemita; Gezt; Gitrabin; Gramagen; Jemta; Nallian; Oncogem; Ribozar; Tabin; Xtroz
+
+> <SALTS>
+Gemcitabine hydrochloride
+
+$$$$

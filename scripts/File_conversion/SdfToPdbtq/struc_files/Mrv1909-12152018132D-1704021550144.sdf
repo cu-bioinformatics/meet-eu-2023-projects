@@ -1,0 +1,173 @@
+
+  Mrv1909 12152018132D          
+
+ 27 29  0  0  1  0            999 V2000
+    2.0367   -0.4741    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512   -0.0616    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7512    0.7634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0367    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    0.7634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6078    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6078    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1067    2.4134    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0367    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6091    2.4134    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8946    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    0.7634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656   -0.4741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801   -0.0616    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656   -1.2991    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1331   -1.7840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8781   -2.5687    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.3631   -3.2361    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0531   -2.5687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7982   -1.7840    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0136   -1.5291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2290   -1.2742    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 11 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 22 23  1  1  0  0  0
+ 22 24  1  0  0  0  0
+ 25 24  1  0  0  0  0
+ 25 20  1  0  0  0  0
+ 25 26  1  1  0  0  0
+ 26 27  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16134
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](C(C1=CC=C(F)C=C1)C1=CC=C(F)C=C1)C(=O)N1C[C@@H](F)C[C@H]1C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H18F3N3O/c21-14-5-1-12(2-6-14)18(13-3-7-15(22)8-4-13)19(25)20(27)26-11-16(23)9-17(26)10-24/h1-8,16-19H,9,11,25H2/t16-,17-,19-/m0/s1
+
+> <INCHI_KEY>
+URRAHSMDPCMOTH-LNLFQRSKSA-N
+
+> <FORMULA>
+C20H18F3N3O
+
+> <MOLECULAR_WEIGHT>
+373.379
+
+> <EXACT_MASS>
+373.140196701
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9034733779324486
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.92441423467804
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,4S)-1-[(2S)-2-amino-3,3-bis(4-fluorophenyl)propanoyl]-4-fluoropyrrolidine-2-carbonitrile
+
+> <ALOGPS_LOGP>
+2.58
+
+> <JCHEM_LOGP>
+2.399285332666666
+
+> <ALOGPS_LOGS>
+-4.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.688180338749888
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.971268251600261
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.12
+
+> <JCHEM_REFRACTIVITY>
+93.7073
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.30e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-({4-[2-(3-methoxyphenyl)-2-oxoethoxy]phenyl}methyl)-1,3-thiazolidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16134
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Denagliptin
+
+> <SYNONYMS>
+Denagliptin
+
+$$$$

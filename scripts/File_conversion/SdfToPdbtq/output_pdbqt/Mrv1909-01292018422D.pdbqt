@@ -1,0 +1,78 @@
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  CA_5
+REMARK    2  A    between atoms: C_12  and  CA_14
+REMARK    3  A    between atoms: C_21  and  CA_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 CR   UNL     1      -1.780   2.296   0.000  0.00  0.00    +0.000 Cr
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  CA_5
+REMARK    2  A    between atoms: C_12  and  CA_14
+REMARK    3  A    between atoms: C_21  and  CA_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  LYS A   1       1.059   2.475   0.000  0.00  0.00    +0.000 A 
+ATOM      2  N   LYS A   1       1.772   2.066   0.000  0.00  0.00    +0.000 NA
+ATOM      3  CE  LYS A   1       1.772   1.241   0.000  0.00  0.00    +0.000 A 
+ATOM      4  CD  LYS A   1       1.059   0.825   0.000  0.00  0.00    +0.000 A 
+ATOM      5  CG  LYS A   1       0.345   1.241   0.000  0.00  0.00    +0.000 A 
+ATOM      6  CB  LYS A   1       0.345   2.066   0.000  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   8
+ATOM      7  O   LYS A   1       0.345   3.716   0.000  0.00  0.00    +0.000 OA
+ATOM      8  C   LYS A   1       1.059   3.300   0.000  0.00  0.00    +0.000 C 
+ATOM      9  OXT LYS A   1       1.772   3.716   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   8
+TORSDOF 1
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  CA_5
+REMARK    2  A    between atoms: C_12  and  CA_14
+REMARK    3  A    between atoms: C_21  and  CA_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  LYS A   1      -1.780  -2.066   0.000  0.00  0.00    +0.000 A 
+ATOM      2  N   LYS A   1      -1.067  -2.475   0.000  0.00  0.00    +0.000 NA
+ATOM      3  CE  LYS A   1      -1.067  -3.300   0.000  0.00  0.00    +0.000 A 
+ATOM      4  CD  LYS A   1      -1.780  -3.716   0.000  0.00  0.00    +0.000 A 
+ATOM      5  CG  LYS A   1      -2.493  -3.300   0.000  0.00  0.00    +0.000 A 
+ATOM      6  CB  LYS A   1      -2.493  -2.475   0.000  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   8
+ATOM      7  O   LYS A   1      -2.493  -0.825   0.000  0.00  0.00    +0.000 OA
+ATOM      8  C   LYS A   1      -1.780  -1.241   0.000  0.00  0.00    +0.000 C 
+ATOM      9  OXT LYS A   1      -1.067  -0.825   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   8
+TORSDOF 1
+REMARK  Name = 
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  CA_5
+REMARK    2  A    between atoms: C_12  and  CA_14
+REMARK    3  A    between atoms: C_21  and  CA_23
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  LYS A   1       1.772  -2.066   0.000  0.00  0.00    +0.000 A 
+ATOM      2  N   LYS A   1       2.493  -2.475   0.000  0.00  0.00    +0.000 NA
+ATOM      3  CE  LYS A   1       2.493  -3.300   0.000  0.00  0.00    +0.000 A 
+ATOM      4  CD  LYS A   1       1.772  -3.716   0.000  0.00  0.00    +0.000 A 
+ATOM      5  CG  LYS A   1       1.059  -3.300   0.000  0.00  0.00    +0.000 A 
+ATOM      6  CB  LYS A   1       1.059  -2.475   0.000  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   1   8
+ATOM      7  O   LYS A   1       1.059  -0.825   0.000  0.00  0.00    +0.000 OA
+ATOM      8  C   LYS A   1       1.772  -1.241   0.000  0.00  0.00    +0.000 C 
+ATOM      9  OXT LYS A   1       2.493  -0.825   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   8
+TORSDOF 1

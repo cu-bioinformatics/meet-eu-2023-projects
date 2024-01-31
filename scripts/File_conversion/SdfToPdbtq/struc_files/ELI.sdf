@@ -1,0 +1,157 @@
+ELI
+  Mrv0541 02241213362D          
+
+ 21 22  0  0  0  0            999 V2000
+   -2.1169   -2.1212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4024   -1.7087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4024   -0.8837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1169   -0.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8314   -0.8837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8314   -1.7087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0265   -0.8837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6880   -0.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1169    0.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4024    0.7663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6880    0.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8314    0.7663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4024    1.5913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0265    0.7663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7410    0.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4554    0.7663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1699    0.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8844    0.7663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5989    0.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3133    0.7663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5989   -0.4712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07714
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(CCCCCC(O)=O)C(=O)C2=CC=CC=C2C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H18O4/c1-11-12(7-3-2-4-10-15(18)19)17(21)14-9-6-5-8-13(14)16(11)20/h5-6,8-9H,2-4,7,10H2,1H3,(H,18,19)
+
+> <INCHI_KEY>
+ICGRXHWXPCXIKM-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H18O4
+
+> <MOLECULAR_WEIGHT>
+286.3224
+
+> <EXACT_MASS>
+286.120509064
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9990276827127421
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.07189128496261
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-(3-methyl-1,4-dioxo-1,4-dihydronaphthalen-2-yl)hexanoic acid
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+3.1880204893333333
+
+> <ALOGPS_LOGS>
+-4.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9882304847933043
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.215225149646639
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.44
+
+> <JCHEM_REFRACTIVITY>
+79.56779999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.37e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07714
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(3-METHYL-1,4-DIOXO-1,4-DIHYDRONAPHTHALEN-2-YL)HEXANOIC ACID
+
+$$$$

@@ -1,0 +1,169 @@
+SDT
+  Mrv0541 02241214102D          
+
+ 25 27  0  0  0  0            999 V2000
+   -1.7851    2.7660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5301    1.9814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0151    1.3140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5301    0.6465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7455    0.9015    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7455    1.7265    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8317    2.5469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310    2.1390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6834    1.7265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310    0.4890    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6834    0.9015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3979    0.4890    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310   -0.3360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6834   -0.7485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6834   -1.5735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3979   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1124   -1.5735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3979   -2.8110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1124   -3.2235    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6834   -3.2235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310   -2.8110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0310   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7455   -1.5735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8065    0.3207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5367    0.1970    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 24  1  1  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  1  0  0  0
+ 10 25  1  6  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08542
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CCC(=O)[C@@]1(C)CCC(=O)[C@@]2([H])CCC1=C(O)C(O)=CC=C1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H24O4/c1-11-3-7-16(21)18(23)12(11)4-5-13-14-6-8-17(22)19(14,2)10-9-15(13)20/h3,7,13-14,21,23H,4-6,8-10H2,1-2H3/t13-,14-,19-/m0/s1
+
+> <INCHI_KEY>
+YUHVBHDSVLKFNI-NJSLBKSFSA-N
+
+> <FORMULA>
+C19H24O4
+
+> <MOLECULAR_WEIGHT>
+316.3915
+
+> <EXACT_MASS>
+316.167459256
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0036585325061300874
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.683017570352064
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aS,4S,7aS)-4-[2-(2,3-dihydroxy-6-methylphenyl)ethyl]-7a-methyl-octahydro-1H-indene-1,5-dione
+
+> <ALOGPS_LOGP>
+3.17
+
+> <JCHEM_LOGP>
+4.148057305333333
+
+> <ALOGPS_LOGS>
+-4.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.926163809392603
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.435304380059643
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.250619568402097
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+88.1862
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.06e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08542
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,4-dihydroxy-9,10-secoandrosta-1(10),2,4-triene-9,17-dione
+
+$$$$

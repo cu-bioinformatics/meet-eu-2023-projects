@@ -1,0 +1,176 @@
+
+  Mrv1909 02082019522D          
+
+ 27 29  0  0  0  0            999 V2000
+    1.4292    1.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0167    2.3679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1917    2.3679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2543    1.6535    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6668    0.9389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0167   -0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4292   -1.2045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2543   -1.2045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6668   -0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2543    0.2244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4292    0.2244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0962   -2.1823    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6553   -1.5757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2912   -2.0014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0454   -1.2138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4095   -0.7881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6046   -0.6071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6181   -2.4785    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0435   -1.9858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2205   -1.2041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1917   -0.4899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2207    0.2244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9688   -0.1815    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.0167    0.9389    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0167   -1.9189    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9688    2.0660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2543    2.4785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  5  4  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  6  2  0  0  0  0
+  7  6  1  0  0  0  0
+ 21  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+ 25  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 24 11  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 12  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 18 14  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 20 15  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 23 16  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22 21  2  0  0  0  0
+ 26  4  2  0  0  0  0
+ 27  4  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06999
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCS(=O)(=O)NC1=CC=C(F)C(C(=O)C2=CNC3=C2C=C(Cl)C=N3)=C1F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H14ClF2N3O3S/c1-2-5-27(25,26)23-13-4-3-12(19)14(15(13)20)16(24)11-8-22-17-10(11)6-9(18)7-21-17/h3-4,6-8,23H,2,5H2,1H3,(H,21,22)
+
+> <INCHI_KEY>
+YZDJQTHVDDOVHR-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H14ClF2N3O3S
+
+> <MOLECULAR_WEIGHT>
+413.826
+
+> <EXACT_MASS>
+413.041246136
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.013248199382123153
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.37753507022487
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(3-{5-chloro-1H-pyrrolo[2,3-b]pyridine-3-carbonyl}-2,4-difluorophenyl)propane-1-sulfonamide
+
+> <ALOGPS_LOGP>
+3.59
+
+> <JCHEM_LOGP>
+2.975257772999999
+
+> <ALOGPS_LOGS>
+-4.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.132445262726247
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.87227755079576
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.7482467971938774
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.92
+
+> <JCHEM_REFRACTIVITY>
+96.8329
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.22e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+11-[(1S,3aS,3bR,4R,9bS,11aS)-1,7-dihydroxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H-cyclopenta[a]phenanthren-4-yl]-N-butyl-N-methylundecanamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06999
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PLX-4720
+
+> <SYNONYMS>
+N-[3-(5-chloro-1H-pyrrolo[2,3-b]pyridine-3-carbonyl)-2,4-difluorophenyl]propane-1-sulfonamide
+
+$$$$

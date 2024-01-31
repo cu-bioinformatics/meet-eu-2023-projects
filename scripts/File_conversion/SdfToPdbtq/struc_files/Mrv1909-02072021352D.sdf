@@ -1,0 +1,170 @@
+
+  Mrv1909 02072021352D          
+
+ 25 28  0  0  0  0            999 V2000
+   -2.0602   -0.3162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0602   -1.1472    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3496   -1.5576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6340   -1.1472    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6340   -0.3162    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3496    0.0943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0765    0.0943    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7923   -0.3162    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7923   -1.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0765   -1.5576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5080    0.0943    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5080    0.9154    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7923    1.3266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0765    0.9154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2875    1.1683    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7760    0.5047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2875   -0.1631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5450    1.9577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5080    1.7418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5080   -0.7366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7923    0.5047    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0765   -0.7366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6340    0.5047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6340   -1.9577    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7760   -1.5576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 15 18  1  1  0  0  0
+ 12 19  1  1  0  0  0
+ 11 20  1  6  0  0  0
+  8 21  1  1  0  0  0
+  7 22  1  6  0  0  0
+  5 23  1  1  0  0  0
+  4 24  1  6  0  0  0
+  2 25  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB01503
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@@H](O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H30O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h7,9,12-17,20-21H,3-6,8,10-11H2,1-2H3/t12-,13-,14-,15-,16-,17-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+RZFGPAMUAXASRE-YSZCXEEOSA-N
+
+> <FORMULA>
+C19H30O2
+
+> <MOLECULAR_WEIGHT>
+290.447
+
+> <EXACT_MASS>
+290.224580206
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.4748854766634607e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.68277005389339
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,3aS,3bR,5aS,7R,9aR,9bS,11aS)-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,5aH,6H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthrene-1,7-diol
+
+> <ALOGPS_LOGP>
+3.71
+
+> <JCHEM_LOGP>
+2.997742634333334
+
+> <ALOGPS_LOGS>
+-3.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.377705257052835
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.504275809877356
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8227081287525303
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+85.59379999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.48e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+Ogen
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01503
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+1-Androstenediol
+
+$$$$

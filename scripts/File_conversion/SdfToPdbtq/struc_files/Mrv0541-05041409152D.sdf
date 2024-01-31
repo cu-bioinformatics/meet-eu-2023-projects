@@ -1,0 +1,174 @@
+
+  Mrv0541 05041409152D          
+
+ 26 28  0  0  1  0            999 V2000
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683   -3.7149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992   -3.2299    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8838   -3.4849    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3687   -2.8174    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838   -2.1500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -4.2695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1937   -2.8174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6568   -4.3492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4743   -3.1968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5045   -4.5317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3220   -3.3793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0992   -2.4049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9894   -3.8642    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4991   -3.9515    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5351   -4.2326    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7432   -3.5525    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6986   -2.0209    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  2  0  0  0  0
+  6  2  1  1  0  0  0
+  7  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11  1  1  0  0  0  0
+ 11  3  2  0  0  0  0
+ 12  3  1  0  0  0  0
+ 12  9  2  0  0  0  0
+ 13  4  2  0  0  0  0
+ 13  5  1  0  0  0  0
+ 14  4  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 10 14  1  1  0  0  0
+  7 15  1  6  0  0  0
+  8 16  1  6  0  0  0
+ 20  2  1  0  0  0  0
+ 21  6  1  0  0  0  0
+ 21 10  1  0  0  0  0
+ 22 17  1  0  0  0  0
+ 22 18  1  0  0  0  0
+ 22 19  2  0  0  0  0
+ 22 20  1  0  0  0  0
+  6 23  1  6  0  0  0
+  7 24  1  1  0  0  0
+  8 25  1  1  0  0  0
+ 10 26  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03726
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(COP(O)(O)=O)O[C@@]([H])(N2C=NC3=CN=CN=C23)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N4O7P/c15-7-6(2-20-22(17,18)19)21-10(8(7)16)14-4-13-5-1-11-3-12-9(5)14/h1,3-4,6-8,10,15-16H,2H2,(H2,17,18,19)/t6-,7-,8-,10-/m1/s1
+
+> <INCHI_KEY>
+MCWDCZIDTUQRHK-FDDDBJFASA-N
+
+> <FORMULA>
+C10H13N4O7P
+
+> <MOLECULAR_WEIGHT>
+332.2066
+
+> <EXACT_MASS>
+332.052185302
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.918144842465808
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.237361379052736
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-3,4-dihydroxy-5-(9H-purin-9-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.78
+
+> <JCHEM_LOGP>
+-3.77444676689457
+
+> <ALOGPS_LOGS>
+-2.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.250798940844142
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.22415451193814334
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.0596465642605524
+
+> <JCHEM_POLAR_SURFACE_AREA>
+160.04999999999998
+
+> <JCHEM_REFRACTIVITY>
+69.0546
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.29e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03726
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02482
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Purine Riboside-5'-Monophosphate
+
+$$$$

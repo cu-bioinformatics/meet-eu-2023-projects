@@ -1,0 +1,167 @@
+
+  Mrv0541 04191212152D          
+
+ 21 23  0  0  0  0            999 V2000
+   -3.1527    0.6777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8671    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8671   -0.5598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1527   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4382   -0.5598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4382    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7237    0.6777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7237   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0093   -0.5598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0093    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2948   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4197   -0.5598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1341    0.6777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4197    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1341   -0.9723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8486   -0.5598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8486    0.2652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2948   -1.7973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4197   -2.2098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7237   -1.7973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2948    0.6777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  6  5  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 12  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 10 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00946
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H16O3/c1-2-13(12-8-4-3-5-9-12)16-17(19)14-10-6-7-11-15(14)21-18(16)20/h3-11,13,19H,2H2,1H3
+
+> <INCHI_KEY>
+DQDAYGNAKTZFIW-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H16O3
+
+> <MOLECULAR_WEIGHT>
+280.3178
+
+> <EXACT_MASS>
+280.109944378
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9558048494280964
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.950481638574473
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hydroxy-3-(1-phenylpropyl)-2H-chromen-2-one
+
+> <ALOGPS_LOGP>
+3.81
+
+> <JCHEM_LOGP>
+3.735323604666666
+
+> <ALOGPS_LOGS>
+-3.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.665005388218268
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.881926643193994
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+81.6436
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.86e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00946
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00228
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Phenprocoumon
+
+> <SYNONYMS>
+3-(1-Phenylpropyl)-4-hydroxycoumarin; 3-(1'-Phenyl-propyl)-4-oxycoumarin; 3-(alpha-Ethylbenzyl)-4-hydroxycoumarin; 3-(alpha-Phenylpropyl)-4-hydroxycoumarin; 4-Hydroxy-3-(1-phenylpropyl)-2H-1-benzopyran-2-one; 4-hydroxy-3-(1-phenylpropyl)-2H-chromen-2-one; Fenprocumon; Fenprocumone; Phenprocoumarol; Phenprocoumarole; Phenprocoumon; Phenprocoumone; Phenprocoumonum; Phenprocumone
+
+> <INTERNATIONAL_BRANDS>
+Falithrom; Liquamar; Marcoumar; Marcumar
+
+$$$$

@@ -1,0 +1,158 @@
+1178
+  Mrv0541 02231215182D          
+
+ 17 18  0  0  1  0            999 V2000
+    1.6500   -1.8563    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6188    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8099   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01178
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(C2=CC=C(Cl)C=C2)S(=O)(=O)CCC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12ClNO3S/c1-13-10(14)6-7-17(15,16)11(13)8-2-4-9(12)5-3-8/h2-5,11H,6-7H2,1H3
+
+> <INCHI_KEY>
+WEQAYVWKMWHEJO-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H12ClNO3S
+
+> <MOLECULAR_WEIGHT>
+273.736
+
+> <EXACT_MASS>
+273.022641652
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.663449970279088e-10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.715331725486227
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-chlorophenyl)-3-methyl-1lambda6,3-thiazinane-1,1,4-trione
+
+> <ALOGPS_LOGP>
+0.84
+
+> <JCHEM_LOGP>
+0.9171674296666675
+
+> <ALOGPS_LOGS>
+-2.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.072128640163584
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.4351068204794735
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.45
+
+> <JCHEM_REFRACTIVITY>
+64.88000000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01178
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00865
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Chlormezanone
+
+> <SYNONYMS>
+(±)-chlormezanone; 2-(p-chlorophenyl)tetrahydro-3-methyl-4H-1,3-thiazin-4-one 1,1-dioxide; 2-(p-chlorphenyl)-3-methyl-1,3-perhydrothiazin-4-on-1,1-dioxide; Chlormethazanone; Chlormezanona; Chlormezanone; Chlormézanone; Chlormezanonum; Clormezanona
+
+> <INTERNATIONAL_BRANDS>
+Fenaprim; Trancopal
+
+$$$$

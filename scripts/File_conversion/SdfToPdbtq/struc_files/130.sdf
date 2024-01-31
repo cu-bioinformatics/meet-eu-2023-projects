@@ -1,0 +1,176 @@
+130
+  Mrv0541 02241213022D          
+
+ 25 28  0  0  0  0            999 V2000
+    2.8455   -0.2947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8455   -1.1197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1311   -1.5322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4166   -1.1197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4166   -0.2947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1311    0.1178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5600    0.1178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2745   -0.2947    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5600    0.9428    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6320   -1.3747    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6320   -0.0398    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1470   -0.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6780   -0.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0905   -1.4217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9155   -1.4217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3280   -0.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9155    0.0072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0905    0.0072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6780    0.7217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3280    0.7217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1530    0.7217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5655    1.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1530    2.1506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3280    2.1506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9155    1.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01725
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=N)C1=CC2=C(NC(=N2)C2=CC=CC(C3=CC=CC=C3)=C2O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H16N4O/c21-19(22)13-9-10-16-17(11-13)24-20(23-16)15-8-4-7-14(18(15)25)12-5-2-1-3-6-12/h1-11,25H,(H3,21,22)(H,23,24)
+
+> <INCHI_KEY>
+LMGQGPVCSYOMNS-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H16N4O
+
+> <MOLECULAR_WEIGHT>
+328.3672
+
+> <EXACT_MASS>
+328.132411154
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.988252926749591
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.63815532033939
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{2-hydroxy-[1,1'-biphenyl]-3-yl}-1H-1,3-benzodiazole-5-carboximidamide
+
+> <ALOGPS_LOGP>
+3.48
+
+> <JCHEM_LOGP>
+3.161339596971212
+
+> <ALOGPS_LOGS>
+-4.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+11.65528997370881
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.847326526314303
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.609275545895905
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.78
+
+> <JCHEM_REFRACTIVITY>
+118.8597
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.99e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01725
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00301; DB06854
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-{2-hydroxy-[1,1'-biphenyl]-3-yl}-1H-1,3-benzodiazole-5-carboximidamide
+
+> <SYNONYMS>
+2-(2-HYDROXY-BIPHENYL)-1H-BENZOIMIDAZOLE-5-CARBOXAMIDINE; 3-{5-[AMINO(IMINIO)METHYL]-1H-BENZIMIDAZOL-2-YL}-1,1'-BIPHENYL-2-OLATE
+
+$$$$

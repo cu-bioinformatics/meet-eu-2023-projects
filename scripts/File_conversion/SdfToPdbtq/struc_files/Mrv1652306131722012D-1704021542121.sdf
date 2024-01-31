@@ -1,0 +1,160 @@
+
+  Mrv1652306131722012D          
+
+ 23 26  0  0  1  0            999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3692   -0.1990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5828   -0.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7859   -1.2094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2745    1.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4412    1.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 11 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 19 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06538
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C1=C2C[C@H](COC2=C(F)C=C1)N(C1CCC1)C1CCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H23FN2O2/c19-16-8-7-14(18(20)22)15-9-13(10-23-17(15)16)21(11-3-1-4-11)12-5-2-6-12/h7-8,11-13H,1-6,9-10H2,(H2,20,22)/t13-/m1/s1
+
+> <INCHI_KEY>
+MQTUXRKNJYPMCG-CYBMUJFWSA-N
+
+> <FORMULA>
+C18H23FN2O2
+
+> <MOLECULAR_WEIGHT>
+318.392
+
+> <EXACT_MASS>
+318.174356152
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.10353022801436
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-(dicyclobutylamino)-8-fluoro-3,4-dihydro-2H-1-benzopyran-5-carboxamide
+
+> <ALOGPS_LOGP>
+3.26
+
+> <JCHEM_LOGP>
+2.7474832829999998
+
+> <ALOGPS_LOGS>
+-3.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.23054170425625
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.79755152861938
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.56000000000001
+
+> <JCHEM_REFRACTIVITY>
+86.43930000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+robalzotan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06538
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Robalzotan
+
+> <SYNONYMS>
+(R)-3-(Dicyclobutylamino)-8-fluoro-5-chromancarboxamide; Robalzotan
+
+$$$$

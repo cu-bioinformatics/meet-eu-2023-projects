@@ -1,0 +1,172 @@
+1431
+  Mrv0541 02231215292D          
+
+ 26 29  0  0  1  0            999 V2000
+    5.9104    1.6065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3833    0.5700    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3833   -0.2550    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6689   -0.6675    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9544   -0.2550    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.1640    0.8214    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6689    0.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1640   -0.5064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9544    0.5700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6455    0.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2036   -0.6731    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6821   -1.5268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3833    1.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9412   -1.9622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1970   -1.5325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8323    1.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4389   -0.2078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6570   -0.6433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4252   -1.9861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.5385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5854    0.9683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2537    1.4521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4532   -0.9113    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2430   -0.9931    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5260    0.0750    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2163   -0.0133    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 13  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 23  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 24  1  1  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 25  1  6  0  0  0
+  6 10  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 26  1  1  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01431
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@@](O)(CC=C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H32O/c1-3-12-21(22)14-11-19-18-9-8-15-6-4-5-7-16(15)17(18)10-13-20(19,21)2/h3,6,16-19,22H,1,4-5,7-14H2,2H3/t16-,17+,18+,19-,20-,21-/m0/s1
+
+> <INCHI_KEY>
+ATXHVCQZZJYMCF-XUDSTZEESA-N
+
+> <FORMULA>
+C21H32O
+
+> <MOLECULAR_WEIGHT>
+300.4782
+
+> <EXACT_MASS>
+300.245315646
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+6.713747038726962e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.18275719479814
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3aS,3bR,9aR,9bS,11aS)-11a-methyl-1-(prop-2-en-1-yl)-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-ol
+
+> <ALOGPS_LOGP>
+5.14
+
+> <JCHEM_LOGP>
+4.828528498666667
+
+> <ALOGPS_LOGS>
+-5.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.17303499701586306
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+93.1439
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.58e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01431
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Allylestrenol
+
+> <SYNONYMS>
+17α-allylestr-4-en-17β-ol; 3-deketo-17α-allyl-19-nortestosterone; Alilestrenol; Allilestrenolo; Allyl estrenol; Allylestrenol; Allylestrenolum; Allyloestrenol
+
+> <INTERNATIONAL_BRANDS>
+Gestanin; Gestanol; Gestanon; Gestin; Gestrenol; Maintaine; Orageston; Perselin; Profar; Turinal
+
+$$$$

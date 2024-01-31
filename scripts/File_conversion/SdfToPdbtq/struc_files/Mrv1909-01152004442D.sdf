@@ -1,0 +1,168 @@
+
+  Mrv1909 01152004442D          
+
+ 21 21  0  0  0  0            999 V2000
+    1.0718    1.2376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3573    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0720    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7863    1.6503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571    2.4751    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3574    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7865    0.0002    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7863    2.4752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5008    1.2377    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3575   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.0001    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3569   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.4124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5008    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3568   -2.0628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0714   -2.4752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3577   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08948
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)NCC1=C(I)C(NC(C)=O)=C(I)C(C(O)=O)=C1I
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H11I3N2O4/c1-4(18)16-3-6-8(13)7(12(20)21)10(15)11(9(6)14)17-5(2)19/h3H2,1-2H3,(H,16,18)(H,17,19)(H,20,21)
+
+> <INCHI_KEY>
+VVDGWALACJEJKG-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H11I3N2O4
+
+> <MOLECULAR_WEIGHT>
+627.9402
+
+> <EXACT_MASS>
+627.78528711
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9999868305074596
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.778263338197725
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-acetamido-5-(acetamidomethyl)-2,4,6-triiodobenzoic acid
+
+> <ALOGPS_LOGP>
+2.55
+
+> <JCHEM_LOGP>
+2.599987565333333
+
+> <ALOGPS_LOGS>
+-4.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.238165019932513
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.2790447628817643
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.755975999019365
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.5
+
+> <JCHEM_REFRACTIVITY>
+106.1819
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.77e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iotroxic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08948
+
+> <DRUG_GROUPS>
+withdrawn
+
+> <GENERIC_NAME>
+Iodamide
+
+> <SYNONYMS>
+Ametriiodic acid; Ametriiodinic acid; Ametriodinic acid; Iodamida; Iodamide; Iodamidum; Urombrine
+
+> <INTERNATIONAL_BRANDS>
+Angiomiron; Jodomiron; Renovue; Uromiro; Uromiron
+
+> <SALTS>
+Iodamide meglumine
+
+$$$$

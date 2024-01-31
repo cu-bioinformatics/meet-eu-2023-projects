@@ -1,0 +1,178 @@
+
+  Mrv1718008281818192D          
+
+ 31 33  0  0  0  0            999 V2000
+   -1.3890    2.8270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0995    3.2463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8179    2.8408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8258    2.0158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1154    1.5965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3970    2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1234    0.7715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4130    0.3522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6945    0.7578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4208   -0.4727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0167    0.3379    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8417    0.3379    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0166   -0.4869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8417   -0.4868    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5666   -1.0702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6263    0.5929    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6264   -0.7419    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1112   -0.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6337   -1.5672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9235   -1.9870    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3525   -1.9724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9320   -2.8119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2217   -3.2317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4968   -2.8265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5053   -2.0016    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2071   -3.2463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8256    0.3380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8258   -0.4868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8394    1.1595    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0144    1.1595    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3403   -1.1464    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11  9  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 27 18  1  0  0  0  0
+ 28 18  1  0  0  0  0
+ 12 29  1  6  0  0  0
+ 11 30  1  6  0  0  0
+ 17 31  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB13739
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@]([H])(N1C(=O)[C@@]2([H])NC(=O)CC1=CC=CC=C1)C(=O)OCOC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H22N2O6S/c1-11(22)26-10-27-18(25)15-19(2,3)28-17-14(16(24)21(15)17)20-13(23)9-12-7-5-4-6-8-12/h4-8,14-15,17H,9-10H2,1-3H3,(H,20,23)/t14-,15+,17-/m1/s1
+
+> <INCHI_KEY>
+NLOOMWLTUVBWAW-HLLBOEOZSA-N
+
+> <FORMULA>
+C19H22N2O6S
+
+> <MOLECULAR_WEIGHT>
+406.45
+
+> <EXACT_MASS>
+406.11985761
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.558234374669595
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2S,5R,6R)-3,3-dimethyl-7-oxo-6-(2-phenylacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carbonyloxy]methyl acetate
+
+> <ALOGPS_LOGP>
+1.61
+
+> <JCHEM_LOGP>
+1.0876963496666658
+
+> <ALOGPS_LOGS>
+-3.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.350907710189773
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.850215004042367
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.764186319401595
+
+> <JCHEM_POLAR_SURFACE_AREA>
+102.01000000000002
+
+> <JCHEM_REFRACTIVITY>
+99.55020000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.67e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+penamecillin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13739
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Penamecillin
+
+> <SYNONYMS>
+Acetoxymethyl benzylpenicillanate; Benzylpenicillin acetoxymethyl ester; Penamecilina; Penamecillin; Pénamécilline; Penamecillinum
+
+$$$$

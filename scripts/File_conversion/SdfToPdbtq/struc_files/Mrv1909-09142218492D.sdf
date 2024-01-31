@@ -1,0 +1,157 @@
+
+  Mrv1909 09142218492D          
+
+ 20 20  0  0  0  0            999 V2000
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3428    0.6674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  4 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16947
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C1=CC=CC(C(C)C)=C1OC(=O)CCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H22O4/c1-10(2)12-6-5-7-13(11(3)4)16(12)20-15(19)9-8-14(17)18/h5-7,10-11H,8-9H2,1-4H3,(H,17,18)
+
+> <INCHI_KEY>
+ORMHJJCIJXWHFH-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H22O4
+
+> <MOLECULAR_WEIGHT>
+278.348
+
+> <EXACT_MASS>
+278.151809188
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9969542345488714
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.125458355206263
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[2,6-bis(propan-2-yl)phenoxy]-4-oxobutanoic acid
+
+> <ALOGPS_LOGP>
+3.60
+
+> <JCHEM_LOGP>
+3.895387838666668
+
+> <ALOGPS_LOGS>
+-4.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.4850212336941
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.187749167418983
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.6
+
+> <JCHEM_REFRACTIVITY>
+76.4653
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.79e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16947
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Propofol Hemisuccinate
+
+> <SYNONYMS>
+Butanedioic acid, 1-(2,6-bis(1-methylethyl)phenyl) ester; Succinic acid monopropofol ester
+
+$$$$

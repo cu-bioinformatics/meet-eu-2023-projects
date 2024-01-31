@@ -1,0 +1,171 @@
+PSG
+  Mrv0541 02241214052D          
+
+ 26 27  0  0  0  0            999 V2000
+    1.0447   -1.6358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7592   -2.0483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7592   -2.8733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0447   -3.2858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3302   -2.8733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3302   -2.0483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4736   -3.2858    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.4736   -4.1108    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1881   -2.8733    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.3842   -1.6358    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3842   -0.8108    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0987   -0.3983    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0987    0.4267    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3842    0.8392    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3302    0.4267    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0447    0.8392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8132   -0.8108    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8132    0.8392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3842    1.6642    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3302   -0.3983    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7592    0.4267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7596   -1.2582    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2984   -0.9471    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6044    0.1347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8899    1.1311    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3302    1.0106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 11 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 22  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  6  0  0  0
+ 12 23  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  1  0  0  0
+ 13 24  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  6  0  0  0
+ 14 25  1  1  0  0  0
+ 15 16  1  1  0  0  0
+ 15 20  1  0  0  0  0
+ 15 26  1  6  0  0  0
+ 16 21  1  0  0  0  0
+M  CHG  2   7   1   9  -1
+M  END
+> <DATABASE_ID>
+DB08430
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CO)O[C@@]([H])(SC2=CC=C(C=C2)[N+]([O-])=O)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H15NO7S/c14-5-8-9(15)10(16)11(17)12(20-8)21-7-3-1-6(2-4-7)13(18)19/h1-4,8-12,14-17H,5H2/t8-,9-,10+,11-,12+/m1/s1
+
+> <INCHI_KEY>
+IXFOBQXJWRLXMD-ZIQFBCGOSA-N
+
+> <FORMULA>
+C12H15NO7S
+
+> <MOLECULAR_WEIGHT>
+317.315
+
+> <EXACT_MASS>
+317.056922529
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.333319813493905e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.34807695651299
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-[(4-nitrophenyl)sulfanyl]oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-0.30
+
+> <JCHEM_LOGP>
+-0.2605538616666665
+
+> <ALOGPS_LOGS>
+-1.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.346574733053531
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.463809279337223
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9797624134404046
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.29000000000002
+
+> <JCHEM_REFRACTIVITY>
+73.04050000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.30e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08430
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PARA-NITROPHENYL 1-THIO-BETA-D-GLUCOPYRANOSIDE
+
+$$$$

@@ -1,0 +1,180 @@
+
+  Mrv1909 12181921372D          
+
+ 29 31  0  0  0  0            999 V2000
+    3.5563   -1.1273    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8450   -0.7148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1267   -1.1273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4154   -0.7077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7041   -1.1202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0071   -0.7077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7254   -1.1202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7254   -1.9381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0996   -1.9381    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5434   -1.9381    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7254   -2.7632    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4367   -0.7077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4367    0.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7254    0.5370    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7254    1.3621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4367    1.7746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5220    2.5925    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3329    2.7632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7383    2.0519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1907    1.4331    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3614    0.6294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5563    1.9595    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0071    0.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7041    0.5299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4154    0.1102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1338    0.5227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1338    1.3478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1338    2.1729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8450    0.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 29  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 25  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 23  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 29  2  0  0  0  0
+ 27 28  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12301
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(=O)NN=C1CN1C=CC(=C(OC2=CC(=CC(Cl)=C2)C#N)C1=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H11ClF3N5O3/c1-25-13(23-24-16(25)28)8-26-3-2-12(17(19,20)21)14(15(26)27)29-11-5-9(7-22)4-10(18)6-11/h2-6H,8H2,1H3,(H,24,28)
+
+> <INCHI_KEY>
+ZIAOVIPSKUPPQW-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H11ClF3N5O3
+
+> <MOLECULAR_WEIGHT>
+425.749
+
+> <EXACT_MASS>
+425.050251565
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0023424393636650317
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.06456809728003
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-chloro-5-({1-[(4-methyl-5-oxo-4,5-dihydro-1H-1,2,4-triazol-3-yl)methyl]-2-oxo-4-(trifluoromethyl)-1,2-dihydropyridin-3-yl}oxy)benzonitrile
+
+> <ALOGPS_LOGP>
+3.51
+
+> <JCHEM_LOGP>
+2.2306420240000007
+
+> <ALOGPS_LOGS>
+-5.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.664106745717365
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.6278033992596526
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.03
+
+> <JCHEM_REFRACTIVITY>
+96.4134
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.21e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+doravirine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12301
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Doravirine
+
+> <SYNONYMS>
+Doravirine; Doravirinum
+
+> <PRODUCTS>
+Delstrigo; Pifeltro
+
+$$$$

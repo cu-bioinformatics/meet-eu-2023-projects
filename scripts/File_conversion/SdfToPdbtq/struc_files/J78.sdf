@@ -1,0 +1,169 @@
+J78
+  Mrv0541 02241213482D          
+
+ 28 30  0  0  0  0            999 V2000
+   -5.6305    2.3999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9160    1.9874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2015    2.3999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4871    1.9874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4871    1.1624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2015    0.7499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9160    1.1624    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7726    0.7499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0581    1.1624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3437    0.7499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3437   -0.0751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0581   -0.4876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7726   -0.0751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6292   -0.4876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0853   -0.0751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7998   -0.4876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5142   -0.0751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2287   -0.4876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9432   -0.0751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6576   -0.4876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6576   -1.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9432   -1.7251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2287   -1.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3721   -1.7251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3721   -2.5501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0866   -1.3126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8011   -1.7251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5155   -1.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 24 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08013
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)C1=CC=C(OCCCC2CCN(CC2)C2=NN=C(C)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H29N3O3/c1-3-27-22(26)19-7-9-20(10-8-19)28-16-4-5-18-12-14-25(15-13-18)21-11-6-17(2)23-24-21/h6-11,18H,3-5,12-16H2,1-2H3
+
+> <INCHI_KEY>
+UEIUDEUUVLYRFV-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H29N3O3
+
+> <MOLECULAR_WEIGHT>
+383.484
+
+> <EXACT_MASS>
+383.220891809
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.024996878481766904
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.573415673664144
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 4-{3-[1-(6-methylpyridazin-3-yl)piperidin-4-yl]propoxy}benzoate
+
+> <ALOGPS_LOGP>
+4.73
+
+> <JCHEM_LOGP>
+3.893955474000001
+
+> <ALOGPS_LOGS>
+-4.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.408879773198742
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.55
+
+> <JCHEM_REFRACTIVITY>
+111.9531
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.80e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08013
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(METHYLPYRIDAZINE PIPERIDINE PROPYLOXYPHENYL)ETHYLACETATE
+
+$$$$

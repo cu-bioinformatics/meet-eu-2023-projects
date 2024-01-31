@@ -1,0 +1,151 @@
+
+  Mrv1652310201623452D          
+
+ 19 20  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0964   -2.9599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414   -3.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0164   -3.7445    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7615   -2.9599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0231   -2.7050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6362   -3.2570    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4208   -3.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0339   -3.5541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8186   -3.2992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9901   -2.4922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3770   -1.9402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5924   -2.1951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7747   -2.2373    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9462   -1.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8810   -2.7050    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0525   -1.8980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4941   -3.2570    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  CHG  2  17   1  19  -1
+M  END
+> <DATABASE_ID>
+DB12265
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CSC1=CC=C(OCC2=NC=C(N2C)[N+]([O-])=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13N3O3S/c1-14-11(13-7-12(14)15(16)17)8-18-9-3-5-10(19-2)6-4-9/h3-7H,8H2,1-2H3
+
+> <INCHI_KEY>
+MIWWSGDADVMLTG-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H13N3O3S
+
+> <MOLECULAR_WEIGHT>
+279.31
+
+> <EXACT_MASS>
+279.067762465
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.530451557113555
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-methyl-2-{[4-(methylsulfanyl)phenoxy]methyl}-5-nitro-1H-imidazole
+
+> <ALOGPS_LOGP>
+2.28
+
+> <JCHEM_LOGP>
+2.3759124986666675
+
+> <ALOGPS_LOGS>
+-3.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.028418015405252
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.19
+
+> <JCHEM_REFRACTIVITY>
+72.645
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.27e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fexinidazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12265
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Fexinidazole
+
+> <SYNONYMS>
+Fexinidazole
+
+> <PRODUCTS>
+Fexinidazole
+
+$$$$

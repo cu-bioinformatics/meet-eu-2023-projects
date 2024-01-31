@@ -1,0 +1,156 @@
+
+  Mrv1652306031606202D          
+
+ 20 22  0  0  0  0            999 V2000
+   -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    4.1250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    3.7125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  5  2  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  6  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13  7  2  0  0  0  0
+ 14  8  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 17 10  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18  1  1  0  0  0  0
+ 18  2  1  0  0  0  0
+ 18 11  1  0  0  0  0
+ 19 12  1  0  0  0  0
+ 19 13  1  0  0  0  0
+ 19 16  1  0  0  0  0
+ 20 14  1  0  0  0  0
+ 20 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12958
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCCN1C2=CC=CC=C2SC2=C1N=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19N3S/c1-18(2)11-6-12-19-13-7-3-4-8-14(13)20-15-9-5-10-17-16(15)19/h3-5,7-10H,6,11-12H2,1-2H3
+
+> <INCHI_KEY>
+JTTAUPUMOLRVRA-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H19N3S
+
+> <MOLECULAR_WEIGHT>
+285.41
+
+> <EXACT_MASS>
+285.129968798
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.43760828338298
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl(3-{9-thia-2,4-diazatricyclo[8.4.0.0^{3,8}]tetradeca-1(14),3(8),4,6,10,12-hexaen-2-yl}propyl)amine
+
+> <ALOGPS_LOGP>
+3.53
+
+> <JCHEM_LOGP>
+3.3077406689999993
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.196944222144026
+
+> <JCHEM_POLAR_SURFACE_AREA>
+19.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+87.10810000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.28e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethyl(3-{9-thia-2,4-diazatricyclo[8.4.0.0^{3,8}]tetradeca-1(14),3(8),4,6,10,12-hexaen-2-yl}propyl)amine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB12958
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Prothipendyl
+
+> <SYNONYMS>
+Prothipendyl; Prothipendylum; Protipendilo
+
+> <INTERNATIONAL_BRANDS>
+Dominal; Tumovan
+
+> <SALTS>
+Prothipendyl hydrochloride; Prothipendyl hydrochloride monohydrate
+
+$$$$

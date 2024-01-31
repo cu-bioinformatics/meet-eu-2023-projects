@@ -1,0 +1,158 @@
+DZ2
+  Mrv0541 02241213352D          
+
+ 20 21  0  0  0  0            999 V2000
+    2.2790    0.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9934   -0.1717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7079    0.2408    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9934   -0.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7079   -1.4092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2790   -1.4092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2790   -2.2342    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5645   -0.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5645   -0.1717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8500    0.2408    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1355   -0.1717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1355   -0.9967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5789    0.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2934   -0.1717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0079    0.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7223   -0.1717    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0079    1.0658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2934    1.4783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5789    1.0658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1355    1.4783    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07694
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=C(Br)C=C(NC(=O)C2=CC(Cl)=CC=C2Cl)C=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H7Br2Cl2NO2/c14-9-4-7(5-10(15)12(9)19)18-13(20)8-3-6(16)1-2-11(8)17/h1-5,19H,(H,18,20)
+
+> <INCHI_KEY>
+IFLWCZRMFPKYBN-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H7Br2Cl2NO2
+
+> <MOLECULAR_WEIGHT>
+439.914
+
+> <EXACT_MASS>
+436.822059181
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.6575187636767056
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.60310882509148
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide
+
+> <ALOGPS_LOGP>
+5.96
+
+> <JCHEM_LOGP>
+5.507159903333333
+
+> <ALOGPS_LOGS>
+-5.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.520673931563142
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.716728672375622
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.2537096616209435
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.33
+
+> <JCHEM_REFRACTIVITY>
+88.42759999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.62e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07694
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide
+
+$$$$

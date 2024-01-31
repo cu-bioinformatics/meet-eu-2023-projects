@@ -1,0 +1,166 @@
+
+  Mrv0541 05041409012D          
+
+ 23 23  0  0  1  0            999 V2000
+   -4.4708    5.1599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6423    4.3529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0292    3.8009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0078    0.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7066    1.3869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7223    1.3869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2007    2.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4211    0.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4368    0.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1356    1.3869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5876    2.4418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1512    1.3869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4681    2.6968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7231    3.4814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1356    2.2119    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8030    2.6968    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5481    3.4814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8657    0.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0330    4.1488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5802    1.3869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8657    0.1494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4005    1.8373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9321    1.8819    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  3  2  0  0  0  0
+  8  5  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  8  1  0  0  0  0
+  7 11  1  4  0  0  0
+ 12  9  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 10  1  1  0  0  0
+ 15 13  1  0  0  0  0
+ 16 11  1  1  0  0  0
+ 16 15  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19 17  2  0  0  0  0
+ 20 18  2  0  0  0  0
+ 21 18  1  0  0  0  0
+ 15 22  1  6  0  0  0
+ 16 23  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03007
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CCCCCCCC(O)=O)C=CC(=O)[C@]1([H])CC=CCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H28O3/c1-2-3-7-11-16-15(13-14-17(16)19)10-8-5-4-6-9-12-18(20)21/h3,7,13-16H,2,4-6,8-12H2,1H3,(H,20,21)/t15-,16-/m1/s1
+
+> <INCHI_KEY>
+PMTMAFAPLCGXGK-HZPDHXFCSA-N
+
+> <FORMULA>
+C18H28O3
+
+> <MOLECULAR_WEIGHT>
+292.4131
+
+> <EXACT_MASS>
+292.203844762
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.993947330832216
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.49954538093287
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-[(1R,5R)-4-oxo-5-(pent-2-en-1-yl)cyclopent-2-en-1-yl]octanoic acid
+
+> <ALOGPS_LOGP>
+5.09
+
+> <JCHEM_LOGP>
+5.079546357333333
+
+> <ALOGPS_LOGS>
+-4.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+17.8014209794107
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.784583565856912
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.934463579077429
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+87.25579999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.22e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03007
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02441
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9r,13r-Opda
+
+$$$$

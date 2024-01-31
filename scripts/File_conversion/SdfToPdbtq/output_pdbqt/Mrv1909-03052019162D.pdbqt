@@ -1,0 +1,128 @@
+REMARK  Name = 
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_18  and  C_34
+REMARK    2  A    between atoms: N_19  and  C_36
+REMARK    3  A    between atoms: N_20  and  C_37
+REMARK    4  A    between atoms: C_23  and  C_24
+REMARK    5  A    between atoms: C_24  and  C_27
+REMARK    6  A    between atoms: C_25  and  C_28
+REMARK    7  A    between atoms: C_26  and  C_29
+REMARK    8  A    between atoms: C_27  and  C_34
+REMARK    9  A    between atoms: C_28  and  C_32
+REMARK   10  A    between atoms: C_29  and  C_33
+REMARK   11  A    between atoms: C_32  and  C_36
+REMARK   12  A    between atoms: C_33  and  C_37
+REMARK   13  A    between atoms: CA_39  and  CB_42
+REMARK   14  A    between atoms: CB_42  and  CG_46
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 FE   UNL     1       6.269  -0.206   0.000  0.00  0.00    +0.000 Fe
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  14 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_18  and  C_34
+REMARK    2  A    between atoms: N_19  and  C_36
+REMARK    3  A    between atoms: N_20  and  C_37
+REMARK    4  A    between atoms: C_23  and  C_24
+REMARK    5  A    between atoms: C_24  and  C_27
+REMARK    6  A    between atoms: C_25  and  C_28
+REMARK    7  A    between atoms: C_26  and  C_29
+REMARK    8  A    between atoms: C_27  and  C_34
+REMARK    9  A    between atoms: C_28  and  C_32
+REMARK   10  A    between atoms: C_29  and  C_33
+REMARK   11  A    between atoms: C_32  and  C_36
+REMARK   12  A    between atoms: C_33  and  C_37
+REMARK   13  A    between atoms: CA_39  and  CB_42
+REMARK   14  A    between atoms: CB_42  and  CG_46
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   1      -0.825  -2.303   0.000  0.00  0.00    +0.000 OA
+ATOM      2  O   UNK A   6       1.318  -0.240   0.000  0.00  0.00    +0.000 OA
+ATOM      3  O   UNK A   2      -0.111  -0.240   0.000  0.00  0.00    +0.000 OA
+ATOM      4  O   GLY A   5       3.462   0.172   0.000  0.00  0.00    +0.000 OA
+ATOM      5  O   PHE A   4       0.604   0.997   0.000  0.00  0.00    +0.000 OA
+ATOM      6  O   GLY A   3      -0.825   2.647   0.000  0.00  0.00    +0.000 OA
+ATOM      7  N   UNK A   1       0.604  -1.478   0.000  0.00  0.00    +0.000 NA
+ATOM      8  N   UNK A   2      -1.539  -1.065   0.000  0.00  0.00    +0.000 NA
+ATOM      9  N   UNK A   6       2.747  -1.065   0.000  0.00  0.00    +0.000 NA
+ATOM     10  N   GLY A   3      -0.825   0.997   0.000  0.00  0.00    +0.000 NA
+ATOM     11  N   PHE A   4       0.604   2.647   0.000  0.00  0.00    +0.000 NA
+ATOM     12  N   GLY A   5       2.033   0.997   0.000  0.00  0.00    +0.000 NA
+ATOM     13  C   UNK A   1      -0.111  -1.065   0.000  0.00  0.00    +0.000 C 
+ATOM     14  C   UNK A   2      -1.539  -0.240   0.000  0.00  0.00    +0.000 C 
+ATOM     15  C   UNK A   6       2.033  -1.478   0.000  0.00  0.00    +0.000 C 
+ATOM     16  C   UNK A   1      -0.825  -1.478   0.000  0.00  0.00    +0.000 C 
+ATOM     17  C   UNK A   6       1.318  -1.065   0.000  0.00  0.00    +0.000 C 
+ATOM     18  C   UNK A   2      -0.825   0.172   0.000  0.00  0.00    +0.000 C 
+ATOM     19  C   GLY A   5       2.747  -0.240   0.000  0.00  0.00    +0.000 C 
+ATOM     20  CA  PHE A   4       1.318   2.234   0.000  0.00  0.00    +0.000 C 
+ATOM     21  CA  GLY A   3      -0.111   1.409   0.000  0.00  0.00    +0.000 C 
+ATOM     22  CA  GLY A   5       2.033   0.172   0.000  0.00  0.00    +0.000 C 
+ATOM     23  C   PHE A   4       1.318   1.409   0.000  0.00  0.00    +0.000 C 
+ATOM     24  C   GLY A   3      -0.111   2.234   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH  14  25
+ATOM     25  C   UNK A   2      -2.254   0.172   0.000  0.00  0.00    +0.000 C 
+BRANCH  25  26
+ATOM     26  C   UNK A   2      -2.968  -0.240   0.000  0.00  0.00    +0.000 C 
+BRANCH  26  27
+ATOM     27  C   UNK A   2      -3.683   0.172   0.000  0.00  0.00    +0.000 C 
+BRANCH  27  30
+ATOM     28  O   UNK A   2      -4.397  -1.065   0.000  0.00  0.00    +0.000 OA
+ATOM     29  O   UNK A   2      -5.112   0.997   0.000  0.00  0.00    +0.000 OA
+ATOM     30  N   UNK A   2      -4.397  -0.240   0.000  0.00  0.00    +0.000 N 
+ATOM     31  C   UNK A   2      -5.112   0.172   0.000  0.00  0.00    +0.000 C 
+ATOM     32  C   UNK A   2      -5.826  -0.240   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  27  30
+ENDBRANCH  26  27
+ENDBRANCH  25  26
+ENDBRANCH  14  25
+BRANCH  13  33
+ATOM     33  C   UNK A   1      -0.935  -1.065   0.000  0.00  0.00    +0.000 C 
+BRANCH  33  34
+ATOM     34  C   UNK A   1      -1.348  -1.780   0.000  0.00  0.00    +0.000 C 
+BRANCH  34  35
+ATOM     35  C   UNK A   1      -1.878  -2.412   0.000  0.00  0.00    +0.000 C 
+BRANCH  35  38
+ATOM     36  O   UNK A   1      -0.784  -3.330   0.000  0.00  0.00    +0.000 OA
+ATOM     37  O   UNK A   1      -2.939  -3.676   0.000  0.00  0.00    +0.000 OA
+ATOM     38  N   UNK A   1      -1.596  -3.187   0.000  0.00  0.00    +0.000 N 
+ATOM     39  C   UNK A   1      -2.127  -3.819   0.000  0.00  0.00    +0.000 C 
+ATOM     40  C   UNK A   1      -1.844  -4.594   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  35  38
+ENDBRANCH  34  35
+ENDBRANCH  33  34
+ENDBRANCH  13  33
+BRANCH  20  41
+ATOM     41  CB  PHE A   4       2.033   2.647   0.000  0.00  0.00    +0.000 C 
+BRANCH  41  42
+ATOM     42  CG  PHE A   4       2.033   3.472   0.000  0.00  0.00    +0.000 A 
+ATOM     43  CD1 PHE A   4       2.747   3.884   0.000  0.00  0.00    +0.000 A 
+ATOM     44  CD2 PHE A   4       1.318   3.884   0.000  0.00  0.00    +0.000 A 
+ATOM     45  CE1 PHE A   4       2.747   4.709   0.000  0.00  0.00    +0.000 A 
+ATOM     46  CE2 PHE A   4       1.318   4.709   0.000  0.00  0.00    +0.000 A 
+ATOM     47  CZ  PHE A   4       2.033   5.122   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH  41  42
+ENDBRANCH  20  41
+BRANCH  15  48
+ATOM     48  C   UNK A   6       2.033  -2.303   0.000  0.00  0.00    +0.000 C 
+BRANCH  48  49
+ATOM     49  C   UNK A   6       2.747  -2.716   0.000  0.00  0.00    +0.000 C 
+BRANCH  49  50
+ATOM     50  C   UNK A   6       2.747  -3.541   0.000  0.00  0.00    +0.000 C 
+BRANCH  50  53
+ATOM     51  O   UNK A   6       4.176  -3.541   0.000  0.00  0.00    +0.000 OA
+ATOM     52  O   UNK A   6       2.747  -5.191   0.000  0.00  0.00    +0.000 OA
+ATOM     53  N   UNK A   6       3.462  -3.953   0.000  0.00  0.00    +0.000 N 
+ATOM     54  C   UNK A   6       3.462  -4.778   0.000  0.00  0.00    +0.000 C 
+ATOM     55  C   UNK A   6       4.176  -5.191   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  50  53
+ENDBRANCH  49  50
+ENDBRANCH  48  49
+ENDBRANCH  15  48
+TORSDOF 14

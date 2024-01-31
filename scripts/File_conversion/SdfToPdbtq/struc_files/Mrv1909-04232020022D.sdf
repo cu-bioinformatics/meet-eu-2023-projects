@@ -1,0 +1,183 @@
+
+  Mrv1909 04232020022D          
+
+ 32 34  0  0  0  0            999 V2000
+    2.1130    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1130    2.4750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9380    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2880    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6840    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4593    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1738    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1130    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0304    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3985    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8274    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3985    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8274    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6840    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1130   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7448    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7448    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3985   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8274   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4593    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4593   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3985   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8274   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1130   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1738    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4593   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1130   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8882   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1738   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1738    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8882   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1738    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 20  1  0  0  0  0
+  6 30  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 16  9  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 21 25  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 26 29  2  0  0  0  0
+ 28 31  2  0  0  0  0
+ 29 31  1  0  0  0  0
+ 30 32  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01712
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H]1CSCCN1S(=O)(=O)C1=CC=C(C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H28N2O5S2/c1-3-30-23(27)20(15-18-7-5-4-6-8-18)24-22(26)21-16-31-14-13-25(21)32(28,29)19-11-9-17(2)10-12-19/h4-12,20-21H,3,13-16H2,1-2H3,(H,24,26)/t20-,21-/m0/s1
+
+> <INCHI_KEY>
+NDDSSAGSYFVBTG-SFTDATJTSA-N
+
+> <FORMULA>
+C23H28N2O5S2
+
+> <MOLECULAR_WEIGHT>
+476.609
+
+> <EXACT_MASS>
+476.143963396
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.4170174538683414e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.01083401209203
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl (2S)-2-{[(3R)-4-(4-methylbenzenesulfonyl)thiomorpholin-3-yl]formamido}-3-phenylpropanoate
+
+> <ALOGPS_LOGP>
+2.59
+
+> <JCHEM_LOGP>
+3.2136578496666672
+
+> <ALOGPS_LOGS>
+-5.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.848618646300345
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.226337870530359
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.77999999999999
+
+> <JCHEM_REFRACTIVITY>
+125.67460000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.48e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4R,5S,6S,7R)-1,3-dibenzyl-5,6-dihydroxy-4,7-bis(phenoxymethyl)-1,3-diazepan-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01712
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02976
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3R)-4-(p-toluenesulfonyl)-1,4-thiazane-3-carboxylicacid-L-phenylalanine ethyl ester
+
+$$$$

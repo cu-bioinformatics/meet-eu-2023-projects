@@ -1,0 +1,161 @@
+
+  Mrv0541 05041407592D          
+
+ 20 21  0  0  1  0            999 V2000
+    4.0668    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9962    1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0251    3.0764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2505    3.0764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    1.5229    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    1.5229    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    0.2854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  1  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  3  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  4  2  0  0  0  0
+  9  6  2  0  0  0  0
+ 11  2  1  0  0  0  0
+  7 11  1  6  0  0  0
+ 16  8  1  0  0  0  0
+ 16  9  1  0  0  0  0
+ 17  5  1  0  0  0  0
+ 17  9  1  0  0  0  0
+ 17 12  2  0  0  0  0
+ 17 13  2  0  0  0  0
+ 18  8  1  0  0  0  0
+ 18 10  1  0  0  0  0
+ 18 14  2  0  0  0  0
+ 18 15  2  0  0  0  0
+  5 19  1  6  0  0  0
+  7 20  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB04081
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(C)C[C@]([H])(NC)C2=C(SC(=C2)S(N)(=O)=O)S1(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N2O4S3/c1-5-3-7(11-2)6-4-8(18(10,14)15)16-9(6)17(5,12)13/h4-5,7,11H,3H2,1-2H3,(H2,10,14,15)/t5-,7-/m0/s1
+
+> <INCHI_KEY>
+PYXFWOIZPYXNRU-FSPLSTOPSA-N
+
+> <FORMULA>
+C9H14N2O4S3
+
+> <MOLECULAR_WEIGHT>
+310.413
+
+> <EXACT_MASS>
+310.011569016
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.35087453322153345
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.540481000775433
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4S)-2-methyl-4-(methylamino)-1,1-dioxo-2H,3H,4H-1lambda6-thieno[2,3-b]thiopyran-6-sulfonamide
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+-0.47771890553418905
+
+> <ALOGPS_LOGS>
+-2.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.783703144902987
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.157963089475206
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.859431092627011
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+67.7125
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04081
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02251
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4s-Trans)-4-(Methylamino)-5,6-Dihydro-6-Methyl-4h-Thieno(2,3-B)Thiopyran-2-Sulfonamide-7,7-Dioxide
+
+$$$$

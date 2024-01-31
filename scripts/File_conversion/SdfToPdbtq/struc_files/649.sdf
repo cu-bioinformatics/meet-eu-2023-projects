@@ -1,0 +1,162 @@
+649
+  Mrv0541 02231214522D          
+
+ 16 17  0  0  1  0            999 V2000
+    3.7465   -0.5827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6409   -2.7885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.2023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.7273    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.9648    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.0978    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4916   -1.3673    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4115   -0.5827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6665   -1.3673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764   -2.0348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.1398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.9648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.3773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.3773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4 15  2  0  0  0  0
+  7  5  1  6  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  6  0  0  0
+  9 10  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00649
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CN([C@@H]2O[C@H](CO)C=C2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O4/c1-6-4-12(10(15)11-9(6)14)8-3-2-7(5-13)16-8/h2-4,7-8,13H,5H2,1H3,(H,11,14,15)/t7-,8+/m0/s1
+
+> <INCHI_KEY>
+XNKLLVCARDGLGL-JGVFFNPUSA-N
+
+> <FORMULA>
+C10H12N2O4
+
+> <MOLECULAR_WEIGHT>
+224.2133
+
+> <EXACT_MASS>
+224.079706882
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0011134539129931305
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.325260481985246
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(2R,5S)-5-(hydroxymethyl)-2,5-dihydrofuran-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.73
+
+> <JCHEM_LOGP>
+-0.23180609499999943
+
+> <ALOGPS_LOGS>
+-0.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.631812414933773
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.95285298947509
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.960262458534433
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+55.3163
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00649
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00440
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Stavudine
+
+> <SYNONYMS>
+1-(2,3-Dideoxy-beta-D-glycero-pent-2-enofuranosyl)thymine; 2',3'-Didehydro-3'-deoxythimidine; 3'-Deoxy-2'-thymidinene; Estavudina; Sanilvudine; Stavudin; Stavudine; Stavudinum; STV
+
+> <PRODUCTS>
+Stavudine; Zerit; Zerit - Cap 15mg; Zerit - Cap 20mg; Zerit - Cap 30mg; Zerit - Cap 40mg
+
+> <INTERNATIONAL_BRANDS>
+Actastav; Ai Fu Ding; Avostav; Estavudox; Exvihr; Flamistav; Landstav; Lion; Mai Si Ting; S.T.V.; Sazi; Stadine; Stag; Stamar; Stavex; Stavir; Stavubergen; Zerit XR
+
+$$$$

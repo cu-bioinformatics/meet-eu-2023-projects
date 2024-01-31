@@ -1,0 +1,186 @@
+
+  Mrv1909 02072015412D          
+
+ 27 29  0  0  0  0            999 V2000
+    2.9475    0.7879    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1630    1.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9647   -1.2966    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.4325    1.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1630    1.8677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5512    0.6553    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8750   -0.7789    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5484   -2.1114    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9475    2.1225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5294    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9139    1.0463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8829   -1.2966    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2919   -2.1114    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9274   -2.8328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9139    1.7416    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5294    2.8328    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7603   -0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8938   -2.7954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0832    0.0633    0.0000 S   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.5973   -0.3749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0669    0.9530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2961    0.0633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9951   -0.3749    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7229    0.0885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9835   -1.2587    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4325   -0.3749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7229    0.8525    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  1  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  6  0  0  0
+ 10 15  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 12 17  1  1  0  0  0
+ 13 18  1  6  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  6  0  0  0
+ 24 26  2  0  0  0  0
+ 24 27  1  0  0  0  0
+  5  9  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  CHG  2  19   1  27  -1
+M  END
+> <DATABASE_ID>
+DB00118
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[S+](CC[C@H](N)C([O-])=O)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1N=CN=C2N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H22N6O5S/c1-27(3-2-7(16)15(24)25)4-8-10(22)11(23)14(26-8)21-6-20-9-12(17)18-5-19-13(9)21/h5-8,10-11,14,22-23H,2-4,16H2,1H3,(H2-,17,18,19,24,25)/t7-,8+,10+,11+,14+,27?/m0/s1
+
+> <INCHI_KEY>
+MEFKEPWMEQBLKI-AIRLBKTGSA-N
+
+> <FORMULA>
+C15H22N6O5S
+
+> <MOLECULAR_WEIGHT>
+398.44
+
+> <EXACT_MASS>
+398.137239006
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.004396401498243
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.26098478969112
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-({[(2S,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl}(methyl)sulfaniumyl)butanoate
+
+> <ALOGPS_LOGP>
+0.05
+
+> <JCHEM_LOGP>
+-5.318677759807232
+
+> <ALOGPS_LOGS>
+-2.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.444250657594088
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7035398838473055
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.414366136255632
+
+> <JCHEM_POLAR_SURFACE_AREA>
+185.46
+
+> <JCHEM_REFRACTIVITY>
+107.07199999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,2S,4R,8S,9S,11S,12R,13S)-12-fluoro-11-hydroxy-8-(2-hydroxyacetyl)-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.0^{2,9}.0^{4,8}.0^{13,18}]icosa-14,17-dien-16-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00118
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00052
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical
+
+> <GENERIC_NAME>
+Ademetionine
+
+> <SYNONYMS>
+Ademetionine; AdoMet; L-S-Adenosylmethionine; S-Adenosylmethionine; SAM; SAM-e; SAMe
+
+> <INTERNATIONAL_BRANDS>
+Donamet; Sam-Sulfate; SAMe; SAMe Rx-Mood
+
+> <SALTS>
+Ademetionine butanedisulfonate; Ademetionine disulfate ditosylate; Ademetionine disulfate monotosylate; Ademetionine disulfate tosylate; Ademetionine tosylate
+
+$$$$

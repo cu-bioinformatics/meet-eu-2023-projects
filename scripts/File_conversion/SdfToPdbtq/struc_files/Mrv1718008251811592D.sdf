@@ -1,0 +1,165 @@
+
+  Mrv1718008251811592D          
+
+ 22 19  0  0  0  0            999 V2000
+    8.6544  -10.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9400  -11.1414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2255  -10.7289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2255   -9.9038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9400   -9.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6544   -9.9040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9400   -8.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5110  -11.1414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7966  -10.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0821  -11.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7966   -9.9039    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    9.3689  -11.1415    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3689  -11.9665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6544  -12.3789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9400  -11.9664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6544  -13.2040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0833  -10.7290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7978  -11.1415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7978  -11.9665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5123  -10.7290    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   12.1445  -10.7113    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+    5.0794   -9.8220    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+M  CHG  4  11  -1  20  -1  21   1  22   1
+M  END
+> <DATABASE_ID>
+DB14600
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Na+].[Na+].OC(=O)CN(CCN(CC(O)=O)CC([O-])=O)CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O8.2Na/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;/q;2*+1/p-2
+
+> <INCHI_KEY>
+ZGTMUACCHSMWAC-UHFFFAOYSA-L
+
+> <FORMULA>
+C10H14N2Na2O8
+
+> <MOLECULAR_WEIGHT>
+336.2063
+
+> <EXACT_MASS>
+336.054554784
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.412669372750784
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+disodium 2-({2-[bis(carboxymethyl)amino]ethyl}(carboxymethyl)amino)acetate
+
+> <ALOGPS_LOGP>
+-1.03
+
+> <JCHEM_LOGP>
+-4.924670289588848
+
+> <ALOGPS_LOGS>
+-0.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+2.8981330776935885
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.349928817402512
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.728016348707484
+
+> <JCHEM_POLAR_SURFACE_AREA>
+161.34
+
+> <JCHEM_REFRACTIVITY>
+84.0198
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.20e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+disodium ({2-[bis(carboxymethyl)amino]ethyl}(carboxymethyl)amino)acetate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14600
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DBSALT000838
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Edetate disodium anhydrous
+
+> <SYNONYMS>
+Anhydrous disodium edetate; Disodium EDTA, anhydrous; Edetate disodium, anhydrous; EDTA disodium salt (anhydrous)
+
+> <PRODUCTS>
+Clinplant; Clinplant Floss; Endrate; Miin Foot; Miracle FootCream Lavender; Miracle FootCream Lemon
+
+> <SALTS>
+Edetate disodium
+
+$$$$

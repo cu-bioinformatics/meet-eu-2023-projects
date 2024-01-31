@@ -1,0 +1,148 @@
+
+  Mrv1909 12021903422D          
+
+ 18 19  0  0  0  0            999 V2000
+    0.3815    2.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3329    2.0787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3332    1.2537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0478    0.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7622    1.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7619    2.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0473    2.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0480    0.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3810    0.8409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3808    0.0159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3337   -0.3963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0952   -0.3967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0949   -1.2217    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7622   -1.7069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5070   -2.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6820   -2.4912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4273   -1.7064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.4513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  9 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+ 10 11  2  0  0  0  0
+  5  6  1  0  0  0  0
+ 10 12  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 13  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13082
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=CC(C)=C1NC(=O)CN1CCCC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H18N2O2/c1-10-5-3-6-11(2)14(10)15-12(17)9-16-8-4-7-13(16)18/h3,5-6H,4,7-9H2,1-2H3,(H,15,17)
+
+> <INCHI_KEY>
+NGHTXZCKLWZPGK-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H18N2O2
+
+> <MOLECULAR_WEIGHT>
+246.31
+
+> <EXACT_MASS>
+246.136827828
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.598551657921583
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(2,6-dimethylphenyl)-2-(2-oxopyrrolidin-1-yl)acetamide
+
+> <ALOGPS_LOGP>
+1.62
+
+> <JCHEM_LOGP>
+1.5831947519999996
+
+> <ALOGPS_LOGS>
+-2.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.745937834840445
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.977443220151946
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.410000000000004
+
+> <JCHEM_REFRACTIVITY>
+71.5989
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.04e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-{5-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methanesulfinyl]-1,3-benzodiazol-1-ylsulfonyl}phenoxyacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13082
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Nefiracetam
+
+> <SYNONYMS>
+Nefiracetam; Nefiracetamum
+
+$$$$

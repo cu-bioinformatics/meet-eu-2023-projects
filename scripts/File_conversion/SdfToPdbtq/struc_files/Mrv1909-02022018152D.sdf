@@ -1,0 +1,163 @@
+
+  Mrv1909 02022018152D          
+
+ 20 20  0  0  0  0            999 V2000
+   -0.2232    1.7982    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4441    2.2832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1892    3.0678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6357    3.0678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8906    2.2832    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2232    0.9732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9376    0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2886    1.2728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6521    0.1482    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5643   -0.0397    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1240   -0.8187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1700    0.3782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6521   -0.6767    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3666   -1.0892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3666   -1.9142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0810   -2.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0810   -3.1517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3666    0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0810    0.1482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3666    1.3857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  9 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  1  0  0  0  0
+  9 13  1  1  0  0  0
+ 13 14  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03445
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(CN1C=CN=N1)([C@@H](N\C=C\C=O)C(O)=O)S(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N4O5S/c1-10(20(18)19,7-14-5-4-12-13-14)8(9(16)17)11-3-2-6-15/h2-6,8,11,20H,7H2,1H3,(H,16,17)/b3-2+/t8-,10-/m0/s1
+
+> <INCHI_KEY>
+ANZZKUOZZHRUQC-QZWDGIGVSA-N
+
+> <FORMULA>
+C10H14N4O5S
+
+> <MOLECULAR_WEIGHT>
+302.307
+
+> <EXACT_MASS>
+302.068490268
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.407356109468183
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.247513599132787
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-3-methyl-2-{[(1E)-3-oxoprop-1-en-1-yl]amino}-3-sulfonyl-4-(1H-1,2,3-triazol-1-yl)butanoic acid
+
+> <ALOGPS_LOGP>
+-1.02
+
+> <JCHEM_LOGP>
+-1.8436000000000001
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+7.162572515589209
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.23880455703669
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.7580101089863542
+
+> <JCHEM_POLAR_SURFACE_AREA>
+131.24999999999997
+
+> <JCHEM_REFRACTIVITY>
+79.43279999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-(aminomethyl)-1-(carboxymethyl)-2,5-dihydroxy-4-oxo-3H-imidazol-1-ium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03445
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03016
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3S)-3-(dioxidosulfanyl)-N-[(1E)-3-oxoprop-1-en-1-yl]-4-(1H-1,2,3-triazol-1-yl)-D-valine
+
+> <SYNONYMS>
+Tazobactam Trans-Enamine Intermediate
+
+$$$$

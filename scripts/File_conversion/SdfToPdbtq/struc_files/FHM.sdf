@@ -1,0 +1,175 @@
+FHM
+  Mrv0541 02241213382D          
+
+ 28 29  0  0  0  0            999 V2000
+   -2.0800   -1.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7944   -1.8679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5089   -1.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2234   -1.8679    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5089   -0.6304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7944   -0.2179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0800   -0.6304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3655   -0.2179    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6510   -0.6304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0634   -0.2179    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4759   -0.9323    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3491    0.4966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7779    0.1946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7779    1.0196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4924   -0.2179    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2068    0.1946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2068    1.0196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9213   -0.2179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6358    0.1946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6358    1.0196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3503    1.4321    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.3503    2.2571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0647    1.0196    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9213    1.4321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9213    2.2571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9213    3.0821    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7463    2.2571    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0963    2.2571    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  6  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 24  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+M  CHG  2  21   1  23  -1
+M  END
+> <DATABASE_ID>
+DB07769
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@](O)(COC1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H14F4N2O5/c1-16(25,9-28-12-5-2-10(18)3-6-12)15(24)22-11-4-7-14(23(26)27)13(8-11)17(19,20)21/h2-8,25H,9H2,1H3,(H,22,24)/t16-/m0/s1
+
+> <INCHI_KEY>
+KJMFOTCDISOHDX-INIZCTEOSA-N
+
+> <FORMULA>
+C17H14F4N2O5
+
+> <MOLECULAR_WEIGHT>
+402.2971
+
+> <EXACT_MASS>
+402.083884388
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.6614516139232756e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.40013300527193
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-3-(4-fluorophenoxy)-2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+3.6430145253333324
+
+> <ALOGPS_LOGS>
+-5.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.0623210719975
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.594570999617385
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.036805359003686
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.7
+
+> <JCHEM_REFRACTIVITY>
+90.14460000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.21e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07769
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-3-(4-FLUOROPHENOXY)-2-HYDROXY-2-METHYL-N-[4-NITRO-3-(TRIFLUOROMETHYL)PHENYL]PROPANAMIDE
+
+$$$$

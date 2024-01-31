@@ -1,0 +1,154 @@
+
+  Mrv1909 12032015492D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.5827   -0.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4031   -0.2032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5748   -1.0102    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8601   -1.4227    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2470   -0.8706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8926    1.3121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7176    1.3121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1303    0.5977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7176   -0.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8926   -0.1169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4800    0.5977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9553    0.5977    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3450    0.5977    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3450   -0.2273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3450    1.4227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1701    0.5977    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9554    0.4099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7003    1.1947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 12  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  2  3  2  0  0  0  0
+ 13 15  2  0  0  0  0
+  3  4  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16  1  1  0  0  0  0
+  4  5  1  0  0  0  0
+  2 17  1  0  0  0  0
+  5  1  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15975
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=NSN=C1NS(=O)(=O)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N4O3S2/c1-16-9-8(11-17-12-9)13-18(14,15)7-4-2-6(10)3-5-7/h2-5H,10H2,1H3,(H,11,13)
+
+> <INCHI_KEY>
+IZOYMGQQVNAMHS-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10N4O3S2
+
+> <MOLECULAR_WEIGHT>
+286.32
+
+> <EXACT_MASS>
+286.019432546
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9686434549128315
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.359044264787684
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(4-methoxy-1,2,5-thiadiazol-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+1.0456805780000002
+
+> <ALOGPS_LOGS>
+-2.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.510200952247038
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8955535538903032
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.2
+
+> <JCHEM_REFRACTIVITY>
+69.45700000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.57e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oxedrine tartrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15975
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfametrole
+
+> <SYNONYMS>
+Sulfametrole
+
+$$$$

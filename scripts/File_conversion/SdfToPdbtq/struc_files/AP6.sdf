@@ -1,0 +1,160 @@
+AP6
+  Mrv0541 02231216332D          
+
+ 19 21  0  0  0  0            999 V2000
+   -1.6599    1.3388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3743    0.9263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0888    1.3388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3743    0.1013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6599   -0.3112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6599   -1.1362    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9454    0.1013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9454    0.9263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2309   -0.3112    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4835    0.1013    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4835    0.9263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2309    1.3388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1980   -0.3112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9125    0.1013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1980   -1.1362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6270   -0.3112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9125   -1.5487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6270   -1.1362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4835   -0.4826    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  1  0  0  0
+ 10 19  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02911
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CNC2=C(N1)C(N)=NC(N)=N2)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N6/c13-10-9-11(18-12(14)17-10)15-6-8(16-9)7-4-2-1-3-5-7/h1-5,8,16H,6H2,(H5,13,14,15,17,18)/t8-/m0/s1
+
+> <INCHI_KEY>
+VEKRIXRQADJFAG-QMMMGPOBSA-N
+
+> <FORMULA>
+C12H14N6
+
+> <MOLECULAR_WEIGHT>
+242.2798
+
+> <EXACT_MASS>
+242.127994478
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9054701094534761
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.39494810152083
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(6R)-6-phenyl-5,6,7,8-tetrahydropteridine-2,4-diamine
+
+> <ALOGPS_LOGP>
+0.56
+
+> <JCHEM_LOGP>
+0.8178561286666666
+
+> <ALOGPS_LOGS>
+-2.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.67014426022517
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.30265381361556
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.981290079946446
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.88
+
+> <JCHEM_REFRACTIVITY>
+75.39750000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.11e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02911
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00536
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Diamino-6-Phenyl-5,6,7,8,-Tetrahydropteridine
+
+$$$$

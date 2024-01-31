@@ -1,0 +1,161 @@
+
+  Mrv1909 02022018062D          
+
+ 20 21  0  0  0  0            999 V2000
+   -1.1148   -0.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8293   -0.0848    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5472    0.6903    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9151    1.2207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3597    0.5471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6418    1.3224    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0741    0.1346    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3597   -0.7169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1722   -0.5735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1148   -1.3224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4003   -0.0848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3141   -0.4973    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0287   -0.0848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7431   -0.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4577   -0.0848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4577    0.7401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1722    1.1527    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.7431    1.1527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0287    0.7401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3141   -1.3224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  5  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  2  8  1  6  0  0  0
+  8  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 16  2  0  0  0  0
+ 19 18  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 12 20  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02946
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[C@]1([C@@H](C)C1(Cl)Cl)C(=O)N[C@H](C)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H18Cl3NO/c1-4-14(10(3)15(14,17)18)13(20)19-9(2)11-5-7-12(16)8-6-11/h5-10H,4H2,1-3H3,(H,19,20)/t9-,10-,14+/m1/s1
+
+> <INCHI_KEY>
+RXDMAYSSBPYBFW-RULNRJAQSA-N
+
+> <FORMULA>
+C15H18Cl3NO
+
+> <MOLECULAR_WEIGHT>
+334.669
+
+> <EXACT_MASS>
+333.045397324
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0008306565865110471
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.35191827562821
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,3R)-2,2-dichloro-N-[(1R)-1-(4-chlorophenyl)ethyl]-1-ethyl-3-methylcyclopropane-1-carboximidic acid
+
+> <ALOGPS_LOGP>
+4.70
+
+> <JCHEM_LOGP>
+5.7561069179999995
+
+> <ALOGPS_LOGS>
+-5.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.2179139091195195
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.148281900348461
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.59
+
+> <JCHEM_REFRACTIVITY>
+84.8065
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+6.05e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-(aminomethyl)-1-(carboxymethyl)-2,5-dihydroxy-4-oxo-3H-imidazol-1-ium
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02946
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01898
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carpropamide
+
+> <SYNONYMS>
+(1S,3R)-2,2-dichloro-N-[(1R)-1-(4-chlorophenyl)ethyl]-1-ethyl-3-methylcyclopropanecarboxamide
+
+$$$$

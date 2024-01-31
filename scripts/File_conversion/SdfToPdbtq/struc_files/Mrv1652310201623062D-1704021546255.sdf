@@ -1,0 +1,172 @@
+
+  Mrv1652310201623062D          
+
+ 28 30  0  0  1  0            999 V2000
+   -1.4887   -2.4357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8242   -3.1893    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4117   -3.9038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9638   -4.5169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7174   -4.1813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6312   -3.3609    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7922   -5.3239    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5912   -3.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0392   -3.3769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6282   -4.5330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1787   -4.7045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5143   -5.4582    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  2  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 16  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 19 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 17 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11969
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1N=CC(Cl)=C1C1=C(Cl)OC(=C1)C(=O)N[C@H](CN)CC1=CC=C(F)C(F)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H16Cl2F2N4O2/c1-26-16(12(19)8-24-26)11-6-15(28-17(11)20)18(27)25-10(7-23)4-9-2-3-13(21)14(22)5-9/h2-3,5-6,8,10H,4,7,23H2,1H3,(H,25,27)/t10-/m0/s1
+
+> <INCHI_KEY>
+AXTAPYRUEKNRBA-JTQLQIEISA-N
+
+> <FORMULA>
+C18H16Cl2F2N4O2
+
+> <MOLECULAR_WEIGHT>
+429.25
+
+> <EXACT_MASS>
+428.0618375
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.38428374269353
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(2S)-1-amino-3-(3,4-difluorophenyl)propan-2-yl]-5-chloro-4-(4-chloro-1-methyl-1H-pyrazol-5-yl)furan-2-carboxamide
+
+> <ALOGPS_LOGP>
+3.26
+
+> <JCHEM_LOGP>
+2.5873168280000005
+
+> <ALOGPS_LOGS>
+-4.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.039191670409696
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.024120380860888
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.08
+
+> <JCHEM_REFRACTIVITY>
+113.37219999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.51e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-[(2S)-1-amino-3-(3,4-difluorophenyl)propan-2-yl]-5-chloro-4-(4-chloro-2-methylpyrazol-3-yl)furan-2-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11969
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Uprosertib
+
+> <SYNONYMS>
+Uprosertib
+
+> <SALTS>
+Uprosertib Hydrochloride
+
+$$$$

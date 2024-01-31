@@ -1,0 +1,196 @@
+ 
+  Mrv0541 04191212132D          
+
+ 31 33  0  0  1  0            999 V2000
+   19.2756  -10.5160    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   19.2756  -11.3410    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9769  -11.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6782  -11.3410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6782  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9769  -10.1035    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4506  -10.5160    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   18.4506  -11.3410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7079  -10.1035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0066  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0066  -11.3410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7079  -11.7536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3053  -10.1035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.4207  -11.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5628  -10.5160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2756   -9.6909    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9440  -10.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2428  -10.4747    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4903  -11.2998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3153  -11.2998    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3053   -9.2784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9769  -12.5786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6782  -12.9912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2344  -12.9912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9952  -11.9598    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1309  -11.3277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8505  -11.7274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5487  -11.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8505  -12.5525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0121   -8.8741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0121   -8.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  7  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+  1 16  1  6  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 13 21  2  0  0  0  0
+  3 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 14 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 21 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00493
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SCC(COC(C)=O)=C(N1C(=O)[C@H]2NC(=O)C(=N/OC)\C1=CSC(N)=N1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H17N5O7S2/c1-6(22)28-3-7-4-29-14-10(13(24)21(14)11(7)15(25)26)19-12(23)9(20-27-2)8-5-30-16(17)18-8/h5,10,14H,3-4H2,1-2H3,(H2,17,18)(H,19,23)(H,25,26)/b20-9-/t10-,14-/m1/s1
+
+> <INCHI_KEY>
+GPRBEKHLDVQUJE-QSWIMTSFSA-N
+
+> <FORMULA>
+C16H17N5O7S2
+
+> <MOLECULAR_WEIGHT>
+455.465
+
+> <EXACT_MASS>
+455.056939303
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9997502318540711
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.77275550745286
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6R,7R)-3-[(acetyloxy)methyl]-7-[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetamido]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.14
+
+> <JCHEM_LOGP>
+-1.4939365028402722
+
+> <ALOGPS_LOGS>
+-3.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.041052368694757
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.728219516555714
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.583072572942909
+
+> <JCHEM_POLAR_SURFACE_AREA>
+173.51
+
+> <JCHEM_REFRACTIVITY>
+105.10829999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.46e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00493
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00854
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cefotaxime
+
+> <SYNONYMS>
+(6R,7R,Z)-3-(acetoxymethyl)-7-(2-(2-aminothiazol-4-yl)-2-(methoxyimino)acetamido)-8-oxo-5-thia-1-aza-bicyclo[4.2.0]oct-2-ene-2-carboxylic acid; (6R,7R)-3-(acetoxymethyl)-7-{[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(methoxyimino)acetyl]amino}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid; (6R,7R)-3-Acetoxymethyl-7-{2-(2-amino-thiazol-4-yl)-2-[(Z)-methoxyimino]-acetylamino}-8-oxo-5-thia-1-aza-bicyclo[4.2.0]oct-2-ene-2-carboxylic acid; Cefotaxim; Cefotaxima; Céfotaxime; Cefotaxime; Cefotaximum; Cephotaxime
+
+> <PRODUCTS>
+Cefotaxime; Cefotaxime Sodium Sterile; Cefotaxime Sodium for Injection BP; Cefotaxime Sodium for Injection, BP; Cefotaxime and Dextrose; Cefotaxime for Injection USP; Claforan; Claforan - Pws Inj 1.0g/vial; Claforan - Pws Inj 2.0g/vial; Claforan - Pws Inj 500mg/vial; Claforan 0.5gm/vial; Claforan 1gm/vial; Claforan 2gm/vial; Claforan Add-vantage Vials 1gm/vial; Claforan Inj 1gm/add-vantage Vial; Claforan Pws Inj 1.0gm/vial; Claforan Pws Inj 2.0gm/vial; Claforan Pws Inj 500mg/vial
+
+> <INTERNATIONAL_BRANDS>
+Rantaksym; Raxim; Spinocef; Sporim; Talcef
+
+> <SALTS>
+Cefotaxime sodium
+
+$$$$

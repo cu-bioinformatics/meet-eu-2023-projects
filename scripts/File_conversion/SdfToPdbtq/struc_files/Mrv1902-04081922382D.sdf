@@ -1,0 +1,161 @@
+
+  Mrv1902 04081922382D          
+
+ 22 22  0  0  0  0            999 V2000
+    0.7145    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.6186    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.6188    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4290   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1436    1.0311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.6185    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1436    1.8562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4290    0.6187    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7144    1.8562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4437    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.6186    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4290    1.4437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 16  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3 19  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  6  0  0  0
+  4  5  1  0  0  0  0
+ 17  1  1  0  0  0  0
+ 17  5  1  0  0  0  0
+ 17  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  1  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  6  0  0  0
+ 13 15  1  0  0  0  0
+ 17 18  1  6  0  0  0
+ 19 21  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03721
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O[C@](O)(C[C@H](O)[C@H]1NC(C)=O)C(O)=O)[C@H](O)[C@H](O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H19NO9/c1-4(14)12-7-5(15)2-11(20,10(18)19)21-9(7)8(17)6(16)3-13/h5-9,13,15-17,20H,2-3H2,1H3,(H,12,14)(H,18,19)/t5-,6+,7+,8+,9+,11+/m0/s1
+
+> <INCHI_KEY>
+SQVRNKJHWKZAKO-YRMXFSIDSA-N
+
+> <FORMULA>
+C11H19NO9
+
+> <MOLECULAR_WEIGHT>
+309.2699
+
+> <EXACT_MASS>
+309.105981211
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.19107319495126
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,4S,5R,6R)-5-acetamido-2,4-dihydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-2.78
+
+> <JCHEM_LOGP>
+-3.5639375190000004
+
+> <ALOGPS_LOGS>
+-0.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.10700253474434
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.9966581465692994
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3430861642982177
+
+> <JCHEM_POLAR_SURFACE_AREA>
+176.77999999999997
+
+> <JCHEM_REFRACTIVITY>
+63.7814
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.27e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-acetyl-2-({5-[(2-aminoethyl)amino]pyridin-2-yl}amino)-8-cyclopentyl-5-methylpyrido[2,3-d]pyrimidin-7-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03721
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02292; EXPT02908; EXPT02909; DB01894; DB02344
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-acetyl-alpha-neuraminic acid
+
+> <SYNONYMS>
+N-Acetyl-alpha-D-neuraminic acid; O-sialic acid; α-Neu5Ac
+
+$$$$

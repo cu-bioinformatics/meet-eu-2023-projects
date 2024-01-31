@@ -1,0 +1,173 @@
+
+  Mrv1652310201623092D          
+
+ 28 31  0  0  1  0            999 V2000
+   -2.6111   -2.5087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1262   -1.8413    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3057   -1.9275    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7537   -1.3144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0862   -2.4705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8932   -2.6420    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2288   -3.3957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0492   -3.4819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5253   -2.9599    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704   -3.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4454   -3.7445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1904   -2.9599    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  8  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11999
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN[C@H]1CN(C[C@@H]1OC)C1=CC=C2C(=O)C(=CN(C3=NC=CS3)C2=N1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H19N5O4S/c1-19-12-8-22(9-13(12)27-2)14-4-3-10-15(24)11(17(25)26)7-23(16(10)21-14)18-20-5-6-28-18/h3-7,12-13,19H,8-9H2,1-2H3,(H,25,26)/t12-,13-/m0/s1
+
+> <INCHI_KEY>
+XZAFZXJXZHRNAQ-STQMWFEESA-N
+
+> <FORMULA>
+C18H19N5O4S
+
+> <MOLECULAR_WEIGHT>
+401.44
+
+> <EXACT_MASS>
+401.115775286
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.29889577861687
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7-[(3S,4S)-3-methoxy-4-(methylamino)pyrrolidin-1-yl]-4-oxo-1-(1,3-thiazol-2-yl)-1,4-dihydro-1,8-naphthyridine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.49
+
+> <JCHEM_LOGP>
+-0.42199964643148813
+
+> <ALOGPS_LOGS>
+-3.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.062595186451236
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.803420152270292
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.89
+
+> <JCHEM_REFRACTIVITY>
+103.00179999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.28e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7-[(3S,4S)-3-methoxy-4-(methylamino)pyrrolidin-1-yl]-4-oxo-1-(1,3-thiazol-2-yl)-1,8-naphthyridine-3-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11999
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05517
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Vosaroxin
+
+> <SYNONYMS>
+Voreloxin; Vosaroxin
+
+$$$$

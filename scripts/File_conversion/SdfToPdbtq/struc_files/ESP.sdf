@@ -1,0 +1,140 @@
+ESP
+  Mrv0541 02231217142D          
+
+ 12 13  0  0  0  0            999 V2000
+   -1.5451   -0.3678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7201   -0.3678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9576    0.3467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9576   -1.0823    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.2352   -1.0352    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5494   -0.7803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5494    0.0447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2352    0.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2639   -1.1928    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9784   -0.7803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9784    0.0447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2639    0.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  CHG  1   4   1
+M  END
+> <DATABASE_ID>
+DB03876
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=[NH2+])C1=CC2=C(S1)N=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H7N3S/c9-7(10)6-4-5-2-1-3-11-8(5)12-6/h1-4H,(H3,9,10)/p+1
+
+> <INCHI_KEY>
+GZEJMYFXZMUAEC-UHFFFAOYSA-O
+
+> <FORMULA>
+C8H8N3S
+
+> <MOLECULAR_WEIGHT>
+178.234
+
+> <EXACT_MASS>
+178.043892961
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9678326430182935
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.23930252118076
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[amino({thieno[2,3-b]pyridin-2-yl})methylidene]azanium
+
+> <ALOGPS_LOGP>
+-0.69
+
+> <JCHEM_LOGP>
+1.0519681346666665
+
+> <ALOGPS_LOGS>
+-2.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.478384419694178
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.5
+
+> <JCHEM_REFRACTIVITY>
+59.4504
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.28e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03876
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01363
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Thieno[2,3-B]Pyridine-2-Carboxamidine
+
+$$$$

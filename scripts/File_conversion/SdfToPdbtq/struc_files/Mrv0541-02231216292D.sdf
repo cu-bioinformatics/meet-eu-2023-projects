@@ -1,0 +1,150 @@
+
+  Mrv0541 02231216292D          
+
+ 15 15  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02818
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](CN1C=C(I)C(=O)NC1=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8IN3O4/c8-3-1-11(2-4(9)6(13)14)7(15)10-5(3)12/h1,4H,2,9H2,(H,13,14)(H,10,12,15)/t4-/m0/s1
+
+> <INCHI_KEY>
+AXXYLTBQIQBTES-BYPYZUCNSA-N
+
+> <FORMULA>
+C7H8IN3O4
+
+> <MOLECULAR_WEIGHT>
+325.0606
+
+> <EXACT_MASS>
+324.955949179
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.09044202751209263
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.05376342864219
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(5-iodo-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.21
+
+> <JCHEM_LOGP>
+-3.01562789051218
+
+> <ALOGPS_LOGS>
+-1.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+8.801736091717649
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.989014488230971
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.190762219132665
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73000000000002
+
+> <JCHEM_REFRACTIVITY>
+57.9947
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.50e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02818
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01948
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Iodo-Willardiine
+
+$$$$

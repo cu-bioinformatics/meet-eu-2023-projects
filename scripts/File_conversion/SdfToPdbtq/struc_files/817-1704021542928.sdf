@@ -1,0 +1,147 @@
+817
+  Mrv0541 02241213192D          
+
+ 18 18  0  0  0  0            999 V2000
+   -3.2098   -0.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0664    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4953    0.8625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7808   -0.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0770   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7915   -1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5060   -1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2205    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7915    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4953    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0664    0.8625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3519   -0.3750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3626    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0770   -1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5060   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9349    0.4500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6330   -0.6769    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8080    0.7520    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 11  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
+  9 15  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07262
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=N)NC(=N)SCC1=CC=CC(=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11F3N4S/c11-10(12,13)7-3-1-2-6(4-7)5-18-9(16)17-8(14)15/h1-4H,5H2,(H5,14,15,16,17)
+
+> <INCHI_KEY>
+DWJNPCRXBNWCJC-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11F3N4S
+
+> <MOLECULAR_WEIGHT>
+276.281
+
+> <EXACT_MASS>
+276.065651677
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.8013621896513465
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.63734374735251
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[({[3-(trifluoromethyl)phenyl]methyl}sulfanyl)methanimidoyl]guanidine
+
+> <ALOGPS_LOGP>
+0.94
+
+> <JCHEM_LOGP>
+2.6908284149999995
+
+> <ALOGPS_LOGS>
+-4.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.030325032718691
+
+> <JCHEM_POLAR_SURFACE_AREA>
+85.75
+
+> <JCHEM_REFRACTIVITY>
+86.32940000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.26e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07262
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-{[N-(1-Imino-guanidino-methyl)]sulfanylmethyl}-3-trifluoromethyl-benzene
+
+$$$$

@@ -1,0 +1,173 @@
+
+  Mrv1909 11211903082D          
+
+ 29 32  0  0  0  0            999 V2000
+   -0.3354   -0.5180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8204   -1.1854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6410   -1.0991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1259   -1.7666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7904   -2.5204    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9465   -1.6803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2821   -0.9267    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.1025   -0.8404    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.7971   -0.2592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9766   -0.3454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4916    0.3220    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6710    0.2357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4849   -0.6042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9698    0.0632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7904   -0.0229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1260    0.7307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5129    1.2828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7984    0.8702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0838    1.2828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0838    2.1078    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7984    2.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5129    2.1078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1260   -0.7766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9465   -0.8628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2821   -1.6166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7971   -2.2840    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1025   -1.7028    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6410   -1.4441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8205   -1.3579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  3 10  1  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 21  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 15 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 28 23  2  0  0  0  0
+ 29 28  1  0  0  0  0
+ 13 29  2  0  0  0  0
+M  CHG  2   7   1   8  -1
+M  END
+> <DATABASE_ID>
+DB11838
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[O-][N+]1=CC(Cl)=C(NC(=O)C2=CC=C(OC(F)F)C3=C2C2=CN=CC=C2O3)C(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H9Cl2F2N3O4/c19-10-6-25(27)7-11(20)15(10)24-17(26)8-1-2-13(29-18(21)22)16-14(8)9-5-23-4-3-12(9)28-16/h1-7,18H,(H,24,26)
+
+> <INCHI_KEY>
+IXQHNBONEVULTL-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H9Cl2F2N3O4
+
+> <MOLECULAR_WEIGHT>
+440.18
+
+> <EXACT_MASS>
+438.9938175
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.15670637806284
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3,5-dichloro-4-[10-(difluoromethoxy)-8-oxa-4-azatricyclo[7.4.0.0^{2,7}]trideca-1(9),2,4,6,10,12-hexaene-13-amido]pyridin-1-ium-1-olate
+
+> <ALOGPS_LOGP>
+3.78
+
+> <JCHEM_LOGP>
+2.5248064516666666
+
+> <ALOGPS_LOGS>
+-4.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.897640537958575
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.001270156105108
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.30000000000001
+
+> <JCHEM_REFRACTIVITY>
+101.84050000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.09e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-{[2-amino-2-({2-carboxy-1-[(1-carboxy-2-sulfanylethyl)carbamoyl]ethyl}carbamoyl)ethyl]carbamoyl}-2-[(4-{[(4-oxo-1H-pteridin-6-yl)methyl]amino}phenyl)formamido]butanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11838
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Revamilast
+
+> <SYNONYMS>
+Revamilast; Révamilast; Revamilastum
+
+$$$$

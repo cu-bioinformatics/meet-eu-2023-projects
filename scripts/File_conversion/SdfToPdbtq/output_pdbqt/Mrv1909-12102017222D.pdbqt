@@ -1,0 +1,40 @@
+REMARK  Name = 
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_1  and  C_2
+REMARK    2  A    between atoms: CA_1  and  N_3
+REMARK    3  A    between atoms: CA_1  and  CB_5
+REMARK    4  A    between atoms: C_4  and  CA_17
+REMARK    5  A    between atoms: CB_5  and  CG_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  TYR A   2       1.068   0.617   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C   TYR A   2       1.782   1.031   0.000  0.00  0.00    +0.000 C 
+ATOM      3  O   TYR A   2       1.780   1.856   0.000  0.00  0.00    +0.000 OA
+ATOM      4  OXT TYR A   2       2.497   0.619   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   2
+BRANCH   1   5
+ATOM      5  N   TYR A   2       1.070  -0.208   0.000  0.00  0.00    +0.000 NA
+ATOM      6  C   GLY A   1       1.785  -0.619   0.000  0.00  0.00    +0.000 C 
+ATOM      7  O   GLY A   1       2.285  -0.330   0.000  0.00  0.00    +0.000 OA
+BRANCH   6   9
+ATOM      8  N   GLY A   1       2.502  -1.856   0.000  0.00  0.00    +0.000 NA
+ATOM      9  CA  GLY A   1       1.787  -1.444   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   6   9
+ENDBRANCH   1   5
+BRANCH   1  10
+ATOM     10  CB  TYR A   2       0.353   1.028   0.000  0.00  0.00    +0.000 C 
+BRANCH  10  11
+ATOM     11  CG  TYR A   2      -0.361   0.614   0.000  0.00  0.00    +0.000 A 
+ATOM     12  CZ  TYR A   2      -1.788  -0.213   0.000  0.00  0.00    +0.000 A 
+ATOM     13  CD1 TYR A   2      -1.076   1.025   0.000  0.00  0.00    +0.000 A 
+ATOM     14  CD2 TYR A   2      -0.359  -0.211   0.000  0.00  0.00    +0.000 A 
+ATOM     15  CE2 TYR A   2      -1.073  -0.625   0.000  0.00  0.00    +0.000 A 
+ATOM     16  CE1 TYR A   2      -1.790   0.612   0.000  0.00  0.00    +0.000 A 
+ATOM     17  OH  TYR A   2      -2.502  -0.627   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+TORSDOF 5

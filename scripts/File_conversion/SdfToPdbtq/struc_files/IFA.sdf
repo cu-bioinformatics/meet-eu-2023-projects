@@ -1,0 +1,168 @@
+IFA
+  Mrv0541 02241213462D          
+
+ 25 26  0  0  0  0            999 V2000
+   -2.1909   -0.6187    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1909    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9054    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9054    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6199    1.8563    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1909    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4765    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4765    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7620    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0475    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7620   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0475   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0475   -1.8562    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6669   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3814   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6669    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3814    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3814    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0959    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8104    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5248    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2393    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2393    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9538    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6682    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07962
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC(=O)CCNC(=O)C1=C(O)C(I)=CC(=C1)C1=C(F)C=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H14F2INO4/c1-25-15(22)4-5-21-17(24)12-6-9(7-14(20)16(12)23)11-3-2-10(18)8-13(11)19/h2-3,6-8,23H,4-5H2,1H3,(H,21,24)
+
+> <INCHI_KEY>
+ZMRRBWRMQPQQAN-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H14F2INO4
+
+> <MOLECULAR_WEIGHT>
+461.1986
+
+> <EXACT_MASS>
+460.993557771
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.5940484188868543
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.033722561539655
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl 3-({2',4'-difluoro-4-hydroxy-5-iodo-[1,1'-biphenyl]-3-yl}formamido)propanoate
+
+> <ALOGPS_LOGP>
+3.39
+
+> <JCHEM_LOGP>
+4.116460667999999
+
+> <ALOGPS_LOGS>
+-4.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.490882353746024
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.834652368737681
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.4650349079116554
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.63000000000001
+
+> <JCHEM_REFRACTIVITY>
+96.49859999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.10e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07962
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+METHYL N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINATE
+
+$$$$

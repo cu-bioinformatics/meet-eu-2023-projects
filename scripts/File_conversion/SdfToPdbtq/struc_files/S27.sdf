@@ -1,0 +1,172 @@
+S27
+  Mrv0541 02241214082D          
+
+ 27 28  0  0  0  0            999 V2000
+   -1.2892   -0.8238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2892   -1.6488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0037   -2.0613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7181   -1.6488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7181   -0.8238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0037   -0.4113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5747   -0.4113    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1622   -1.1258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9872    0.3032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1397    0.0012    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8542   -0.4113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8542   -1.2363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5687   -1.6488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5687   -2.4738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8542   -2.8863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1397   -2.4738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1397   -1.6488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1397    0.8262    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5747    1.2387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5747    2.0637    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2892    2.4762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2892    0.8262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8542    1.2387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8542    2.0637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1397    2.4762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5687    2.4762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3660    0.5342    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  1  0  0  0
+  7 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 18 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  1  0  0  0  0
+ 18 27  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 19 22  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08507
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CC(C)C)(N(CC1=CC=CC=C1)[P@](C)(=O)C1=CC=CC=C1)C(=O)NO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H27N2O3P/c1-16(2)14-19(20(23)21-24)22(15-17-10-6-4-7-11-17)26(3,25)18-12-8-5-9-13-18/h4-13,16,19,24H,14-15H2,1-3H3,(H,21,23)/t19-,26-/m1/s1
+
+> <INCHI_KEY>
+KGUVBHLPMGERAT-NIYFSFCBSA-N
+
+> <FORMULA>
+C20H27N2O3P
+
+> <MOLECULAR_WEIGHT>
+374.4137
+
+> <EXACT_MASS>
+374.175929252
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.018756042977567392
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.83057069131977
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-{benzyl[(R)-methyl(phenyl)phosphoryl]amino}-N-hydroxy-4-methylpentanamide
+
+> <ALOGPS_LOGP>
+2.35
+
+> <JCHEM_LOGP>
+3.0419999999999994
+
+> <ALOGPS_LOGS>
+-4.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.778789132707743
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.718431402953188
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9378399429532862
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.64000000000001
+
+> <JCHEM_REFRACTIVITY>
+104.4078
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.15e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08507
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[[2-METHYL-4-HYDROXYCARBAMOYL]BUT-4-YL-N]-BENZYL-P-[PHENYL]-P-[METHYL]PHOSPHINAMID
+
+$$$$

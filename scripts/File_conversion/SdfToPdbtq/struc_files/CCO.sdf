@@ -1,0 +1,152 @@
+CCO
+  Mrv0541 02231217172D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.0094    1.2091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7239    1.6216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7239    2.4466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0094    2.8591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7050    2.4466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7050    1.6216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4195    2.8591    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4031   -0.8854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4219   -0.8854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9068   -1.5528    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6769   -0.1008    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0094    0.3841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6580   -0.1008    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5713   -2.3065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0562   -2.9740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7207   -3.7276    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8767   -2.8877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03928
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CSC1=NC(=NO1)C1=CC=CC(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H7ClN2O3S/c11-7-3-1-2-6(4-7)9-12-10(16-13-9)17-5-8(14)15/h1-4H,5H2,(H,14,15)
+
+> <INCHI_KEY>
+BGDMJXZYDKFEGJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H7ClN2O3S
+
+> <MOLECULAR_WEIGHT>
+270.692
+
+> <EXACT_MASS>
+269.986590497
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.999324506424584
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.15129004103065
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[3-(3-chlorophenyl)-1,2,4-oxadiazol-5-yl]sulfanyl}acetic acid
+
+> <ALOGPS_LOGP>
+2.10
+
+> <JCHEM_LOGP>
+3.2410768219999997
+
+> <ALOGPS_LOGS>
+-3.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8299151059092043
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.944495464956582
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.22
+
+> <JCHEM_REFRACTIVITY>
+75.35439999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.67e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03928
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00861
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Carboxymethylthio-3-(3-Chlorophenyl)-1,2,4-Oxadiazol
+
+$$$$

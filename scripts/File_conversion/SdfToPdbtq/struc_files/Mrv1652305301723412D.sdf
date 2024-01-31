@@ -1,0 +1,149 @@
+
+  Mrv1652305301723412D          
+
+ 20 30  0  0  0  0            999 V2000
+    0.8273   -3.3666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0258   -3.7512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7019   -3.7261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8134   -2.4355    0.0000 Fe  0  0  0  0  0  0  0  0  0  0  0  0
+    0.4677   -4.2413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2127   -4.2302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7975   -1.3802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6601   -0.9326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560   -0.4434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4111   -0.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0451   -0.8947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9641   -0.2318    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2064   -1.0205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9869   -1.2880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9736   -2.1128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1850   -2.3551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9175   -3.1356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7109   -1.6800    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8860   -1.6668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4850   -0.9458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  1  3  1  0  0  0  0
+  4  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  2  5  1  0  0  0  0
+  6  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01703
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N1(C(=O)C=CC1=O)CCC12[Fe]3456789%10C%11C3C4C5C6%11.C7(C8C19)C2%10
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H10NO2.C5H5.Fe/c13-10-5-6-11(14)12(10)8-7-9-3-1-2-4-9;1-2-4-5-3-1;/h1-6H,7-8H2;1-5H;
+
+> <INCHI_KEY>
+CMTBMSSPDNXOBC-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H15FeNO2
+
+> <MOLECULAR_WEIGHT>
+309.146
+
+> <EXACT_MASS>
+309.045215
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.195107302394234
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-(2-{1-ferra-1,1'-spirobi[pentacyclo[2.2.0.0^{1,3}.0^{1,5}.0^{2,6}]hexane]-2-yl}ethyl)-2,5-dihydro-1H-pyrrole-2,5-dione
+
+> <JCHEM_LOGP>
+-2.8481
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+11
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.023633008055344
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.38
+
+> <JCHEM_REFRACTIVITY>
+65.76010000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-(2-{1-ferra-1,1'-spirobi[pentacyclo[2.2.0.0^{1,3}.0^{1,5}.0^{2,6}]hexane]-2-yl}ethyl)pyrrole-2,5-dione
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01703
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01419
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(2-ferrocenylethyl)maleimide
+
+$$$$

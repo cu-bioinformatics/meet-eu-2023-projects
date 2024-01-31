@@ -1,0 +1,169 @@
+
+  Mrv1718008311815002D          
+
+ 22 24  0  0  0  0            999 V2000
+   -0.7496   -0.8452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5200   -1.2577    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6886   -0.0866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7496   -1.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4641   -0.4326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350   -1.9252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4641   -2.0828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1786   -0.8452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2900   -2.7099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1786   -1.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350    0.2347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7495    0.6472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6795    0.6472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7495    1.4723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6795    1.4723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350    1.8848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4640    1.8848    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350    2.7099    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.8765    1.1703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350   -0.5902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1786    2.2974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0515    2.5994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 20  1  1  0  0  0  0
+ 20  2  1  0  0  0  0
+ 20  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 21  1  0  0  0  0
+ 20 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00310
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=C(Cl)C=CC(=C1)C1(O)NC(=O)C2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11ClN2O4S/c15-11-6-5-8(7-12(11)22(16,20)21)14(19)10-4-2-1-3-9(10)13(18)17-14/h1-7,19H,(H,17,18)(H2,16,20,21)
+
+> <INCHI_KEY>
+JIVPVXMEBJLZRO-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H11ClN2O4S
+
+> <MOLECULAR_WEIGHT>
+338.766
+
+> <EXACT_MASS>
+338.012805247
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.2935952440563
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-chloro-5-(1-hydroxy-3-oxo-2,3-dihydro-1H-isoindol-1-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.27
+
+> <JCHEM_LOGP>
+1.6034210690000001
+
+> <ALOGPS_LOGS>
+-3.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.37161790987332
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.761804717435925
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.5879178440175767
+
+> <JCHEM_POLAR_SURFACE_AREA>
+109.49
+
+> <JCHEM_REFRACTIVITY>
+81.30050000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.28e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+chlorthalidone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00310
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00127
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Chlorthalidone
+
+> <SYNONYMS>
+1-keto-3-(3'-sulfamyl-4'-chlorophenyl)-3-hydroxyisoindoline; 1-oxo-3-(3-sulfamyl-4-chlorophenyl)-3-hydroxyisoindoline; 2-chloro-5-(1-hydroxy-3-oxo-1-isoindolinyl)benzenesulfonamide; 2-chloro-5-(2,3-dihydro-1-hydroxy-3-oxo-1H-isoindol-1-yl)benzenesulfonamide; 3-(4'-chloro-3'-sulfamoylphenyl)-3-hydroxyphthalimidine; 3-hydroxy-3-(4-chloro-3-sulfamylphenyl)phthalimidine; Chlorphthalidolone; Chlortalidone; Chlortalidonum; Chlorthalidone; Clortalidona; Phthalamodine; Phthalamudine
+
+> <PRODUCTS>
+Aa-atenidone; Apo Chlorthalidone Tab 100mg; Atenolol and Chlorthalidone; Chlorthalidone; Chlorthalidone 100mg Tablets; Chlorthalidone 50mg Tablets; Chlorthalidone Chlorthalidone; Chlorthalidone Tab 100mg; Chlorthalidone Tab 50mg; Clorpres; Combipres 0.1/15 Tab; Edarbyclor; Hygroton 50mg; Jamp Chlorthalidone; Novo-thalidone Tab 100mg; Novo-thalidone Tab 50mg; Ntp-atenolol/chlorthalidone; Tenoretic; Tenoretic 100/25mg Tab; Tenoretic 50/25mg Tab; Teva-atenolol/chlorthalidone; Thalitone; Uridon Tab 100mg; Uridon Tab 50mg
+
+> <INTERNATIONAL_BRANDS>
+Hygroton; Saluretin
+
+$$$$

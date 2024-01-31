@@ -1,0 +1,181 @@
+
+  Mrv1909 05022221012D          
+
+ 28 30  0  0  0  0            999 V2000
+   -2.5368    0.4331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5368    1.2581    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7943    1.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0931    1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0931    0.4331    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7943    0.0206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3506    0.0206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3506    0.4331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0518    0.0206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7531    0.4331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4543    0.0206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4543   -0.8043    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7531   -1.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0518   -0.8043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1968   -1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8981   -0.8456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6406   -1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6406   -2.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8981   -2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1968   -2.0831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3418   -0.8043    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.8981    0.0206    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2381    1.6706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9393    1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6406    1.6706    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9393    0.4331    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3418    1.2581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6406    2.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+  2 23  1  1  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06016
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(CC2)C2=C(Cl)C(Cl)=CC=C2)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H32Cl2N4O/c1-25(2)21(28)24-17-8-6-16(7-9-17)10-11-26-12-14-27(15-13-26)19-5-3-4-18(22)20(19)23/h3-5,16-17H,6-15H2,1-2H3,(H,24,28)/t16-,17-
+
+> <INCHI_KEY>
+KPWSJANDNDDRMB-QAQDUYKDSA-N
+
+> <FORMULA>
+C21H32Cl2N4O
+
+> <MOLECULAR_WEIGHT>
+427.41
+
+> <EXACT_MASS>
+426.1953171
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.1122617172151859
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+48.35548479646267
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3,3-dimethyl-1-[(1r,4r)-4-{2-[4-(2,3-dichlorophenyl)piperazin-1-yl]ethyl}cyclohexyl]urea
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+4.056449686666667
+
+> <ALOGPS_LOGS>
+-4.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.68148638546969
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.906171331171744
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.82
+
+> <JCHEM_REFRACTIVITY>
+117.81019999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.79e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cariprazine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06016
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Cariprazine
+
+> <SYNONYMS>
+Cariprazine; trans-N-{4-[2-[4-(2,3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N’,N’-dimethylurea hydrochloride
+
+> <PRODUCTS>
+Reagila; Vraylar
+
+> <SALTS>
+Cariprazine hydrochloride
+
+$$$$

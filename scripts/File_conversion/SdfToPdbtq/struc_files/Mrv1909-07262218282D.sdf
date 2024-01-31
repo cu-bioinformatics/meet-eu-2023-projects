@@ -1,0 +1,176 @@
+
+  Mrv1909 07262218282D          
+
+ 28 31  0  0  0  0            999 V2000
+   -1.1578   -0.5230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8722   -0.9356    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8722   -1.7607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1578   -2.1732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433   -1.7607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433   -0.9356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3413   -2.0157    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8263   -1.3482    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3413   -0.6808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6513   -1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3014   -1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8889   -0.6336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0639   -0.6336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0639   -2.0627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8889   -2.0627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1578    0.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4433    1.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1578    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8722    1.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8722    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5868    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3014    1.5396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5868    2.7771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5868   -0.5231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5868   -2.1732    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5963    0.1038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6513   -2.7772    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 13 10  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 11 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 26  2  0  0  0  0
+  9 27  2  0  0  0  0
+ 14 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16869
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)C1=CC(=CC=C1)C1=C2C(NN(C2=O)C2=CC=CC=C2Cl)=CC(=O)N1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H19ClN4O2/c1-24(2)14-8-6-7-13(11-14)20-19-16(12-18(27)25(20)3)23-26(21(19)28)17-10-5-4-9-15(17)22/h4-12,23H,1-3H3
+
+> <INCHI_KEY>
+RGYQPQARIQKJKH-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H19ClN4O2
+
+> <MOLECULAR_WEIGHT>
+394.86
+
+> <EXACT_MASS>
+394.1196536
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9645088542488143
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.09177524787581
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-chlorophenyl)-4-[3-(dimethylamino)phenyl]-5-methyl-1H,2H,3H,5H,6H-pyrazolo[4,3-c]pyridine-3,6-dione
+
+> <ALOGPS_LOGP>
+2.87
+
+> <JCHEM_LOGP>
+2.066698006196168
+
+> <ALOGPS_LOGS>
+-3.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.56623694734431
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.416195611214405
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.89
+
+> <JCHEM_REFRACTIVITY>
+122.79679999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.45e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+rosemary acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16869
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Setanaxib
+
+> <SYNONYMS>
+Setanaxib
+
+$$$$

@@ -1,0 +1,157 @@
+
+  Mrv1572010221516242D          
+
+ 22 24  0  0  0  0            999 V2000
+    0.0414    0.0686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4554    0.7312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2484    1.5179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4969    1.8491    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8695    0.0686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2422    1.4765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4078    0.6898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8695    2.0975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6561    1.8491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8632    1.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2421    0.4828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1945    0.4413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8156    0.9797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6500    1.8077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8633    2.0562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6499    0.8141    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3312   -0.6766    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1593   -0.6766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5734   -1.3804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4015   -1.3804    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8156   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8156   -2.0975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5  7  1  0  0  0  0
+  1  2  1  0  0  0  0
+  6  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  7 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+  6 15  2  0  0  0  0
+ 10 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09225
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCOC1=CC2=CC=CC=C2SC2=CC=C(Cl)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H18ClNOS/c1-20(2)9-10-21-16-11-13-5-3-4-6-17(13)22-18-8-7-14(19)12-15(16)18/h3-8,11-12H,9-10H2,1-2H3
+
+> <INCHI_KEY>
+HDOZVRUNCMBHFH-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H18ClNOS
+
+> <MOLECULAR_WEIGHT>
+331.86
+
+> <EXACT_MASS>
+331.0797631
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.2053373032629
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[2-({6-chloro-2-thiatricyclo[9.4.0.0³,⁸]pentadeca-1(15),3,5,7,9,11,13-heptaen-9-yl}oxy)ethyl]dimethylamine
+
+> <ALOGPS_LOGP>
+4.74
+
+> <JCHEM_LOGP>
+4.5105601879999995
+
+> <ALOGPS_LOGS>
+-5.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.92264646745926
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+97.6063
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.77e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+compound-4
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB09225
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Zotepine
+
+> <SYNONYMS>
+Zotepina; Zotepine
+
+> <INTERNATIONAL_BRANDS>
+Losizopilon; Zoleptil
+
+$$$$

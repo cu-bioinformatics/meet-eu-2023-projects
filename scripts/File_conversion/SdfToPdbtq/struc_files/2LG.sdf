@@ -1,0 +1,172 @@
+2LG
+  Mrv0541 02241213062D          
+
+ 28 30  0  0  0  0            999 V2000
+   -3.8714   -1.6239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8714   -0.2890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8172   -0.9565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0472   -2.4085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2453   -0.2420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578    0.4725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4828    0.4725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8953   -0.2420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1328    1.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5453    2.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0867   -1.3690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0867   -0.5440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3021   -1.6239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3021   -0.2890    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3563   -0.9565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9922   -0.9565    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7922   -3.1932    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5797   -0.2420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9922    0.4725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578   -0.9565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4828   -0.9565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2453   -1.6709    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.8953    1.1869    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3078    1.9014    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1808    1.5994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6098    0.7744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8953    2.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0703    2.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 13  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 17  3  0  0  0  0
+  5  6  2  0  0  0  0
+  5 18  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 23  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 24  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 26  2  0  0  0  0
+ 24 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06970
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)S(=O)(=O)C1=CC=C(Cl)C(=C1)C(=O)NC1=C(C#N)C2=C(CCC2)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H20ClN3O3S2/c1-3-23(4-2)28(25,26)12-8-9-16(20)14(10-12)18(24)22-19-15(11-21)13-6-5-7-17(13)27-19/h8-10H,3-7H2,1-2H3,(H,22,24)
+
+> <INCHI_KEY>
+MZCDQILVXXIMEV-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H20ClN3O3S2
+
+> <MOLECULAR_WEIGHT>
+437.963
+
+> <EXACT_MASS>
+437.063460608
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-8.675320879820139e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.32145295225635
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-chloro-N-{3-cyano-4H,5H,6H-cyclopenta[b]thiophen-2-yl}-5-(diethylsulfamoyl)benzamide
+
+> <ALOGPS_LOGP>
+3.50
+
+> <JCHEM_LOGP>
+4.378833182333334
+
+> <ALOGPS_LOGS>
+-4.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.06171061237344
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.838150038057157
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.27000000000001
+
+> <JCHEM_REFRACTIVITY>
+112.65139999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.87e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06970
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-CHLORO-N-(3-CYANO-5,6-DIHYDRO-4H-CYCLOPENTA[B]THIOPHEN-2-YL)-5-DIETHYLSULFAMOYL-BENZAMIDE
+
+$$$$

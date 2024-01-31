@@ -1,0 +1,154 @@
+
+  Mrv1902 03031922382D          
+
+ 17 17  0  0  0  0            999 V2000
+   -2.1435    0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8580    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8580   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5726   -0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.4124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1436    0.8251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5726    0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580   -0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01131
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)NC(=N)NC(=N)NC1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16ClN5/c1-7(2)15-10(13)17-11(14)16-9-5-3-8(12)4-6-9/h3-7H,1-2H3,(H5,13,14,15,16,17)
+
+> <INCHI_KEY>
+SSOLNOMRVKKSON-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H16ClN5
+
+> <MOLECULAR_WEIGHT>
+253.731
+
+> <EXACT_MASS>
+253.109423244
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.754472255332054
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[N'-(4-chlorophenyl)carbamimidamido]-N-(propan-2-yl)methanimidamide
+
+> <ALOGPS_LOGP>
+2.29
+
+> <JCHEM_LOGP>
+2.381100169666667
+
+> <ALOGPS_LOGS>
+-3.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.395690378440479
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.79
+
+> <JCHEM_REFRACTIVITY>
+91.6532
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+proguanil
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01131
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00188
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Proguanil
+
+> <SYNONYMS>
+1-(p-Chlorophenyl)-5-isopropylbiguanide; Chlorguanide; Chloroguanide; Proguanil; Proguanile; Proguanilo; Proguanilum
+
+> <PRODUCTS>
+Atovaquone Proguanil; Atovaquone and Proguanil HCl; Atovaquone and Proguanil Hydrochloride; Atovaquone and Proguanil Hydrochloride Pediatric; Atovaquone and Proguanil Hydrochloride Tablets; Malarone; Malarone Pediatric; Mylan-atovaquone/proguanil; Paludrine Tab 0.1gm; Paludrine Tab 100mg; Teva-atovaquone Proguanil
+
+> <INTERNATIONAL_BRANDS>
+Paludrine
+
+> <SALTS>
+Proguanil hydrochloride
+
+$$$$

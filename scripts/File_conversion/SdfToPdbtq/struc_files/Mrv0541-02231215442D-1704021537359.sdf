@@ -1,0 +1,149 @@
+
+  Mrv0541 02231215442D          
+
+ 15 14  0  0  1  0            999 V2000
+    3.7125   -2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125   -2.1434    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.9980   -1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270   -1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704   -2.1434    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    6.1579   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9829   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849   -2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993   -2.1434    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4118   -2.8579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5868   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  6  0  0  0
+  8  9  1  1  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01799
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H](CO)CCO[P@](O)(=O)OP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14O8P2/c1-5(4-6)2-3-12-15(10,11)13-14(7,8)9/h5-6H,2-4H2,1H3,(H,10,11)(H2,7,8,9)/t5-/m0/s1
+
+> <INCHI_KEY>
+URURINNTPGGDIV-YFKPBYRVSA-N
+
+> <FORMULA>
+C5H14O8P2
+
+> <MOLECULAR_WEIGHT>
+264.1074
+
+> <EXACT_MASS>
+264.016390448
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.42993382267531
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.178633178121068
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+({hydroxy[(3S)-4-hydroxy-3-methylbutoxy]phosphoryl}oxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.45
+
+> <JCHEM_LOGP>
+-0.8117483546666663
+
+> <ALOGPS_LOGS>
+-1.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.221194008153051
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7793105748031812
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.590438195944782
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.52
+
+> <JCHEM_REFRACTIVITY>
+50.281
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01799
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01334
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Hydroxy-3-Methyl Butyl Diphosphate
+
+$$$$

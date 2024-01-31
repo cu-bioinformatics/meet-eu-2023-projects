@@ -1,0 +1,144 @@
+LT5
+  Mrv0541 02241213532D          
+
+ 15 15  0  0  0  0            999 V2000
+    3.1234    0.6322    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4090    0.2197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9965    0.9341    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8215   -0.4948    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6945   -0.1928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9800    0.2197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6945   -1.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9800   -1.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2656   -1.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2656   -0.1928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4489    0.2197    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1634   -0.1928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4489    1.0447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1634    1.4572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4489   -0.3643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  2  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  5  2  0  0  0  0
+  8  7  2  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  6  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 15  1  6  0  0  0
+ 13 11  1  0  0  0  0
+ 14 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08129
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)(CN)C1=CC=CC(=C1)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10F3NO/c10-9(11,12)7-3-1-2-6(4-7)8(14)5-13/h1-4,8,14H,5,13H2/t8-/m0/s1
+
+> <INCHI_KEY>
+RRBRWAPWPGAJMA-QMMMGPOBSA-N
+
+> <FORMULA>
+C9H10F3NO
+
+> <MOLECULAR_WEIGHT>
+205.177
+
+> <EXACT_MASS>
+205.071448562
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9922441062524354
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.626595461632334
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethan-1-ol
+
+> <ALOGPS_LOGP>
+1.06
+
+> <JCHEM_LOGP>
+1.3465277916666667
+
+> <ALOGPS_LOGS>
+-1.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.04551654108693
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.10699175955472
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+46.4676
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.80e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08129
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1R)-2-amino-1-[3-(trifluoromethyl)phenyl]ethanol
+
+$$$$

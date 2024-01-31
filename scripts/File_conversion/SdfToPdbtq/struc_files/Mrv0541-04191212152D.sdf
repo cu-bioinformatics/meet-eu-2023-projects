@@ -1,0 +1,192 @@
+
+  Mrv0541 04191212152D          
+
+ 30 33  0  0  1  0            999 V2000
+    5.7755   -5.7759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7755   -6.5707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4868   -6.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1981   -6.5707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1981   -5.7759    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.4868   -5.3575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9092   -6.9891    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.5786   -6.5707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5786   -5.7759    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.9092   -5.3575    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.2898   -5.3575    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.2898   -4.5626    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.5786   -4.1443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9092   -4.5626    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.9092   -7.8258    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9092   -6.1942    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    9.2898   -6.1942    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2480   -3.7260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1981   -4.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0644   -6.9891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1981   -4.1443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5786   -4.9810    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0458   -4.3170    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   10.5129   -4.9601    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.0459   -5.6032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3008   -3.5323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1079   -3.3607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7486   -2.9191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6598   -3.9739    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3381   -4.9600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+  7 15  1  6  0  0  0
+ 10 16  1  6  0  0  0
+ 11 17  1  6  0  0  0
+ 12 18  1  1  0  0  0
+  5 19  1  1  0  0  0
+  2 20  2  0  0  0  0
+ 14 21  1  1  0  0  0
+  9 22  1  1  0  0  0
+ 23 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 24 23  1  0  0  0  0
+ 25 11  1  0  0  0  0
+ 25 24  1  0  0  0  0
+ 23 26  1  1  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 24 30  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB00838
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(Cl)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H28ClFO4/c1-11-6-13-14-8-16(24)15-7-12(26)4-5-21(15,3)22(14,23)18(28)9-20(13,2)19(11)17(27)10-25/h4-5,7,11,13-14,16,18-19,25,28H,6,8-10H2,1-3H3/t11-,13+,14+,16+,18+,19-,20+,21+,22+/m1/s1
+
+> <INCHI_KEY>
+YMTMADLUXIRMGX-RFPWEZLHSA-N
+
+> <FORMULA>
+C22H28ClFO4
+
+> <MOLECULAR_WEIGHT>
+410.907
+
+> <EXACT_MASS>
+410.166015296
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.70658097214386e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.80026698091018
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,3aS,3bS,5S,9aS,9bR,10S,11aS)-9b-chloro-5-fluoro-10-hydroxy-1-(2-hydroxyacetyl)-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+2.73
+
+> <JCHEM_LOGP>
+2.474821861666665
+
+> <ALOGPS_LOGS>
+-4.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.117387262021193
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.54468060186539
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2955026394551576
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+105.73639999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.50e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00838
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00877
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Clocortolone
+
+> <SYNONYMS>
+9-chloro-6alpha-Fluoro-11beta,21-dihydroxy-16alpha-methyl-1,4-pregnadien-3,20-dione; 9-chloro-6alpha-Fluoro-16alpha-methyl-1,4-pregnadiene-11beta,21-diol-3,20-dione; Clocortolon; Clocortolona; Clocortolone; Clocortolonum
+
+> <PRODUCTS>
+Clocortolone Pivalate; Clocortolone Pivalate Cream; Cloderm
+
+> <SALTS>
+Clocortolone pivalate
+
+$$$$

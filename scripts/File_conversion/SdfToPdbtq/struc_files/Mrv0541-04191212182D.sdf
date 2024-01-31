@@ -1,0 +1,181 @@
+ 
+  Mrv0541 04191212182D          
+
+ 26 28  0  0  0  0            999 V2000
+    9.4462   -9.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4462   -9.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1607  -10.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8752   -9.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8752   -9.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1607   -8.7450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5897  -10.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3041   -9.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3041   -9.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5897   -8.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0186  -10.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7331   -9.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7331   -9.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0186   -8.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4475  -10.3950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1620   -9.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1620   -9.1575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4475   -8.7450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5897  -11.2200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0186  -11.2198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7453  -11.6396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4561  -11.2294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7451  -12.4574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8899   -8.7371    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   16.6013   -9.1477    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   15.8896   -7.9201    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 12 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 13 18  2  0  0  0  0
+  7 19  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 17 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+M  CHG  2  24   1  25  -1
+M  END
+> <DATABASE_ID>
+DB01418
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)CC(C1=CC=C(C=C1)[N+]([O-])=O)C1=C(O)C2=CC=CC=C2OC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3
+
+> <INCHI_KEY>
+VABCILAOYCMVPS-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H15NO6
+
+> <MOLECULAR_WEIGHT>
+353.3255
+
+> <EXACT_MASS>
+353.089937217
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9877415581663802
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.442397864629385
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]-2H-chromen-2-one
+
+> <ALOGPS_LOGP>
+2.53
+
+> <JCHEM_LOGP>
+2.6846915516666665
+
+> <ALOGPS_LOGS>
+-4.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.501761204263364
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.093791944054675
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.903837462251043
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+93.18059999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.06e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01418
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Acenocoumarol
+
+> <SYNONYMS>
+3-(alpha-(4'-Nitrophenyl)-beta-acetylethyl)-4-hydroxycoumarin; 3-(alpha-(p-Nitrophenol)-beta-acetylethyl)-4-hydroxycoumarin; 3-(alpha-Acetonyl-4-nitrobenzyl)-4-hydroxycoumarin; 3-(alpha-Acetonyl-p-nitrobenzyl)-4-hydroxycoumarin; 3-(alpha-p-Nitrophenyl-beta-acetylethyl)-4-hydroxycoumarin; 4-Hydroxy-3-(1-(4-nitrophenyl)-3-oxobutyl)-2H-1-benzopyran-2-one; 4-Hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]-2H-chromen-2-one; Acenocoumarin; Acenocoumarol; Acénocoumarol; Acenocoumarolum; Acenocumarol; Acenocumarolo; Acenokumarin; Nicoumalone; Nicumalon; Nitrophenylacetylethyl-4-hydroxycoumarine; Nitrovarfarian; Nitrowarfarin
+
+> <PRODUCTS>
+Sintrom; Truemed Group LLC
+
+> <INTERNATIONAL_BRANDS>
+Ascumar; Mini-sintrom
+
+$$$$

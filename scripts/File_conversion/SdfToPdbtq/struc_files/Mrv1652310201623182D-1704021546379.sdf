@@ -1,0 +1,151 @@
+
+  Mrv1652310201623182D          
+
+ 18 19  0  0  1  0            999 V2000
+   -0.6110   -1.8216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2754   -1.0679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7604   -0.4005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4248    0.3532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3957    0.4394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7312    1.1931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8806   -0.2280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5450   -0.9817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0300   -1.6491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9097    1.0206    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7347    1.0206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9897    1.8053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3222    2.2902    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6548    1.8053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7272    3.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5522    3.0176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9172    3.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5122    3.7277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10  4  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 13 17  1  6  0  0  0
+ 17 18  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12074
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CN([C@@H]2O[C@](CO)(C=C2)C#C)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N2O4/c1-3-12(7-15)5-4-9(18-12)14-6-8(2)10(16)13-11(14)17/h1,4-6,9,15H,7H2,2H3,(H,13,16,17)/t9-,12+/m1/s1
+
+> <INCHI_KEY>
+OSYWBJSVKUFFSU-SKDRFNHKSA-N
+
+> <FORMULA>
+C12H12N2O4
+
+> <MOLECULAR_WEIGHT>
+248.238
+
+> <EXACT_MASS>
+248.079706874
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.029219688132986
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(2R,5R)-5-ethynyl-5-(hydroxymethyl)-2,5-dihydrofuran-2-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.42
+
+> <JCHEM_LOGP>
+-0.07995433533333342
+
+> <ALOGPS_LOGS>
+-2.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.97216920217777
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.952723954228984
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2488104114781757
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.87
+
+> <JCHEM_REFRACTIVITY>
+62.78610000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.78e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[(2R,5R)-5-ethynyl-5-(hydroxymethyl)-2H-furan-2-yl]-5-methyl-3H-pyrimidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12074
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Censavudine
+
+> <SYNONYMS>
+Censavudine
+
+$$$$

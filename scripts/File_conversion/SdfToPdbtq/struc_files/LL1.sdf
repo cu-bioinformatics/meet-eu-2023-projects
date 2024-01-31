@@ -1,0 +1,146 @@
+LL1
+  Mrv0541 02241213522D          
+
+ 15 17  0  0  0  0            999 V2000
+    0.3767   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0912   -0.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8057   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8057   -1.3857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0912   -1.7982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3767   -1.3857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4079   -1.6406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8928   -0.9732    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4079   -0.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6628    0.4789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1108    1.0920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3658    1.8766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1727    2.0481    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7248    1.4350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4698    0.6504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  1  2  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9  1  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 14  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08113
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N1N=C(C2=C1C=CC=C2)C1=CC=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9N3/c1-2-4-11-10(3-1)12(15-14-11)9-5-7-13-8-6-9/h1-8H,(H,14,15)
+
+> <INCHI_KEY>
+MSRXUUDVRNWSTN-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9N3
+
+> <MOLECULAR_WEIGHT>
+195.22
+
+> <EXACT_MASS>
+195.079647303
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0005918202505416741
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.592250185180426
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(pyridin-4-yl)-1H-indazole
+
+> <ALOGPS_LOGP>
+2.39
+
+> <JCHEM_LOGP>
+2.111710949
+
+> <ALOGPS_LOGS>
+-2.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.703155065022791
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.77562344916033
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.57
+
+> <JCHEM_REFRACTIVITY>
+58.680400000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.48e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08113
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-pyridin-4-yl-1H-indazole
+
+$$$$

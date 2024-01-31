@@ -1,0 +1,159 @@
+
+  Mrv1909 12161923222D          
+
+ 19 20  0  0  0  0            999 V2000
+   -0.1435    0.7518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0002   -1.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3810   -1.3915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2060    0.0374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4990    1.4895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2060    1.4663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2060    0.9348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2060   -0.8600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7539   -0.6300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5385    0.4499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2689    0.0374    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.6770    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9685   -0.6770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3810    0.0374    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9685    0.7518    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7539    0.7048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3810    1.4663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5385   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7718   -1.1412    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 11  1  1  1  0  0  0
+  1 15  1  0  0  0  0
+ 12  2  1  6  0  0  0
+ 13  3  1  1  0  0  0
+ 14  4  1  6  0  0  0
+  5 16  2  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 18  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02447
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N1C(=O)N(O)C(=O)[C@]11O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N2O8/c11-1-2-3(12)4(13)5(14)8(18-2)6(15)10(17)7(16)9-8/h2-5,11-14,17H,1H2,(H,9,16)/t2-,3-,4+,5-,8+/m1/s1
+
+> <INCHI_KEY>
+IHDZZZHACPJCFJ-WWHASAIZSA-N
+
+> <FORMULA>
+C8H12N2O8
+
+> <MOLECULAR_WEIGHT>
+264.1895
+
+> <EXACT_MASS>
+264.05936537
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.3264804677435176
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.987247214948695
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5S,7R,8S,9S,10R)-3,8,9,10-tetrahydroxy-7-(hydroxymethyl)-6-oxa-1,3-diazaspiro[4.5]decane-2,4-dione
+
+> <ALOGPS_LOGP>
+-2.29
+
+> <JCHEM_LOGP>
+-3.328678939
+
+> <ALOGPS_LOGS>
+-0.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.024397389008685
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.3145187403454
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.980878750521107
+
+> <JCHEM_POLAR_SURFACE_AREA>
+159.79000000000002
+
+> <JCHEM_REFRACTIVITY>
+50.7306
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.62e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cysteine hcl
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02447
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01598
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,8,9,10-tetrahydroxy-7-hydroxymethyl-6-oxa-1,3-diaza-spiro[4.5]decane-2,4-dione
+
+$$$$

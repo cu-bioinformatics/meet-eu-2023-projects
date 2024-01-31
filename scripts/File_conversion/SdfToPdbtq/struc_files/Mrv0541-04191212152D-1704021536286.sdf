@@ -1,0 +1,194 @@
+
+  Mrv0541 04191212152D          
+
+ 30 32  0  0  0  0            999 V2000
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1433   -0.4128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0001    1.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146    2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7146    2.8874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    1.6498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580    1.6498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    0.4122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4989    0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9839    0.0001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4991   -0.6674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7541   -1.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5610   -1.6235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8159   -2.4082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6228   -2.5797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7143    2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7142    2.8874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0467    3.3723    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3015    4.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1265    4.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3816    3.3724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 11  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 30  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 30 29  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00876
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCC1=NC=C(\C=C(/CC2=CC=CS2)C(O)=O)N1CC1=CC=C(C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H24N2O4S/c1-2-3-6-21-24-14-19(12-18(23(28)29)13-20-5-4-11-30-20)25(21)15-16-7-9-17(10-8-16)22(26)27/h4-5,7-12,14H,2-3,6,13,15H2,1H3,(H,26,27)(H,28,29)/b18-12+
+
+> <INCHI_KEY>
+OROAFUQRIXKEMV-LDADJPATSA-N
+
+> <FORMULA>
+C23H24N2O4S
+
+> <MOLECULAR_WEIGHT>
+424.513
+
+> <EXACT_MASS>
+424.145677956
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.6809688462656607
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.36716599981245
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-({2-butyl-5-[(1E)-2-carboxy-2-[(thiophen-2-yl)methyl]eth-1-en-1-yl]-1H-imidazol-1-yl}methyl)benzoic acid
+
+> <ALOGPS_LOGP>
+3.57
+
+> <JCHEM_LOGP>
+3.752190286981569
+
+> <ALOGPS_LOGS>
+-4.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.255287773897317
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.467424123610009
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.669058014703256
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.42
+
+> <JCHEM_REFRACTIVITY>
+117.02430000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.66e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00876
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00950
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Eprosartan
+
+> <SYNONYMS>
+(E)-2-butyl-1-(p-carboxybenzyl)-α-2-thenylimidazole-5-acrylic acid; (E)-3-[2-n-butyl-1-{(4-carboxyphenyl)methyl}-1H-imidazol-5-yl]-2-(2-thienyl)methyl-2-propenoic acid; (E)-α{[2-butyl-1-[(4-carboxyphenyl)methyl]-1H-imidazole-5-yl]methylene}-2-thiopheneproprionic acid; Éprosartan; Eprosartan; Eprosartanum
+
+> <PRODUCTS>
+Eprosartan Mesylate; Teveten; Teveten HCT; Teveten Plus; Teveten Tablets 300 mg
+
+> <INTERNATIONAL_BRANDS>
+Eprozar; Futuran; Teveten
+
+> <SALTS>
+Eprosartan mesylate; Eprosartan mesylate dihydrate
+
+$$$$

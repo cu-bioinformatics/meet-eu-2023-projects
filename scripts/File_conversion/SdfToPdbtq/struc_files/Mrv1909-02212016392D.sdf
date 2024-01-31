@@ -1,0 +1,161 @@
+
+  Mrv1909 02212016392D          
+
+ 19 19  0  0  0  0            999 V2000
+   -1.6501    0.0077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2357    0.7211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4105    0.7190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0038    1.4324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8288    1.4302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2433    2.1435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0682    2.1414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4828    2.8547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2395   -0.7078    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6539   -1.4213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2433   -2.1369    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6578   -2.8503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4828   -2.8481    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4182   -2.1390    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0038   -1.4257    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4144   -0.7101    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8211   -1.4278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0076   -2.8547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9  1  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 15 18  1  1  0  0  0
+ 14 19  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03338
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCCCO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H26O6/c1-2-3-4-5-6-7-18-13-12(17)11(16)10(15)9(8-14)19-13/h9-17H,2-8H2,1H3/t9-,10-,11+,12-,13-/m1/s1
+
+> <INCHI_KEY>
+NIDYWHLDTIVRJT-UJPOAAIJSA-N
+
+> <FORMULA>
+C13H26O6
+
+> <MOLECULAR_WEIGHT>
+278.3419
+
+> <EXACT_MASS>
+278.172938564
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-7.0768584095096565e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.0049539996237
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5S,6R)-2-(heptyloxy)-6-(hydroxymethyl)oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+0.72
+
+> <JCHEM_LOGP>
+0.36819229533333375
+
+> <ALOGPS_LOGS>
+-0.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.200256715324073
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.210987486903667
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9810834105517934
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+68.35119999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.21e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-bromopropane-2-ol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03338
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00614
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Heptyl glucoside
+
+> <SYNONYMS>
+1-Heptyl beta-D-glucoside; Heptyl beta-D-glucopyranoside; Heptyl glucoside; n-Heptyl beta-D-glucopyranoside; n-Heptyl beta-D-glucoside
+
+$$$$

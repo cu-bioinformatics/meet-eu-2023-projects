@@ -1,0 +1,153 @@
+
+  Mrv1652306131722042D          
+
+ 19 16  0  0  1  0            999 V2000
+   -1.4289    0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.1650    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0000    0.2475    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.2475    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.0000    1.0725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.1650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7436    0.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4581   -0.0917    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.1725    0.3208    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.8870   -0.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6015    0.3208    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8870   -0.9167    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.1725    1.1458    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4581   -0.9167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0291   -0.0917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.6600    0.0000 Ca  0  2  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  3  7  1  1  0  0  0
+  2  8  1  1  0  0  0
+  1  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 12 16  1  1  0  0  0
+ 11 17  1  1  0  0  0
+ 10 18  1  0  0  0  0
+M  CHG  3   6  -1  15  -1  19   2
+M  END
+> <DATABASE_ID>
+DB11168
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Ca++].OC[C@H](O)[C@@H](O)C([O-])=O.OC[C@H](O)[C@@H](O)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C4H8O5.Ca/c2*5-1-2(6)3(7)4(8)9;/h2*2-3,5-7H,1H2,(H,8,9);/q;;+2/p-2/t2*2-,3+;/m00./s1
+
+> <INCHI_KEY>
+ZJXGOFZGZFVRHK-BALCVSAKSA-L
+
+> <FORMULA>
+C8H14CaO10
+
+> <MOLECULAR_WEIGHT>
+310.268
+
+> <EXACT_MASS>
+310.0212876
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.1750502065717
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+calcium bis((2R,3S)-2,3,4-trihydroxybutanoate)
+
+> <ALOGPS_LOGP>
+-1.69
+
+> <JCHEM_LOGP>
+-2.149074426666667
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.025178139889814
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4007287139451505
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981778620620938
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.82000000000001
+
+> <JCHEM_REFRACTIVITY>
+37.183099999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.61e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+calcium bis(L-threonate)
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11168
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Calcium threonate
+
+> <SYNONYMS>
+Calcium L-threonate; Threonine, calcium salt
+
+> <PRODUCTS>
+Corvite 150; Corvite FE; Ferrex 150 Forte Plus; Folcaps Care One; Folcaps Omega-3; Iron Aspartate Glycinate and Polysaccharide Complex, Ascorbic Calcium, Vitamin B12, Folic Acid, Calcium Threonate and Succinic Acid; Iron Aspartate, Glycinate, Ascorbic Calcium, Vitamin B12, Calcium Threonate and Succinic Acid; Iron Fumarate and Aspartate, Glycinate, Ascorbic Calcium, Vitamin B12, Folic Acid, Calcium Threonate and Succinic Acid; OB Complete 400; OB Complete DHA; Se-Care Chewable; Se-Care Conceive; Se-Vate 21/7; Soin Solaire Complete SPF30; UltimateCare ONE NF
+
+$$$$

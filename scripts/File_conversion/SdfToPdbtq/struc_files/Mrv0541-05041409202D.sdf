@@ -1,0 +1,169 @@
+
+  Mrv0541 05041409202D          
+
+ 24 25  0  0  1  0            999 V2000
+   -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    7.0125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    8.2500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4289    5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    8.6625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    4.5375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    8.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    5.7750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    9.4875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    8.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    6.6000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    7.8375    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  8  5  1  6  0  0  0
+  8  6  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  6  2  0  0  0  0
+ 11  7  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  7  2  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13  3  2  0  0  0  0
+ 14  9  1  0  0  0  0
+  9 15  1  1  0  0  0
+ 16  4  2  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 10  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 11  2  0  0  0  0
+ 20 12  1  0  0  0  0
+ 21 14  2  0  0  0  0
+ 22 14  1  0  0  0  0
+  8 23  1  1  0  0  0
+  9 24  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB01634
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(C[C@]1([H])C=C(NNC2=CC=CC=N2)C(O)=CC1=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N4O4/c15-9(14(21)22)5-8-6-10(12(20)7-11(8)19)17-18-13-3-1-2-4-16-13/h1-4,6-9,17,20H,5,15H2,(H,16,18)(H,21,22)/t8-,9+/m1/s1
+
+> <INCHI_KEY>
+AZUQIXJQZOMXAS-BDAKNGLRSA-N
+
+> <FORMULA>
+C14H16N4O4
+
+> <MOLECULAR_WEIGHT>
+304.3012
+
+> <EXACT_MASS>
+304.11715502
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.04058044673354788
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.881537465480783
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-[(1R)-4-hydroxy-6-oxo-3-[2-(pyridin-2-yl)hydrazin-1-yl]cyclohexa-2,4-dien-1-yl]propanoic acid
+
+> <ALOGPS_LOGP>
+-1.30
+
+> <JCHEM_LOGP>
+-6.137503574328771
+
+> <ALOGPS_LOGS>
+-2.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+1.7175947459059322
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-5.27296626618476
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.049826727469616
+
+> <JCHEM_POLAR_SURFACE_AREA>
+137.57
+
+> <JCHEM_REFRACTIVITY>
+92.82099999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01634
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02499
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Oxy-4-Hydroxy-5-(2-Hydrazinopyridine)Phenylalanine
+
+$$$$

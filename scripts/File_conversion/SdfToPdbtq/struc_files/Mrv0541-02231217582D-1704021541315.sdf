@@ -1,0 +1,190 @@
+
+  Mrv0541 02231217582D          
+
+ 29 32  0  0  1  0            999 V2000
+    1.6500    1.3710    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1905    1.3710    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5623   -0.2989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2781   -0.2989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9913   -1.1239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8492   -1.1239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4202   -0.2989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2769    0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5636    0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9913   -0.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8492   -0.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2769    0.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5636    0.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7058    0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1347    0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5623    1.3511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2781    1.3511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8479    0.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9926    0.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8479    0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9926    0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1104    1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7301    1.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1104   -0.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7301   -0.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3629    0.9558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4776    0.9558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3629    0.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4776    0.0964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 26  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 26  2  0  0  0  0
+ 23 27  2  0  0  0  0
+ 24 28  2  0  0  0  0
+ 25 29  2  0  0  0  0
+ 26 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04861
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(CNCC(O)C1CCC2=C(O1)C=CC(F)=C2)C1CCC2=C(O1)C=CC(F)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H25F2NO4/c23-15-3-7-19-13(9-15)1-5-21(28-19)17(26)11-25-12-18(27)22-6-2-14-10-16(24)4-8-20(14)29-22/h3-4,7-10,17-18,21-22,25-27H,1-2,5-6,11-12H2
+
+> <INCHI_KEY>
+KOHIRBRYDXPAMZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H25F2NO4
+
+> <MOLECULAR_WEIGHT>
+405.435
+
+> <EXACT_MASS>
+405.175164703
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.987478216803634
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.98363446455407
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(6-fluoro-3,4-dihydro-2H-1-benzopyran-2-yl)-2-{[2-(6-fluoro-3,4-dihydro-2H-1-benzopyran-2-yl)-2-hydroxyethyl]amino}ethan-1-ol
+
+> <ALOGPS_LOGP>
+2.44
+
+> <JCHEM_LOGP>
+3.2084032136666663
+
+> <ALOGPS_LOGS>
+-4.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.124845260301207
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.520145467804792
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.896874562563115
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.95
+
+> <JCHEM_REFRACTIVITY>
+103.31720000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.03e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04861
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Nebivolol
+
+> <SYNONYMS>
+Narbivolol; Nebivolol; Nebivololum
+
+> <PRODUCTS>
+Apo-nebivolol; Bystolic; Byvalson; Nebivolol; Nebivolol Hydrochloride
+
+> <INTERNATIONAL_BRANDS>
+Lobivon; Nebicard; Nebilet; Nebilong; Nodon; Nubeta
+
+> <SALTS>
+Nebivolol hydrochloride
+
+$$$$

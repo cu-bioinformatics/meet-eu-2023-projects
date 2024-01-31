@@ -1,0 +1,158 @@
+NPG
+  Mrv0541 02231216512D          
+
+ 19 19  0  0  0  0            999 V2000
+   -3.3077    1.5317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0376    0.1286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7676    0.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9575    1.0640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4174    0.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3372    1.3758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6072    0.5963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0672   -0.0274    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4729    1.5317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8232    1.0640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0130    0.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7430    0.1286    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2831   -0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0932   -0.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0130   -1.2746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6333   -0.9628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5531   -1.8983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3632   -1.7424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3607    0.5700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 12  8  1  1  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  1  6  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03299
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](NC(=O)CCC(O)=O)(C(O)=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13NO5/c14-9(6-7-10(15)16)13-11(12(17)18)8-4-2-1-3-5-8/h1-5,11H,6-7H2,(H,13,14)(H,15,16)(H,17,18)/t11-/m1/s1
+
+> <INCHI_KEY>
+GQFHIYFXQQEWME-LLVKDONJSA-N
+
+> <FORMULA>
+C12H13NO5
+
+> <MOLECULAR_WEIGHT>
+251.2353
+
+> <EXACT_MASS>
+251.079372531
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9982316145682937
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.99020782420441
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-{[(R)-carboxy(phenyl)methyl]carbamoyl}propanoic acid
+
+> <ALOGPS_LOGP>
+0.41
+
+> <JCHEM_LOGP>
+0.43266319799999975
+
+> <ALOGPS_LOGS>
+-2.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.297354256708018
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4589923001384015
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.4005183318987844
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.7
+
+> <JCHEM_REFRACTIVITY>
+60.69840000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.19e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03299
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02381
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Succinyl Phenylglycine
+
+$$$$

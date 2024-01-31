@@ -1,0 +1,187 @@
+
+  Mrv1909 11181917432D          
+
+ 31 33  0  0  0  0            999 V2000
+   -0.5361   -0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5361    0.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1649    0.9075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9075    0.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9075   -0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1649   -0.7425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375    0.9075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9799    0.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6812    0.9075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4649    0.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9598    1.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4649    1.9799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6812    1.7325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8361   -0.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6611   -0.1235    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0736    0.5361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7848    1.2786    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8986    0.4949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6086   -0.7425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3512   -0.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0524   -0.7425    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7537   -0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4961   -0.7425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1975   -0.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8986   -0.7425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6086   -1.5675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0524   -1.5675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7537   -1.9799    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3512   -1.9799    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1975    0.4537    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3824   -0.7425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 19 26  2  0  0  0  0
+ 21 27  1  1  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 24 30  2  0  0  0  0
+ 14 31  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00642
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)C2=C(NC=C2CCC2=CC=C(C=C2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H21N5O6/c21-20-24-16-15(18(29)25-20)12(9-22-16)6-3-10-1-4-11(5-2-10)17(28)23-13(19(30)31)7-8-14(26)27/h1-2,4-5,9,13H,3,6-8H2,(H,23,28)(H,26,27)(H,30,31)(H4,21,22,24,25,29)/t13-/m0/s1
+
+> <INCHI_KEY>
+WBXPDJSOTKVWSJ-ZDUSSCGKSA-N
+
+> <FORMULA>
+C20H21N5O6
+
+> <MOLECULAR_WEIGHT>
+427.4106
+
+> <EXACT_MASS>
+427.149183429
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.24491768278534
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-{[4-(2-{2-amino-4-oxo-1H,4H,7H-pyrrolo[2,3-d]pyrimidin-5-yl}ethyl)phenyl]formamido}pentanedioic acid
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+1.203979897783046
+
+> <ALOGPS_LOGS>
+-3.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.145697811400078
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3880980228882485
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.430782132857763
+
+> <JCHEM_POLAR_SURFACE_AREA>
+186.96999999999997
+
+> <JCHEM_REFRACTIVITY>
+109.44959999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+4.55e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+demeclocycline hydrochloride
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00642
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00573; EXPT02075
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Pemetrexed
+
+> <SYNONYMS>
+Pemetrexed
+
+> <PRODUCTS>
+Act Pemetrexed; Alimta; Armisarte; Ciambra; Pemetrexed; Pemetrexed Accord; Pemetrexed Disodium for Injection; Pemetrexed Disodium for Injection USP; Pemetrexed Fresenius Kabi; Pemetrexed Hospira; Pemetrexed Krka; Pemetrexed Krka Page 1/1; Pemetrexed Lilly; Pemetrexed Medac; Pemetrexed Pfizer; Pemetrexed Sandoz; Pemetrexed disodium; Pemetrexed for Injection; Pemetrexed for Injection, USP; Pemfexy; Taro-pemetrexed
+
+> <SALTS>
+Pemetrexed disodium; Pemetrexed disodium hemipentahydrate; Pemetrexed disodium heptahydrate; Pemetrexed ditromethamine; Pemetrexed monohydrate
+
+$$$$

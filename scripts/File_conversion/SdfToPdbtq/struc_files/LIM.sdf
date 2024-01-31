@@ -1,0 +1,155 @@
+LIM
+  Mrv0541 02231217222D          
+
+ 18 17  0  0  0  0            999 V2000
+   -5.0142    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2996   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5851    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8706   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1561    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4415   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7270    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0125   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7021    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4166   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1311    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8456   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5602    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2747   -0.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9892    0.1764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7286   -0.2361    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5851    1.0015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0142    1.0015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  2  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04039
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCCCCCCCCC(=O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H28O3/c1-2-3-4-5-6-7-8-9-10-11-12-14(16)13-15(17)18/h2-13H2,1H3,(H,17,18)
+
+> <INCHI_KEY>
+CJTNJZWHYGHVCD-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H28O3
+
+> <MOLECULAR_WEIGHT>
+256.381
+
+> <EXACT_MASS>
+256.203844762
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9972400095219534
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.76339933439116
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-oxopentadecanoic acid
+
+> <ALOGPS_LOGP>
+5.06
+
+> <JCHEM_LOGP>
+5.1447307513333325
+
+> <ALOGPS_LOGS>
+-5.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.483687482072895
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.442108407321206
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.537532992598464
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+73.17579999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.11e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04039
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02034
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Oxo-Pentadecanoic Acid
+
+$$$$

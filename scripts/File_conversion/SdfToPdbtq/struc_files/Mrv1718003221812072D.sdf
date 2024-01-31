@@ -1,0 +1,156 @@
+
+  Mrv1718003221812072D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.3152   -0.7953    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0333   -1.2087    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7807   -0.8538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4071   -0.3820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3152   -1.6220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3069    0.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5114   -1.2546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7974   -0.0270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1210   -0.7953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4071    0.4447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8350    0.4447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5490    0.8580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1210    0.8580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8350   -0.3820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5239    0.3612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0959    0.3988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1168    1.2213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5490    1.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8475    1.6220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  1  2  0  0  0  0
+  6  1  2  0  0  0  0
+  7  3  2  0  0  0  0
+  8  3  1  0  0  0  0
+  9  4  2  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 10  2  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15  8  2  0  0  0  0
+ 16  8  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 18 15  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09355
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=CC=C(C=C1)S(=O)(=O)NC(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N2O3S/c14-11-6-8-12(9-7-11)19(17,18)15-13(16)10-4-2-1-3-5-10/h1-9H,14H2,(H,15,16)
+
+> <INCHI_KEY>
+PBCZLFBEBARBBI-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H12N2O3S
+
+> <MOLECULAR_WEIGHT>
+276.311
+
+> <EXACT_MASS>
+276.05686295
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.322737815986244
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-aminobenzenesulfonyl)benzamide
+
+> <ALOGPS_LOGP>
+1.69
+
+> <JCHEM_LOGP>
+1.5931333756666664
+
+> <ALOGPS_LOGS>
+-3.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.315042788528084
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0922806550160216
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.26
+
+> <JCHEM_REFRACTIVITY>
+73.15270000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.34e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfabenzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09355
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulfabenzamide
+
+> <SYNONYMS>
+N-Benzoylsulfanilamide; N-Sulfanilylbenzamide; Sulfabenzamida; Sulfabenzamide; Sulfabenzamidum; Sulfabenzoylamide; Sulfamylbenzamide
+
+> <PRODUCTS>
+Gyne-Sulf; Triple Sulfa
+
+> <SALTS>
+Sulfabenzamide sodium
+
+$$$$

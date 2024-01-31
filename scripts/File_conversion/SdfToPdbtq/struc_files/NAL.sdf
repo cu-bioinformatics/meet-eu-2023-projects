@@ -1,0 +1,152 @@
+NAL
+  Mrv0541 02231215422D          
+
+ 17 18  0  0  0  0            999 V2000
+    0.3091    0.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4054    0.1942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4054   -0.6308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3091   -1.0433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0236   -0.6308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7381   -1.0433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4525   -0.6308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4525    0.1942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7381    0.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0236    0.1942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1198    0.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8343    0.1942    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5488    0.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8343   -0.6308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2632    0.1942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5488    1.4317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3286   -0.0978    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  1  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  1  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01766
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC1=CC=C2C=CC=CC2=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13NO2/c14-12(13(15)16)8-9-5-6-10-3-1-2-4-11(10)7-9/h1-7,12H,8,14H2,(H,15,16)/t12-/m0/s1
+
+> <INCHI_KEY>
+JPZXHKDZASGCLU-LBPRGKRZSA-N
+
+> <FORMULA>
+C13H13NO2
+
+> <MOLECULAR_WEIGHT>
+215.2478
+
+> <EXACT_MASS>
+215.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0036141732466515863
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.166558126956534
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(naphthalen-2-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-0.41
+
+> <JCHEM_LOGP>
+-0.19468407099188295
+
+> <ALOGPS_LOGS>
+-3.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.607654210149835
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.435565395009125
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+61.566500000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01766
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02291
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Beta-(2-Naphthyl)-Alanine
+
+$$$$

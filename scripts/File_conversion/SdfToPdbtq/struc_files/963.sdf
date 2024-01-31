@@ -1,0 +1,173 @@
+963
+  Mrv0541 02231215082D          
+
+ 20 21  0  0  0  0            999 V2000
+    1.6500   -1.3654    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.1096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7949    0.2846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804   -0.9529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.1096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0804   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 17  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00963
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=C(CC(O)=O)C=CC=C1C(=O)C1=CC=C(Br)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12BrNO3/c16-11-6-4-9(5-7-11)15(20)12-3-1-2-10(14(12)17)8-13(18)19/h1-7H,8,17H2,(H,18,19)
+
+> <INCHI_KEY>
+ZBPLOVFIXSTCRZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H12BrNO3
+
+> <MOLECULAR_WEIGHT>
+334.165
+
+> <EXACT_MASS>
+333.000055902
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.99937145484358
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.931018046475444
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[2-amino-3-(4-bromobenzoyl)phenyl]acetic acid
+
+> <ALOGPS_LOGP>
+3.00
+
+> <JCHEM_LOGP>
+3.660173814
+
+> <ALOGPS_LOGS>
+-4.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.40587910205938
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.807133968444597
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.5886730056386378
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+80.2643
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.26e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00963
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00831
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Bromfenac
+
+> <SYNONYMS>
+[2-Amino-3-(4-bromo-benzoyl)-phenyl]-acetic acid; 2-amino-3-(4-bromobenzoyl)benzeneacetic acid; Bromfenac; Bromfenaco; Bromfenacum
+
+> <PRODUCTS>
+Bromday; Bromfenac; Bromfenac Ophthalmic Solution 0.09%; Bromfenac Ophthalmic Solution, 0.09%; Bromsite 0.075%; Pred Phos - Brom; Pred Phos-Gati-Brom; Pred-Brom; Pred-Gati-Brom; Prolensa; Xibrom; Yellox
+
+> <INTERNATIONAL_BRANDS>
+Duract
+
+> <SALTS>
+Bromfenac sodium
+
+$$$$

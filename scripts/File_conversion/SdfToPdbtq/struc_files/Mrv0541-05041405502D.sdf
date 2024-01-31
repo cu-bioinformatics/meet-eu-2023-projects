@@ -1,0 +1,174 @@
+
+  Mrv0541 05041405502D          
+
+ 26 28  0  0  1  0            999 V2000
+    4.7079   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1801    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7676   -0.3020    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0574   -0.3020    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4699    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0051    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0051    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5428    0.8448    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8121    0.9428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5926   -0.3020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3551   -1.0164    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8824   -0.3020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  2  0  0  0  0
+  6  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  6  4  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  4  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  5  1  1  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 15  7  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16  8  1  0  0  0  0
+ 16 14  1  0  0  0  0
+ 17  5  1  0  0  0  0
+ 10 18  1  6  0  0  0
+ 11 19  1  1  0  0  0
+ 12 20  1  6  0  0  0
+ 21  9  1  0  0  0  0
+ 21 13  1  0  0  0  0
+  9 22  1  6  0  0  0
+ 10 23  1  1  0  0  0
+ 11 24  1  6  0  0  0
+ 12 25  1  1  0  0  0
+ 13 26  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03133
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CO)O[C@@]([H])(C2=NC3=C(N2)C=C(C)C=C3)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H18N2O5/c1-6-2-3-7-8(4-6)16-14(15-7)13-12(20)11(19)10(18)9(5-17)21-13/h2-4,9-13,17-20H,5H2,1H3,(H,15,16)/t9-,10-,11+,12-,13-/m1/s1
+
+> <INCHI_KEY>
+XIJZORUYQZBFJK-UJPOAAIJSA-N
+
+> <FORMULA>
+C14H18N2O5
+
+> <MOLECULAR_WEIGHT>
+294.3031
+
+> <EXACT_MASS>
+294.121571696
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.006948541331952561
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.762831766172212
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5R,6S)-2-(hydroxymethyl)-6-(6-methyl-1H-1,3-benzodiazol-2-yl)oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-0.38
+
+> <JCHEM_LOGP>
+-0.7590398469999998
+
+> <ALOGPS_LOGS>
+-1.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.617268916648316
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.234406755684658
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.848782467436255
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+72.5301
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.04e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03133
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01871
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(Beta-D-Glucopyranosyl)-5-Methyl-1,2,3-Benzimidazole
+
+$$$$

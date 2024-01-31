@@ -1,0 +1,170 @@
+152
+  Mrv0541 02231214282D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.9050    0.8501    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3643    2.9387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -0.4194    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7465   -2.8945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4610   -1.6570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -2.8945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9849    0.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -1.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7300    0.8501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2149    1.5175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0319   -1.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7696   -0.1894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8794    2.2713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0319   -2.4820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465   -1.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4610   -2.4820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1754   -2.8945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4 15  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  CHG  1   3   1
+M  END
+> <DATABASE_ID>
+DB00152
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(CCO)SC=[N+]1CC1=CN=C(C)N=C1N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H17N4OS/c1-8-11(3-4-17)18-7-16(8)6-10-5-14-9(2)15-12(10)13/h5,7,17H,3-4,6H2,1-2H3,(H2,13,14,15)/q+1
+
+> <INCHI_KEY>
+JZRWCGZRTZMZEH-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H17N4OS
+
+> <MOLECULAR_WEIGHT>
+265.355
+
+> <EXACT_MASS>
+265.112306876
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.2557868543858735
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.144123736165753
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-5-(2-hydroxyethyl)-4-methyl-1,3-thiazol-3-ium
+
+> <ALOGPS_LOGP>
+-2.11
+
+> <JCHEM_LOGP>
+-3.0974126491384126
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.80502643991047
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.504706370235992
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.537548442171314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.91
+
+> <JCHEM_REFRACTIVITY>
+73.39970000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.53e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00152
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00009; APRD00552; EXPT03222
+
+> <DRUG_GROUPS>
+approved; investigational; nutraceutical; vet_approved
+
+> <GENERIC_NAME>
+Thiamine
+
+> <SYNONYMS>
+Aneurin; Antiberiberi factor; Thiamin; Thiamine; thiamine(1+); thiamine(1+) ion; thiaminium; Thiaminum; Tiamina; Vitamin B1
+
+> <PRODUCTS>
+24 Multivitamins + Minerals; 50 Plus; 50 Plus Multiple Vitamins & Minerals; Abavite; Acti-MN + B1 + C Caplet; Acti-thiamine Caplet 100mg; Active FE; Active OB; Adeks - Dps; Adeks Tablets; Adult Formula 50+; Adult Infuvite Multiple Vitamins; Advanced B & T Formula; Alertonic; Alkadrenergy Tablets; Allbee C 800 Tab; Allbee With C 550 Cap; Allbee With Vitamin C Cap; Alsimine W Vitamins A D; Am Caps; Amladex; Animal Shapes; Animal Shapes w/Iron Chewtabs; Antlerviron; Appedrine; Avon Vitadvance Multi-kids Complete; AzesChew; Azesco; B 50 Capsules; B 6 Plus; B C Antistress Cap; B Complex 25mg Vitamin Supplement; B Complex 50 Vitamin Cap; B Complex 50+ Caplet; B Complex 500 Tab; B Complex Plus C 300mg Tab; B Complex Tablets; B Complex W C Forte Cap; B Complex W C and B12 Inj; B Complex W Vit C W Non-med Yeast&liver Tab; B Complex W Vitamin C Fortis Cap; B Complex With C 300mg; B Complex With C 300mg Tab; B Complex With C 550mg; B Compound 50mg Tab; B Plus C 300 mg; B Plus C 300mg Timed Release; B Stress C + Iron & Vite; B Totum 500; B Virol; B Vitamin Compound With B12 Thunas; B With C 500 Cap; B-1 Caps 500mg; B-100 Caps; B-100 Complex Tablets; B-100 Hi Potency B Vitamins Tab; B-100 Vitamin Supplement; B-50 Complex; B-50 Complex Tab; B-50 Hi Potency B Vitamins Tab; B-Combo; B-complex; B-complex 100; B-complex 50; B-complex Tab; B-complex Tablets; B-complex With Vitamin C, Biotin, Folic Acid; B-complex-50 Tab; B-plex; B-plex 100; B-plus - Tab; B1 400mg Ctr Tab; B1 Tab 100mg; B50 B Complex Tab; B50 Complex; B6 Plus Tab; Bacmin; Bal-Care DHA; Bal-Care DHA Essential; Balanced B 125 Srt; Balanced B-100 B-complex Vitamins Tab; Balanced B-100 Timed Release; Balanced B-50 B-complex Vitamins Tab; Balanced B-50 B-complex Vitamins, Timed Rele; Balanced B-50 Complex; Balanced B-complex Vit + Vit C&e Tab; Balanced B100; Balanced B50 Complex; Beminal 500 Tab; Beminal Fortis Elx; Beminal W C Fortis Inj; Beminal With C Fortis Cap; Beminal With C Fortis Pws; Betaxin; Betaxin Liq 100mg/ml; Bev 29 Tab; Bev B-150; Bewon Elixir; Bewon Elixir 0.05mg/ml; Biovim Tab; Biovita; Body Rox; Bugs Bunny Chew Multi Vit Plus Iron; Bugs Bunny and Friends Multiple Vitamins; C-B Complex; C-Nate DHA; C-force; C. Vit-min Formula; C.R.T. X Multivitamin & Mineral Powder Mix; Cal M Tab; Carbassist Tablets; Card-floe II Tab; Cavan Alpha; Cavan Folate DHA; Cavan Folate OB; Cavan Heme OB; Cavan Prenatal; Cavan-EC SOD DHA; Cc II; Cda-21 Vitamins With Non-medicinal Probiotic Complex; Cedevita Plus Vitamin Supplement; Cedevita Sugar-free Vitamin Supplement; Central-vite 18 Essential; Centratex; Century Complete; Chela Iron Plus C,b Complex; Chela Potassium Plus; Chela-chromium 200; Chela-manganese 50 Plus; Chew.multiple Vits.with Extra C for Children; Chewable Adult Multivitamins With Minerals; Chewable Children's Complete Multivitamins With Essential Minerals; Chewable Multiple Vit Plus Iron for Children; Chewable Multiple Vitamins Plus Extra C; Chewable Multiple Vitamins Plus Iron Tab; Chewable Multiple Vitamins Tab; Chewable Multiple Vitamins for Children; Chewable Multivitamins; Chewable Multivitamins Plus Iron; Children Choice Multivit Chewable Tab; Children Choice Multivitamin W Iron Chew Tab; Children's Chew Multi & Min Tab; Children's Chewable Multi Vit W Iron; Children's Chewable Multi Vitamins; Children's Chewable Multi Vitamins With Iron Tablets; Children's Chewable Multi-vitamin; Children's Chewable Multi-vitamin Complete With Minerals; Children's Chewable Multiple Vit.plus Iron; Children's Chewable Multiple Vitamins (chewable Tablets); Children's Chewable Multiple Vitamins - Tab; Children's Chewable Multiple Vitamins With Extra Vitamin C (chewable Tablets); Children's Chewable Multiple Vitamins With Iron Tablets (chewable Tablets); Children's Chewable Multivitamin Complete With Minerals; Children's Chewable Multivitamin and Multimineral; Children's Chewable Multivitamins With Minerals; Children's Chewable Multivitamins and Minerals; Children's Chewable Tab; Children's Chewable Vit and Min Tab; Children's Chewable With Iron; Children's Multivitamins; Children's Multivitamins With Iron; Children's Vitamins Chewable; Children's Vitamins W Iron Chewable; Childrens Chew Multi Vitamin Tab; Childrens Chewab Vitamin W Chel Minerals; Childrens Chewable Multiple Vitamins; Childrens Chewable Multiple Vitamins Plus Fe; Childrens Chewable Multiple Vitamins Tab; Childrens Chewable Multiple Vitamins W.iron; Childrens Chewable Multivitamins; Childrens Chewable Multivitamins W Iron; Childrens Chewable Tab; Childrens Chewable Vitamin Tab; Childrens Chewable Vitamins; Childrens Chewable Vitamins W Iron; Childrens Multiple Vit and Min Chew Tab; Choice OB DHA; Chromease Tab; CitraNatal 90 DHA; CitraNatal Assure; CitraNatal DHA; CitraNatal Essence; CitraNatal Rx; Classic Swiss One 10 Multivitamin and Mineral Tab; Complete Mega B; Complete Multivitamins and Minerals Tablets Timed Release; Complete Multivitamins and Minerals for Children; Complete Natal DHA; Complete One A Day Tab; Complete One-A-day - Tab; Complete-RF Prenatal; CompleteNate Chewable; Complex 5 - Pwr; Complex-75; Complexe B 75mg; Complexe B Compose 75; Complexe B-75; Concept DHA; Concept OB; Corvita; Corvite; Corvite Free; Croq-vit Pour Enfants; Cyroplex; D'pantothenic Acid-B1-B2 Tab; DaVITE; Daily Balance Tab; Daily Energy Brand B-complex; Daily-Vite; Dalivit; Davimet; Dayavite; Deriton; Derma-force; Dermamed Nutrition for troubled skin; Dexatrim Tablets; Dexifol; Dexivite; Dia-vite; Dialyvite; Dialyvite 3000; Dialyvite 5000; Dialyvite Supreme D; Dialyvite with Zinc; Diaplex; Distilpure Msm; Doctor's Choice Brand for Men; Dothelle DHA; Dr. AVi MULTIVITAMIN with Zinc, Real Ginger, Lemon and Lemongrass; Duet DHA; Duet DHA 400; Duet DHA 400 ec; Duet DHA Balanced; DuetDHA Balanced; DuetDHA Complete; Dynam Ampoule Et Tablet; E.S.T. Complex; Earthpals Children's Chewables Multi-vitamin & Mineral Tablets; Edge OB; Efferlife Multivitamins and Minerals; Elite OB Prenatal Multivitamin; Ellis Tonic; Enrich Core Pack - Children Vitamin and Mineral Supplement; Envirocomplex; Enviroflex - Tab; Escavite; Escavite D; Escavite Lq; Essential B Tablets; Essential Vitamins and Minerals; Everyday Multiple Vitamins; Everyday Multiple Vitamins With Iron; Extra Once A Day; Extra P.N. Vitamin-mineral Drink Mix; Fem Time Tab; Feminique W Iron and Calcium Tab; Ferra Naka Plus Vitamins; Fibrik; Fizz Multivitamins for Kids W C Loz; Flinstones Multiple Plus Iron; Flintstones Multiple Vitamins; Flintstones Multiple Vitamins Plus Iron; Flintstones Multiple Vitamins Tab; Flintstones W Extra C Tab; Floradix Formula Liq; Floravit - Syr; Floriva; Floriva Plus; Focalgin 90 DHA; Focalgin CA; FolaGent DHA; FolaMed DHA; Folet DHA; Folic-K; Folica BE; Folica-V; Foliflex; Folika-NC; Folika-T; Folika-V; Folitin-Z; Folivane-OB; Folivane-Plus with Ascorbic Acid Precursors; Foltabs Prenatal; Foltabs Prenatal Plus DHA; For Kids Only Chewable Multivit. Plus Iron; For Kids Only Chewable Multivitamins; For Kids Only Chewable Multivitamins - Tab; For-2; Formula B; Formula D.S.; Formula F L W; Formula Fm Vitamins & Minerals Tab; Formula Gly; Formula Gm; Formula Hh; Formula Lf; Formula O.C.; Formula Pro-B; Fortamines 10 Capsules; Fortamines-10 Comprimes; Fortaplex Inj; Fortistress Tab; Forty Plus Vitamin Supplement; Fusion Plus; G.A.S. Complex; Garfield Chewable Multivitamins Tab; Garfield Chewable Multivits Plus Iron Tab; Gemvites Jr Tab Chewable; Genicin Vita-Q; Genicin Vita-S; Geritol Liquid; Gestamine Comprimes; Gesticare DHA; Glyco Lite Ect; Glyco Plus Ect; Glyco-aide Tab; Grand Master Formula Tab; Great Day/am Formula Tab; Gtf Support Caplet; Gtf-vitamin-minerals & Pancreatin Tab; Gynedyn Tab; H.W. Children's Chewable Multi Vit & Mineral; Harvest Of Values All B Complex Tab; Hemarexin Amp; Hemarexin Liquid and Drinkable Ampoules; Hemarexin Tab; HemeNatal OB; HemeNatal OB plus DHA; Hemocyte Plus; Hi Potency B Complex W Chelated Minerals; Hi Potency B52 B Complex Tab; Hi Potency Balanced B-100 Complex - Tab; Hi Potency Multi Tab; Hi Potency Stress B Tension With C; High Potency Multivitamins & Minerals Caplets; High Potency Vitamin B Complex + C Tab; Hill.vite; Hormodausse Plus Calc Et D Tab; Hylavite; Hylazinc; Hypo Vites Tab; Hyporyl - Tab; INATAL Ultra; Iberet 500; Inatal Advance; Infa Drops Multivitamins; Infant Multivitamin Drops; Infantol Drops; Infuvite Adult Multiple Vitamins; Innersource Tab; Insur-all Vitamin Supplement; Integra Plus; Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo; Iron Polysaccharides Folic Acid DHA; Iron, Vit & Min Supp; Irospan 24/6; Isotonix Multitech Vitamin Mineral Supplemen; Jenliva; Junior Multi Vitamins - Regular; K.L. Vitamin-mineral; Kanga Sport Vitamins B & C Plus Minerals; Kanga-B Vitamin B Group + C; Kanga-V Multivitamins & Minerals; Kanga-kid Multi-vitamin & Mineral; Kanga-kid Vitamins & Iron; Kaydia Patch; Kenwood Liquid Supplement; Kid's Choice Children's Chewable Vitamins - Tab; Kids Stuff Tablets; Kids Stuff With Iron Tablets; Kimchi Vitamin chewable multivitamin; Kindervites; L-Methyl PNV DHA; L.C. Supplement; L.G.I.T.; Leritone Junior; Lexazin; Lipo-B-C Tab; Lipotropic Ctr; Lipovite; Liqui B Complex; Liqui B Complex Plus; Liqui Infant Vitamins; Liqui Vita; Liquid B Complex 50; Livron Plus Ampoule; Livron Plus Tab; Lorid; Low Potency B Complex Tab; Luna Vitamin and Mineral Bar for Women; Lysamine Diet Supp Amp-tab; M-Natal Plus; M.V.I. 12; M.V.I. Adult; M.V.I. Paediatric; M.V.I. Pediatric; M.V.I.-12; MVC-Fluoride; MYNEPHROCAPS DIALYSIS/STRESS Vitamin Supplement; Magnum-75 Vitamin and Mineral Supplement; Maintain Multiple Vitamin & Minerals; Maltlevol 12 Liq; Maltlevol Liq; Mangadyn; Manganese 50mg Plus B1 & E Tab; Marnatal F; Master Key Multi Vitamin Multi Mineral Formula 2; Materna; Materna - Tab; Materna-tab; Maxi 10 Tab; Maxi 6 Liq; Maximum Once A Day; Maxine Vitamin and Mineral Supplement; Maxum Multi-vite; Mebolic; Medi Msm (methyl Sulfonyl Methane); Mega 13 Multivitamin Formula; Mega Balance; Mega Capsules; Mega Plex III - Pck; Mega Plex IV - Pck; Mega Vitaminerals; Mega-vim 75 With Beta-carotene - Tablets; Megavite Rx; Megavites Tab; Men's; Men's 50+; Men's Biomultiple Vitamin and Mineral Supplement; Men's Multi Master Formula; Meplex T 750; Methaver; Milltrium Senior Vitamin and Mineral Supplement; Mini-B Tab; Moms Choice Rx; Mor-vites Tab; Multi #2; Multi - N.T.O.x Formula - Tab; Multi 1000; Multi 12 Injection; Multi B; Multi Enfants Tab; Multi Flow Tablets; Multi II IV Vi Tab; Multi Nt-OX; Multi Plex I - Tab; Multi Plex II - Tab; Multi Pro; Multi Rol; Multi Spectrum - Tablet; Multi Tabs; Multi Vitamin & Minerals; Multi Vitamin - Mineral; Multi Vitamin Drops with Fluoride; Multi Vitamin Drops with Fluoride and Iron; Multi Vitamin Drops with Fluoride with Iron; Multi Vitamin Plus Iron; Multi Vitamin and Fluoride; Multi Vitamin and Mineral vitamin; Multi Vitamin with Fluoride; Multi Vitamin, Iron and Fluoride; Multi Vitamin-mineral Formula; Multi Vitamines - Liq; Multi Vitamins & Minerals; Multi Vite Liq Adult; Multi Vite Liq Junior; Multi-11; Multi-12 Pediatric; Multi-12/k1 Pediatric; Multi-Nate 30; Multi-Vit with Fluoride; Multi-Vit with Fluoride and Iron; Multi-Vitamin; Multi-Vitamin Drops with Fluoride and Iron; Multi-Vitamin Fluoride; Multi-Vitamin Fluoride Drops; Multi-Vitamin Fluoride and Iron Drops; Multi-Vitamin With Fluoride; Multi-Vitamin with Fluoride; Multi-actin; Multi-force for Adults Tab; Multi-force for Women Tab; Multi-kid; Multi-phyto Capsules; Multi-vitamin Dietary Supplement; Multi-vitamines Enfants Comprime; Multi-vitamins; Multi-vitamins With Minerals; MultiVitamin Drops with Fluoride and Iron; MultiVitamin with Fluoride; MultiVitamin with Fluoride Chewable; MultiVitamin with Fluoride Drops; MultiVitamin, Iron and Fluoride Drops; Multicaps; Multinate DHA; Multinate DHA Extra; Multipack II; Multiple Vit Plus Iron Tab; Multiple Vitamin Plus Minerals Tab; Multiple Vitamin Tab; Multiple Vitamins; Multiple Vitamins & Minerals Tablets; Multiple Vitamins - Tablet; Multiple Vitamins Childrens Chewable; Multiple Vitamins Plus Iron - Tab; Multiple Vitamins Plus Iron Tab; Multiple Vitamins Plus Iron for Women; Multiple Vitamins Tab; Multiple Vitamins W Iron Tab; Multiple Vitamins W Minerals Tab; Multiple Vitamins With Iron; Multiple Vitamins With Iron Tablets; Multiple Vitamins With Minerals Tablets; Multiple Vitamins and Minerals; Multiple Vitamins and Minerals Capsules; Multiple Vitamins and Minerals Tab; Multisol; Multitabs; Multitam; Multivit Et Fer Ampoules Et Comprimes; Multivit with Fluoride; Multivit-liq; Multivitamin; Multivitamin & Minerals (iron Free); Multivitamin & Multimineral; Multivitamin Drops with Fluoride; Multivitamin with Fluoride; Multivitamin with fluoride; Multivitamine; Multivitamines; Multivitamines Et Mineraux; Multivitamines Et Mineraux Junior Regulier; Multivitamines Et Mineraux Reguliers / Regular Multivitamins and Minerals; Multivitamines Plus Fer Pour Enfants (chewable Tablets); Multivitamines Pour Enfants (chewable Tablets); Multivitamins; Multivitamins W Iron; Multivitamins W Minerals Extra Strength; Multivitamins and Minerals - Complete; Multivitamins and Minerals Tablets; Multivitamins and Minerals With Betacarotene Tablets; Multivitamins and Minerals for Men; Multivitamins and Minerals for Women; Multivitamins and Minerals for Young Men; Multivitamins and Minerals for Young Women; Multivitamins and Multiminerals Formula Regular Tablet; Multivitamins for Children; Multra Plex; Multra With Iron; Mvc; Mvc 9 Plus 3 Inj; Mvc 9+4 Inj; Mycelized Childrens Multi-vitamin Liq; Myhephron Dialysis and Stress Supplement; N.E.U. Complex; NEONATAL Complete; NESTABS ABC Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; NESTABS DHA Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; NESTABS Prenatal Multi-vitamin/Mineral Supplement; Nata Komplete; NataChew; NataFort; Natal-V RX Multi-vitamin/Multi-mineral; Natalvirt 90dha; Natalvirt Ca; Natavite; Natural Source Spectrum With Beta Carotene; Neo Bex Elixir; Neo Vites Tab; Neo-bex; Neo-bex Injectable; Neo-vites & Minerals Tab; Neomultivite; Neonatal DHA; Neonatal Plus Vitamin; Neonatal Vitamin; Neonatal19; NephPlex Rx; Nephrocaps; Nephrocaps-QT; Nephron FA; NeuroBion; New Chapter's D'adamo 4 Your Type Multiple for Type O; Nitro Vites - Tab; Niva-Plus; NovaFerrum Multivitamin with Iron Pediatric Drops; NovaMV Multivitamin; Novel Vita; Nrg Plus Liq; Numark Multivitamins; Nutra Boost; Nutra-Z; Nutra-clear; Nutri-Tab OB; Nutri-Tab OB plus DHA; Nutrifer Plus Tablets; Nutrilite Double X; Nutrol-B-complex; O-Cal FA multivitamin; O-Cal Prenatal Vitamin; OB Complete 400; OB Complete DHA; OB Complete Petite; OB Complete Prenatal; Olympian Multi Vit Plus Minerals Tab; Omega-3 Rx Complete; Omniquin; Omnivex; Onccor; Oncovite; One A Day Advance Adults; One A Day Advance Adults 50+; One A Day Advance Fem; One A Day Multiple Vit W Minerals; One A Day Tab; One Daily VITES; One Daily Vitamin and Mineral Dietary Supplement; One Per Day Vitamin and Mineral Dietary Supplement; One Tablet Daily Mens Formula; One-A-day Advance Fem - Tablets; One-A-day Advance Men's; Only One - Tablet; Opti-manganese + B1 + C Caplet; Orange Flavored Crystal Chews Tab; Orifer F; Original Bioscal Forte Multi-vitamin Supplement Capsules; Orti B; Osteo-force; P.N. Vitamin-mineral Drink; P.N.P. Vitamin Drink; P.R.O. Complex; PM Caps; PNV Ferrous Fumarate Docusate Folic Acid; PNV Prenatal Plus Multivitamin; PNV Prenatal Vitamin; PNV Prenatal Vitamin Plus Vitamin A; PNV Tabs 29-1; PNV-First; PNV-Select; PR Natal 400; PR Natal 400 ec; PR Natal 430; PR Natal 430 ec; PROTECT IRON Liquid; Paire OB Plus DHA; Palm Springs Multvit and Min Tab; Paramettes Adults; Paramettes Chewable Multivitamins Plus Iron; Paramettes Chewable Multivits With Iron Tab; Paramettes Multivits Plus Iron Tab (teens); Paramettes Syrup; Pediatric Infuvite Multiple Vitamins; Pediatric Infuvite Multiple Vitamins for Infusion; Penta-thion Pwr; Permathene-12 - Caplet; Phosthenine Vitamines Et Fer (ampoules Buvable); Phytofortis + Calcium A-D; Phytoplex B Liq; Phytopure; Phytovim Cap; Ply Vi Sol Chewable Tab; Pnv Ob DHA; Pnv-OB-dha; Pnv-VP-U; Poly Vi Flor Chewable Tab; Poly-VI-sol Drops; Poly-Vi-Flor; Poly-Vi-Flor with Iron; Poly-Vi-Sol; Poly-Vitamin with Fluoride; Poly-Vite Pediatric Oral Solution; Poly-Vite/Iron Oral Solution; Polymine Avec Zinc Et Cuivre; Potassium Plus Vit B Complex; Pre-Tabs DHA Prenatal Multi-vitamin/Mineral Supplement with DHA/EPA; PreGen DHA; PreNatal 19; PreNatal Vitamins Plus; PrePLUS; PreQue 10; PreTAB; Prefera OB plus DHA; PreferaOB; PreferaOB plus DHA; Pregvit; Pregvit Folic 4; Pregvit Folic 5; Premium Prenatal; Premium Prenatal - Tablets; Prena1; Prena1 Plus; Prenara; Prenatabs FA; Prenatal; Prenatal Formula Tab; Prenatal Mega Antioxidant; Prenatal Plus; Prenatal Plus Iron; Prenatal Plus Multivitamin Plus DHA MiniCaps; Prenatal Plus Vitamins; Prenatal Supplement - Tab; Prenatal Vi-min; Prenatal Vitamin and Mineral Supplement; Prenatal Vitamin and Mineral Supplement -tab; Prenatal Vitamin and Mineral Supplement Tab; Prenatal Vitamins Plus; Prenatal Vitamins Plus Low Iron; Prenatal Vitamins and Minerals Tablets; Prenatal and Post Partum Supplement; Prenatal, DHA; Prenate Elite; Prenate Star; Prenatrix; Prenatryl; Prenatvite; Prenatvite Complete; Prenatvite Plus; Preplus; Pretrate; Prevital Tab; Prim - Royal P.M.T.; Pro Hers Vanilla; Pro His Mint; Prometa; Protect Plus SO 60; Provida DHA; Provida OB; Puralor; PureFe OB Plus; PureFe Plus; PureVit DualFe Plus; Q.T. #4 Vitamin and Mineral Dietary Supplement; Q.T. Vitamin and Mineral Drink Mix; Quflora FE; Quflora FE Pediatric Drops; Quflora Pediatric; Quflora Pediatric Drops; RE FAC-x; RE Nata; RE Nata OB; RE Prenatal Multivitamin with Iron; RayaVit; Re Ob 90 DHA; Reaphirm Plant Source DHA; Relnate DHA; RenaPlex; RenaPlex-D; Renal Caps Dialysis/Stress Vitamin Supplement; Renate; Renate DHA; Reno Caps; Replavite; Revit Multi-vitamins and Minerals; Revit Plus Cap; Revit Tab; Revitalize Multi-vitamin and Mineral Complex; Revitex Ampoules Et Comprimes; Revival 1 Tab; Ribotin-E; Right Choice A.M. Multi Formula - Caplet; Rocky Mountain Multiple Vit and Min Mega Tab; Se-Care Conceive; Se-Natal; Se-Natal 19; Se-Natal 19 Chewable; Se-Natal One; Se-Plete DHA; Se-Tan PLUS; Select OB; Select-OB Plus DHA Prenatal Supplement Plus DHA; Senior Multi One; SetonET; SetonET-EC; Sibergin B - Cap; Somarexin and C 1000; Somavit Brand Vitamins and Minerals Complex; Sopalamine 3b Plus; Sopalamine/3b Plus C; Sopalamine/3b Tab; Spark Cap; Spectrum 2 Cap; Spectrum Performa Multivitamins and Minerals Tablets; Stress B & C Caplet; Stress B Capsules With Vitamin C; Stress B Complex With C and E Tab; Stress B Complex With C, E & Iron; Stress B Complex With C, E and Iron Tab; Stress B Complex With C,e, Zinc and Copper; Stress B With 1000 Mg Vitamin C; Stress B&c Tab; Stress B-complex Plus Iron With Vitamins C&e; Stress Complex 600 Avec Vit E Cuivre Zinc; Stress Ctr Srt; Stress Formula; Stress Formula + Iron; Stress Formula B-comp + 500mg Vit C Tab; Stress Formula Multi-B Comp + 500mg Vit C Cap; Stress Formula Multivitamin Tablets USP; Stress Formula Tab; Stress Formula Vit B With C Complex; Stress Forte Plus Lipotropic Factors; Stress Tab; Stress Tab With Iron and Vitamin E; Stress Tab With Zinc, Copper and Vitamin E; Stress Tablets; Stress Vitamin B With C Complex Tablets; Stressmates; Stresstabs + Zinc-copper; Strovite Forte Caplet; Strovite One Caplets; Sun-rype Vitaburst; Super B Compound W 500mg Vit C; Super Charged Energy; Super Daily No 2; Super Kids Chewable Multivitamin Multimineral (chewable Tablets); Super Multi; Super Pantoplex; Super Stress Capsules; Super Stress Mega B Plus 1000mg Vit C Tab; Super Vita Vim Multivitamins and Minerals; Super Vita-vim With Beta-carotene - Tab; Super Vitalex Ampoule Buvable; Super-pote Vitamin Supplement; Supplement De Multivitamines Infusion Arome Fruits Rouges; Supravite 10ml Ampoule; Supravite Bouteille 250ml; Supravite C 1000; Supravite Pour Enfants; Supravite Stress Avec Vit E; Supravite Stress Avec Vit E Cuivre Et Zinc; Supravite Stress Avec Vit E Et Fer; Surbex 500 Filmtab; Surbex-500 With Iron; Surbex-500 With Zinc; Swical-energy 3e Age; Swical-energy-2; Swiss One; Swiss One Multi Vit & Chel Min Tab; Swiss One Multivitamin and Mineral Caplet; Swiss One Timed Release Tab; Swiss Total One; Synergistic Manganese Cap; Synergistic Manganese Capsules; T.R.I. B-plex Src; THIAMINE HCl; TL-Care DHA; TL-Fluorivite; TL-Folate; TRONVite; Tandem OB; Tandem Plus; Taron-C DHA; Tender Age Multi Vitamins; Tendera-OB; Thiamiject Injection - Liq Im IV 100mg/ml; Thiamine; Thiamine HCL 100 mg; Thiamine HCl 100mg W C 20mg; Thiamine HCl Inj 100mg/ml; Thiamine HCl Injection - Liq 100mg/ml; Thiamine HCl Tab 100mg; Thiamine HCl Tab 25mg; Thiamine HCl Tab 50mg; Thiamine Hydrochloride; Thiamine Hydrochloride Inj 100mg/ml; Thiamine Hydrochloride Inj 100mg/ml USP; Thiamine Hydrochloride Injection USP, 100mg/ml; Thiamine Hydrochloride Injection, USP; Thrivite 19; Thrivite Rx; Time Release B 100 Compound - Tablet; Timed Release B Complex 100 Srt; Timed Release B-complex 100; Timed Release B-complex 50; Timed Release Vita-vim Srt; Tini-cal Ampoules; Toni Com Liq; Tonicol Et A-D-C Ampoules/comprimes; Tonimol Cap Liq; Total Living Concepts Formula One - Tab; Totalvit Plus; TriAdvance; TriStart DHA; Tricare Prenatal; Tricare Prenatal 2-part Daily Prenatal Vitamin System; Tricare Prenatal Compleat; Tricare Prenatal DHA One; Tricare Prenatal DHA One Rx Multivitamin; Tricare Prenatal DHA One With Folate; Tricare Prenatal Quick Dissolve; Trinatal GT; Trinatal Rx 1; Trinatal Ultra; Trinaz; TriphroCaps; Triveen-Duo DHA; Twin G.F. Powder; Twin G.F. Powder Vanilla Flavor; Twin Opti Pwr; Twin Ultra Liquid Fruit Punch Flavor; Twin Ultra Liquid Grape Flavor; Twin Ultra Liquid Lemon-lime Flavor; Twin Ultra Liquid Orange Flavor; Ultimate OB DHA; Ultimate Tab; Ultra Enerforce; Ultra Hr; Usana Megavitamin Tablets - Tab; V & M Vitamin and Mineral Supplement; V-Natal; VIL-Rx; VP-Vite Rx; Vasculine; Vasodyn Tab; Vasula Tab; Vc II; Vege 1 Daily Tab; Vege Swiss One Multivitamin W Chel Mins Tab; Vena-Bal DHA; Venexa; Venexa FE; Ventrixyl; Ventrixyl Fe; Viamon Ampoules Et Comprimes; Vigem 12 Liquid; Vigo Multivitamins Drops/lozenge; Vimeral Tab; Vinacal; Vinate AZ; Virt Nate; Virt Vite GT; Virt-Advance; Virt-Bal DHA Plus; Virt-C DHA; Virt-Caps; Virt-Nate; Virt-Nate DHA; Virt-PN; Virt-Pn; Virt-Tabs; Virt-Vite Plus; Vit B Complex Ctr; Vit B Complex Plus Vit C 550mg; Vit B1 Ctr Srt 100mg; Vit-HA Multi Vitamin and Zinc Supplement; Vita B + C 500 Tab; Vita B Complex Tab; Vita Balance 2000; Vita Day Tab; Vita Plex Tab; Vita Vim Multivitamins and Minerals Tab; Vita Vim With Beta Carotene-caplet; Vita-B; Vita-B-75 Cap; Vita-Pac; Vita-Rx Diabetic Vitamin; Vita-amine Cap 100mg; Vita-vim - Tab; Vita-vim With Beta-carotene - Tab; Vita-worth B-complex Tablets; VitaPhil Aide; VitaXyme; Vitabanks Vitamin Tab; Vitachrom Gc; Vitaday Junior Tab; Vitaday Tab; Vitafant; Vitafer - Liq; Vitaflex Dietary Suplement; Vitafol Caplet; Vitafol Fe Plus; Vitafol OB Caplet; Vitafol One; Vitafol Plus; Vitafol Ultra; Vitafol-OB Plus DHA Prenatal Supplement Plus DHA; Vital Be-100; Vital-D Rx; Vitalife - Capsule; Vitamin & Mineral Formula 1 Dietary Supplement; Vitamin B + C Cap; Vitamin B Complex; Vitamin B Complex + C 300mg Cap; Vitamin B Complex + C 600mg Tab; Vitamin B Complex 100; Vitamin B Complex 100 Tab; Vitamin B Complex 50; Vitamin B Complex Plus 300mg Vitamin C; Vitamin B Complex Plus C 300mg Timed Release; Vitamin B Complex Suppl; Vitamin B Complex Tab; Vitamin B Complex W C 300mg Tab; Vitamin B Complex W C Tab; Vitamin B Compound Tab; Vitamin B Compound W C Tab 500mg; Vitamin B Compound W Vit C 250mg Tab; Vitamin B Compound With Vitamin C Fortis Capsule Dtc; Vitamin B Cpd W Vit C Tab; Vitamin B Tablets; Vitamin B-1 100 Mg Tablets; Vitamin B-1 Thiamine HCl 100mg; Vitamin B-Complex; Vitamin B1; Vitamin B1 100 mg; Vitamin B1 100mg; Vitamin B1 100mg Tablet; Vitamin B1 Tab 100mg; Vitamin B1 Tab 100mg USP; Vitamin B1 Tab 2mg USP; Vitamin B1 Tablets 100mg; Vitamin and Mineral Supplement - Liq; Vitamine 110 Liq; Vitamine B1 100 Mg - Tablet; Vitamine B1 Tab 100mg USP; Vitamine Du Groupe B Plus Fer - Liq; Vitamines Et Mineraux; Vitamines Et Mineraux Comprimes; Vitamines Et Mineraux Enfants 970; Vitamines Pour Bebes Et Enfants; Vitaphil 90 DHA; Vitaphil DHA; Vitaplex; Vitasure; Vitazyme; Vitogen B Stress C Vit E Zinc & Cop; Vitogen B Stress C600; Vitramyn; Vitranol; Vitranol Fe; Vitrexate; Vitrexate FE; Vitrexyl; Vitrexyl plus Iron; Viva CT Prenatal; Viva Kids - Tab; Vol-Care Rx; Vol-Nate; Vol-Plus; Vol-Tab Rx; Vp-heme Ob; Vp-heme Ob DHA; Vp-pnv-dha; Vtb Vitamin and Mineral Supplement; Vyo Cylate - Pwr; Vyqua; Wellness Formula; WesCap-C-DHA; WesCaps; WesNate DHA; WesTab Plus; WestGel DHA; Women's Biomultiple Vitamin and Mineral Supplement; Women's Change Formula; Women's Formula; Xvite; Xyzbac; Xyzbac G; Z Bec Tab; Zalvit; Zatean-Pn; Zavitrol; Zeldana; Zintrexyl-C; Ziphex; Zoo Chews; Zoo Chews Plus Iron; Zyvit; ahoSAN; bioJET; healthy mamaBE WELL ROUNDED BE WELL ROUNDED; hormaSAN forte; tensioSAN; vitaMedMD One Rx; vitaMedMD Rx Plus
+
+> <INTERNATIONAL_BRANDS>
+Betalin S; Biamine
+
+> <SALTS>
+Thiamine chloride; Thiamine hydrochloride; Thiamine mononitrate
+
+$$$$

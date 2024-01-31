@@ -1,0 +1,164 @@
+H24
+  Mrv0541 02241213422D          
+
+ 24 26  0  0  0  0            999 V2000
+   40.5612   28.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.8467   27.7380    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   39.8467   26.9130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   40.5612   26.5005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   40.5612   25.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.8467   25.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.1322   25.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.1322   26.5005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.4178   25.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.4178   24.4380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.7033   24.0255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9888   24.4380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9888   25.2630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.2743   25.6755    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   36.8046   26.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.9922   24.9002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.1797   24.7570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8975   23.9817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6494   25.3889    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8369   25.2457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9316   26.1642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4013   26.7962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.7440   26.3074    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   37.7033   25.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 24  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 24  1  0  0  0  0
+ 14 13  1  6  0  0  0
+ 14 15  1  1  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07874
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(=CC=C1)C1=CC(=CC=C1)[C@]1(C)CC(=O)N(C)C(N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H21N3O2/c1-19(12-17(23)22(2)18(20)21-19)15-8-4-6-13(10-15)14-7-5-9-16(11-14)24-3/h4-11H,12H2,1-3H3,(H2,20,21)/t19-/m0/s1
+
+> <INCHI_KEY>
+LQOCXPOKEPYGTJ-IBGZPJMESA-N
+
+> <FORMULA>
+C19H21N3O2
+
+> <MOLECULAR_WEIGHT>
+323.3889
+
+> <EXACT_MASS>
+323.163376931
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.27672144912873564
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.0181438161824
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(6S)-2-amino-6-{3'-methoxy-[1,1'-biphenyl]-3-yl}-3,6-dimethyl-3,4,5,6-tetrahydropyrimidin-4-one
+
+> <ALOGPS_LOGP>
+3.03
+
+> <JCHEM_LOGP>
+2.634667466333333
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.22614248787622
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.5827373756492555
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.92
+
+> <JCHEM_REFRACTIVITY>
+93.3418
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.67e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07874
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(6S)-2-amino-6-(3'-methoxybiphenyl-3-yl)-3,6-dimethyl-5,6-dihydropyrimidin-4(3H)-one
+
+$$$$

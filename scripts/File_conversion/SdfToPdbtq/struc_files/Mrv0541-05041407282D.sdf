@@ -1,0 +1,182 @@
+
+  Mrv0541 05041407282D          
+
+ 30 32  0  0  1  0            999 V2000
+   -0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3234    2.2295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5165    2.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5564    1.4288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8663    2.0962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.7359    1.5150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1213    2.8809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4538    3.3658    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7864    2.8809    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0413    2.0962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1839    0.9019    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  2  0  0  0  0
+  7  6  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 13  4  2  0  0  0  0
+ 13  5  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14  7  1  0  0  0  0
+ 14 11  1  0  0  0  0
+ 15  8  2  0  0  0  0
+ 15 10  1  0  0  0  0
+ 16  9  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 14 18  1  1  0  0  0
+ 19 17  1  0  0  0  0
+ 20 12  2  0  0  0  0
+ 21 17  2  0  0  0  0
+ 21 18  1  4  0  0  0
+ 22 20  1  0  0  0  0
+ 23 22  2  0  0  0  0
+ 24 10  1  0  0  0  0
+ 24 12  1  0  0  0  0
+ 24 23  1  0  0  0  0
+ 25 18  2  0  0  0  0
+ 26 19  2  0  0  0  0
+ 27 19  1  0  0  0  0
+ 28 11  1  0  0  0  0
+ 29 15  1  0  0  0  0
+ 29 16  1  0  0  0  0
+ 14 30  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02706
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CS)(CCC1=CC=CC=C1)C(=O)N=C(C(O)=O)C1=CC=C(CN2C=NN=N2)S1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H19N5O3S2/c25-18(14(11-28)7-6-13-4-2-1-3-5-13)21-17(19(26)27)16-9-8-15(29-16)10-24-12-20-22-23-24/h1-5,8-9,12,14,28H,6-7,10-11H2,(H,26,27)/t14-/m1/s1
+
+> <INCHI_KEY>
+DUKDFMPUZRDWLT-CQSZACIVSA-N
+
+> <FORMULA>
+C19H19N5O3S2
+
+> <MOLECULAR_WEIGHT>
+429.516
+
+> <EXACT_MASS>
+429.092930879
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.000804319349257
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.086677622913506
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[(2S)-4-phenyl-2-(sulfanylmethyl)butanoyl]imino}-2-{5-[(1H-1,2,3,4-tetrazol-1-yl)methyl]thiophen-2-yl}acetic acid
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+3.4259754430000005
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.08801982062196
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.0630412789934325
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2632852729960033
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.33
+
+> <JCHEM_REFRACTIVITY>
+124.74359999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.20e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02706
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02134
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Mercaptocarboxylate Inhibitor
+
+$$$$

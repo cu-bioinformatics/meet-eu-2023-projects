@@ -1,0 +1,137 @@
+
+  Mrv1652310201623172D          
+
+ 14 14  0  0  0  0            999 V2000
+   -0.1709    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9959    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.1709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -1.4084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -1.4084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.2334    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0186    1.6993    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.8433    1.6777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3751    2.4243    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.8436    1.6993    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.6683    1.6777    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6932    2.5105    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  CHG  4   9   1  11  -1  12   1  14  -1
+M  END
+> <DATABASE_ID>
+DB12060
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[O-][N+](=O)C1(CN(C1)C(=O)CBr)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6BrN3O5/c6-1-4(10)7-2-5(3-7,8(11)12)9(13)14/h1-3H2
+
+> <INCHI_KEY>
+JODKFOVZURLVTG-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H6BrN3O5
+
+> <MOLECULAR_WEIGHT>
+268.023
+
+> <EXACT_MASS>
+266.949083
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+20
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.328707271059745
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-bromo-1-(3,3-dinitroazetidin-1-yl)ethan-1-one
+
+> <ALOGPS_LOGP>
+0.92
+
+> <JCHEM_LOGP>
+0.24318237233333323
+
+> <ALOGPS_LOGS>
+-2.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.043844020894548
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.59
+
+> <JCHEM_REFRACTIVITY>
+44.10100000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.73e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-bromo-1-(3,3-dinitroazetidin-1-yl)ethanone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12060
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+RRx-001
+
+> <SYNONYMS>
+N-(Bromoacetyl)-3,3-Dinitroazetidine
+
+$$$$

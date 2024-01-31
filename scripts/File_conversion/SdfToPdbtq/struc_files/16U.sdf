@@ -1,0 +1,163 @@
+16U
+  Mrv0541 02241213022D          
+
+ 24 25  0  0  0  0            999 V2000
+   -2.0375    0.6182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7520    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4665    0.6182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7520    1.8557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2936   -4.1888    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3230    1.0307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6086    0.6182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6086   -0.2068    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1059    1.0307    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1921    1.8512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9991    2.0227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4116    1.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8596    0.6952    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0311   -0.1118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4180   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5895   -1.4708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0236   -2.0228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1480   -2.8298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4651   -3.3818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2497   -3.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4213   -2.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8082   -1.7679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8157   -0.3667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4058    0.3277    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 24  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 14 23  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06868
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CCCN1C(=O)CCC(C)C)C(=O)NCC1=CC(Cl)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H25ClN2O2/c1-13(2)8-9-17(22)21-10-4-7-16(21)18(23)20-12-14-5-3-6-15(19)11-14/h3,5-6,11,13,16H,4,7-10,12H2,1-2H3,(H,20,23)/t16-/m0/s1
+
+> <INCHI_KEY>
+PQUULPKGCNPPBX-INIZCTEOSA-N
+
+> <FORMULA>
+C18H25ClN2O2
+
+> <MOLECULAR_WEIGHT>
+336.856
+
+> <EXACT_MASS>
+336.160455761
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.826170122086474e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.46528387540814
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-N-[(3-chlorophenyl)methyl]-1-(4-methylpentanoyl)pyrrolidine-2-carboxamide
+
+> <ALOGPS_LOGP>
+2.90
+
+> <JCHEM_LOGP>
+3.1347443850000007
+
+> <ALOGPS_LOGS>
+-4.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.27077973282693
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8139185026132789
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.410000000000004
+
+> <JCHEM_REFRACTIVITY>
+92.144
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.08e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06868
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(3-chlorobenzyl)-1-(4-methylpentanoyl)-L-prolinamide
+
+$$$$

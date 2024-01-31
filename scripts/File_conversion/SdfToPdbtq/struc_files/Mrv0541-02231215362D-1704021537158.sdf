@@ -1,0 +1,160 @@
+
+  Mrv0541 02231215362D          
+
+ 18 19  0  0  1  0            999 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1830   -3.1745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7376   -1.4675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7378   -3.6695    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667   -5.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4559   -4.0144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  5 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01629
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=C(F)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11FN2O6/c10-3-1-12(9(17)11-7(3)16)8-6(15)5(14)4(2-13)18-8/h1,4-6,8,13-15H,2H2,(H,11,16,17)/t4-,5-,6-,8-/m1/s1
+
+> <INCHI_KEY>
+FHIDNBAQOFJWCA-UAKXSSHOSA-N
+
+> <FORMULA>
+C9H11FN2O6
+
+> <MOLECULAR_WEIGHT>
+262.1918
+
+> <EXACT_MASS>
+262.060114299
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.07774302418388868
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.921241391694256
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.35
+
+> <JCHEM_LOGP>
+-2.2157992316666664
+
+> <ALOGPS_LOGS>
+-0.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.619455183186338
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.074206157117867
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.980299648796752
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+52.768499999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.07e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01629
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00263
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-fluorouridine
+
+> <SYNONYMS>
+5-Fluoro-uridine; 5-Fluorouracil 1beta-D-ribofuranoside; 5-Fur
+
+$$$$

@@ -1,0 +1,159 @@
+
+  Mrv0541 05041403512D          
+
+ 19 20  0  0  1  0            999 V2000
+    3.2987   -2.7597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4744    1.1646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0687   -1.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0130   -0.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3281    1.1646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6580    0.3603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4013   -0.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8138    1.8096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4013    0.0023    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1717    2.5529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9888    1.8096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7338   -1.3076    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9888   -2.0922    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8138   -2.0922    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1359   -0.9699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7070    3.2345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9944    2.6145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1446    0.3603    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7027   -0.4366    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  2  2  0  0  0  0
+  6  4  1  0  0  0  0
+  7  3  2  0  0  0  0
+  8  5  2  0  0  0  0
+  9  6  1  0  0  0  0
+  9  7  1  6  0  0  0
+ 10  8  1  0  0  0  0
+ 11  2  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14  1  1  0  0  0  0
+ 14  3  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15  4  2  0  0  0  0
+ 16 10  2  0  0  0  0
+ 17 10  1  0  0  0  0
+ 18  5  1  0  0  0  0
+ 18  9  1  0  0  0  0
+  9 19  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02816
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(SC=C(NC=C1C=O)C(O)=O)C1=CN(C)N=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10N4O3S/c1-14-3-7(12-13-14)9-6(4-15)2-11-8(5-18-9)10(16)17/h2-5,9,11H,1H3,(H,16,17)/t9-/m0/s1
+
+> <INCHI_KEY>
+BCPHJDLBOJMWOD-VIFPVBQESA-N
+
+> <FORMULA>
+C10H10N4O3S
+
+> <MOLECULAR_WEIGHT>
+266.276
+
+> <EXACT_MASS>
+266.047360896
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.013722679189981
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.724553089220514
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(7S)-6-formyl-7-(1-methyl-1H-1,2,3-triazol-4-yl)-4,7-dihydro-1,4-thiazepine-3-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.10
+
+> <JCHEM_LOGP>
+-0.797800233333333
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.856355542206975
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.140965373893893
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.03359694279359287
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.11
+
+> <JCHEM_REFRACTIVITY>
+77.73659999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.99e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02816
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01416
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7-(1-Methyl-1,2,3-Triazol-4-Yl)-6-Formyl-2,7-Dihydro-[1,4]Thiazepine-3-Carboxylic Acid, Brl42715, C6-(N1-Methyl-1,2,3-Triazolylmethylene)Penem
+
+$$$$

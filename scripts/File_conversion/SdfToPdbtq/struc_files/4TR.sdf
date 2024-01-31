@@ -1,0 +1,170 @@
+4TR
+  Mrv0541 02231217472D          
+
+ 27 29  0  0  0  0            999 V2000
+    0.6589   -3.3244    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4436   -3.5794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9139   -2.5398    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1257   -3.0695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4040   -4.1090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2972   -2.2625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0818   -2.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2534   -1.2006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6403   -0.6486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1444   -0.9035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3159   -1.7105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8118    0.1584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8848    3.9383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0563    4.7453    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7133    3.1314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0714    2.8764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2429    2.0695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3702    1.5174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1548    1.7724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3264    2.5793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1987    0.7104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9208    0.4555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6659   -0.3291    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8409   -0.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5859    0.4555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2534    0.9404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1005   -1.9654    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 27  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  3  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 26  2  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04600
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)OC1=CC=C(CN(N2C=NN=C2)C2=CC=C(C=C2)C#N)C=C1Br
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H13BrN6O3S/c17-15-7-13(3-6-16(15)26-27(19,24)25)9-23(22-10-20-21-11-22)14-4-1-12(8-18)2-5-14/h1-7,10-11H,9H2,(H2,19,24,25)
+
+> <INCHI_KEY>
+GHDKYBCUDPSXGJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H13BrN6O3S
+
+> <MOLECULAR_WEIGHT>
+449.282
+
+> <EXACT_MASS>
+447.995321649
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0005704109199442242
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.52046005526234
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-bromo-4-{[(4-cyanophenyl)(4H-1,2,4-triazol-4-yl)amino]methyl}phenyl sulfamate
+
+> <ALOGPS_LOGP>
+2.21
+
+> <JCHEM_LOGP>
+1.3698873663333329
+
+> <ALOGPS_LOGS>
+-3.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.20481857996781
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.7489894746951666
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.13
+
+> <JCHEM_REFRACTIVITY>
+115.59070000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04600
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[(3-BROMO-4-O-SULFAMOYLBENZYL)(4-CYANOPHENYL)AMINO]-4H-[1,2,4]-TRIAZOLE
+
+$$$$

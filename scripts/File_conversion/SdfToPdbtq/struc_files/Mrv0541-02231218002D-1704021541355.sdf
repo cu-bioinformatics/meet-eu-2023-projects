@@ -1,0 +1,174 @@
+
+  Mrv0541 02231218002D          
+
+ 27 30  0  0  1  0            999 V2000
+    3.7637    1.8273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2785    0.3490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5060   -0.3702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7408   -1.0897    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7495   -2.5500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4748    1.0898    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9102    0.3490    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9045    1.8339    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7694    0.3622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1819    1.0766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0068    1.0766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1819   -0.3523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0068   -0.3523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4193    0.3622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499    1.0866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7138    1.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4947    2.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4479   -1.0897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4249    1.8273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2842    1.8339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2727   -1.0801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4299    1.4995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4267    0.6746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0240   -1.8372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1647   -1.8372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6935   -1.7897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5184   -1.7802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 16  1  0  0  0  0
+  7  3  1  1  0  0  0
+  4 12  1  0  0  0  0
+  4 25  1  0  0  0  0
+  5 25  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  6  0  0  0
+  7  9  1  0  0  0  0
+  8 17  1  1  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 18 24  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04886
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCC1=CC(=O)OC2=C1C1=C(C=CC(C)(C)O1)C1=C2[C@@H](O)[C@H](C)[C@@H](C)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H26O5/c1-6-7-13-10-15(23)26-21-16(13)20-14(8-9-22(4,5)27-20)19-17(21)18(24)11(2)12(3)25-19/h8-12,18,24H,6-7H2,1-5H3/t11-,12-,18+/m1/s1
+
+> <INCHI_KEY>
+NIDRYBLTWYFCFV-FMTVUPSXSA-N
+
+> <FORMULA>
+C22H26O5
+
+> <MOLECULAR_WEIGHT>
+370.4388
+
+> <EXACT_MASS>
+370.178023942
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.3679974399571714e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.002973569444
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(10R,11S,12S)-12-hydroxy-6,6,10,11-tetramethyl-4-propyl-6,10,11,12-tetrahydro-2H-1,5,9-trioxatriphenylen-2-one
+
+> <ALOGPS_LOGP>
+4.18
+
+> <JCHEM_LOGP>
+3.7915943689999994
+
+> <ALOGPS_LOGS>
+-4.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.625542014318453
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.399987922937108
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+104.10690000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.78e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04886
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Calanolide A
+
+> <SYNONYMS>
+(+)-calanolide A
+
+$$$$

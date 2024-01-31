@@ -1,0 +1,168 @@
+KHP
+  Mrv0541 02231216462D          
+
+ 23 24  0  0  0  0            999 V2000
+   -0.9051    2.9961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1907    2.5836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1907    1.7586    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4768    1.2737    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2218    0.4890    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6032    0.4890    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0881   -0.1784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8581    1.2737    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6427    1.5286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7068   -0.1784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3712   -0.9321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8561   -1.5995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5206   -2.3532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2999   -2.4394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6355   -3.1931    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.1506   -3.8605    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.4560   -3.2793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7848   -1.7720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4493   -1.0183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3296    2.0237    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7986    0.5804    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3381   -0.0312    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9495    1.8504    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 20  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  1  0  0  0
+  5 21  1  6  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  6 22  1  1  0  0  0
+  8  9  1  1  0  0  0
+  8 23  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 18 19  2  0  0  0  0
+M  CHG  2  15   1  16  -1
+M  END
+> <DATABASE_ID>
+DB03196
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CO)O[C@@]([H])(OC2=CC=C(C=C2)[N+]([O-])=O)[C@]([H])(O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13NO7/c13-5-8-9(14)10(15)11(19-8)18-7-3-1-6(2-4-7)12(16)17/h1-4,8-11,13-15H,5H2/t8-,9-,10+,11+/m0/s1
+
+> <INCHI_KEY>
+DUYYBTBDYZXISX-UKKRHICBSA-N
+
+> <FORMULA>
+C11H13NO7
+
+> <MOLECULAR_WEIGHT>
+271.2234
+
+> <EXACT_MASS>
+271.069201775
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-5.632991574503017e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.74547983294149
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3R,4R,5S)-2-(hydroxymethyl)-5-(4-nitrophenoxy)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+-0.09
+
+> <JCHEM_LOGP>
+-0.028068467666666482
+
+> <ALOGPS_LOGS>
+-1.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.82589226037138
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.264793037135384
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9811523888938494
+
+> <JCHEM_POLAR_SURFACE_AREA>
+122.29000000000002
+
+> <JCHEM_REFRACTIVITY>
+60.54130000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03196
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01972
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Nitrophenyl-Ara
+
+$$$$

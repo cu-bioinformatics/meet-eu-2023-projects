@@ -1,0 +1,176 @@
+
+  Mrv1718007041813562D          
+
+ 30 32  0  0  0  0            999 V2000
+   -3.5372   -0.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2517   -0.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2517   -1.5392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5372   -1.9517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8228   -1.5392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8228   -0.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1083   -0.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3938   -0.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350   -0.7142    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9301    0.8013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1784   -0.3017    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4751   -1.1854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2517   -0.9069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2269   -0.0824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9704   -0.5329    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5579   -1.2474    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4349    0.1487    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.8474    0.8632    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7495   -0.3017    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7495    0.5232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6794   -0.3017    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6794    0.5232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3938    0.9357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0350    0.9357    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1536    0.5228    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9161    1.2373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7411    1.2373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1536    1.9517    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4639   -0.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4639   -1.5392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 21  1  0  0  0  0
+ 21  9  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 19 29  1  0  0  0  0
+ 29 11  1  0  0  0  0
+ 10 25  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 25 11  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 12  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 17 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 17 18  1  1  0  0  0
+ 19 20  1  1  0  0  0
+ 21 22  1  1  0  0  0
+ 22 24  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 25 27  1  6  0  0  0
+ 27 26  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 29 30  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14208
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CCC[C@]1([H])N([C@@H](C2)C(O)=O)C(=O)[C@H](C)N[C@@H](CCC1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H28N2O5/c1-13(22-16(20(25)26)11-10-14-6-3-2-4-7-14)19(24)23-17-9-5-8-15(17)12-18(23)21(27)28/h2-4,6-7,13,15-18,22H,5,8-12H2,1H3,(H,25,26)(H,27,28)/t13-,15-,16-,17-,18-/m0/s1
+
+> <INCHI_KEY>
+KEDYTOTWMPBSLG-HILJTLORSA-N
+
+> <FORMULA>
+C21H28N2O5
+
+> <MOLECULAR_WEIGHT>
+388.4574
+
+> <EXACT_MASS>
+388.199822016
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.37278201267569
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3aS,6aS)-1-[(2S)-2-{[(1S)-1-carboxy-3-phenylpropyl]amino}propanoyl]-octahydrocyclopenta[b]pyrrole-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.54
+
+> <JCHEM_LOGP>
+-0.18361666376072328
+
+> <ALOGPS_LOGS>
+-3.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.8464509897557897
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.13119123602434
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.05421780911174
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.94000000000001
+
+> <JCHEM_REFRACTIVITY>
+101.66909999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3aS,6aS)-1-[(2S)-2-{[(1S)-1-carboxy-3-phenylpropyl]amino}propanoyl]-hexahydro-2H-cyclopenta[b]pyrrole-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14208
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Ramiprilat
+
+> <SYNONYMS>
+Ramipril diacid; Ramiprilat; Ramiprilate; Ramiprilatum
+
+$$$$

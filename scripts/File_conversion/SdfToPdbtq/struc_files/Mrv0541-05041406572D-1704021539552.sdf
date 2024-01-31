@@ -1,0 +1,165 @@
+
+  Mrv0541 05041406572D          
+
+ 22 22  0  0  1  0            999 V2000
+    1.4289    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.5395   -1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  1  7  1  6  0  0  0
+  2  8  1  1  0  0  0
+  3  9  1  1  0  0  0
+  4 10  1  1  0  0  0
+  5 11  1  6  0  0  0
+  6 15  1  1  0  0  0
+ 16 12  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 16 14  2  0  0  0  0
+ 16 15  1  0  0  0  0
+  1 17  1  1  0  0  0
+  2 18  1  6  0  0  0
+  3 19  1  6  0  0  0
+  4 20  1  6  0  0  0
+  5 21  1  1  0  0  0
+  6 22  1  6  0  0  0
+M  CHG  2  12  -1  13  -1
+M  END
+> <DATABASE_ID>
+DB03542
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)[C@]([H])(O)[C@]([H])(O)[C@]([H])(OP([O-])([O-])=O)[C@@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13O9P/c7-1-2(8)4(10)6(5(11)3(1)9)15-16(12,13)14/h1-11H,(H2,12,13,14)/p-2/t1-,2-,3+,4-,5-,6-/m0/s1
+
+> <INCHI_KEY>
+INAPMGSXUVUWAF-PTQMNWPWSA-L
+
+> <FORMULA>
+C6H11O9P
+
+> <MOLECULAR_WEIGHT>
+258.1199
+
+> <EXACT_MASS>
+258.014068462
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.927496516224972
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.115505045424072
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+-2
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,2S,3R,4R,5S,6S)-2,3,4,5,6-pentahydroxycyclohexyl phosphate
+
+> <ALOGPS_LOGP>
+-1.58
+
+> <JCHEM_LOGP>
+-3.9055756833333333
+
+> <ALOGPS_LOGS>
+-0.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.194111788919007
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.1625722061585555
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6458130196938074
+
+> <JCHEM_POLAR_SURFACE_AREA>
+173.57
+
+> <JCHEM_REFRACTIVITY>
+44.4045
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.59e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03542
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02036
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Myo-Inositol-1-Phosphate
+
+$$$$

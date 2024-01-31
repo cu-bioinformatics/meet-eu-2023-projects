@@ -1,0 +1,177 @@
+PU9
+  Mrv0541 02231217432D          
+
+ 29 31  0  0  0  0            999 V2000
+    0.2648   -2.1853    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3483   -1.6333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1330   -1.8882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3045   -2.6952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0891   -2.9501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7461   -1.3362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5307   -1.5911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1438   -1.0391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5745   -0.5292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1876    0.0228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0161    0.8298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7899   -0.2743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1768   -0.8263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6078   -0.5714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7793    0.2356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2273    0.8487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6398    1.5632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3849    2.3478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4221    2.5193    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4468    1.3916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9988    2.0047    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7439    2.7894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9369    2.9609    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5330    0.5712    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2475    0.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9619    0.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6764    0.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3909    0.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1054    0.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04505
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=C(OC)C(OC)=C(Cl)C(CC2=NC3=C(N)N=CN=C3N2CCCC#C)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H22ClN5O3/c1-5-6-7-8-26-14(25-16-19(22)23-11-24-20(16)26)10-12-9-13(27-2)17(28-3)18(29-4)15(12)21/h1,9,11H,6-8,10H2,2-4H3,(H2,22,23,24)
+
+> <INCHI_KEY>
+WUJFGZAAFADPSF-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H22ClN5O3
+
+> <MOLECULAR_WEIGHT>
+415.873
+
+> <EXACT_MASS>
+415.141117302
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.004745937164740723
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.981112914895334
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-[(2-chloro-3,4,5-trimethoxyphenyl)methyl]-9-(pent-4-yn-1-yl)-9H-purin-6-amine
+
+> <ALOGPS_LOGP>
+2.93
+
+> <JCHEM_LOGP>
+2.7424116813333335
+
+> <ALOGPS_LOGS>
+-4.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.558592597182475
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7047629647209623
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.31
+
+> <JCHEM_REFRACTIVITY>
+111.78919999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04505
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02699
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+8-(2-Chloro-3,4,5-Trimethoxy-Benzyl)-9-Pent-4-Ylnyl-9h-Purin-6-Ylamine
+
+$$$$

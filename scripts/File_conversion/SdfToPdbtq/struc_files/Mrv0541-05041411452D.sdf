@@ -1,0 +1,149 @@
+
+  Mrv0541 05041411452D          
+
+ 16 16  0  0  1  0            999 V2000
+   -1.2957    0.8929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1333    0.8929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5812    2.1304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0307    5.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8007    3.8528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5812    1.3054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5458    4.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1333    2.5429    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8477    2.1304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6951    6.0586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2792    4.6374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5342    3.8528    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1333    3.3679    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5622    2.5429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8477    1.3054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1333    1.7179    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  4  1  0  0  0  0
+  7  5  2  0  0  0  0
+  8  3  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 13  5  1  0  0  0  0
+  8 13  1  1  0  0  0
+ 13 12  1  0  0  0  0
+ 14  9  2  0  0  0  0
+ 15  9  1  0  0  0  0
+  8 16  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03244
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC(C)C)(N1C=C(CN)N=N1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H16N4O2/c1-6(2)3-8(9(14)15)13-5-7(4-10)11-12-13/h5-6,8H,3-4,10H2,1-2H3,(H,14,15)/t8-/m0/s1
+
+> <INCHI_KEY>
+IAMZCZOWEDXWHW-QMMMGPOBSA-N
+
+> <FORMULA>
+C9H16N4O2
+
+> <MOLECULAR_WEIGHT>
+212.2489
+
+> <EXACT_MASS>
+212.127325776
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.08398450044834209
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.961560098894488
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-[4-(aminomethyl)-1H-1,2,3-triazol-1-yl]-4-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+-1.91
+
+> <JCHEM_LOGP>
+-1.7368327418850482
+
+> <ALOGPS_LOGS>
+-1.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.492479994941196
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.034229652145173
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.03
+
+> <JCHEM_REFRACTIVITY>
+65.52170000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.75e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03244
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03000
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(S)-2-[4-(Aminomethyl)-1h-1,2,3-Triazol-1-Yl]-4-Methylpentanoic Acid
+
+$$$$

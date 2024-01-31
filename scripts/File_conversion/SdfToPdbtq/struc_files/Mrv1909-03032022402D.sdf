@@ -1,0 +1,155 @@
+
+  Mrv1909 03032022402D          
+
+ 19 18  0  0  0  0            999 V2000
+    0.8574   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8574   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8574    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716    1.2374    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9487   -1.2550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2343   -1.6675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5198   -1.2550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5198   -0.4300    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2343   -0.0175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9487   -0.4300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2343    0.8074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5198    1.2199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9487    1.2199    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.3083    2.0517    0.0000 Zn  0  2  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  CHG  3   9  -1  18  -1  19   2
+M  END
+> <DATABASE_ID>
+DB11175
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Zn++].[O-]C(=O)C1=CC=CC=N1.[O-]C(=O)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C6H5NO2.Zn/c2*8-6(9)5-3-1-2-4-7-5;/h2*1-4H,(H,8,9);/q;;+2/p-2
+
+> <INCHI_KEY>
+NHVUUBRKFZWXRN-UHFFFAOYSA-L
+
+> <FORMULA>
+C12H8N2O4Zn
+
+> <MOLECULAR_WEIGHT>
+309.59
+
+> <EXACT_MASS>
+307.977549
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9878411964708829
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.936497092369365
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+zinc(2+) bis(pyridine-2-carboxylate)
+
+> <ALOGPS_LOGP>
+1.55
+
+> <JCHEM_LOGP>
+-0.6513314798278669
+
+> <ALOGPS_LOGS>
+-1.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9979485822657972
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.517960982029459
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.019999999999996
+
+> <JCHEM_REFRACTIVITY>
+41.622400000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl 6-bromo-4-[(dimethylamino)methyl]-5-hydroxy-2-(hydroxymethyl)-1-methylindole-3-carboxylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11175
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Zinc picolinate
+
+> <PRODUCTS>
+Tozal
+
+$$$$

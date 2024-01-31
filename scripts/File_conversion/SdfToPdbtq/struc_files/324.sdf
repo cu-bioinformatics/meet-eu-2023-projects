@@ -1,0 +1,193 @@
+324
+  Mrv0541 02231214362D          
+
+ 29 32  0  0  1  0            999 V2000
+    4.1400    0.7077    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6263    1.9371    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9559    1.3132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4634    2.4564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.6175    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993    0.9007    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0993    0.0757    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3849   -0.3368    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6703    0.0757    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.8799    1.1521    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3849    1.3132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6703    0.9007    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.8799   -0.1757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9196   -0.3425    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.3614    0.4882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -1.1961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -1.6314    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0993    1.7257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9130   -1.2018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5482    1.6358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6434    0.4349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6603   -2.4564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1413   -1.6554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3729   -0.3127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3013    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.2078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1691   -0.5806    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9589   -0.6624    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  9  1  1  6  0  0  0
+ 10  2  1  6  0  0  0
+ 12  3  1  1  0  0  0
+  4 20  2  0  0  0  0
+  5 27  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 18  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 28  1  6  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 29  1  1  0  0  0
+  9 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 21  1  1  0  0  0
+ 14 22  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 23  1  6  0  0  0
+ 19 24  2  0  0  0  0
+ 20 26  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00324
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@](O)(C(C)=O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](C)C2=CC(=O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H29FO4/c1-12-9-17-15-6-8-21(27,13(2)24)20(15,4)11-18(26)22(17,23)19(3)7-5-14(25)10-16(12)19/h5,7,10,12,15,17-18,26-27H,6,8-9,11H2,1-4H3/t12-,15-,17-,18-,19-,20-,21-,22-/m0/s1
+
+> <INCHI_KEY>
+FAOZLTXFLGPHNG-KNAQIMQKSA-N
+
+> <FORMULA>
+C22H29FO4
+
+> <MOLECULAR_WEIGHT>
+376.4617
+
+> <EXACT_MASS>
+376.204987621
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.472901735477057e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.941775718426456
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,3aS,3bS,5S,9aS,9bR,10S,11aS)-1-acetyl-9b-fluoro-1,10-dihydroxy-5,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+2.34
+
+> <JCHEM_LOGP>
+2.4208639956666667
+
+> <ALOGPS_LOGS>
+-4.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.693536507124913
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.648301498966674
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3933819733874135
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+100.86769999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.66e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00324
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00980
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Fluorometholone
+
+> <SYNONYMS>
+(1R,2S,8S,10S,11S,14R,15S,17S)-14-acetyl-1-fluoro-14,17-dihydroxy-2,8,15-trimethyltetracyclo[8.7.0.02,7.011,15]heptadeca-3,6-dien-5-one; 9-Fluoro-11beta,17-dihydroxy-6alpha-methylpregna-1,4-diene-3,20-dione; Fluorometholon; Fluorométholone; Fluorometholone; Fluorometholonum; Fluorometolona
+
+> <PRODUCTS>
+FML; FML Forte; FML Forte Sus 0.25%; FML-S; FML-neo Oph Sus; Flarex; Fluor-Op; Fluorometholone; PMS-fluorometholone; Sandoz Fluorometholone; Tobraflex
+
+> <INTERNATIONAL_BRANDS>
+Efflumidex; Fluaton; Flumetholon; Flurolon; FML Liquifilm; Foxone; Fucin; Fuluson; Fumelon; Humetoron; Oxylone
+
+> <SALTS>
+Fluorometholone acetate
+
+$$$$

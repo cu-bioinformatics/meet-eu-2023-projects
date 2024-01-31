@@ -1,0 +1,184 @@
+
+  Mrv1718010151816462D          
+
+ 31 33  0  0  1  0            999 V2000
+   -0.7145    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7173    1.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1447   -0.8316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0107    1.3303    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1427    0.8155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4245    2.0538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4455    2.8693    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1525    3.2848    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1463    4.1002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4370    4.5025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7572    4.0872    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7633    3.2718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0416    4.5009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8531    4.5156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4325    2.8866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4311    2.0616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7159    1.6503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8600    2.0591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5738    1.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9299    0.8513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1448    1.6478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3570    0.8506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 26  1  6  0  0  0
+  2  1  1  0  0  0  0
+  2 13  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4 11  1  1  0  0  0
+  1  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  8 14  1  1  0  0  0
+  7  9  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 12  1  6  0  0  0
+  8 10  1  0  0  0  0
+  6 10  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 16 15  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  1  0  0  0
+ 24 25  2  0  0  0  0
+ 25 30  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 30 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 30 29  1  0  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00641
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)C(C)(C)CC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C25H38O5/c1-6-25(4,5)24(28)30-21-12-15(2)11-17-8-7-16(3)20(23(17)21)10-9-19-13-18(26)14-22(27)29-19/h7-8,11,15-16,18-21,23,26H,6,9-10,12-14H2,1-5H3/t15-,16-,18+,19+,20-,21-,23-/m0/s1
+
+> <INCHI_KEY>
+RYMZZMVNJRMUDD-HGQWONQESA-N
+
+> <FORMULA>
+C25H38O5
+
+> <MOLECULAR_WEIGHT>
+418.5662
+
+> <EXACT_MASS>
+418.271924326
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+68
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.878820231510396
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,3R,7S,8S,8aR)-8-{2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl 2,2-dimethylbutanoate
+
+> <ALOGPS_LOGP>
+4.51
+
+> <JCHEM_LOGP>
+4.458201216333332
+
+> <ALOGPS_LOGS>
+-4.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.914537666911102
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8361812244930835
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.83
+
+> <JCHEM_REFRACTIVITY>
+117.68339999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.22e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+simvastatin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00641
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00104
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Simvastatin
+
+> <SYNONYMS>
+2,2-dimethylbutyric acid, 8-ester with (4R,6R)-6-(2-((1S,2S,6R,8S,8aR)-1,2,6,7,8,8a-hexahydro-8-hydroxy-2,6-dimethyl-1-naphthyl)ethyl)tetrahydro-4-hydroxy-2H-pyran-2-one; Simvastatin; Simvastatina; Simvastatine; Simvastatinum
+
+> <PRODUCTS>
+Act Simvastatin; Ag-simvastatin; Apo-simvastatin; Auro-simvastatin; Ava-simvastatin; Bci Simvastatin; Bio-simvastatin; Cholib; Dom-simvastatin; Ezetimibe and Simvastatin; FloLipid; Ipg-simvastatin; Jamp-simvastatin; Juvisync; Mar-simvastatin; Mint-simvastatin; Mylan-simvastatin; Ntp-simvastatin; Nu-simvastatin Tablets; PHL-simvastatin; PMS-simvastatin; Pharma-simvastatin; Priva-simvastatin; Q-simvastatin; Ratio-simvastatin; Riva-simvastatin; Sandoz Simvastatin; Septa-simvastatin; Simcor; Simvastatin; Simvastatin Tablets; Simvastatin Tablets 10mg; Simvastatin Tablets 20mg; Simvastatin Tablets 40mg; Simvastatin Tablets 5mg; Simvastatin Tablets 80mg; Simvastatin-10; Simvastatin-20; Simvastatin-40; Simvastatin-5; Simvastatin-80; Simvastatin-odan; Taro-simvastatin; Teva-simvastatin; Vytorin; Zocor; Zym-simvastatin
+
+> <INTERNATIONAL_BRANDS>
+Cholestat; Colemin; Labistatin; Lipex; Medipo; Nivelipol; Simovil; Sinvacor; Sivastin; Sivatin; Sivinar; Sorfox; Sotovastin; Starezin; Starstat; Starzoko; Stasiva; Statex; Staticor; Statinal; Stativer; Synvinolin
+
+$$$$

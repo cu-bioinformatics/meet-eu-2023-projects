@@ -1,0 +1,166 @@
+OPI
+  Mrv0541 02241214012D          
+
+ 25 24  0  0  0  0            999 V2000
+   -6.3547    0.0350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6403    0.4475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9258    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2113    0.4475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4968    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4968   -0.7900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7824    0.4475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0679    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3534    0.4475    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6390    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6390   -0.7900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0755    0.4475    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0755    1.2725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7900    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3775   -0.6795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2025    0.7495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5045   -0.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2189    0.0350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9334   -0.3775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9334   -1.2025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6479    0.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3623    0.4475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0604   -0.6795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2354    0.7495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4302    0.7395    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 12 25  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08328
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)(C(=O)NCCC(=O)NCCO)C(C)(C)COC(=O)C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H30N2O6/c1-15(2,3)14(23)24-10-16(4,5)12(21)13(22)18-7-6-11(20)17-8-9-19/h12,19,21H,6-10H2,1-5H3,(H,17,20)(H,18,22)/t12-/m0/s1
+
+> <INCHI_KEY>
+BUEKNBNKVUKNIB-LBPRGKRZSA-N
+
+> <FORMULA>
+C16H30N2O6
+
+> <MOLECULAR_WEIGHT>
+346.4192
+
+> <EXACT_MASS>
+346.210386702
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.0731304846144794e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.01945333941174
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-hydroxy-3-({2-[(2-hydroxyethyl)carbamoyl]ethyl}carbamoyl)-2,2-dimethylpropyl 2,2-dimethylpropanoate
+
+> <ALOGPS_LOGP>
+0.32
+
+> <JCHEM_LOGP>
+-0.3880818289999997
+
+> <ALOGPS_LOGS>
+-2.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.182727352149834
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.684939231173642
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.0509025365823597
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.96000000000001
+
+> <JCHEM_REFRACTIVITY>
+87.3762
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.01e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08328
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PANTOTHENYL-AMINOETHANOL-11-PIVALIC ACID
+
+$$$$

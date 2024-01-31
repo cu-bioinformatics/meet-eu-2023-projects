@@ -1,0 +1,165 @@
+1124
+  Mrv0541 02231215162D          
+
+ 18 18  0  0  0  0            999 V2000
+    2.4751   -0.6188    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01124
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCNC(=O)NS(=O)(=O)C1=CC=C(C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H18N2O3S/c1-3-4-9-13-12(15)14-18(16,17)11-7-5-10(2)6-8-11/h5-8H,3-4,9H2,1-2H3,(H2,13,14,15)
+
+> <INCHI_KEY>
+JLRGJRBPOGGCBT-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H18N2O3S
+
+> <MOLECULAR_WEIGHT>
+270.348
+
+> <EXACT_MASS>
+270.103813142
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9978471726513988
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.099535424109085
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-butyl-1-(4-methylbenzenesulfonyl)urea
+
+> <ALOGPS_LOGP>
+2.04
+
+> <JCHEM_LOGP>
+2.295335827333333
+
+> <ALOGPS_LOGS>
+-3.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+18.114800808981375
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.333945172256472
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+70.27
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.02e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01124
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00267
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tolbutamide
+
+> <SYNONYMS>
+1-Butyl-3-(p-methylphenylsulfonyl)urea; 1-Butyl-3-(p-tolylsulfonyl)urea; 1-Butyl-3-tosylurea; 1-p-Toluenesulfonyl-3-butylurea; 3-(p-Tolyl-4-sulfonyl)-1-butylurea; N-(4-Methylbenzenesulfonyl)-N'-butylurea; N-(4-Methylphenylsulfonyl)-N'-butylurea; N-(p-Methylbenzenesulfonyl)-N'-butylurea; N-(Sulfonyl-p-methylbenzene)-N'-N-butylurea; N-Butyl-N'-(4-methylphenylsulfonyl)urea; N-Butyl-N'-(p-tolylsulfonyl)urea; N-Butyl-N'-p-toluenesulfonylurea; N-n-Butyl-N'-tosylurea; Tolbutamida; Tolbutamide; Tolbutamidum; Tolylsulfonylbutylurea
+
+> <PRODUCTS>
+Mobenol Tablets 500mg; Novo-butamide 500mg; Orinase 0.5gm; Orinase 1gm; Tolbutamide; Tolbutamide Tab 500mg
+
+> <INTERNATIONAL_BRANDS>
+Artosin; Butamide; Diabetol; Dirastan; Glyconon; Orinase; Rastinon
+
+> <SALTS>
+Tolbutamide sodium
+
+$$$$

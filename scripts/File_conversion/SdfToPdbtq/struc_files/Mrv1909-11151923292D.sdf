@@ -1,0 +1,159 @@
+
+  Mrv1909 11151923292D          
+
+ 20 22  0  0  0  0            999 V2000
+   -2.4721   -0.8549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4733   -1.6824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7604   -2.0953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7624   -0.4422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0443   -0.8509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0391   -1.6824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2468   -1.9345    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2378   -1.2587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2551   -0.5891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0051    0.1969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8006    0.3734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5608    0.8065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0506    1.1596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8564    1.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4949    1.7692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.7916    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1868    1.2083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0102    2.0143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1893    2.0953    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1868   -0.4431    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 11 13  2  0  0  0  0
+  3  6  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+  5  4  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 14  1  0  0  0  0
+  9  5  1  0  0  0  0
+  1 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03118
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O\C(=C/C(=O)C1=CNC2=CC=C(Cl)C=C12)C1=NN=NN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H8ClN5O2/c13-6-1-2-9-7(3-6)8(5-14-9)10(19)4-11(20)12-15-17-18-16-12/h1-5,14,20H,(H,15,16,17,18)/b11-4-
+
+> <INCHI_KEY>
+LKVXXMOMTRBUQI-WCIBSUBMSA-N
+
+> <FORMULA>
+C12H8ClN5O2
+
+> <MOLECULAR_WEIGHT>
+289.677
+
+> <EXACT_MASS>
+289.036652232
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.226160248436987
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2Z)-1-(5-chloro-1H-indol-3-yl)-3-hydroxy-3-(1H-1,2,3,4-tetrazol-5-yl)prop-2-en-1-one
+
+> <ALOGPS_LOGP>
+2.03
+
+> <JCHEM_LOGP>
+1.4729197903333335
+
+> <ALOGPS_LOGS>
+-3.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.700008709407947
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.387977981895851
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5027158736716617
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+76.39840000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.17e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R)-2-(4-aminobutanamido)-3-{[(4-methoxyphenyl)methyl]sulfanyl}propanamido]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03118
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00006
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2Z)-1-(5-Chloro-1H-indol-3-yl)-3-hydroxy-3-(1H-tetrazol-5-yl)-2-propen-1-one
+
+> <SYNONYMS>
+1-(5-Chloroindol-3-YL)-3-hydroxy-3-(2H-tetrazol-5-YL)-propenone
+
+$$$$

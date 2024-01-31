@@ -1,0 +1,149 @@
+NAM
+  Mrv0541 02241213582D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.6484   -0.6971    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9339   -1.1096    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2194   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9339   -1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6484   -2.3471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2194   -2.3471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2194    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9339    0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9339    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2194    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4950    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2095    1.7779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9240    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9240    0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2095    0.1279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4950    0.5404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9339   -0.5257    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 17  1  6  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08253
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC1=CC=CC2=C1C=CC=C2)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14N2O/c14-12(13(15)16)8-10-6-3-5-9-4-1-2-7-11(9)10/h1-7,12H,8,14H2,(H2,15,16)/t12-/m0/s1
+
+> <INCHI_KEY>
+DGFMSNJYBBNHCX-LBPRGKRZSA-N
+
+> <FORMULA>
+C13H14N2O
+
+> <MOLECULAR_WEIGHT>
+214.2631
+
+> <EXACT_MASS>
+214.11061308
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9062504561423183
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.02260472742204
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(naphthalen-1-yl)propanamide
+
+> <ALOGPS_LOGP>
+1.31
+
+> <JCHEM_LOGP>
+1.260149196
+
+> <ALOGPS_LOGS>
+-3.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.454797996416257
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.985279053702824
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.11
+
+> <JCHEM_REFRACTIVITY>
+63.38870000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.26e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08253
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+NAM NAPTHYLAMINOALANINE
+
+$$$$

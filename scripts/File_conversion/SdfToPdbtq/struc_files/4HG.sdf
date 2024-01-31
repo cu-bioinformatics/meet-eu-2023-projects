@@ -1,0 +1,156 @@
+4HG
+  Mrv0541 02241213122D          
+
+ 19 20  0  0  0  0            999 V2000
+   -1.0203   -2.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7348   -1.8379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7348   -1.0129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3058   -1.8379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3058   -1.0129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0203   -0.6004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0203    0.2246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3058    0.6371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4087    0.2246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4087   -0.6004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4492   -0.6004    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1231   -1.0129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1231    0.6371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5521    0.6371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2665    0.2246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9810    0.6371    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1231    1.4621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2665   -0.6004    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8376    0.2246    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07112
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CNC(=O)C1=C(O)C2=CC=CC(I)=C2C=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9IN2O4/c13-8-3-1-2-6-7(8)4-14-10(11(6)18)12(19)15-5-9(16)17/h1-4,18H,5H2,(H,15,19)(H,16,17)
+
+> <INCHI_KEY>
+FUMNLXHPILGSLC-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9IN2O4
+
+> <MOLECULAR_WEIGHT>
+372.1153
+
+> <EXACT_MASS>
+371.960700206
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.2591184658715566
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.27733750102253
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(4-hydroxy-8-iodoisoquinolin-3-yl)formamido]acetic acid
+
+> <ALOGPS_LOGP>
+2.26
+
+> <JCHEM_LOGP>
+1.5459340621532962
+
+> <ALOGPS_LOGS>
+-3.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.455852600142186
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.8095464336517977
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8476234990049398
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+75.38239999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07112
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[(4-HYDROXY-8-IODOISOQUINOLIN-3-YL)CARBONYL]GLYCINE
+
+$$$$

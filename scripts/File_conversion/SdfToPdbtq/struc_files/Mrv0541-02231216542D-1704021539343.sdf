@@ -1,0 +1,153 @@
+
+  Mrv0541 02231216542D          
+
+ 16 17  0  0  1  0            999 V2000
+   -1.7575    0.3126    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2054    0.9256    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3984    0.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.9521    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4604    1.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2673    1.8818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9083    2.3234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  7 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03386
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](CC1=CNC2=C1C(F)=CC=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11FN2O2/c12-7-2-1-3-9-10(7)6(5-14-9)4-8(13)11(15)16/h1-3,5,8,14H,4,13H2,(H,15,16)/t8-/m0/s1
+
+> <INCHI_KEY>
+DEBQMEYEKKWIKC-QMMMGPOBSA-N
+
+> <FORMULA>
+C11H11FN2O2
+
+> <MOLECULAR_WEIGHT>
+222.2156
+
+> <EXACT_MASS>
+222.080455811
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.004294680272938001
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.048001853841953
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(4-fluoro-1H-indol-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-0.90
+
+> <JCHEM_LOGP>
+-0.9432492718962817
+
+> <ALOGPS_LOGS>
+-2.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.910352989499016
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.184400327974961
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.363652620658758
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11000000000001
+
+> <JCHEM_REFRACTIVITY>
+56.41920000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.59e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03386
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00213
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Fluorotryptophane
+
+$$$$

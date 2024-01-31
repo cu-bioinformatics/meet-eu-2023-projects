@@ -1,0 +1,175 @@
+1414
+  Mrv0541 02231215282D          
+
+ 24 25  0  0  1  0            999 V2000
+    5.2224   -1.3649    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3510    0.4606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.1274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.5227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.5227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3635   -0.5321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.1101    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.1274    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3510   -1.5404    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3252   -1.4892    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -0.9524    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.7688   -0.9558    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.7688   -0.1239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.1274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.9524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.2851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.1101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1483   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7305   -1.9131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5278   -1.7012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1065   -1.5902    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 19  2  0  0  0  0
+  7 21  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+ 12  9  1  1  0  0  0
+  9 19  1  0  0  0  0
+ 10 22  3  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01414
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SCC(COC(C)=O)=C(N1C(=O)[C@H]2NC(=O)CC#N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13N3O6S/c1-6(17)22-4-7-5-23-12-9(15-8(18)2-3-14)11(19)16(12)10(7)13(20)21/h9,12H,2,4-5H2,1H3,(H,15,18)(H,20,21)/t9-,12-/m1/s1
+
+> <INCHI_KEY>
+RRYMAQUWDLIUPV-BXKDBHETSA-N
+
+> <FORMULA>
+C13H13N3O6S
+
+> <MOLECULAR_WEIGHT>
+339.324
+
+> <EXACT_MASS>
+339.052505853
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0068521724772774
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.343054443296126
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(6R,7R)-3-[(acetyloxy)methyl]-7-(2-cyanoacetamido)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.52
+
+> <JCHEM_LOGP>
+-1.780770973333333
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.15322172309048
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.114015773997155
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.22689265347667
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.8
+
+> <JCHEM_REFRACTIVITY>
+77.50560000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.43e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01414
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Cefacetrile
+
+> <SYNONYMS>
+Cefacetrile; Cefacetrilo; Cefacetrilum; Cephacetrile
+
+> <INTERNATIONAL_BRANDS>
+Celospor; Celtol
+
+> <SALTS>
+Cefacetrile sodium
+
+$$$$

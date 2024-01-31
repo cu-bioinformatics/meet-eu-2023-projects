@@ -1,0 +1,163 @@
+480
+  Mrv1909 02112121342D          
+
+ 19 21  0  0  1  0            999 V2000
+    4.1159   -1.6769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662    1.2002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6412   -0.2289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.2289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037    0.4857    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.4212    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1662   -0.2289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787   -0.9433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    0.4351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.1836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.8928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4037   -0.9433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.6414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5787    0.4857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8162   -0.2289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.5962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.0539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.6414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  2  0  0  0  0
+  2 14  2  0  0  0  0
+  3 15  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00480
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=CC=CC2=C1CN(C1CCC(=O)NC1=O)C2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13N3O3/c14-9-3-1-2-7-8(9)6-16(13(7)19)10-4-5-11(17)15-12(10)18/h1-3,10H,4-6,14H2,(H,15,17,18)
+
+> <INCHI_KEY>
+GOTYRUGSSMKFNF-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H13N3O3
+
+> <MOLECULAR_WEIGHT>
+259.2606
+
+> <EXACT_MASS>
+259.095691297
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.932352300683183e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.50773963654864
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-(4-amino-1-oxo-2,3-dihydro-1H-isoindol-2-yl)piperidine-2,6-dione
+
+> <JCHEM_LOGP>
+-0.707852159
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.142252329187809
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.611915577956777
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.313453764425511
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.5
+
+> <JCHEM_REFRACTIVITY>
+68.29810000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-demethyldiltiazem
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00480
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01303
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Lenalidomide
+
+> <SYNONYMS>
+1-oxo-2-(2,6-dioxopiperidin-3-yl)-4-aminoisoindoline; 3-(4-Amino-1-oxoisoindolin-2-yl)piperidine-2,6-dione; Lenalidomida; Lenalidomide
+
+> <PRODUCTS>
+Apo-lenalidomide; Jamp Lenalidomide; Lenalidomide; Lenalidomide Accord; Lenalidomide Krka; Lenalidomide Krka D.D.; Lenalidomide Krka D.D. Novo Mesto; Lenalidomide Mylan; Nat-lenalidomide; Reddy-lenalidomide; Revlimid; Sandoz Lenalidomide; Taro-lenalidomide; Teva-lenalidomide
+
+> <INTERNATIONAL_BRANDS>
+Ladevina; Lenangio
+
+> <SALTS>
+Lenalidomide hydrochloride monohydrate
+
+$$$$

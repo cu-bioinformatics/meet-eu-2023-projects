@@ -1,0 +1,153 @@
+
+  Mrv0541 02231217492D          
+
+ 16 17  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04657
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(SCCO1)C(=O)NC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13NO2S/c1-9-11(16-8-7-15-9)12(14)13-10-5-3-2-4-6-10/h2-6H,7-8H2,1H3,(H,13,14)
+
+> <INCHI_KEY>
+GYSSRZJIHXQEHQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H13NO2S
+
+> <MOLECULAR_WEIGHT>
+235.302
+
+> <EXACT_MASS>
+235.066699355
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-5.704348407248996e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.8500583388456
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methyl-N-phenyl-5,6-dihydro-1,4-oxathiine-3-carboxamide
+
+> <ALOGPS_LOGP>
+1.65
+
+> <JCHEM_LOGP>
+1.5126589993333335
+
+> <ALOGPS_LOGS>
+-2.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.243224638432908
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.125282844764014
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+69.09630000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04657
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Carboxin
+
+> <SYNONYMS>
+2,3-Dihydro-5-carboxanilido-6-methyl-1,4-oxathiin; 2,3-Dihydro-6-methyl-1,4-oxathiin-5-carboxanilide; 2,3-Dihydro-6-methyl-5-phenylcarbamoyl-1,4-oxathiin; 5-Carboxanilido-2,3-dihydro-6-methyl-1,4-oxathiin; 5,6-Dihydro-2-methyl-1,4-oxathiin-3-carboxanilide; 5,6-Dihydro-2-methyl-3-carboxanilido-1,4-oxathiin; 5,6-Dihydro-2-methyl-N-phenyl-1,4-oxathiin-3-carboxamide; Carbathiin; Carboxine; Oxatin
+
+> <INTERNATIONAL_BRANDS>
+Kisvax; Vitavax
+
+$$$$

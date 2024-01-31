@@ -1,0 +1,182 @@
+NSC
+  Mrv0541 02231217412D          
+
+ 28 31  0  0  0  0            999 V2000
+    1.1656   -0.8906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4512   -1.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4512   -2.1281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1656   -2.5406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2633   -2.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9778   -2.1281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6923   -2.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9778   -1.3031    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2633   -0.8906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2633   -0.0656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4512    0.3469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1656   -0.0656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8801    0.3469    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5946   -0.0656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5946   -0.8906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090    0.3469    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0235   -0.0656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7380    0.3469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4525   -0.0656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1669    0.3469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1669    1.1719    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8814   -0.0656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8814   -0.8906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5959   -1.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1669   -1.3031    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4525   -0.8906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7380   -1.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0235   -0.8906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 28  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04452
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NC2=CC=C(NC(=O)NC3=CC4=C(C=C3)N=C(C)C=C4N)C=C2C(N)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H20N6O/c1-11-7-17(22)15-9-13(3-5-19(15)24-11)26-21(28)27-14-4-6-20-16(10-14)18(23)8-12(2)25-20/h3-10H,1-2H3,(H2,22,24)(H2,23,25)(H2,26,27,28)
+
+> <INCHI_KEY>
+HOUSDILKOJMENG-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H20N6O
+
+> <MOLECULAR_WEIGHT>
+372.4231
+
+> <EXACT_MASS>
+372.169859292
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9591192692535233
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.976057109903415
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,3-bis(4-amino-2-methylquinolin-6-yl)urea
+
+> <ALOGPS_LOGP>
+2.55
+
+> <JCHEM_LOGP>
+2.038852901666666
+
+> <ALOGPS_LOGS>
+-4.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA>
+18.008552328607315
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.51854209249237
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.074990023582552
+
+> <JCHEM_POLAR_SURFACE_AREA>
+118.94999999999999
+
+> <JCHEM_REFRACTIVITY>
+112.4792
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.11e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04452
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02388
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Aminoquinuride
+
+> <SYNONYMS>
+Aminoquinuride
+
+$$$$

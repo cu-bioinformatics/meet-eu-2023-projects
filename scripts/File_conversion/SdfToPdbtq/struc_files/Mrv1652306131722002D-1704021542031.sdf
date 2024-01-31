@@ -1,0 +1,150 @@
+
+  Mrv1652306131722002D          
+
+ 18 18  0  0  0  0            999 V2000
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06421
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)CCNC(=O)C1=CC=C(N)C(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H20ClN3O/c1-3-17(4-2)8-7-16-13(18)10-5-6-12(15)11(14)9-10/h5-6,9H,3-4,7-8,15H2,1-2H3,(H,16,18)
+
+> <INCHI_KEY>
+YEYAKZXEBSVURO-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H20ClN3O
+
+> <MOLECULAR_WEIGHT>
+269.77
+
+> <EXACT_MASS>
+269.12949
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.897961674117102
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-3-chloro-N-[2-(diethylamino)ethyl]benzamide
+
+> <ALOGPS_LOGP>
+1.94
+
+> <JCHEM_LOGP>
+1.5549413300000006
+
+> <ALOGPS_LOGS>
+-2.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+19.56969483583251
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.339920783191644
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.044347126226489
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.36
+
+> <JCHEM_REFRACTIVITY>
+77.05460000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.68e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-amino-3-chloro-N-[2-(diethylamino)ethyl]benzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06421
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Declopramide
+
+> <SYNONYMS>
+Declopramide
+
+$$$$

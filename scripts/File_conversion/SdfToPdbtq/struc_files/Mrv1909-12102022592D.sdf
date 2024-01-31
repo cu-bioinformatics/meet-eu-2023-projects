@@ -1,0 +1,183 @@
+
+  Mrv1909 12102022592D          
+
+ 29 30  0  0  0  0            999 V2000
+    0.0000   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -5.3625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2881   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2881   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0026   -6.6000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   10.7171   -6.1875    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   10.0026   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+  6 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+  2 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+M  CHG  2  23   1  24  -1
+M  END
+> <DATABASE_ID>
+DB16008
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(=O)C=C(NCCN(CCO)CCCC2=CC=C(C=C2)[N+]([O-])=O)N(C)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H27N5O5/c1-21-17(14-18(26)22(2)19(21)27)20-9-11-23(12-13-25)10-3-4-15-5-7-16(8-6-15)24(28)29/h5-8,14,20,25H,3-4,9-13H2,1-2H3
+
+> <INCHI_KEY>
+OEBPANQZQGQPHF-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H27N5O5
+
+> <MOLECULAR_WEIGHT>
+405.455
+
+> <EXACT_MASS>
+405.201218989
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0005625706801162
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.29964967786289
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-({2-[(2-hydroxyethyl)[3-(4-nitrophenyl)propyl]amino]ethyl}amino)-1,3-dimethyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+1.68
+
+> <JCHEM_LOGP>
+1.2496718683333334
+
+> <ALOGPS_LOGS>
+-3.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+18.0963133739791
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.591809770162754
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.808122047638383
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+118.0738
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.69e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nifekalant
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16008
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Nifekalant
+
+> <SYNONYMS>
+6-((2-((2-Hydroxyethyl)(3-(p-nitrophenyl)propyl)amino)ethyl)amino)-1,3-dimethyluracil; Nifekalant
+
+> <SALTS>
+Nifekalant hydrochloride
+
+$$$$

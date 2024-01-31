@@ -1,0 +1,157 @@
+1354
+  Mrv0541 02231215242D          
+
+ 18 19  0  0  0  0            999 V2000
+    3.5679   -1.0775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9969    1.3976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4258   -1.0775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9969   -1.0775    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7113    0.1601    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2823    0.1601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573    0.1601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0994    0.9033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2950    1.0870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8698    0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0994   -0.5833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2950   -0.7669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2823   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9969    0.5726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2823    1.5890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7113   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  2  0  0  0  0
+  2 16  2  0  0  0  0
+  3 18  2  0  0  0  0
+  4 15  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01354
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC1(C(=O)NC(=O)NC1=O)C1=CCCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H18N2O3/c1-2-13(9-7-5-3-4-6-8-9)10(16)14-12(18)15-11(13)17/h7H,2-6,8H2,1H3,(H2,14,15,16,17,18)
+
+> <INCHI_KEY>
+PAZQYDJGLKSCSI-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H18N2O3
+
+> <MOLECULAR_WEIGHT>
+250.2936
+
+> <EXACT_MASS>
+250.131742452
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.42036874865065393
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.875294697164197
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(cyclohept-1-en-1-yl)-5-ethyl-1,3-diazinane-2,4,6-trione
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+1.9130831926666663
+
+> <ALOGPS_LOGS>
+-2.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.806314442929297
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.14007807750226
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+66.2527
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.24e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01354
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Heptabarbital
+
+> <SYNONYMS>
+Heptabarb; Heptabarbe; Heptabarbital; Heptabarbitone; Heptabarbo; Heptabarbum
+
+> <INTERNATIONAL_BRANDS>
+Medomin; Medomine
+
+$$$$

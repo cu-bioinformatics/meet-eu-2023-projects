@@ -1,0 +1,178 @@
+MDC
+  Mrv0541 02231216282D          
+
+ 28 30  0  0  0  0            999 V2000
+   -4.2209    1.1299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3959    1.1299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1410    0.3453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3564    0.0904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8084   -0.1396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4759    0.3453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2605    0.0904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8084   -0.9646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0940   -1.3771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3795   -0.9646    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6650   -1.3771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6650   -2.2021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2361    0.2729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9505   -0.1396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6650    0.2729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9505   -0.9646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2361   -1.3771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4784   -0.9646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4784   -0.1396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1929   -1.3771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9073   -0.9646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9073   -0.1396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6218    0.2729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1929    0.2729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3363   -0.1396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0508    0.2729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6218    1.0979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3363    1.5104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02799
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)C1=CC2=C(C=C1)C=C(C(=O)N\C=C/N1C(=O)CCC1=O)C(=O)O2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H21N3O5/c1-3-22(4-2)14-6-5-13-11-15(20(27)28-16(13)12-14)19(26)21-9-10-23-17(24)7-8-18(23)25/h5-6,9-12H,3-4,7-8H2,1-2H3,(H,21,26)/b10-9-
+
+> <INCHI_KEY>
+OJBZDUMTXGGVSP-KTKRTIGZSA-N
+
+> <FORMULA>
+C20H21N3O5
+
+> <MOLECULAR_WEIGHT>
+383.3978
+
+> <EXACT_MASS>
+383.148120797
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0014269788551973485
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.141317722749264
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-(diethylamino)-N-[(1Z)-2-(2,5-dioxopyrrolidin-1-yl)ethenyl]-2-oxo-2H-chromene-3-carboxamide
+
+> <ALOGPS_LOGP>
+1.99
+
+> <JCHEM_LOGP>
+0.7417403116666668
+
+> <ALOGPS_LOGS>
+-3.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.26070611179885
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.66433894991366
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.155103720475823
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.02
+
+> <JCHEM_REFRACTIVITY>
+102.85430000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.84e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02799
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02140
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[2-(1-maleimidyl)ethyl]-7-diethylaminocoumarin-3-carboxamide
+
+$$$$

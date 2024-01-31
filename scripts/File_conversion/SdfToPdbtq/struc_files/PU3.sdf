@@ -1,0 +1,173 @@
+PU3
+  Mrv0541 02231216262D          
+
+ 27 29  0  0  0  0            999 V2000
+   -0.4821    3.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0696    2.6605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4821    1.9460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0696    1.2315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3071    1.9460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7196    2.6605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5446    2.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7196    1.2315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5446    1.2315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9571    0.5171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3071    0.5171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4821    0.5171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0696   -0.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7554   -0.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2404    0.4700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0250    0.2151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7395    0.6276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7395    1.4526    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0250   -0.6099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7395   -1.0224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -0.6099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539    0.2151    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2404   -0.8648    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9854   -1.6495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5375   -2.2626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2825   -3.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8346   -3.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02754
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCN1C(CC2=CC(OC)=C(OC)C(OC)=C2)=NC2=C(N)N=CN=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H25N5O3/c1-5-6-7-24-15(23-16-18(20)21-11-22-19(16)24)10-12-8-13(25-2)17(27-4)14(9-12)26-3/h8-9,11H,5-7,10H2,1-4H3,(H2,20,21,22)
+
+> <INCHI_KEY>
+TUOSCZDRWRYPRS-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H25N5O3
+
+> <MOLECULAR_WEIGHT>
+371.4335
+
+> <EXACT_MASS>
+371.195739691
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.004773216589170124
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.28977279942791
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+9-butyl-8-[(3,4,5-trimethoxyphenyl)methyl]-9H-purin-6-amine
+
+> <ALOGPS_LOGP>
+2.96
+
+> <JCHEM_LOGP>
+2.5009531036666672
+
+> <ALOGPS_LOGS>
+-3.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.560461517754348
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7077151780317545
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.31
+
+> <JCHEM_REFRACTIVITY>
+103.92179999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.44e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02754
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02694
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+9-Butyl-8-(3,4,5-Trimethoxybenzyl)-9h-Purin-6-Amine
+
+$$$$

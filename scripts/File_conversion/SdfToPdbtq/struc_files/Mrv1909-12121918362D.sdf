@@ -1,0 +1,152 @@
+
+  Mrv1909 12121918362D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.7092    0.8242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7092    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4375    1.2459    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0191   -0.4217    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0191    1.2459    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1658    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1658    0.8242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4375   -0.4217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7091    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7091    0.8242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4375   -1.2459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8749    1.2459    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4375   -0.4217    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1466    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1466    0.8242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4375   -1.2459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8749   -0.4024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  5  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  8  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  9  4  2  0  0  0  0
+ 10  5  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8  6  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 11  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 13  9  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 13 16  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB04400
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H](O)[C@H](O)C1=NC2=C(NC1)NC(N)=NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3,6,15-16H,2H2,1H3,(H4,10,11,13,14,17)/t3-,6-/m0/s1
+
+> <INCHI_KEY>
+FEMXZDUTFRTWPE-DZSWIPIPSA-N
+
+> <FORMULA>
+C9H13N5O3
+
+> <MOLECULAR_WEIGHT>
+239.2312
+
+> <EXACT_MASS>
+239.101839307
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.10492577089279
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-1,4,7,8-tetrahydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.43
+
+> <JCHEM_LOGP>
+-2.2885038219999996
+
+> <ALOGPS_LOGS>
+-2.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.189152262114165
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.976793034157836
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7272053999388053
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+68.11330000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tert-butyl N-[(2S,5S)-5-benzyl-5-{[(1S)-3-carbamoyl-1-{[(1S)-1-carbamoyl-2-phenylethyl]carbamoyl}propyl]carbamoyl}-3-oxo-1-phenylpentan-2-yl]carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04400
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01697; DB03271; EXPT01698
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-erythro-7,8-dihydrobiopterin
+
+> <SYNONYMS>
+Dihydrobiopterin; L-erythro-q-Dihydrobiopterin; q-BH2; Quinonoid dihydrobiopterin
+
+$$$$

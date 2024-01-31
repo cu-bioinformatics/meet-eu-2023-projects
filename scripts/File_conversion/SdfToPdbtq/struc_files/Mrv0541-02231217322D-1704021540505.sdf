@@ -1,0 +1,187 @@
+
+  Mrv0541 02231217322D          
+
+ 31 33  0  0  1  0            999 V2000
+   -4.9500   -3.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5375   -2.5263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7125   -2.5263    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.3000   -3.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3000   -1.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4750   -1.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -2.5263    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -1.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -1.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -1.8118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375    0.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    1.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0461    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4125    0.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.0974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.7605    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    3.1895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    1.7605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.0461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2375    3.1895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8875    3.1895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    1.7605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625    0.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4750   -0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3000   -0.3829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7125   -1.0974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 14 18  1  1  0  0  0
+ 18 19  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  1  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  1  0  0  0
+ 12 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+  8 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+  5 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04240
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[C@@H](C)C1=C(O)C2=C(O)C3=C(C[C@H](CC3=O)[C@H](OC)C(=O)[C@@H](O)[C@@H](C)O)C=C2C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H30O7/c1-5-11(2)16-7-6-13-8-14-9-15(24(31-4)23(30)20(27)12(3)25)10-17(26)18(14)22(29)19(13)21(16)28/h6-8,11-12,15,20,24-25,27-29H,5,9-10H2,1-4H3/t11-,12-,15-,20+,24+/m1/s1
+
+> <INCHI_KEY>
+XGORHSPGULYMCV-HHYQQTLHSA-N
+
+> <FORMULA>
+C24H30O7
+
+> <MOLECULAR_WEIGHT>
+430.4908
+
+> <EXACT_MASS>
+430.199153314
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+61
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.11289598283122466
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.148271130479976
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-7-[(2R)-butan-2-yl]-3-[(1S,3S,4R)-3,4-dihydroxy-1-methoxy-2-oxopentyl]-8,9-dihydroxy-1,2,3,4-tetrahydroanthracen-1-one
+
+> <ALOGPS_LOGP>
+3.01
+
+> <JCHEM_LOGP>
+3.7152156836666665
+
+> <ALOGPS_LOGS>
+-3.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.800281995104232
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.902556306958564
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.0884256024141736
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.29000000000002
+
+> <JCHEM_REFRACTIVITY>
+116.22159999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.27e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04240
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01305
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S)-1-C-{(2R)-6-[(2R)-2-Butanyl]-5,10-dihydroxy-4-oxo-1,2,3,4-tetrahydro-2-anthracenyl}-5-deoxy-1-O-methyl-D-xylulose
+
+> <SYNONYMS>
+1,2-HYDRO-1-OXY-3,4-HYDRO-3-(1-METHOXY-2-OXY-3,4-DIHYDROXYPENTYL)-8,9-DIHYDROXY-7-(SEC-BUTYL)-ANTHRACENE
+
+$$$$

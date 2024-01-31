@@ -1,0 +1,187 @@
+1148
+  Mrv0541 02231215172D          
+
+ 29 32  0  0  0  0            999 V2000
+    6.6601   -0.0144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.2599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2313    0.0021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    3.7349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3507   -2.0851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0603   -2.5058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6315   -2.4892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0509   -3.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6219   -3.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3316   -3.7349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3602   -1.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6506   -0.8394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9600    1.2313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9504    0.4063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.4974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.4974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.9099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7075    1.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9600    2.9385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.2599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7075    2.5147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.9099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.2599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4 19  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 20  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 25  2  0  0  0  0
+ 22 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+ 27 29  2  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01148
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(OC2=C(C=CC=C2C(=O)OCCN2CCCCC2)C1=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H25NO4/c1-17-21(26)19-11-8-12-20(23(19)29-22(17)18-9-4-2-5-10-18)24(27)28-16-15-25-13-6-3-7-14-25/h2,4-5,8-12H,3,6-7,13-16H2,1H3
+
+> <INCHI_KEY>
+SPIUTQOUKAMGCX-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H25NO4
+
+> <MOLECULAR_WEIGHT>
+391.4596
+
+> <EXACT_MASS>
+391.178358293
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.889394704831485
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.393929524942735
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(piperidin-1-yl)ethyl 3-methyl-4-oxo-2-phenyl-4H-chromene-8-carboxylate
+
+> <ALOGPS_LOGP>
+3.65
+
+> <JCHEM_LOGP>
+4.235423206
+
+> <ALOGPS_LOGS>
+-4.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.905318620392549
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.84
+
+> <JCHEM_REFRACTIVITY>
+113.51470000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.54e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01148
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00972
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Flavoxate
+
+> <SYNONYMS>
+2-(1-piperidinyl)ethyl 3-methyl-4-oxo-2-phenyl-4H-chromene-8-carboxylate; 2-piperidinoethyl 3-methyl-4-oxo-2-phenyl-4H-1-benzopyran-8-carboxylate; 2-piperidinoethyl 3-methylflavone-8-carboxylate; Flavoxate; Flavoxato; Flavoxatum; β-piperidinoethyl 3-methylflavone-8-carboxylate
+
+> <PRODUCTS>
+Apo-flavoxate; Flavoxate; Flavoxate Hydrochloride; PMS-flavoxate; Urispas; Urispas Tab 200mg
+
+> <INTERNATIONAL_BRANDS>
+Bladuril; Flavosert; Progut; Sawadaron; Uridron; Uripax; Uroxal
+
+> <SALTS>
+Flavoxate hydrochloride
+
+$$$$

@@ -1,0 +1,191 @@
+
+  Mrv1572001251621152D          
+
+ 31 34  0  0  0  0            999 V2000
+   -2.5358   -0.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5358   -1.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8214   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1068   -1.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1068   -0.3336    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8214    0.0787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924   -1.5712    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3220   -1.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3220   -0.3336    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3924    0.0787    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0364    0.0787    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0364    0.9037    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3220    1.3163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924    0.9037    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8211   -0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.4912    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8211    1.1587    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.2502   -1.5712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1068    0.4912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1057    1.3155    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0364    1.7288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3220    0.4912    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924   -0.7462    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0364   -0.7462    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3924   -2.3961    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6181    1.3723    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1155    0.4912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8211    1.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5357    2.3961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1068    2.3961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2501    1.9836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 12 17  1  0  0  0  0
+  2 18  2  0  0  0  0
+  5 19  1  1  0  0  0
+ 14 20  1  1  0  0  0
+ 12 21  1  1  0  0  0
+  9 22  1  1  0  0  0
+ 10 23  1  6  0  0  0
+ 11 24  1  6  0  0  0
+  7 25  1  6  0  0  0
+ 17 26  1  6  0  0  0
+ 16 27  1  6  0  0  0
+ 17 28  1  1  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  2  0  0  0  0
+ 29 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00663
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H28F2O5/c1-11-6-13-14-8-16(23)15-7-12(26)4-5-19(15,2)21(14,24)17(27)9-20(13,3)22(11,29)18(28)10-25/h4-5,7,11,13-14,16-17,25,27,29H,6,8-10H2,1-3H3/t11-,13+,14+,16+,17+,19+,20+,21+,22+/m1/s1
+
+> <INCHI_KEY>
+WXURHACBFYSXBI-GQKYHHCASA-N
+
+> <FORMULA>
+C22H28F2O5
+
+> <MOLECULAR_WEIGHT>
+410.458
+
+> <EXACT_MASS>
+410.190480328
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.24791429111008
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,2S,8S,10S,11S,13R,14R,15S,17S)-1,8-difluoro-14,17-dihydroxy-14-(2-hydroxyacetyl)-2,13,15-trimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-3,6-dien-5-one
+
+> <ALOGPS_LOGP>
+1.91
+
+> <JCHEM_LOGP>
+1.3418503866666678
+
+> <ALOGPS_LOGS>
+-3.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.427039727833684
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.418192099162177
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.330175673881957
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+102.31629999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.53e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+flumethasone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00663
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00975
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Flumethasone
+
+> <SYNONYMS>
+6alpha,9-Difluoro-11beta,17,21-trihydroxy-16alpha-methylpregna-1,4-diene-3,20-dione; Flumetasona; Flumétasone; Flumetasone; Flumetasonum; Flumethasone
+
+> <PRODUCTS>
+Locacorten .03%; Locacorten Vioform; Locacorten Vioform Eardrops; Locasalen; PMS-flumethasone-clioquinol
+
+> <INTERNATIONAL_BRANDS>
+Cerson; Locacorten; Locorten; Testohgen
+
+> <SALTS>
+Flumethasone acetate; Flumethasone pivalate
+
+$$$$

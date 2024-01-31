@@ -1,0 +1,180 @@
+
+  Mrv1909 01132014142D          
+
+ 28 28  0  0  0  0            999 V2000
+    2.8579   -1.2375    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -3.7125    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.8875    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.4125    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -2.4750    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4429    0.9817    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3 24  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 26  2  0  0  0  0
+  9 27  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 24  1  0  0  0  0
+ 13 25  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+M  CHG  4   4  -1   6  -1  11   1  12   1
+M  END
+> <DATABASE_ID>
+DB04138
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N(CC(=O)C=O)C(=O)C1=CC(N(CCBr)CCBr)=C(C=C1[N+]([O-])=O)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14Br2N4O7/c15-1-3-18(4-2-16)12-5-10(14(23)17-7-9(22)8-21)11(19(24)25)6-13(12)20(26)27/h5-6,8H,1-4,7H2,(H,17,23)
+
+> <INCHI_KEY>
+LECLJMCDJUEAKI-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H14Br2N4O7
+
+> <MOLECULAR_WEIGHT>
+510.092
+
+> <EXACT_MASS>
+507.922924116
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.15588751414152e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.904270808517985
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-[bis(2-bromoethyl)amino]-N-(2,3-dioxopropyl)-2,4-dinitrobenzamide
+
+> <ALOGPS_LOGP>
+2.58
+
+> <JCHEM_LOGP>
+2.6328241336666673
+
+> <ALOGPS_LOGS>
+-5.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.415929154679555
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.38135722833661
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9985049388018354
+
+> <JCHEM_POLAR_SURFACE_AREA>
+152.75999999999996
+
+> <JCHEM_REFRACTIVITY>
+102.2483
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.19e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-9-[(2R,3R,4S,5R)-5-({[({[(2R,3S,4R,5R)-5-(2-amino-6-oxo-3H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy(hydroxy)phosphoryl}oxy(hydroxy)phosphoryl)oxy(hydroxy)phosphoryl]oxy}methyl)-3,4-dihydroxyoxolan-2-yl]-7-methyl-6-oxo-3H-9lambda5-purin-9-ylium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04138
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00668
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-[Bis(2-bromoethyl)amino]-N-(2,3-dioxopropyl)-2,4-dinitrobenzamide
+
+> <SYNONYMS>
+2,4-Dinitro,5-[bis(2-bromoethyl)amino]-N-(2',3'-dioxopropyl)benzamide
+
+$$$$

@@ -1,0 +1,166 @@
+HBN
+  Mrv0541 02231215502D          
+
+ 22 24  0  0  0  0            999 V2000
+   -1.7400    1.8464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4545    2.2589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1690    1.8464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1690    1.0214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4545    0.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7400    1.0214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0256    0.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0256   -0.2161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7400   -0.6286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4545   -0.2161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3111   -0.6286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1178   -1.4536    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1178   -0.6286    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4034   -0.2161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4034    0.6089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8323   -0.2161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5468   -0.6286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3005   -0.2931    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6330   -1.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8525   -0.9062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4400   -1.6206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6121   -0.9206    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 12  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 22  1  6  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01938
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](N)(CC1=CN=CN1)C(=O)NC1=CC=C2C=CC=CC2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16N4O/c17-15(8-14-9-18-10-19-14)16(21)20-13-6-5-11-3-1-2-4-12(11)7-13/h1-7,9-10,15H,8,17H2,(H,18,19)(H,20,21)/t15-/m1/s1
+
+> <INCHI_KEY>
+DKDILZBBFKZMRO-OAHLLOKOSA-N
+
+> <FORMULA>
+C16H16N4O
+
+> <MOLECULAR_WEIGHT>
+280.3244
+
+> <EXACT_MASS>
+280.132411154
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.1836546281065874
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.4585073593768
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-(1H-imidazol-5-yl)-N-(naphthalen-2-yl)propanamide
+
+> <ALOGPS_LOGP>
+1.10
+
+> <JCHEM_LOGP>
+1.0742233419999998
+
+> <ALOGPS_LOGS>
+-3.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.402219810587418
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.745213771563051
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.01162261983542
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.8
+
+> <JCHEM_REFRACTIVITY>
+82.7865
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01938
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01699
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+L-Histidine Beta Naphthylamide
+
+$$$$

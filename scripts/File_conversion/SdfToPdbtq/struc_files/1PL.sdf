@@ -1,0 +1,153 @@
+1PL
+  Mrv0541 02241213042D          
+
+ 20 22  0  0  0  0            999 V2000
+    0.4200   -1.1401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0649   -0.4726    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8899   -0.4726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1448    0.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4774    0.7969    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1900    0.3120    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4450   -0.4726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2700   -0.4726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0769   -0.6441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1837   -1.2931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249    0.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8575    0.7969    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6025    1.5816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2225    1.5816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7074    2.2490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5279    2.1628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3718    3.0027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3300   -0.9929    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9498    1.1402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3299    1.1402    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 18  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 19  1  1  0  0  0
+  6  5  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 20  1  6  0  0  0
+ 14 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06903
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(C)CC[C@]2([H])C(=C[C@@]3([H])CC(C)(C)C[C@@]123)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H22O2/c1-9-4-5-12-11(13(16)17)6-10-7-14(2,3)8-15(9,10)12/h6,9-10,12H,4-5,7-8H2,1-3H3,(H,16,17)/t9-,10-,12+,15-/m0/s1
+
+> <INCHI_KEY>
+DCFDRCCHOOORSB-JOXOIDLHSA-N
+
+> <FORMULA>
+C15H22O2
+
+> <MOLECULAR_WEIGHT>
+234.334
+
+> <EXACT_MASS>
+234.161979948
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9944244926536975
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.70955215803525
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2S,5S,8R)-2,10,10-trimethyltricyclo[6.3.0.0^{1,5}]undec-6-ene-6-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.59
+
+> <JCHEM_LOGP>
+3.292850785333333
+
+> <ALOGPS_LOGS>
+-3.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.748712579950295
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+67.41159999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.15e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06903
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S,3aS,5aR,8aS)-1,7,7-trimethyl-1,2,3,3a,5a,6,7,8-octahydrocyclopenta[c]pentalene-4-carboxylic acid
+
+$$$$

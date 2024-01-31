@@ -1,0 +1,155 @@
+
+  Mrv0541 05041405282D          
+
+ 18 17  0  0  1  0            999 V2000
+    2.7770   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.6349   -0.3020    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4914   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3480   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3493   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5395    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6349    0.5230    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4914   -1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6336   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3480    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0638   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3493   -1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2059   -0.3020    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.1105    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6349   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -1.1270    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  4  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  9  1  1  0  0  0
+  5 10  1  1  0  0  0
+ 11  6  2  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13  7  2  0  0  0  0
+ 14  7  1  0  0  0  0
+ 15  2  1  0  0  0  0
+ 15  5  1  0  0  0  0
+  3 16  1  1  0  0  0
+  4 17  1  1  0  0  0
+  5 18  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03502
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)(C[C@]([H])(N)C(O)=O)SC[C@]([H])(N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H14N2O5S/c8-3(6(11)12)1-5(10)15-2-4(9)7(13)14/h3-5,10H,1-2,8-9H2,(H,11,12)(H,13,14)/t3-,4-,5+/m0/s1
+
+> <INCHI_KEY>
+ZGWOKDWPXPPFGS-VAYJURFESA-N
+
+> <FORMULA>
+C7H14N2O5S
+
+> <MOLECULAR_WEIGHT>
+238.261
+
+> <EXACT_MASS>
+238.062342258
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.030104088655372226
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.41262389551861
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4R)-2-amino-4-{[(2R)-2-amino-2-carboxyethyl]sulfanyl}-4-hydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-4.09
+
+> <JCHEM_LOGP>
+-6.2564034649989555
+
+> <ALOGPS_LOGS>
+-1.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+2.328798802623147
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.619065943600714
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.294469400301445
+
+> <JCHEM_POLAR_SURFACE_AREA>
+146.87
+
+> <JCHEM_REFRACTIVITY>
+52.377
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03502
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01789
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4s)-4-{[(2s)-2-Amino-3-Oxopropyl]Sulfanyl}-L-Homoserinate
+
+$$$$

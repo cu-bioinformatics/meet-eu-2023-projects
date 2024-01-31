@@ -1,0 +1,158 @@
+
+  Mrv0541 02231218442D          
+
+ 19 19  0  0  1  0            999 V2000
+    6.3523   -7.4984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6707   -6.2609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9562   -6.6734    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.6707   -5.4359    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.2417   -6.2609    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.9562   -5.0234    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.2417   -5.4359    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.9562   -7.4984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6707   -7.9109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3852   -5.0234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5273   -5.0234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5273   -6.6734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5273   -7.4984    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7022   -7.4984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5273   -8.3234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9562   -4.1984    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2417   -3.7858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2417   -2.9608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5273   -4.1984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  3  8  1  6  0  0  0
+  9  8  1  0  0  0  0
+  4 10  1  6  0  0  0
+  7 11  1  6  0  0  0
+  5 12  1  6  0  0  0
+ 13 12  1  0  0  0  0
+  1 13  2  0  0  0  0
+ 14 13  2  0  0  0  0
+ 15 13  1  0  0  0  0
+  6 16  1  1  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01872
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@H](OS(O)(=O)=O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO9S/c1-3(11)9-5-6(12)7(18-19(14,15)16)4(2-10)17-8(5)13/h4-8,10,12-13H,2H2,1H3,(H,9,11)(H,14,15,16)/t4-,5-,6-,7+,8-/m1/s1
+
+> <INCHI_KEY>
+WHCJUIFHMJFEFZ-UIAUGNHASA-N
+
+> <FORMULA>
+C8H15NO9S
+
+> <MOLECULAR_WEIGHT>
+301.271
+
+> <EXACT_MASS>
+301.046751773
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.000037056346495
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.949935776389268
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R,3R,4R,5R,6R)-5-acetamido-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-2.04
+
+> <JCHEM_LOGP>
+-4.920668676521459
+
+> <ALOGPS_LOGS>
+-0.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.463895971777568
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.033588192867923
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3884257447108823
+
+> <JCHEM_POLAR_SURFACE_AREA>
+162.62
+
+> <JCHEM_REFRACTIVITY>
+57.0165
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.29e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01872
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02337
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-deoxy-2-acetamido-beta-D-galactose-4-sulfate
+
+$$$$

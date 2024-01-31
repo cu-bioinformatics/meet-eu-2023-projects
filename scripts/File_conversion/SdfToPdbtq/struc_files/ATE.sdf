@@ -1,0 +1,170 @@
+ATE
+  Mrv0541 02231215482D          
+
+ 25 28  0  0  0  0            999 V2000
+    3.2286    0.4743    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4165    0.3291    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1362   -0.4468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3241   -0.5920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8847    0.9598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0725    0.8146    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5407    1.4453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7922    0.0387    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5119   -0.7372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0199   -0.1065    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3002   -0.8824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5517    0.5242    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2714    1.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3638    0.3790    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0151    0.8853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6441   -0.3969    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1123   -1.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0040   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4687   -0.3701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6980    0.4223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7929   -0.1173    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2709    1.3638    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3565   -0.5529    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9281    0.9706    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2239    0.9459    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 21  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 22  1  6  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 23  1  6  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 24  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 25  1  6  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  1  0  0  0
+ 16 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01889
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC=C[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])C[C@]([H])(O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H30O/c1-18-9-3-4-16(18)15-6-5-13-12-14(20)7-11-19(13,2)17(15)8-10-18/h3,9,13-17,20H,4-8,10-12H2,1-2H3/t13-,14+,15-,16-,17-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+KRVXMNNRSSQZJP-PHFHYRSDSA-N
+
+> <FORMULA>
+C19H30O
+
+> <MOLECULAR_WEIGHT>
+274.4409
+
+> <EXACT_MASS>
+274.229665582
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+4.39080531914679e-09
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.66968019841896
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aS,3bR,5aS,7R,9aS,9bS,11aR)-9a,11a-dimethyl-3H,3aH,3bH,4H,5H,5aH,6H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-ol
+
+> <ALOGPS_LOGP>
+5.13
+
+> <JCHEM_LOGP>
+4.072646241333334
+
+> <ALOGPS_LOGS>
+-5.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.29639632111979
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3569562491422038
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+84.23230000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.55e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01889
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00580
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+16,17-Androstene-3-Ol
+
+$$$$

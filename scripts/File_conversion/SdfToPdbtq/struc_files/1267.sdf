@@ -1,0 +1,192 @@
+1267
+  Mrv0541 02231215222D          
+
+ 31 35  0  0  1  0            999 V2000
+    1.6500   -0.6622    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9340   -2.4952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2647    2.2343    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8223   -1.0943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9643   -0.2693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5367    0.1432    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7359   -2.3226    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8223    1.3808    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5353   -1.0943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498   -1.5068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5353   -0.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9643   -1.0943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498    0.1432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6788    0.1432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8208   -1.5068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3932   -0.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1078    0.1432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2742   -0.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2742    1.4093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0218    0.1261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0218    0.9854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5367    0.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0719   -1.1726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8223   -0.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1078    0.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5209   -1.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8156   -0.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3932    1.3808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7136   -1.6165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0083   -0.2183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4573   -0.8324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 31  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 26  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 24  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 22  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8 22  2  0  0  0  0
+  8 25  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 17 25  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 23 26  2  0  0  0  0
+ 23 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 26 29  1  0  0  0  0
+ 27 30  2  0  0  0  0
+ 29 31  2  0  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01267
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCC(O)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H27FN4O3/c1-14-17(23(30)28-9-2-3-19(29)22(28)25-14)8-12-27-10-6-15(7-11-27)21-18-5-4-16(24)13-20(18)31-26-21/h4-5,13,15,19,29H,2-3,6-12H2,1H3
+
+> <INCHI_KEY>
+PMXMIIMHBWHSKN-UHFFFAOYSA-N
+
+> <FORMULA>
+C23H27FN4O3
+
+> <MOLECULAR_WEIGHT>
+426.4839
+
+> <EXACT_MASS>
+426.206718955
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+58
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9832935319528752
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.94729442463925
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-{2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl}-9-hydroxy-2-methyl-4H,6H,7H,8H,9H-pyrido[1,2-a]pyrimidin-4-one
+
+> <ALOGPS_LOGP>
+2.30
+
+> <JCHEM_LOGP>
+1.7565551636666674
+
+> <ALOGPS_LOGS>
+-3.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.742356597192883
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.76316652300069
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.17
+
+> <JCHEM_REFRACTIVITY>
+116.04139999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.97e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01267
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Paliperidone
+
+> <SYNONYMS>
+9-hydroxyrisperidone; Paliperidona; Paliperidone
+
+> <PRODUCTS>
+Byannli; Invega; Invega Hafyera; Invega Sustenna; Invega Trinza; Mar-paliperidone; Mylan-paliperidone; Paliperidone; Paliperidone Janssen-cilag International; Paliperidone Palmitate; Teva-paliperidone Injection; Trevicta; Xeplion
+
+> <INTERNATIONAL_BRANDS>
+Invega Hafyera
+
+> <SALTS>
+Paliperidone palmitate
+
+$$$$

@@ -1,0 +1,181 @@
+
+  Mrv0541 05041402542D          
+
+ 29 29  0  0  1  0            999 V2000
+   -0.1467    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1401    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7112    2.3518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8843    0.8843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2352    0.6294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5678    1.9393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4256    1.9393    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0997    0.6294    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5678    1.1143    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0558    1.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1553   -0.1553    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4256    1.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3297   -0.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9803   -0.1553    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4427    2.2433    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8405    1.9462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1401    0.7018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7112    0.7018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0059   -1.5764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1501   -0.7365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967    1.1143    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7112    3.1768    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4256    2.7643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2287    1.4442    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3028    1.4888    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6596   -0.0262    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0  0  0  0
+  5  3  2  0  0  0  0
+  8  1  1  0  0  0  0
+  8  4  2  0  0  0  0
+  9  2  1  1  0  0  0
+  9  5  1  0  0  0  0
+ 10  6  1  1  0  0  0
+ 11  7  1  0  0  0  0
+ 11  8  1  1  0  0  0
+ 11 10  1  0  0  0  0
+ 12  6  1  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 13 15  1  6  0  0  0
+ 16  7  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 12  2  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19 14  2  0  0  0  0
+ 20 14  1  0  0  0  0
+ 21 15  2  0  0  0  0
+ 22 15  1  0  0  0  0
+ 23  3  1  0  0  0  0
+ 24  4  1  0  0  0  0
+ 25  5  1  0  0  0  0
+  9 26  1  6  0  0  0
+ 10 27  1  6  0  0  0
+ 11 28  1  6  0  0  0
+ 13 29  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02852
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]\C(\C(\[H])=C(\C)[C@@]1([H])CN[C@]([H])(C(O)=O)[C@@]1([H])CC(O)=O)=C(\[H])[C@@]([H])(C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H21NO6/c1-8(4-3-5-9(2)14(19)20)11-7-16-13(15(21)22)10(11)6-12(17)18/h3-5,9-11,13,16H,6-7H2,1-2H3,(H,17,18)(H,19,20)(H,21,22)/b5-3+,8-4-/t9-,10+,11-,13+/m1/s1
+
+> <INCHI_KEY>
+VZFRNCSOCOPNDB-AOKDLOFSSA-N
+
+> <FORMULA>
+C15H21NO6
+
+> <MOLECULAR_WEIGHT>
+311.3303
+
+> <EXACT_MASS>
+311.136887409
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9942556616034666
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.2509317348729
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3S,4S)-4-[(2Z,4E,6R)-6-carboxy-6-methylhexa-2,4-dien-2-yl]-3-(carboxymethyl)pyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.23
+
+> <JCHEM_LOGP>
+-1.7909643388701357
+
+> <ALOGPS_LOGS>
+-2.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.2155932749753955
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.682276677553546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.590344822229435
+
+> <JCHEM_POLAR_SURFACE_AREA>
+123.93000000000002
+
+> <JCHEM_REFRACTIVITY>
+79.03399999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.59e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02852
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01248
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Domoic Acid
+
+> <SYNONYMS>
+(-)-domoic acid; L-domoic acid
+
+$$$$

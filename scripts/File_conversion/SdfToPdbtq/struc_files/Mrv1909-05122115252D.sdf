@@ -1,0 +1,143 @@
+
+  Mrv1909 05122115252D          
+
+ 15 13  0  0  0  0            999 V2000
+   -2.9025    0.9305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0774    0.9305    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0774    0.1055    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6738   -0.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0775   -0.6029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9025    0.1055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3689    1.3521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6559    0.9395    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1336    0.0135    0.0000 Pt  0  2  0  0  0  0  0  0  0  0  0  0
+    1.9139   -0.7085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0853   -0.7085    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.1304    0.0851    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4420    0.5411    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.9025    0.3810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4287   -1.3521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  6  0  0  0
+  4  5  1  0  0  0  0
+  6  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  1  0  0  0
+  7  8  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  1  0  0  0
+ 10 15  2  0  0  0  0
+M  CHG  3   9   2  11  -1  13  -1
+M  END
+> <DATABASE_ID>
+DB13049
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Pt++].C[C@H]([O-])C([O-])=O.NC[C@@H]1CC[C@H]1CN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2.C3H5O3.Pt/c7-3-5-1-2-6(5)4-8;1-2(4)3(5)6;/h5-6H,1-4,7-8H2;2H,1H3,(H,5,6);/q;-1;+2/p-1/t5-,6-;2-;/m00./s1
+
+> <INCHI_KEY>
+RLXPIABKJFUYFG-DOYDWZMXSA-M
+
+> <FORMULA>
+C9H18N2O3Pt
+
+> <MOLECULAR_WEIGHT>
+397.338
+
+> <EXACT_MASS>
+397.096534
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.998443701735992
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.032092968678556
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+platinum(2+) 1-[(1R,2R)-2-(aminomethyl)cyclobutyl]methanamine (2S)-2-oxidopropanoate
+
+> <ALOGPS_LOGP>
+0.29
+
+> <JCHEM_LOGP>
+-0.5789005139999999
+
+> <ALOGPS_LOGS>
+-0.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.511612417033609
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.04
+
+> <JCHEM_REFRACTIVITY>
+34.5196
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.29e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+colpotrophine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13049
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Lobaplatin
+
+> <SYNONYMS>
+Lobaplatin
+
+$$$$

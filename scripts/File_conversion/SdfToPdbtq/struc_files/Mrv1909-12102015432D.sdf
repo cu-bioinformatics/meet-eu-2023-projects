@@ -1,0 +1,173 @@
+
+  Mrv1909 12102015432D          
+
+ 28 31  0  0  0  0            999 V2000
+   -0.4884   -0.1783    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2294   -0.5749    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1850   -0.5891    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4871    0.6467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9311   -0.1510    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2431   -1.4040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1885   -1.4056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9111   -0.1824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1901    0.2472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1935    1.0633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9327    0.6690    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7245   -0.3839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4852   -1.8253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9086   -1.8371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6332   -0.5926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7056    0.9322    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9133    1.4950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1855    0.2775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6332   -1.4419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9069   -2.6630    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.9826    1.7229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3411   -1.8769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7822    1.8906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3411    1.2959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0269    2.6630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4723   -0.9987    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2242    0.2440    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8253   -0.9602    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  1  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  1  0  0  0
+ 12 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 16 21  1  1  0  0  0
+ 19 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  2  0  0  0  0
+  7 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  1  0  0  0  0
+  1 26  1  6  0  0  0
+  2 27  1  1  0  0  0
+  5 28  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB15984
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@H](OC(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(Cl)C(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H29ClO3/c1-12(23)25-18-7-6-14-13-4-5-16-19(22)17(24)9-11-20(16,2)15(13)8-10-21(14,18)3/h13-15,18H,4-11H2,1-3H3/t13-,14-,15-,18-,20+,21-/m0/s1
+
+> <INCHI_KEY>
+XYGMEFJSKQEBTO-KUJXMBTLSA-N
+
+> <FORMULA>
+C21H29ClO3
+
+> <MOLECULAR_WEIGHT>
+364.91
+
+> <EXACT_MASS>
+364.1805225
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.68316548849435
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,3aS,3bR,9aR,9bS,11aS)-6-chloro-9a,11a-dimethyl-7-oxo-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-1-yl acetate
+
+> <ALOGPS_LOGP>
+3.95
+
+> <JCHEM_LOGP>
+4.195501024666667
+
+> <ALOGPS_LOGS>
+-5.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.242019815115108
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+98.37259999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.09e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+menglytate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15984
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Clostebol acetate
+
+> <SYNONYMS>
+4-Chlorotestosterone acetate; Chlorotestosterone acetate; Clostebol acetate
+
+$$$$

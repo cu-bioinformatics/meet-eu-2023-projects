@@ -1,0 +1,180 @@
+
+  Mrv0541 05031420092D          
+
+ 29 31  0  0  1  0            999 V2000
+    4.7079   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    3.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249    3.1994    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7403    2.9445    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7403    2.1195    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249    1.8646    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2789   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728    3.4294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0728    1.6346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0967    5.7248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6264    4.6853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0571    5.1951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5868    4.1556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0098    2.5320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8417    4.9402    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7772    3.5481    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5829    3.7543    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0052    2.4940    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9415    1.2812    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934   -1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  2  1  1  0  0  0
+  7  5  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  6  2  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  9  2  0  0  0  0
+ 13  4  2  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14  3  2  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15  1  1  0  0  0  0
+ 15  3  1  0  0  0  0
+ 15  9  1  0  0  0  0
+ 16  4  1  0  0  0  0
+ 16 10  1  0  0  0  0
+ 11 16  1  1  0  0  0
+  7 17  1  6  0  0  0
+  8 18  1  6  0  0  0
+ 22  2  1  0  0  0  0
+ 23  5  1  0  0  0  0
+ 23 11  1  0  0  0  0
+ 24 19  1  0  0  0  0
+ 24 20  1  0  0  0  0
+ 24 21  2  0  0  0  0
+ 24 22  1  0  0  0  0
+  5 25  1  6  0  0  0
+  7 26  1  1  0  0  0
+  8 27  1  1  0  0  0
+ 11 28  1  6  0  0  0
+ 29 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03318
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N=C1N(C)C=NC2=C1N=CN2[C@]1([H])O[C@]([H])(COP(O)(O)=O)[C@@]([H])(O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16N5O7P/c1-15-3-14-10-6(9(15)12)13-4-16(10)11-8(18)7(17)5(23-11)2-22-24(19,20)21/h3-5,7-8,11-12,17-18H,2H2,1H3,(H2,19,20,21)/b12-9+/t5-,7-,8-,11-/m1/s1
+
+> <INCHI_KEY>
+BKBYKEWNXKDACS-KYBGKHJCSA-N
+
+> <FORMULA>
+C11H16N5O7P
+
+> <MOLECULAR_WEIGHT>
+361.2478
+
+> <EXACT_MASS>
+361.078734403
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8863013983127421
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.064645029341214
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-imino-1-methyl-6,9-dihydro-1H-purin-9-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.89
+
+> <JCHEM_LOGP>
+-2.617128334547889
+
+> <ALOGPS_LOGS>
+-2.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.362868086004011
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.224863686308159
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.608344156860413
+
+> <JCHEM_POLAR_SURFACE_AREA>
+173.71999999999997
+
+> <JCHEM_REFRACTIVITY>
+89.97139999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03318
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00075
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-Hydro-1-Methyladenosine-5'-Monophosphate
+
+$$$$

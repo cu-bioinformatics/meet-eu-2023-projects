@@ -1,0 +1,148 @@
+
+  Mrv1909 11231916162D          
+
+ 18 18  0  0  0  0            999 V2000
+    1.3167    0.9369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6492    2.2470    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9843    2.2470    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1122   -1.5382    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.8268   -2.7758    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5413   -1.5382    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6022   -0.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1122   -0.7132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6022    0.5243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9042    3.0316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7292    3.0316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8268   -1.9507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3167    1.7620    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3307   -1.7940    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3837   -3.0316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2698   -3.0316    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5413   -1.0267    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9843   -1.7940    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  CHG  1   4   1
+M  END
+> <DATABASE_ID>
+DB03129
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([H])C(N([H])[H])=[N+]([H])CCCOB1OCCO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14BN3O3/c8-6(9)10-2-1-3-11-7-12-4-5-13-7/h1-5H2,(H4,8,9,10)/p+1
+
+> <INCHI_KEY>
+QHANCKHXGBJANE-UHFFFAOYSA-O
+
+> <FORMULA>
+C6H15BN3O3
+
+> <MOLECULAR_WEIGHT>
+188.013
+
+> <EXACT_MASS>
+188.120646827
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.4931213022874
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(diaminomethylidene)[3-(1,3,2-dioxaborolan-2-yloxy)propyl]azanium
+
+> <ALOGPS_LOGP>
+0.18
+
+> <JCHEM_LOGP>
+0.8287000000000007
+
+> <ALOGPS_LOGS>
+-1.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.699790091620992
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.7
+
+> <JCHEM_REFRACTIVITY>
+53.62360000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.47e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-(3-{[4-(benzyloxy)-3,5-dimethoxyphenyl]formamido}-2-hydroxy-4-phenylbutyl)-3-(1,3-dioxoisoindol-2-yl)-N-{2-[(5S)-hexahydro-2H-1,3-benzodioxol-5-yl]ethyl}propanamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03129
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02858
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Diamino-N-[3-(1,3,2-dioxaborolan-2-yloxy)propyl]methaniminium
+
+> <SYNONYMS>
+[3-(1,3,2-dioxaborolan-2-yloxy)propyl]guanidine
+
+$$$$

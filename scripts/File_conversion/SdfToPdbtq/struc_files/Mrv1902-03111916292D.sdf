@@ -1,0 +1,137 @@
+
+  Mrv1902 03111916292D          
+
+ 14 15  0  0  0  0            999 V2000
+   -2.5828   -0.5618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8291   -0.8974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1617   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1617    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8291    0.8974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3770    0.6674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1078    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3770   -0.6674    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5203    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3453    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7578    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3453   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5203   -0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5828    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  3  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05152
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC[C@@H]1SC2(CCN(C)CC2)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18N2OS/c1-3-8-9(13)11-10(14-8)4-6-12(2)7-5-10/h8H,3-7H2,1-2H3,(H,11,13)/t8-/m0/s1
+
+> <INCHI_KEY>
+PHOZOHFUXHPOCK-QMMMGPOBSA-N
+
+> <FORMULA>
+C10H18N2OS
+
+> <MOLECULAR_WEIGHT>
+214.33
+
+> <EXACT_MASS>
+214.113984382
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.653273278895202
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-ethyl-8-methyl-1-thia-4,8-diazaspiro[4.5]decan-3-one
+
+> <ALOGPS_LOGP>
+1.21
+
+> <JCHEM_LOGP>
+1.363301031333334
+
+> <ALOGPS_LOGS>
+-1.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.845563735109415
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.35459482636016
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.34
+
+> <JCHEM_REFRACTIVITY>
+58.83820000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nomifensine maleate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB05152
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+NGX267
+
+$$$$

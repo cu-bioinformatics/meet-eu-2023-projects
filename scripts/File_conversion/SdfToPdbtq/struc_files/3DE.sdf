@@ -1,0 +1,149 @@
+3DE
+  Mrv0541 02241213102D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.1583    0.9018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8728    1.3143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8728    2.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5873    2.5518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1583    0.0768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8258   -0.4081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5708   -1.1927    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6104   -0.1532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4909   -0.4081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2937   -0.1532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7458   -1.1927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2609   -1.8602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5965   -2.6138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1115   -3.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7089   -3.1950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0445   -2.4414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5596   -1.7739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4438    1.3143    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 18  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  CHG  1   7   1
+M  END
+> <DATABASE_ID>
+DB07051
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)C1=C(C)N([NH+]=C1C)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N2O2/c1-4-18-14(17)13-10(2)15-16(11(13)3)12-8-6-5-7-9-12/h5-9H,4H2,1-3H3/p+1
+
+> <INCHI_KEY>
+BUIZDUYEIRRDAV-UHFFFAOYSA-O
+
+> <FORMULA>
+C14H17N2O2
+
+> <MOLECULAR_WEIGHT>
+245.297
+
+> <EXACT_MASS>
+245.129002798
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+9.235205164700067e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.547444449579107
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(ethoxycarbonyl)-3,5-dimethyl-1-phenyl-1H-pyrazol-2-ium
+
+> <ALOGPS_LOGP>
+0.40
+
+> <JCHEM_LOGP>
+2.7502807330000008
+
+> <ALOGPS_LOGS>
+-3.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.965450559206871
+
+> <JCHEM_POLAR_SURFACE_AREA>
+45.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+92.14690000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.55e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07051
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,5-DIMETHYL-1-PHENYL-1H-PYRAZOLE-4-CARBOXYLIC ACID ETHYL ESTER
+
+$$$$

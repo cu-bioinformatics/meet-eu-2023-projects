@@ -1,0 +1,20 @@
+REMARK  Name = 
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_1  and  C_4
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  GLN A   1      14.414 -10.095   0.000  0.00  0.00    +0.000 C 
+ATOM      2  N   GLN A   1      13.702 -10.507   0.000  0.00  0.00    +0.000 NA
+ATOM      3  CB  GLN A   1      14.414  -9.270   0.000  0.00  0.00    +0.000 C 
+ATOM      4  CD  GLN A   1      12.994 -10.095   0.000  0.00  0.00    +0.000 C 
+ATOM      5  CG  GLN A   1      12.994  -9.270   0.000  0.00  0.00    +0.000 C 
+ATOM      6  OE1 GLN A   1      12.279 -10.503   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   7
+ATOM      7  C   GLN A   1      15.129 -10.507   0.000  0.00  0.00    +0.000 C 
+ATOM      8  O   GLN A   1      15.125 -11.551   0.000  0.00  0.00    +0.000 OA
+ATOM      9  OXT GLN A   1      15.840 -10.091   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   7
+TORSDOF 1

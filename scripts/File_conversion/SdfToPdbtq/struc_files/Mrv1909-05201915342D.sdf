@@ -1,0 +1,147 @@
+
+  Mrv1909 05201915342D          
+
+ 18 20  0  0  0  0            999 V2000
+   -4.3409   -1.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9284   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1034   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4534   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659   -1.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909   -1.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -0.0305    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.1271    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 11 18  1  0  0  0  0
+M  ISO  1  16  18
+M  END
+> <DATABASE_ID>
+DB15457
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNC1=CC=C(C=C1)C1=NC2=C(S1)C=C([18F])C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H11FN2S/c1-16-11-5-2-9(3-6-11)14-17-12-7-4-10(15)8-13(12)18-14/h2-8,16H,1H3/i15-1
+
+> <INCHI_KEY>
+QLWFXLJVGCECSV-HUYCHCPVSA-N
+
+> <FORMULA>
+C14H11FN2S
+
+> <MOLECULAR_WEIGHT>
+257.32
+
+> <EXACT_MASS>
+257.065232203
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.178936025393085
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[6-(¹⁸F)fluoro-1,3-benzothiazol-2-yl]-N-methylaniline
+
+> <ALOGPS_LOGP>
+4.28
+
+> <JCHEM_LOGP>
+3.7537220783333334
+
+> <ALOGPS_LOGS>
+-4.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.6404389421941237
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.92
+
+> <JCHEM_REFRACTIVITY>
+82.6405
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.21e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15457
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Snubh-nm-333 F-18
+
+> <SYNONYMS>
+SNUBH-NM-333(18F)
+
+$$$$

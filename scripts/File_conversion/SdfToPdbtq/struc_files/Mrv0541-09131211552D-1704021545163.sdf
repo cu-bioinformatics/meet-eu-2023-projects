@@ -1,0 +1,183 @@
+
+  Mrv0541 09131211552D          
+
+ 29 31  0  0  0  0            999 V2000
+   -4.8280    1.3976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3385    2.4181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6240    2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0529    2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3367    3.8358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1251    3.5927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0905    2.4181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7320    3.2747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3087    2.7884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7674    2.4181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2003    0.1355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3839    0.9398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8050    2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5934   -0.1825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8051   -0.4257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9155    2.4704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1722    1.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7039    2.2272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7770    0.6218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4819    2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2339    2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6215   -1.2300    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5194    2.4181    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0053    1.4592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1963    2.4181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4819    1.1806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6974   -0.0736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3163    0.3484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5928    0.7448    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  5  1  0  0  0  0
+  9  6  1  0  0  0  0
+ 10  4  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 13  7  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16  8  2  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18  9  2  0  0  0  0
+ 18 16  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 19 17  2  0  0  0  0
+ 20 10  1  0  0  0  0
+ 21 16  1  0  0  0  0
+ 21 17  1  0  0  0  0
+ 22 15  1  0  0  0  0
+ 23 13  1  0  0  0  0
+ 23 21  1  0  0  0  0
+ 24  1  1  0  0  0  0
+ 24 18  1  0  0  0  0
+ 25 20  2  0  0  0  0
+ 26 20  1  0  0  0  0
+ 29 19  1  0  0  0  0
+ 29 24  1  0  0  0  0
+ 29 27  2  0  0  0  0
+ 29 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09289
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C2=CC=CC=C2C(NCCCCCCC(O)=O)C2=C(C=C(Cl)C=C2)S1(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H25ClN2O4S/c1-24-18-9-6-5-8-16(18)21(23-13-7-3-2-4-10-20(25)26)17-12-11-15(22)14-19(17)29(24,27)28/h5-6,8-9,11-12,14,21,23H,2-4,7,10,13H2,1H3,(H,25,26)
+
+> <INCHI_KEY>
+JICJBGPOMZQUBB-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H25ClN2O4S
+
+> <MOLECULAR_WEIGHT>
+436.952
+
+> <EXACT_MASS>
+436.122355695
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.12984427522994957
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.73700111486019
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-({6-chloro-10-methyl-9,9-dioxo-9lambda6-thia-10-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(15),3(8),4,6,11,13-hexaen-2-yl}amino)heptanoic acid
+
+> <ALOGPS_LOGP>
+2.07
+
+> <JCHEM_LOGP>
+1.5431322212128615
+
+> <ALOGPS_LOGS>
+-5.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.215903778886813
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.813851824780686
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.71000000000001
+
+> <JCHEM_REFRACTIVITY>
+113.40649999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.13e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09289
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tianeptine
+
+> <SYNONYMS>
+Tianeptina; Tianeptine
+
+> <INTERNATIONAL_BRANDS>
+Coaxil; Neptine; Salymbra; Stablon; Tatinol; Tianeurax; Zinosal
+
+> <SALTS>
+Tianeptine sodium
+
+$$$$

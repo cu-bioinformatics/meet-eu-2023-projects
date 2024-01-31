@@ -1,0 +1,159 @@
+
+  Mrv1909 01012023392D          
+
+ 18 18  0  0  0  0            999 V2000
+   -0.3545    0.4234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3545   -0.4047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3607   -0.8167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0759   -0.4047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0759    0.4234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3607    0.8353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3607    1.6594    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7932   -0.8260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0718   -0.8303    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0702    2.0674    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7920   -1.6543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5073   -0.4151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5046    0.4120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5009   -2.0674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7985   -0.4235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0582   -1.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3437   -2.0674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5073   -0.8447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  7 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  8 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  8 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 15  1  0  0  0  0
+  1  2  2  0  0  0  0
+  9 16  1  0  0  0  0
+  4  8  1  0  0  0  0
+ 16 17  1  0  0  0  0
+  1  6  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13272
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)C1=NC(=NN)N=C(N1)N(CC)CC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H23N7/c1-5-17(6-2)10-13-9(16-12)14-11(15-10)18(7-3)8-4/h5-8,12H2,1-4H3,(H,13,14,15,16)
+
+> <INCHI_KEY>
+IRQOBYXMACIFKD-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H23N7
+
+> <MOLECULAR_WEIGHT>
+253.354
+
+> <EXACT_MASS>
+253.201493769
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.999999949438631
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.803550082111517
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N2,N2,N4,N4-tetraethyl-6-hydrazinylidene-3,6-dihydro-1,3,5-triazine-2,4-diamine
+
+> <ALOGPS_LOGP>
+1.32
+
+> <JCHEM_LOGP>
+0.6669265989999997
+
+> <ALOGPS_LOGS>
+-2.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA>
+18.803057681741027
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.004107808916787
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.48558477597529
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.61
+
+> <JCHEM_REFRACTIVITY>
+74.7604
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.27e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+meladrazine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13272
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Meladrazine
+
+> <SYNONYMS>
+Meladrazina; Meladrazine; Méladrazine; Meladrazinum
+
+> <INTERNATIONAL_BRANDS>
+Lisidonil
+
+$$$$

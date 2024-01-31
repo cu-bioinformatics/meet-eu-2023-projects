@@ -1,0 +1,168 @@
+HIN
+  Mrv0541 02241213432D          
+
+ 24 24  0  0  0  0            999 V2000
+   -1.1202    0.9367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5801    0.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8501   -0.4665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3100   -1.0902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5001   -0.9343    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7702   -0.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5803    0.0012    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8503    0.7808    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605    0.9367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9305    1.7162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1204   -0.6224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5801   -1.8697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3902   -2.0256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6602   -2.8052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4704   -2.9611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0105   -2.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7404   -1.5579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9303   -1.4020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6602   -0.6224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2301    0.4689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2006    0.3130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8501    1.7162    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1189   -0.5384    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1980    0.4426    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 22  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4  5  1  1  0  0  0
+  4 12  1  0  0  0  0
+  4 23  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 20  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  6  0  0  0
+  7 24  1  6  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 21  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07899
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(NC(C)=O)C(=O)N[C@@]([H])(CC1=CC=CC=C1)C(=O)CCCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H21ClN2O3/c1-11(18-12(2)20)16(22)19-14(15(21)8-9-17)10-13-6-4-3-5-7-13/h3-7,11,14H,8-10H2,1-2H3,(H,18,20)(H,19,22)/t11-,14-/m0/s1
+
+> <INCHI_KEY>
+WABWAIGLGFELMI-FZMZJTMJSA-N
+
+> <FORMULA>
+C16H21ClN2O3
+
+> <MOLECULAR_WEIGHT>
+324.803
+
+> <EXACT_MASS>
+324.124070255
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-4.318035078911083e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.66327392561723
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-N-[(2S)-5-chloro-3-oxo-1-phenylpentan-2-yl]-2-acetamidopropanamide
+
+> <ALOGPS_LOGP>
+1.28
+
+> <JCHEM_LOGP>
+1.463924727666667
+
+> <ALOGPS_LOGS>
+-3.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.759385978822893
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.395110067906762
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9249631830926877
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+84.86120000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.74e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07899
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S) N-acetyl-L-alanyl-αL-phenylalanyl-chloroethylketone
+
+> <SYNONYMS>
+N2-Acetyl-N-[(2S)-5-chloro-3-oxo-1-phenyl-2-pentanyl]-L-alaninamide
+
+$$$$

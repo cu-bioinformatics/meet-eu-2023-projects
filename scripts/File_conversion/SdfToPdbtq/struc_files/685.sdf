@@ -1,0 +1,177 @@
+685
+  Mrv0541 02241213162D          
+
+ 29 31  0  0  0  0            999 V2000
+   -3.0219   -2.4674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0219   -1.6424    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.7364   -1.2299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4509   -1.6424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3075   -1.2299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5930   -1.6424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5930   -2.4674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8785   -1.2299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1248   -1.5655    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4272   -0.9524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0147   -0.2379    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7923   -0.4095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4054    0.1426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2477   -1.0386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5832   -1.7923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4037   -1.8786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8886   -1.2111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5531   -0.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0380    0.2100    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7024    0.9637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1874    1.6311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8518    2.3848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3367    3.0522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0313    2.4710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5464    1.8036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7259    1.8898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8820    1.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7326   -0.3712    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5276   -1.9344    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 29  1  6  0  0  0
+  4  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  6  2  0  0  0  0
+  8 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 28  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 17  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 20 27  1  0  0  0  0
+ 21 20  2  0  0  0  0
+ 22 21  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 22  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  2  0  0  0  0
+ 28 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07194
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](C)(CO)NC(=O)C1=C(C)N=C(S1)C1=NC(NC2=CC(C)=CC(C)=C2)=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H23N5O2S/c1-11-7-12(2)9-15(8-11)24-20-21-6-5-16(25-20)19-23-14(4)17(28-19)18(27)22-13(3)10-26/h5-9,13,26H,10H2,1-4H3,(H,22,27)(H,21,24,25)/t13-/m0/s1
+
+> <INCHI_KEY>
+PEGXADGTBNRSGV-ZDUSSCGKSA-N
+
+> <FORMULA>
+C20H23N5O2S
+
+> <MOLECULAR_WEIGHT>
+397.494
+
+> <EXACT_MASS>
+397.157245695
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+7.915606652219606e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.45183219167632
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{2-[(3,5-dimethylphenyl)amino]pyrimidin-4-yl}-N-[(2S)-1-hydroxypropan-2-yl]-4-methyl-1,3-thiazole-5-carboxamide
+
+> <ALOGPS_LOGP>
+3.11
+
+> <JCHEM_LOGP>
+3.3293023490000007
+
+> <ALOGPS_LOGS>
+-5.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.92824858622089
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.12499618754962
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.2261976270118342
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.03
+
+> <JCHEM_REFRACTIVITY>
+120.23669999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.70e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07194
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-{2-[(3,5-dimethylphenyl)amino]pyrimidin-4-yl}-N-[(1S)-2-hydroxy-1-methylethyl]-4-methyl-1,3-thiazole-5-carboxamide
+
+$$$$

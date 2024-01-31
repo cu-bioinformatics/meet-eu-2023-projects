@@ -1,0 +1,158 @@
+
+  Mrv1909 11261904592D          
+
+ 20 20  0  0  0  0            999 V2000
+    1.2932   -0.0166    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0077    0.3958    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.2933   -0.8417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5648   -0.0166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502    1.2208    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -3.3168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2932    1.6334    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -0.8417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9606    2.1184    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7057    2.9030    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5787    0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -0.0166    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2932    0.8083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1661    1.1103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502    0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6257    2.1184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502   -1.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8806    2.9030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8502   -2.0793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1357   -2.4918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 11  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 20  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 12  8  1  1  0  0  0
+  8 17  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  1  0  0  0
+ 12 15  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  CHG  1   2  -1
+M  END
+> <DATABASE_ID>
+DB03834
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(CN1C=CN=N1)([C@@H](N\C=C/C=O)C(O)=O)S([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N4O5S/c1-10(20(18)19,7-14-5-4-12-13-14)8(9(16)17)11-3-2-6-15/h2-6,8,11H,7H2,1H3,(H,16,17)(H,18,19)/p-1/b3-2-/t8-,10-/m0/s1
+
+> <INCHI_KEY>
+YGFMROFTTCPCKY-AARLMMRRSA-M
+
+> <FORMULA>
+C10H13N4O5S
+
+> <MOLECULAR_WEIGHT>
+301.3
+
+> <EXACT_MASS>
+301.061214289
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.818833883969393
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S)-1-carboxy-2-methyl-1-{[(1Z)-3-oxoprop-1-en-1-yl]amino}-3-(1H-1,2,3-triazol-1-yl)propane-2-sulfinate
+
+> <ALOGPS_LOGP>
+-0.21
+
+> <JCHEM_LOGP>
+-1.9370700331151292
+
+> <ALOGPS_LOGS>
+-1.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.377369087026545
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.001880924459352
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.7366751464722887
+
+> <JCHEM_POLAR_SURFACE_AREA>
+137.24
+
+> <JCHEM_REFRACTIVITY>
+78.63279999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.57e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1-methyl-3H-pyrimidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03834
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03014
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3S)-3-(dioxidosulfanyl)-N-[(1Z)-3-oxoprop-1-en-1-yl]-4-(1H-1,2,3-triazol-1-yl)-D-valine
+
+> <SYNONYMS>
+Tazobactam Intermediate
+
+$$$$

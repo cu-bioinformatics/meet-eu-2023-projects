@@ -1,0 +1,150 @@
+IS2
+  Mrv0541 02231217042D          
+
+ 15 15  0  0  0  0            999 V2000
+    1.2541    0.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2541   -0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5397   -0.8162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1748   -0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1748    0.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5397    0.8338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8893   -0.8162    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6037   -0.4037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6037    0.4213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3182   -0.8162    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0327   -1.2287    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9057   -1.5307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7307   -0.1017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9686    0.8338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9686    1.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03628
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC1=CC=C(NC(=O)P(O)(O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12NO4P/c1-2-7-3-5-8(6-4-7)10-9(11)15(12,13)14/h3-6H,2H2,1H3,(H,10,11)(H2,12,13,14)
+
+> <INCHI_KEY>
+KGNSYMGWPCEFDZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H12NO4P
+
+> <MOLECULAR_WEIGHT>
+229.1696
+
+> <EXACT_MASS>
+229.050394389
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9848988049455354
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.518007629964174
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(4-ethylphenyl)carbamoyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+0.83
+
+> <JCHEM_LOGP>
+1.577301197333333
+
+> <ALOGPS_LOGS>
+-2.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.486867833057581
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.34421870395252285
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.133216926549772
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.63
+
+> <JCHEM_REFRACTIVITY>
+56.992599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03628
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01930
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ISO24
+
+$$$$

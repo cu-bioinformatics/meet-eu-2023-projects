@@ -1,0 +1,175 @@
+SNH
+  Mrv0541 02241214102D          
+
+ 28 30  0  0  0  0            999 V2000
+    0.3360    1.7766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0034    1.2917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7485    0.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0765    0.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3315    1.2917    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5615   -0.1604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3819   -0.0742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2259   -0.9141    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2334   -0.1604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8978   -0.9141    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6515   -1.2496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1441   -0.5785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5623   -1.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0472   -2.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7116   -3.0889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1089   -3.1751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5938   -2.5077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2582   -1.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7431   -1.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4444   -3.9288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3360    2.6016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3315    3.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0765    3.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7485    3.8711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0034    3.0865    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2334    4.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8978    5.2922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0539    4.4523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08556
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)C1=CC=C(S1)C1=CC(NS(=O)(=O)C2=CC=C(C)C=C2C)=C(S1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H17NO5S3/c1-10-4-7-17(11(2)8-10)28(24,25)20-13-9-16(27-18(13)19(22)23)15-6-5-14(26-15)12(3)21/h4-9,20H,1-3H3,(H,22,23)
+
+> <INCHI_KEY>
+CMHHNHDPPWDNAH-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H17NO5S3
+
+> <MOLECULAR_WEIGHT>
+435.537
+
+> <EXACT_MASS>
+435.026884729
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.2365339141885934
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.67931302894516
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5'-acetyl-4-(2,4-dimethylbenzenesulfonamido)-[2,2'-bithiophene]-5-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.45
+
+> <JCHEM_LOGP>
+4.169384586666666
+
+> <ALOGPS_LOGS>
+-4.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.507811203829159
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8044712808433827
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.816181576400538
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.53999999999999
+
+> <JCHEM_REFRACTIVITY>
+109.11580000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.30e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08556
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5'-ACETYL-4-{[(2,4-DIMETHYLPHENYL)SULFONYL]AMINO}-2,2'-BITHIOPHENE-5-CARBOXYLIC ACID
+
+$$$$

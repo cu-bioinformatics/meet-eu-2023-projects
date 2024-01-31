@@ -1,0 +1,171 @@
+
+  Mrv1909 12091921072D          
+
+ 26 27  0  0  0  0            999 V2000
+   -1.0716   -0.5403    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.5403    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -3.0154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007   -2.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -2.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007    0.2846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    1.5221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    2.7596    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5007    1.5221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    1.9346    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.0716    2.7596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -2.1904    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7861   -1.7779    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.7779    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.9528    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.9528    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5007   -0.5403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    1.9346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5146    3.0154    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6287    3.0154    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+ 16  2  1  6  0  0  0
+  2 18  1  0  0  0  0
+ 12  3  1  1  0  0  0
+ 13  4  1  1  0  0  0
+ 14  5  1  6  0  0  0
+  6 17  1  0  0  0  0
+  7 24  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  1  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+M  CHG  2   8  -1  10   1
+M  END
+> <DATABASE_ID>
+DB02802
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([H])C(=O)C1=CC(=CC(O[C@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16N2O9/c14-12(20)5-1-6(15(21)22)3-7(2-5)23-13-11(19)10(18)9(17)8(4-16)24-13/h1-3,8-11,13,16-19H,4H2,(H2,14,20)/t8-,9+,10+,11-,13+/m1/s1
+
+> <INCHI_KEY>
+BYSXBFJVGIOFBO-LNSPPBFMSA-N
+
+> <FORMULA>
+C13H16N2O9
+
+> <MOLECULAR_WEIGHT>
+344.2741
+
+> <EXACT_MASS>
+344.08558012
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.943622450848608
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-nitro-5-{[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzamide
+
+> <ALOGPS_LOGP>
+-1.31
+
+> <JCHEM_LOGP>
+-1.8077631153333331
+
+> <ALOGPS_LOGS>
+-1.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.736306949688757
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.096190510202746
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7956803194676128
+
+> <JCHEM_POLAR_SURFACE_AREA>
+185.61
+
+> <JCHEM_REFRACTIVITY>
+75.58220000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.34e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1R,2S,6S,9R,11S)-11-(hydroxymethyl)-4,4,11-trimethyl-3,5,7,10,12-pentaoxatricyclo[7.3.0.0^{2,6}]dodecan-6-yl]methyl sulfamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02802
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01462
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(alpha-D-Galactopyranosyloxy)-5-nitrobenzamide
+
+> <SYNONYMS>
+3-(α-D-Galactopyranosyloxy)-5-nitrobenzamide; 5-aminocarbonyl-3-nitrophenyl-alpha-D-galactopyranose
+
+$$$$

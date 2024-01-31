@@ -1,0 +1,160 @@
+709
+  Mrv0541 02231214572D          
+
+ 15 16  0  0  1  0            999 V2000
+    2.6665   -1.4952    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7465   -0.7106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6409   -2.9164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.5994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.5994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8369    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.0744    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2256    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4115   -0.7106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4916   -1.4952    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9764   -2.1627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.2494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 13  2  0  0  0  0
+  8  5  1  1  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00709
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N3O3S/c9-5-1-2-11(8(13)10-5)6-4-15-7(3-12)14-6/h1-2,6-7,12H,3-4H2,(H2,9,10,13)/t6-,7+/m0/s1
+
+> <INCHI_KEY>
+JTEGQNOMFQHVDC-NKWVEPMBSA-N
+
+> <FORMULA>
+C8H11N3O3S
+
+> <MOLECULAR_WEIGHT>
+229.256
+
+> <EXACT_MASS>
+229.052111923
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.001999076677095379
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.981035325631883
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-[(2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.29
+
+> <JCHEM_LOGP>
+-1.0951075880000003
+
+> <ALOGPS_LOGS>
+-1.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.21717387420703
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.294600723253987
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.301709539528952
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.15
+
+> <JCHEM_REFRACTIVITY>
+55.1645
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.76e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00709
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00681
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Lamivudine
+
+> <SYNONYMS>
+(-)-1-((2R,5S)-2-(Hydroxymethyl)-1,3-oxathiolan-5-yl)cytosine; (-)-2'-Deoxy-3'-thiacytidine; 2',3'-Dideoxy-3'-thiacytidine; 3'-Thia-2',3'-dideoxycytidine; 3TC; beta-L-2',3'-Dideoxy-3'-thiacytidine; beta-L-3'-Thia-2',3'-dideoxycytidine; Lamivudin; Lamivudina; Lamivudine; Lamivudinum
+
+> <PRODUCTS>
+3tc; Abacavir Sulfate, Lamivudine and Zidovudine; Abacavir and Lamivudine; Abacavir and lamivudine; Abacavir, Lamivudine and Zidovudine; Apo-abacavir-lamivudine; Apo-abacavir-lamivudine Tablets; Apo-abacavir-lamivudine-zidovudine; Apo-lamivudine; Apo-lamivudine Hbv; Apo-lamivudine-zidovudine; Apo-zidovudine-lamivudine-nevirapine; Auro-abacavir/lamivudine; Auro-lamivudine; Auro-lamivudine/zidovudine; Cimduo; Combivir; Delstrigo; Dovato; Dutrebis; Efavirenz, Lamivudine and Tenofovir Disoproxil Fumarate; Epivir; Epivir Hbv; Epzicom; Heptovir; Jamp Abacavir / Lamivudine; Jamp Lamivudine; Jamp Lamivudine / Zidovudine; Jamp Lamivudine Hbv; Kivexa; LAMIVUDINE and ZIDOVUDINE; Lamivudine; Lamivudine Oral Solution; Lamivudine Teva; Lamivudine Teva Pharma B.V.; Lamivudine Zidovudine; Lamivudine and Zidovudine; Lamivudine, Nevirapine, and Zidovudine; Lamivudine/zidovudine Teva; Mint-abacavir/lamivudine; Mylan-abacavir/lamivudine; PMS-abacavir-lamivudine; Symfi; Symfi Lo; Temixys; Teva-abacavir/lamivudine; Teva-lamivudine/zidovudine; Triumeq; Triumeq PD; Trizivir; Zeffix
+
+> <INTERNATIONAL_BRANDS>
+Amilitrap; Antiheb; Avilam; Avolam; Epivir-HBV; Flamivud; Ganvirel; Hepavir; Hepitec; Heptavir; Heptodin; Heptodine; Lamda; Lamibergen; Lamidac; Lamitec; Lamivir; Zeffix
+
+$$$$

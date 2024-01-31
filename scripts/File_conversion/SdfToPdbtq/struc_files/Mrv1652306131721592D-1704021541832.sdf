@@ -1,0 +1,151 @@
+
+  Mrv1652306131721592D          
+
+ 22 20  0  0  1  0            999 V2000
+    1.1653    0.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1653   -0.2173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4508   -0.6298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2637   -0.2173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2637    0.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4508    1.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4508    1.8452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2637    2.2577    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2637    3.0827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9782    3.4952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4508    3.4952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9782    1.8452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4508   -1.4548    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4508   -2.2798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2637   -2.6923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2637   -3.5173    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3742   -1.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7867   -2.1693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6117   -2.1693    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2758   -1.4548    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2794    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1673    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  8 12  1  6  0  0  0
+  3 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+M  CHG  2  13   1  20  -1
+M  END
+> <DATABASE_ID>
+DB06082
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+Cl.Cl.N[C@@H](CC1=CC=C(C=C1)[N+]([O-])(CCCl)CCCl)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H18Cl2N2O3.2ClH/c14-5-7-17(20,8-6-15)11-3-1-10(2-4-11)9-12(16)13(18)19;;/h1-4,12H,5-9,16H2,(H,18,19);2*1H/t12-;;/m0../s1
+
+> <INCHI_KEY>
+GIGCDIVNDFQKRA-LTCKWSDVSA-N
+
+> <FORMULA>
+C13H20Cl4N2O3
+
+> <MOLECULAR_WEIGHT>
+394.11
+
+> <EXACT_MASS>
+392.0228033
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.673721169342123
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-{4-[(2S)-2-amino-2-carboxyethyl]phenyl}-2-chloro-N-(2-chloroethyl)ethanamine oxide dihydrochloride
+
+> <ALOGPS_LOGP>
+-0.34
+
+> <JCHEM_LOGP>
+-3.300166358133418
+
+> <ALOGPS_LOGS>
+-4.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5353898440386784
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.422971407905568
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.38
+
+> <JCHEM_REFRACTIVITY>
+89.17039999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.70e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{4-[(2S)-2-amino-2-carboxyethyl]phenyl}-2-chloro-N-(2-chloroethyl)ethanamine oxide dihydrochloride
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06082
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+PX-478
+
+$$$$

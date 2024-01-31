@@ -1,0 +1,171 @@
+
+  Mrv1909 01192100372D          
+
+ 27 29  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4257   -5.3493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667   -5.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7378   -3.6695    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.2227   -4.3369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0733   -2.9158    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 19 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+M  CHG  4   5   1  10  -1  25   1  27  -1
+M  END
+> <DATABASE_ID>
+DB11632
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C2=NOC(=N2)C2=CC(=C(O)C(O)=C2)[N+]([O-])=O)C(Cl)=[N+]([O-])C(C)=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10Cl2N4O6/c1-5-10(13(17)20(24)6(2)11(5)16)14-18-15(27-19-14)7-3-8(21(25)26)12(23)9(22)4-7/h3-4,22-23H,1-2H3
+
+> <INCHI_KEY>
+ASOADIZOVZTJSR-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10Cl2N4O6
+
+> <MOLECULAR_WEIGHT>
+413.17
+
+> <EXACT_MASS>
+411.9977395
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.8844936775453301
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.41544432849081
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,5-dichloro-3-[5-(3,4-dihydroxy-5-nitrophenyl)-1,2,4-oxadiazol-3-yl]-4,6-dimethylpyridin-1-ium-1-olate
+
+> <JCHEM_LOGP>
+3.0517145060000006
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.234575442479182
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.118498235170818
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.4679979740521924
+
+> <JCHEM_POLAR_SURFACE_AREA>
+149.46
+
+> <JCHEM_REFRACTIVITY>
+118.11739999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-demethyldiltiazem
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11632
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Opicapone
+
+> <SYNONYMS>
+Opicapona; Opicapone
+
+> <PRODUCTS>
+Ongentys; Ontilyv
+
+$$$$

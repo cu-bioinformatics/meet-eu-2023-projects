@@ -1,0 +1,182 @@
+
+  Mrv1909 03082000462D          
+
+ 31 34  0  0  1  0            999 V2000
+    0.8838   -2.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712   -0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4957   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4957   -2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2102   -2.7604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9246   -2.3479    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.6391   -2.7604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3536   -2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3536   -1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0681   -2.7604    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.7497   -2.2957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5380   -2.5389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8395   -3.3068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4270   -4.0213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6112   -4.1443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0064   -3.5831    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9246   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9246   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -2.7604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  2 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  1  1  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 19  1  6  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 17 28  1  0  0  0  0
+ 28 29  3  0  0  0  0
+ 15 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 12 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15638
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(=O)OC2=CC=C(C=C12)C1=CC=C(C[C@H](NC(=O)[C@@H]2CNCCCO2)C#N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H24N4O4/c1-27-19-12-17(7-8-20(19)31-23(27)29)16-5-3-15(4-6-16)11-18(13-24)26-22(28)21-14-25-9-2-10-30-21/h3-8,12,18,21,25H,2,9-11,14H2,1H3,(H,26,28)/t18-,21-/m0/s1
+
+> <INCHI_KEY>
+AEXFXNFMSAAELR-RXVVDRJESA-N
+
+> <FORMULA>
+C23H24N4O4
+
+> <MOLECULAR_WEIGHT>
+420.469
+
+> <EXACT_MASS>
+420.179755269
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9894226686622546
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.26982081825632
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-N-[(1S)-1-cyano-2-[4-(3-methyl-2-oxo-2,3-dihydro-1,3-benzoxazol-5-yl)phenyl]ethyl]-1,4-oxazepane-2-carboxamide
+
+> <ALOGPS_LOGP>
+1.74
+
+> <JCHEM_LOGP>
+1.3859488819999994
+
+> <ALOGPS_LOGS>
+-3.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.638390429183499
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.971964583617746
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.69
+
+> <JCHEM_REFRACTIVITY>
+113.81719999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.93e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-({4-fluoro-3-[2-(trifluoromethyl)-5H,6H,8H-[1,2,4]triazolo[1,5-a]pyrazine-7-carbonyl]phenyl}methyl)-2H-phthalazin-1-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15638
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Brensocatib
+
+> <SYNONYMS>
+(S)-N-((S)-1-Cyano-2-(4-(3-methyl-2-oxo-2,3-dihydrobenzo-(d)oxazol-5-yl)phenyl)ethyl)-1,4-oxazepane-2-carboxamide; Brensocatib
+
+$$$$

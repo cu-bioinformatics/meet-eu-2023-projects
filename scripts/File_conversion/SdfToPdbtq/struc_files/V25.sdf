@@ -1,0 +1,156 @@
+V25
+  Mrv0541 02241214152D          
+
+ 22 23  0  0  0  0            999 V2000
+    2.1970    9.5572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6095    8.8427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1970    8.1283    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6095    7.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1970    6.6993    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4345    7.4138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9194    8.0812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6644    8.8658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7040    7.8263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4185    8.2388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4185    9.0638    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.1329    7.8263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8474    8.2388    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.1329    7.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4185    6.5888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7040    7.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9194    6.7463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6644    5.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8575    5.7902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0505    5.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2165    5.3486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0234    5.5202    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 19 20  3  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08691
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)C1=C(\C(=C/N)C#N)C2=C(N1C)C(Cl)=C(Cl)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13Cl2N3O2/c1-3-22-15(21)14-11(8(6-18)7-19)9-4-5-10(16)12(17)13(9)20(14)2/h4-6H,3,18H2,1-2H3/b8-6-
+
+> <INCHI_KEY>
+CXJCGSPAPOTTSF-VURMDHGXSA-N
+
+> <FORMULA>
+C15H13Cl2N3O2
+
+> <MOLECULAR_WEIGHT>
+338.189
+
+> <EXACT_MASS>
+337.038482089
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0805044982915254e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.76643760853564
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 3-[(1E)-2-amino-1-cyanoeth-1-en-1-yl]-6,7-dichloro-1-methyl-1H-indole-2-carboxylate
+
+> <ALOGPS_LOGP>
+3.53
+
+> <JCHEM_LOGP>
+3.008870693000001
+
+> <ALOGPS_LOGS>
+-3.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0336312721314123
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.03999999999999
+
+> <JCHEM_REFRACTIVITY>
+86.60220000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.59e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08691
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+ethyl 3-[(E)-2-amino-1-cyanoethenyl]-6,7-dichloro-1-methyl-1H-indole-2-carboxylate
+
+$$$$

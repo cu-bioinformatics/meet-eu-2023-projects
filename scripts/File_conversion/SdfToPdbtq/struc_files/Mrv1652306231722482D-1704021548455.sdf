@@ -1,0 +1,170 @@
+
+  Mrv1652306231722482D          
+
+ 30 28  0  0  0  0            999 V2000
+    0.5554    0.1380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429    0.8525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2696    1.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8574    1.2650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5718    0.8525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8574    2.0900    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.5716    0.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -0.3850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429   -0.7975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1429   -1.6225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -2.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2860   -1.6225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2860   -0.7975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5716   -2.8600    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.8276    0.3462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2401    1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6526    1.7752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5256    1.4732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5256    2.2982    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8111    1.0607    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.9545    0.6482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9545   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6690   -0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6690   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9545   -1.8268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2401   -1.4143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2401   -0.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9545   -2.6518    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5100    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.8574    2.9150    0.0000 Al  0  1  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 22 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+M  CHG  4   6  -1  20  -1  29  -1  30   3
+M  END
+> <DATABASE_ID>
+DB13780
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[OH-].[Al+3].CC(C)(OC1=CC=C(Cl)C=C1)C([O-])=O.CC(C)(OC1=CC=C(Cl)C=C1)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C10H11ClO3.Al.H2O/c2*1-10(2,9(12)13)14-8-5-3-7(11)4-6-8;;/h2*3-6H,1-2H3,(H,12,13);;1H2/q;;+3;/p-3
+
+> <INCHI_KEY>
+USWVMPGQVYZHCA-UHFFFAOYSA-K
+
+> <FORMULA>
+C20H21AlCl2O7
+
+> <MOLECULAR_WEIGHT>
+471.26
+
+> <EXACT_MASS>
+470.0479719
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.36640480897383
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+aluminium(3+) ion bis(2-(4-chlorophenoxy)-2-methylpropanoate) hydroxide
+
+> <ALOGPS_LOGP>
+5.78
+
+> <JCHEM_LOGP>
+2.899132663333333
+
+> <ALOGPS_LOGS>
+-5.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.371714635353701
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.918685822771005
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.36
+
+> <JCHEM_REFRACTIVITY>
+63.454900000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.16e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aluminium(3+) ion bis(2-(4-chlorophenoxy)-2-methylpropanoate) hydroxide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13780
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Aluminium clofibrate
+
+> <SYNONYMS>
+Aluminium clofibrate; Aluminum clofibrate
+
+$$$$

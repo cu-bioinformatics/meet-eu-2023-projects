@@ -1,0 +1,166 @@
+202
+  Mrv0541 02231214312D          
+
+ 20 19  0  0  0  0            999 V2000
+    4.5077    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0799   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2221   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3655    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -0.2063    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   10.2233    0.2063    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5088   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7768   -0.9206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9519    0.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6358   -0.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8108    0.9206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9376    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7933   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7944    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9366    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6511   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2221   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3655    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4 20  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  CHG  2   5   1   6   1
+M  END
+> <DATABASE_ID>
+DB00202
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H30N2O4/c1-15(2,3)9-11-19-13(17)7-8-14(18)20-12-10-16(4,5)6/h7-12H2,1-6H3/q+2
+
+> <INCHI_KEY>
+AXOIZCJOOAYSMI-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H30N2O4
+
+> <MOLECULAR_WEIGHT>
+290.399
+
+> <EXACT_MASS>
+290.220557458
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.15477873407393
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+2
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+trimethyl[2-({4-oxo-4-[2-(trimethylazaniumyl)ethoxy]butanoyl}oxy)ethyl]azanium
+
+> <ALOGPS_LOGP>
+-2.49
+
+> <JCHEM_LOGP>
+-8.394079043610159
+
+> <ALOGPS_LOGS>
+-5.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.751914352242649
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.6
+
+> <JCHEM_REFRACTIVITY>
+100.94059999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.57e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00202
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00159
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Succinylcholine
+
+> <SYNONYMS>
+2,2'-[(1,4-dioxobutane-1,4-diyl)bis(oxy)]bis(N,N,N-trimethylethanaminium); Dicholine succinate; Succinocholine; Succinoylcholine; Succinylbischoline; Succinyldicholine; Suxamethonium
+
+> <PRODUCTS>
+Anectine; Anectine Flopack 500mg; Anectine Inj 20mg/ml; Quelicin; Quelicin Inj 20mg/ml USP; Succinylcholine; Succinylcholine Chloride; Succinylcholine Chloride Injection USP; Succinylcholine Chloride Injection, USP; Succinylcholine Chloride Injection, USP 20mg/ml
+
+> <INTERNATIONAL_BRANDS>
+Scoline; Sucostrin
+
+> <SALTS>
+Succinylcholine chloride; Succinylcholine chloride dihydrate
+
+$$$$

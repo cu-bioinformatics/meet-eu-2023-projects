@@ -1,0 +1,156 @@
+ZTW
+  Mrv0541 02241214182D          
+
+ 17 19  0  0  0  0            999 V2000
+    1.6992    0.8428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4137    0.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4137   -0.3947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1282   -0.8072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6992   -0.8072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9848   -0.3947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2001   -0.6496    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2848    0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1098    0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5223   -0.6966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3473   -0.6966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7598    0.0178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5848    0.0178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3473    0.7323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5223    0.7323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9848    0.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2001    0.6853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08773
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(S1)C=C(O)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10O2S/c15-11-4-1-9(2-5-11)13-7-10-3-6-12(16)8-14(10)17-13/h1-8,15-16H
+
+> <INCHI_KEY>
+MDGWZLQPNOETLH-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H10O2S
+
+> <MOLECULAR_WEIGHT>
+242.293
+
+> <EXACT_MASS>
+242.040150254
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.008098011740681832
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.88996141657468
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-hydroxyphenyl)-1-benzothiophen-6-ol
+
+> <ALOGPS_LOGP>
+3.57
+
+> <JCHEM_LOGP>
+3.8860714176666664
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.80455042669491
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.182101422341843
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.504703923527758
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+68.28020000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08773
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-hydroxyphenyl)benzo[b]thiophen-6-ol
+
+> <SYNONYMS>
+2-(4-hydroxyphenyl)benzo(b)thiophene-6-ol; Raloxifene core
+
+$$$$

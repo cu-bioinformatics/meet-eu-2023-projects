@@ -1,0 +1,152 @@
+
+  Mrv1909 11111921512D          
+
+ 21 22  0  0  0  0            999 V2000
+   -4.6513    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9350    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2187    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5024    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7860    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0698    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3534    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3627    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0698    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7860    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7860   -0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5023   -0.8232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2187   -0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9349   -0.8232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6513   -0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6513    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9349    0.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2187    0.4139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5023    0.8233    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5023    1.6512    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5023   -1.6512    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  CHG  2  19   1  20  -1
+M  END
+> <DATABASE_ID>
+DB08453
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCCCCCC1=[N+]([O-])C2=CC=CC=C2C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H25NO2/c1-2-3-4-5-6-7-8-11-15-14-18(20)16-12-9-10-13-17(16)19(15)21/h9-10,12-14,20H,2-8,11H2,1H3
+
+> <INCHI_KEY>
+LMBFBUICIQJLPK-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H25NO2
+
+> <MOLECULAR_WEIGHT>
+287.3966
+
+> <EXACT_MASS>
+287.188529049
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.7232221802913
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-hydroxy-2-nonylquinolin-1-ium-1-olate
+
+> <ALOGPS_LOGP>
+3.41
+
+> <JCHEM_LOGP>
+4.723940417000001
+
+> <ALOGPS_LOGS>
+-5.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.596152527270938
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.4906864323877946
+
+> <JCHEM_POLAR_SURFACE_AREA>
+47.17
+
+> <JCHEM_REFRACTIVITY>
+87.19690000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.89e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08453
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-Nonyl-4-quinolinol 1-oxide
+
+$$$$

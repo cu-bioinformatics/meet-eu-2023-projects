@@ -1,0 +1,157 @@
+BJH
+  Mrv0541 02241213272D          
+
+ 20 20  0  0  0  0            999 V2000
+   -0.3569    0.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3569   -0.7778    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0714   -1.1903    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0714   -2.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7858   -2.4278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3569   -2.4278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0721    2.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3576    2.9347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7865    2.9347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3576   -1.1903    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0721   -0.7778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0721    0.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3576    0.4597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7865    0.4597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3576    1.2847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7865    1.2847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0721    1.6972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3576   -2.0153    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3569    1.6972    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8626   -0.4858    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  6  0  0  0
+  2 20  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07464
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC1=CC=CC(C(O)=O)=C1O)(NC(C)=O)B(O)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14BNO6/c1-6(14)13-9(12(18)19)5-7-3-2-4-8(10(7)15)11(16)17/h2-4,9,15,18-19H,5H2,1H3,(H,13,14)(H,16,17)/t9-/m0/s1
+
+> <INCHI_KEY>
+MSRKDROGGGBNIX-VIFPVBQESA-N
+
+> <FORMULA>
+C11H14BNO6
+
+> <MOLECULAR_WEIGHT>
+267.043
+
+> <EXACT_MASS>
+267.091417651
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.022373469244186
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.9561224756212
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(2R)-2-(dihydroxyboranyl)-2-acetamidoethyl]-2-hydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+-0.16
+
+> <JCHEM_LOGP>
+1.2497000000000003
+
+> <ALOGPS_LOGS>
+-2.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.639391424557498
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7586385370060316
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5936198955247642
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.09000000000002
+
+> <JCHEM_REFRACTIVITY>
+61.6552
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.80e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07464
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1(R)-1-ACETAMIDO-2-(3-CARBOXY-2-HYDROXYPHENYL)ETHYL BORONIC ACID
+
+$$$$

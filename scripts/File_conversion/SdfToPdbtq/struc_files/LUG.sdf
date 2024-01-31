@@ -1,0 +1,171 @@
+LUG
+  Mrv0541 02241213532D          
+
+ 26 28  0  0  0  0            999 V2000
+   -2.0544    2.9625    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0544    2.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3399    1.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254    2.1375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7688    1.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7688    0.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0544    0.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0544   -0.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7218   -0.8225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4669   -1.6071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6419   -1.6071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1569   -2.2745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4925   -3.0282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0076   -3.6956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3431   -4.4493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3869   -0.8225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3399    0.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6254    0.4875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0890    0.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0890    1.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8035    2.1375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5180    1.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2325    2.1375    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5180    0.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8035    0.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8035   -0.3375    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08130
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NCCNC1=NN=C(O1)C1=C(NC2=CC=C(I)C=C2F)C(F)=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H13F3IN5O/c17-10-3-2-9(15-24-25-16(26-15)22-6-5-21)14(13(10)19)23-12-4-1-8(20)7-11(12)18/h1-4,7,23H,5-6,21H2,(H,22,25)
+
+> <INCHI_KEY>
+FPDWDLAITHFTTP-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H13F3IN5O
+
+> <MOLECULAR_WEIGHT>
+475.207
+
+> <EXACT_MASS>
+475.011688098
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.999944675887431
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.75245644920253
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N1-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine
+
+> <ALOGPS_LOGP>
+3.81
+
+> <JCHEM_LOGP>
+2.6998539522486094
+
+> <ALOGPS_LOGS>
+-3.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.836488905044678
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.209494798764576
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.776379205234132
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.0
+
+> <JCHEM_REFRACTIVITY>
+112.2
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.36e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08130
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(5-{3,4-difluoro-2-[(2-fluoro-4-iodophenyl)amino]phenyl}-1,3,4-oxadiazol-2-yl)ethane-1,2-diamine
+
+$$$$

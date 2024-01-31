@@ -1,0 +1,161 @@
+MRX
+  Mrv0541 02241213562D          
+
+ 21 23  0  0  0  0            999 V2000
+    2.3804    0.4653    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6659    0.8778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9515    0.4653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6659    1.7028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9515    2.1153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2370    1.7028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5476    1.9577    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0326    1.2903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8576    1.2903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2701    0.5758    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2701    2.0048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5476    0.6228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2370    0.8778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8026   -0.1618    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0180   -0.4167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5872    0.0932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0575   -0.9464    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5726   -1.6138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0575   -2.2813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8421   -2.0263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8421   -1.2013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  1  1  0  0  0  0
+  4  2  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  4  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 11  9  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13  3  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08211
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)C1=C(C2=CC(Br)=CC=C2N1)S(=O)(=O)N1CCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14BrN3O3S/c14-8-3-4-10-9(7-8)12(11(16-10)13(15)18)21(19,20)17-5-1-2-6-17/h3-4,7,16H,1-2,5-6H2,(H2,15,18)
+
+> <INCHI_KEY>
+FEPUPYVRZUWCQB-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H14BrN3O3S
+
+> <MOLECULAR_WEIGHT>
+372.238
+
+> <EXACT_MASS>
+370.993924666
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.218367542228624e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.75128327910882
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-bromo-3-(pyrrolidine-1-sulfonyl)-1H-indole-2-carboxamide
+
+> <ALOGPS_LOGP>
+1.07
+
+> <JCHEM_LOGP>
+1.0705822200000004
+
+> <ALOGPS_LOGS>
+-3.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.339072349792398
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.56050928751223
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8864103293458434
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.26
+
+> <JCHEM_REFRACTIVITY>
+83.21549999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.28e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08211
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-bromo-3-(pyrrolidin-1-ylsulfonyl)-1H-indole-2-carboxamide
+
+$$$$

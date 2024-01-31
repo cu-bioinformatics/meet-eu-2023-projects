@@ -1,0 +1,151 @@
+159
+  Mrv0541 02241213022D          
+
+ 17 17  0  0  0  0            999 V2000
+   -3.2601    0.0265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5456   -0.3860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5456   -1.2110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8312    0.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8312    0.8515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1167    1.2640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4022    0.8515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5456    1.2640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1167   -0.3860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4022    0.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3122   -0.3860    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1003   -1.1005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7247    0.3285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0267   -0.7985    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7412   -0.3860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4557   -0.7985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1701   -0.3860    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06862
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=C(O)C=CC(=C1)S(=O)(=O)NCCS
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO5S2/c11-8-2-1-6(5-7(8)9(12)13)17(14,15)10-3-4-16/h1-2,5,10-11,16H,3-4H2,(H,12,13)
+
+> <INCHI_KEY>
+UCQUNSCHVXCSCJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H11NO5S2
+
+> <MOLECULAR_WEIGHT>
+277.317
+
+> <EXACT_MASS>
+277.007863847
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.001679901795483
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.65054620385587
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-hydroxy-5-[(2-sulfanylethyl)sulfamoyl]benzoic acid
+
+> <ALOGPS_LOGP>
+-0.16
+
+> <JCHEM_LOGP>
+1.2123301616666669
+
+> <ALOGPS_LOGS>
+-2.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.890547784452263
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.436385924656844
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.41358045075396
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+64.8246
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.59e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06862
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-HYDROXY-5-(2-MERCAPTO-ETHYLSULFAMOYL)-BENZOIC ACID
+
+$$$$

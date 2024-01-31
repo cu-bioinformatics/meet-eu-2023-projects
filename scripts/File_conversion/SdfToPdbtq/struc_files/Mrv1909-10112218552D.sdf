@@ -1,0 +1,184 @@
+
+  Mrv1909 10112218552D          
+
+ 29 32  0  0  0  0            999 V2000
+    8.6945    1.8414    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8695    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4570    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6320    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2195    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6320    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4570    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3945    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9820    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9820    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1570    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7445    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9195    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5070   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6820   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2695    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6820    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5070    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846    1.0799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0396    1.8646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0396   -1.0396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8465   -1.2111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1015   -1.9957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5494   -2.6088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7425   -2.4373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4875   -1.6527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 19 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 24 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17056
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+FC1=CC=C(C=C1)C(=O)CCCN1CCC2(CC1)N(CNC2=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H26FN3O2/c24-19-10-8-18(9-11-19)21(28)7-4-14-26-15-12-23(13-16-26)22(29)25-17-27(23)20-5-2-1-3-6-20/h1-3,5-6,8-11H,4,7,12-17H2,(H,25,29)
+
+> <INCHI_KEY>
+DKGZKTPJOSAWFA-UHFFFAOYSA-N
+
+> <FORMULA>
+C23H26FN3O2
+
+> <MOLECULAR_WEIGHT>
+395.478
+
+> <EXACT_MASS>
+395.200905252
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9502757374862665
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.94609984257707
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+8-[4-(4-fluorophenyl)-4-oxobutyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one
+
+> <ALOGPS_LOGP>
+2.86
+
+> <JCHEM_LOGP>
+3.0701339449999994
+
+> <ALOGPS_LOGS>
+-3.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+16.614822413913096
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.826517535647758
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.28141841938231
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.650000000000006
+
+> <JCHEM_REFRACTIVITY>
+111.19400000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17056
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Spiperone
+
+> <SYNONYMS>
+Spiropitan
+
+> <SALTS>
+Spiperone hydrochloride
+
+$$$$

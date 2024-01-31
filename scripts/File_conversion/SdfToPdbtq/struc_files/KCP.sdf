@@ -1,0 +1,171 @@
+KCP
+  Mrv0541 02231216042D          
+
+ 25 26  0  0  0  0            999 V2000
+   -1.6668    0.4742    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0793    1.1887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6668    1.9031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0793    2.6176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8418    1.9031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4293    2.6176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3957    2.6176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8418    3.3321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4293    1.1887    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8418    0.4742    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4293   -0.2403    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8418   -0.9548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4293   -1.6692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6668   -0.9548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3957   -0.2403    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8082   -0.9548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3957   -1.6692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6332   -0.9548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0457   -1.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8661   -1.7555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0377   -2.5624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3232   -2.9749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7101   -2.4229    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9432   -0.1009    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9780   -0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 24  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  1  0  0  0
+ 11 25  1  1  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02247
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](NC(=O)CC1=CC=CS1)(C(O)=O)[C@@]1([H])NC(C(O)=O)=C(C)CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N2O5S2/c1-7-6-23-12(16-10(7)13(18)19)11(14(20)21)15-9(17)5-8-3-2-4-22-8/h2-4,11-12,16H,5-6H2,1H3,(H,15,17)(H,18,19)(H,20,21)/t11-,12-/m0/s1
+
+> <INCHI_KEY>
+JRYZEMHNDUZNMI-RYUDHWBXSA-N
+
+> <FORMULA>
+C14H16N2O5S2
+
+> <MOLECULAR_WEIGHT>
+356.417
+
+> <EXACT_MASS>
+356.050063012
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0440496110026551
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.679757739555185
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-[(R)-carboxy[2-(thiophen-2-yl)acetamido]methyl]-5-methyl-3,6-dihydro-2H-1,3-thiazine-4-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.83
+
+> <JCHEM_LOGP>
+1.022630663666667
+
+> <ALOGPS_LOGS>
+-3.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+5.21357809567179
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.045533200853695
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.27558421726594895
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.73000000000002
+
+> <JCHEM_REFRACTIVITY>
+85.94560000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.74e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02247
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01964; EXPT00890
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Hydrolyzed Cephalothin
+
+$$$$

@@ -1,0 +1,167 @@
+
+  Mrv1909 09202119512D          
+
+ 25 28  0  0  1  0            999 V2000
+    0.5242    0.0972    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2724   -0.2502    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0943   -0.3209    0.0000 N   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0290   -1.0802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2153   -0.9146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1499   -1.6739    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9719   -1.7446    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4441   -1.0682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3216   -2.4918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1436   -2.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8002   -0.9267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4847    0.5468    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4511    0.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1262    1.3931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0531    2.2149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3049    2.5625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3701    2.0883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1183    2.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7934    1.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7203    1.1399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3954    0.6658    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1436    1.0134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9721    0.7924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2970    1.2666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1508   -0.3769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  1  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  7  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 11  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  1  0  0  0
+  1 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 20  1  0  0  0  0
+ 24 23  2  0  0  0  0
+ 24 17  1  0  0  0  0
+ 13 24  1  0  0  0  0
+  1 25  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB15300
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(C[C@@H]2CC[N@]1C[C@@H]2CC)[C@@H](O)C1=CC=NC2=CC=C(OC)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H26N2O2/c1-3-13-12-22-9-7-14(13)10-19(22)20(23)16-6-8-21-18-5-4-15(24-2)11-17(16)18/h4-6,8,11,13-14,19-20,23H,3,7,9-10,12H2,1-2H3/t13-,14-,19+,20-/m0/s1
+
+> <INCHI_KEY>
+LJOQGZACKSYWCH-LHHVKLHASA-N
+
+> <FORMULA>
+C20H26N2O2
+
+> <MOLECULAR_WEIGHT>
+326.44
+
+> <EXACT_MASS>
+326.199428085
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.0000899131156307
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.670048240233925
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(S)-[(1S,2R,4S,5R)-5-ethyl-1-azabicyclo[2.2.2]octan-2-yl](6-methoxyquinolin-4-yl)methanol
+
+> <ALOGPS_LOGP>
+3.36
+
+> <JCHEM_LOGP>
+2.817451937000001
+
+> <ALOGPS_LOGS>
+-3.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.892120589819113
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.176454721982072
+
+> <JCHEM_POLAR_SURFACE_AREA>
+45.59
+
+> <JCHEM_REFRACTIVITY>
+94.6495
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+)-hydroquinidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15300
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Hydroquinidine
+
+$$$$

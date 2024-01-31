@@ -1,0 +1,171 @@
+
+  Mrv1652310211603382D          
+
+ 27 30  0  0  0  0            999 V2000
+   -4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 23 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12966
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CCC(CC1)NC1=NC=C2N=CN=C(NC3=CC=C(F)C(Cl)=C3)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H19ClFN7/c1-27-6-4-11(5-7-27)25-18-21-9-15-16(26-18)17(23-10-22-15)24-12-2-3-14(20)13(19)8-12/h2-3,8-11H,4-7H2,1H3,(H,21,25,26)(H,22,23,24)
+
+> <INCHI_KEY>
+FTFRZXFNZVCRSK-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H19ClFN7
+
+> <MOLECULAR_WEIGHT>
+387.85
+
+> <EXACT_MASS>
+387.1374495
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.41080423438122
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N8-(3-chloro-4-fluorophenyl)-N2-(1-methylpiperidin-4-yl)pyrimido[5,4-d][1,3]diazine-2,8-diamine
+
+> <ALOGPS_LOGP>
+2.98
+
+> <JCHEM_LOGP>
+2.8469026983333325
+
+> <ALOGPS_LOGS>
+-3.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.786004363116607
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.602362446273187
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.447964006268737
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.86
+
+> <JCHEM_REFRACTIVITY>
+104.5046
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.68e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N8-(3-chloro-4-fluorophenyl)-N2-(1-methylpiperidin-4-yl)pyrimido[5,4-d][1,3]diazine-2,8-diamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12966
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Falnidamol
+
+> <SYNONYMS>
+Falnidamol
+
+$$$$

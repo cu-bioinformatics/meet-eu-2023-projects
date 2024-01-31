@@ -1,0 +1,150 @@
+582
+  Mrv0541 02241213142D          
+
+ 17 19  0  0  0  0            999 V2000
+    1.8795   -0.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4449    0.0231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6203   -0.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2303   -0.7297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649   -1.4309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4895   -1.4052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1856    0.6985    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6390    0.6728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0289   -0.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5943   -0.7555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0736    1.3740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5756    1.4255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1269   -1.3855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8302   -0.2509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4602    0.2818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8907   -1.0736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1410    2.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07158
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN1C(=O)C2=C(NN=C2C)C2=C1C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H13N3O/c1-3-16-10-7-5-4-6-9(10)12-11(13(16)17)8(2)14-15-12/h4-7H,3H2,1-2H3,(H,14,15)
+
+> <INCHI_KEY>
+ASEHARDUZDZEKS-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H13N3O
+
+> <MOLECULAR_WEIGHT>
+227.2618
+
+> <EXACT_MASS>
+227.105862053
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.03151617394495692
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.350024715044203
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-ethyl-3-methyl-1H,4H,5H-pyrazolo[4,3-c]quinolin-4-one
+
+> <ALOGPS_LOGP>
+2.05
+
+> <JCHEM_LOGP>
+1.3155394756666672
+
+> <ALOGPS_LOGS>
+-2.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.487556863517245
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.15228342440239961
+
+> <JCHEM_POLAR_SURFACE_AREA>
+48.99
+
+> <JCHEM_REFRACTIVITY>
+66.69059999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.83e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07158
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-ETHYL-3-METHYL-1,5-DIHYDRO-4H-PYRAZOLO[4,3-C]QUINOLIN-4-ONE
+
+$$$$

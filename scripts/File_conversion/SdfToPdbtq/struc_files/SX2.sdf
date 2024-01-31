@@ -1,0 +1,147 @@
+SX2
+  Mrv0541 02241214112D          
+
+ 15 15  0  0  0  0            999 V2000
+   -2.4029    0.9800    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6884    0.5675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6884   -0.2575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9739   -0.6700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9739    0.9800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2595    0.5675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2595   -0.2575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4550   -0.6700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1695   -0.2575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1695    0.5675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8839   -0.6700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5984   -0.2575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3129   -0.6700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0274   -0.2575    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3129   -1.4950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08578
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CCC(=O)NC1=CC=C(Br)C=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9BrN2O3/c10-6-1-2-7(11-5-6)12-8(13)3-4-9(14)15/h1-2,5H,3-4H2,(H,14,15)(H,11,12,13)
+
+> <INCHI_KEY>
+XFYYQDHEDOXWGA-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H9BrN2O3
+
+> <MOLECULAR_WEIGHT>
+273.083
+
+> <EXACT_MASS>
+271.979654811
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9999016489893833
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.61680160484307
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(5-bromopyridin-2-yl)carbamoyl]propanoic acid
+
+> <ALOGPS_LOGP>
+0.61
+
+> <JCHEM_LOGP>
+0.7342751782498101
+
+> <ALOGPS_LOGS>
+-2.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.095682913395878
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1743558270123247
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0925079885649223
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.28999999999999
+
+> <JCHEM_REFRACTIVITY>
+57.593700000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.68e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08578
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[(5-bromopyridin-2-yl)amino]-4-oxobutanoic acid
+
+$$$$

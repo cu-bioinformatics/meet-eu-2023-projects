@@ -1,0 +1,173 @@
+RP4
+  Mrv0541 02241214072D          
+
+ 27 29  0  0  0  0            999 V2000
+    1.4800    2.1089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7622    1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5747    1.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2319    0.7016    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7016    1.3336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9464    0.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9464   -0.5359    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6608   -0.9484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2319   -0.9484    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2319   -1.7734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5174   -0.5359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5174    0.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1971   -0.9484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1971   -1.7734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9115   -2.1859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6260   -1.7734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6260   -0.9484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9115   -0.5359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3405   -0.5359    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3405    0.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0549    0.7016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0549    1.5266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3405    1.9391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6260    1.5266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6260    0.7016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4521   -0.2439    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7376   -1.2403    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  1  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  7 26  1  6  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  9 27  1  1  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08485
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)C[C@@](O)(C=C(C2=CC=CC(SC3=CC=CC=C3)=C2)[C@@]1([H])O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H18O5S/c20-16-11-19(24,18(22)23)10-15(17(16)21)12-5-4-8-14(9-12)25-13-6-2-1-3-7-13/h1-10,16-17,20-21,24H,11H2,(H,22,23)/t16-,17-,19+/m1/s1
+
+> <INCHI_KEY>
+QMNMNSINKIFYBV-LMMKCTJWSA-N
+
+> <FORMULA>
+C19H18O5S
+
+> <MOLECULAR_WEIGHT>
+358.408
+
+> <EXACT_MASS>
+358.087494376
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.999806091032399
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.703727172975476
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,4R,5R)-1,4,5-trihydroxy-3-[3-(phenylsulfanyl)phenyl]cyclohex-2-ene-1-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.80
+
+> <JCHEM_LOGP>
+2.106949085
+
+> <ALOGPS_LOGS>
+-3.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.087444356433078
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.2899588083917104
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2344318590536747
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+96.25700000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.93e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08485
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S,4S,5S)-1,4,5-TRIHYDROXY-3-[3-(PHENYLTHIO)PHENYL]CYCLOHEX-2-ENE-1-CARBOXYLIC ACID
+
+$$$$

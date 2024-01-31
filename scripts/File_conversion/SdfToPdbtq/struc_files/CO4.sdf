@@ -1,0 +1,175 @@
+CO4
+  Mrv0541 02231215582D          
+
+ 28 30  0  0  0  0            999 V2000
+   -4.1824   -2.6897    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4679   -2.2772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4679   -1.4522    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7535   -1.0397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7535   -0.2147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0390   -1.4522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3245   -1.0397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6101   -1.4522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6101   -2.2772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3245   -2.6897    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0390   -2.2772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7535   -2.6897    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1044   -1.0397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1044   -0.2147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8189    0.1978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8189    1.0228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5334    1.4353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5334    2.2603    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2478    2.6728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2478    1.0228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9623    1.4353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9623    2.2603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2478    0.1978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9623   -0.2147    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9623   -1.0397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5334   -0.2147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6101    0.1978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3245   -0.2147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 28  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 26  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 26  2  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02104
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(=CC(OC)=C1OC)N(C)CC1=C(C)C2=C(N)N=C(N)N=C2N=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H24N6O3/c1-10-11(8-22-18-15(10)17(20)23-19(21)24-18)9-25(2)12-6-13(26-3)16(28-5)14(7-12)27-4/h6-8H,9H2,1-5H3,(H4,20,21,22,23,24)
+
+> <INCHI_KEY>
+PEGMMEYCSOZKIT-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H24N6O3
+
+> <MOLECULAR_WEIGHT>
+384.4323
+
+> <EXACT_MASS>
+384.190988664
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0007578148925683204
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.40205575204763
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-methyl-6-{[methyl(3,4,5-trimethoxyphenyl)amino]methyl}pyrido[2,3-d]pyrimidine-2,4-diamine
+
+> <ALOGPS_LOGP>
+2.20
+
+> <JCHEM_LOGP>
+2.020710878
+
+> <ALOGPS_LOGS>
+-3.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.059938116113926
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.804751364927798
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.64
+
+> <JCHEM_REFRACTIVITY>
+111.3487
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.88e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02104
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00976
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,4-Diamino-5-Methyl-6-[(3,4,5-Trimethoxy-N-Methylanilino)Methyl]Pyrido[2,3-D]Pyrimidine
+
+$$$$

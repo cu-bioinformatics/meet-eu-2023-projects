@@ -1,0 +1,155 @@
+
+  Mrv1909 02282018412D          
+
+ 16 16  0  0  0  0            999 V2000
+    1.7862   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7862    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0717    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3572    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5006    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.8250    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  6  0  0  0
+  2  1  1  0  0  0  0
+  2  7  1  1  0  0  0
+  2  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  9  1  1  0  0  0
+  5  3  1  0  0  0  0
+  5 11  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  5  1  0  0  0  0
+  6 10  1  6  0  0  0
+ 12 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04122
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6-/m1/s1
+
+> <INCHI_KEY>
+NBSCHQHZLSJFNQ-VFUOTHLCSA-N
+
+> <FORMULA>
+C6H13O9P
+
+> <MOLECULAR_WEIGHT>
+260.1358
+
+> <EXACT_MASS>
+260.029718526
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9186124494649193
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.960874743972497
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4S,5R,6R)-3,4,5,6-tetrahydroxyoxan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.06
+
+> <JCHEM_LOGP>
+-3.056105249333333
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.248752256962443
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2229363277511232
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6493569608609406
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.91
+
+> <JCHEM_REFRACTIVITY>
+46.796299999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.14e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4'-phosphopantetheine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04122
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00684
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+beta-D-glucose 6-phosphate
+
+> <SYNONYMS>
+6-H2PO3Glcβ; 6-O-phosphono-β-D-glucopyranose; beta-D-glucose 6-(dihydrogen phosphate); beta-D-Glucose 6-phosphic acid; beta-D-glucose-6-phosphate; β-D-glucose 6-phosphate
+
+$$$$

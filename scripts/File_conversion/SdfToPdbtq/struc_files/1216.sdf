@@ -1,0 +1,194 @@
+1216
+  Mrv0541 02231215192D          
+
+ 31 34  0  0  1  0            999 V2000
+    6.5853    1.7964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3715    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1413   -2.4093    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9436    1.3524    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0994   -0.6783    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0994    0.1467    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3849   -1.0908    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6704   -0.6783    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.9196   -1.0964    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.8800    0.3981    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.3849    0.5592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6704    0.1467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8800   -0.9297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3981   -1.9501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3614   -0.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9130   -1.9558    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6572   -2.3854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0994    0.9717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9260   -0.2714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1550   -0.6310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1363    1.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3730   -1.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.9617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1998    2.1366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4561    2.9208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9841    1.8804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4157    2.3929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1691   -1.3346    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9589   -1.4164    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2420   -0.3483    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9156   -2.6158    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  2  0  0  0  0
+  2 23  2  0  0  0  0
+  3 16  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 21  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 28  1  6  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 18  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 29  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 30  1  6  0  0  0
+  9 16  1  0  0  0  0
+  9 19  1  1  0  0  0
+  9 20  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 21  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 31  1  6  0  0  0
+ 20 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01216
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@H](C(=O)NC(C)(C)C)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])NC(=O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H36N2O2/c1-21(2,3)25-20(27)17-8-7-15-14-6-9-18-23(5,13-11-19(26)24-18)16(14)10-12-22(15,17)4/h11,13-18H,6-10,12H2,1-5H3,(H,24,26)(H,25,27)/t14-,15-,16-,17+,18+,22-,23+/m0/s1
+
+> <INCHI_KEY>
+DBEPLOCGEIEOCV-WSBQPABSSA-N
+
+> <FORMULA>
+C23H36N2O2
+
+> <MOLECULAR_WEIGHT>
+372.5441
+
+> <EXACT_MASS>
+372.277678406
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+63
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.5990734812818332e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.96406592965039
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4aR,4bS,6aS,7S,9aS,9bS,11aR)-N-tert-butyl-4a,6a-dimethyl-2-oxo-1H,2H,4aH,4bH,5H,6H,6aH,7H,8H,9H,9aH,9bH,10H,11H,11aH-indeno[5,4-f]quinoline-7-carboxamide
+
+> <ALOGPS_LOGP>
+3.53
+
+> <JCHEM_LOGP>
+3.073512022666667
+
+> <ALOGPS_LOGS>
+-5.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.909772548516713
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.525358357103856
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.32840724851393277
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+108.196
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.98e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01216
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00632; DB07774
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Finasteride
+
+> <SYNONYMS>
+(5alpha,17beta)-(1,1-Dimethylethyl)-3-oxo-4-azaandrost-1-ene-17-carboxamide; Finasterida; Finasteride; Finasteridum
+
+> <PRODUCTS>
+Accel-finasteride Tablets USP; Ach-finasteride; Act Finasteride; Ag-finasteride; Apo-finasteride; Auro-finasteride; Auro-finasteride 1mg; Bio-finasteride; Dexamethasone Sodium Phosphate 0.1% / Finasteride 0.1% / Minoxidil 5%; Dexamethasone Sodium Phosphate 0.1% / Finasteride 0.1% / Minoxidil 5% / Tretinoin 0.025%; Dom-finasteride; Entadfi; Finasteride; Finasteride 0.1% / Minoxidil 5%; Finasteride 0.1% / Minoxidil 7%; Finasteride 0.1% / Minoxidil 7% / Tretinoin 0.025%; Jamp-finasteride; M-finasteride; Mint-finasteride; Mylan-finasteride; Mylan-finasteride Hg; Ntp-finasteride; PMS-finasteride; Propecia; Proscar; Ran-finasteride; Ratio-finasteride; Riva-finasteride; Sandoz Finasteride; Sandoz Finasteride A; Teva-finasteride; Van-finasteride
+
+> <INTERNATIONAL_BRANDS>
+Finastid; Finpecia
+
+$$$$

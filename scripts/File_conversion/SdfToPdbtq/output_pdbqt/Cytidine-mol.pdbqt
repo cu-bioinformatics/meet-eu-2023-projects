@@ -1,0 +1,31 @@
+REMARK  Name = Cytidine.mol
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N1_1  and  C1*_7
+REMARK    2  A    between atoms: C4*_10  and  C5*_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C1*   C A   1      -0.277  -0.305   0.000  0.00  0.00    +0.000 C 
+ATOM      2  O4*   C A   1      -0.945  -0.789   0.000  0.00  0.00    +0.000 OA
+ATOM      3  C2*   C A   1       0.390  -0.789   0.000  0.00  0.00    +0.000 C 
+ATOM      4  C4*   C A   1      -0.690  -1.574   0.000  0.00  0.00    +0.000 C 
+ATOM      5  C3*   C A   1       0.135  -1.574   0.000  0.00  0.00    +0.000 C 
+ATOM      6  O2*   C A   1       1.175  -0.535   0.000  0.00  0.00    +0.000 OA
+ATOM      7  O3*   C A   1       0.620  -2.242   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   8
+ATOM      8  N1    C A   1      -0.277   0.520   0.000  0.00  0.00    +0.000 N 
+ATOM      9  C2    C A   1       0.437   0.933   0.000  0.00  0.00    +0.000 A 
+ATOM     10  C6    C A   1      -0.992   0.933   0.000  0.00  0.00    +0.000 A 
+ATOM     11  N3    C A   1       0.437   1.758   0.000  0.00  0.00    +0.000 NA
+ATOM     12  C4    C A   1      -0.277   2.170   0.000  0.00  0.00    +0.000 A 
+ATOM     13  C5    C A   1      -0.992   1.758   0.000  0.00  0.00    +0.000 A 
+ATOM     14  O2    C A   1       1.151   0.520   0.000  0.00  0.00    +0.000 OA
+ATOM     15  N4    C A   1      -0.277   2.995   0.000  0.00  0.00    +0.000 NA
+ENDBRANCH   1   8
+BRANCH   4  16
+ATOM     16  C5*   C A   1      -1.175  -2.242   0.000  0.00  0.00    +0.000 C 
+ATOM     17  O5*   C A   1      -0.839  -2.995   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   4  16
+TORSDOF 2

@@ -1,0 +1,153 @@
+
+  Mrv1909 03052118192D          
+
+ 19 20  0  0  0  0            999 V2000
+    0.0000    0.2467    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.6592    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.2467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    0.2467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.4842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1435    0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435    1.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.4676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4126   -0.4676    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2374   -0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499   -1.1822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4124   -1.8966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2374   -1.8967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7820   -0.1369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12  1  1  0  0  0  0
+  1 13  1  1  0  0  0
+ 14 12  1  0  0  0  0
+ 15 12  2  0  0  0  0
+ 16 14  2  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 16  1  0  0  0  0
+ 18 17  2  0  0  0  0
+  2 19  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB06701
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C(=O)OC)(C1=CC=CC=C1)[C@@]1([H])CCCCN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H19NO2/c1-17-14(16)13(11-7-3-2-4-8-11)12-9-5-6-10-15-12/h2-4,7-8,12-13,15H,5-6,9-10H2,1H3/t12-,13-/m1/s1
+
+> <INCHI_KEY>
+DUGOZIWVEXMGBE-CHWSQXEVSA-N
+
+> <FORMULA>
+C14H19NO2
+
+> <MOLECULAR_WEIGHT>
+233.3062
+
+> <EXACT_MASS>
+233.141578857
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9919155984854046
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.15451081764315
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl (2R)-2-phenyl-2-[(2R)-piperidin-2-yl]acetate
+
+> <JCHEM_LOGP>
+2.254935081666666
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.088826845099911
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.33
+
+> <JCHEM_REFRACTIVITY>
+66.72820000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-demethyldiltiazem
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06701
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Dexmethylphenidate
+
+> <SYNONYMS>
+(+)-threo-methylphenidate; d-threo-methylphenidate; D-TMP; Dexmethylphenidate; Dexméthylphénidate; Dexmethylphenidatum; Dexmetilfenidato; methyl (R)-phenyl[(R)-piperidin-2-yl]acetate
+
+> <PRODUCTS>
+Attenade; Azstarys; Dexmethylphenidate HCl; Dexmethylphenidate Hydrochloride; Dexmethylphenidate Hydrochloride Extended-Release; Dexmethylphenidate hydrochloride; Focalin; Focalin XR; FocalinXR
+
+> <INTERNATIONAL_BRANDS>
+Attenade
+
+> <SALTS>
+Dexmethylphenidate hydrochloride
+
+$$$$

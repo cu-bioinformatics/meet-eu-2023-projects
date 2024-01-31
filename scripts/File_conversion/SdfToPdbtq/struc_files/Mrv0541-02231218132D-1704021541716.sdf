@@ -1,0 +1,183 @@
+
+  Mrv0541 02231218132D          
+
+ 30 33  0  0  1  0            999 V2000
+    5.0069    2.5204    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8017    1.1855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0109    2.6416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8083    0.8525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7098   -0.2122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0688    0.2294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5842   -2.4169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2567   -2.2773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7836   -3.6499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2223    1.4405    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2223    2.2655    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3904    2.2688    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3904    1.4371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4918    1.8530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0069    1.1855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8083    2.8534    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.3168    1.8530    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.8017    2.5204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5864    2.2655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0235    3.6499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5864    1.4405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2619    0.4009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9648   -0.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4127   -1.6099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5922   -1.5237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1797   -0.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8698   -2.8294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1204    2.9175    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7804    2.0170    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0172    2.4410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 21  1  0  0  0  0
+ 16  3  1  6  0  0  0
+  4 13  2  0  0  0  0
+  5 22  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 22  2  0  0  0  0
+  7 24  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8 25  1  0  0  0  0
+  8 27  1  0  0  0  0
+  9 27  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 28  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 29  1  1  0  0  0
+ 14 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 30  1  6  0  0  0
+ 18 19  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05659
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(=C(N1C(=O)[C@]2([H])[C@@H](C)O)C(=O)OCC1=C(C)OC(=O)O1)[C@@]1([H])CCCO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19NO8S/c1-7(19)11-14(20)18-12(13(27-15(11)18)9-4-3-5-23-9)16(21)24-6-10-8(2)25-17(22)26-10/h7,9,11,15,19H,3-6H2,1-2H3/t7-,9-,11+,15-/m1/s1
+
+> <INCHI_KEY>
+JQBKWZPHJOEQAO-DVPVEWDBSA-N
+
+> <FORMULA>
+C17H19NO8S
+
+> <MOLECULAR_WEIGHT>
+397.4
+
+> <EXACT_MASS>
+397.083137279
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.3957428694583787e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.77115532792809
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(5-methyl-2-oxo-2H-1,3-dioxol-4-yl)methyl (5R,6S)-6-[(1R)-1-hydroxyethyl]-7-oxo-3-[(2R)-oxolan-2-yl]-4-thia-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylate
+
+> <ALOGPS_LOGP>
+0.64
+
+> <JCHEM_LOGP>
+0.23092835999999967
+
+> <ALOGPS_LOGS>
+-2.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.223792969524236
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.852048621404341
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.81003239464392
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+95.39029999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05659
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Faropenem medoxomil
+
+> <SYNONYMS>
+Faropenem daloxate; Faropenem medoxil; Faropenem medoxomil
+
+$$$$

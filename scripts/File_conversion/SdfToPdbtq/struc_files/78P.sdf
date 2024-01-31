@@ -1,0 +1,158 @@
+78P
+  Mrv0541 02241213172D          
+
+ 18 20  0  0  0  0            999 V2000
+    1.2549    0.2312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9694    0.6437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6838    0.2312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0147   -0.1813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9694    1.4687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8397   -0.1813    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1482   -0.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9345   -1.0008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6838   -0.5938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9694   -1.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2549   -0.5938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4703   -0.8487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4703    0.4861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2549    1.8812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6838    1.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5898    0.1621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7432   -1.1639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4123    0.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6  4  1  1  0  0  0
+  7 17  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9  3  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 11  1  1  0  0  0  0
+ 12  4  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13  1  1  0  0  0  0
+ 14  5  1  0  0  0  0
+ 16  7  1  0  0  0  0
+  6 18  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB07232
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@]1(CCCN1)C1=NC2=CC=CC(C(N)=O)=C2N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H16N4O/c1-13(6-3-7-15-13)12-16-9-5-2-4-8(11(14)18)10(9)17-12/h2,4-5,15H,3,6-7H2,1H3,(H2,14,18)(H,16,17)/t13-/m1/s1
+
+> <INCHI_KEY>
+JNAHVYVRKWKWKQ-CYBMUJFWSA-N
+
+> <FORMULA>
+C13H16N4O
+
+> <MOLECULAR_WEIGHT>
+244.2923
+
+> <EXACT_MASS>
+244.132411154
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9921266452293847
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.315141478935193
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(2R)-2-methylpyrrolidin-2-yl]-1H-1,3-benzodiazole-7-carboxamide
+
+> <ALOGPS_LOGP>
+1.10
+
+> <JCHEM_LOGP>
+0.20596656636222405
+
+> <ALOGPS_LOGS>
+-2.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.013022531891213
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.73148284158085
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.254747384542844
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.80000000000001
+
+> <JCHEM_REFRACTIVITY>
+68.6215
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.75e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07232
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Veliparib
+
+> <SYNONYMS>
+(2R)-2-(7-carbamoyl-1H-benzimidazol-2-yl)-2-methylpyrrolidinium; 2-((2R)-2-methylpyrrolidin-2-yl)-1H-benzimidazole-4-carboxamide; 2-[(R)-2-methylpyrrolidin-2-yl]-1H-benzimadazole-4-carboxamide; Veliparib
+
+$$$$

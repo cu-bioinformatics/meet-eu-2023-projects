@@ -1,0 +1,65 @@
+REMARK  Name = 
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_4
+REMARK    2  A    between atoms: CB_4  and  CA_5
+REMARK    3  A    between atoms: CA_5  and  N_6
+REMARK    4  A    between atoms: CA_5  and  C_25
+REMARK    5  A    between atoms: C_7  and  CA_9
+REMARK    6  A    between atoms: CA_9  and  CB_10
+REMARK    7  A    between atoms: CA_9  and  N_12
+REMARK    8  A    between atoms: C_13  and  CA_15
+REMARK    9  A    between atoms: CA_15  and  CB_17
+REMARK   10  A    between atoms: CB_17  and  CG_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  SER A   2       6.430  -6.188   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  N   SER A   2       7.145  -6.600   0.000  0.00  0.00    +0.000 NA
+ATOM      3  C   TYR A   1       7.859  -6.188   0.000  0.00  0.00    +0.000 C 
+ATOM      4  O   TYR A   1       7.859  -5.362   0.000  0.00  0.00    +0.000 OA
+BRANCH   3   5
+ATOM      5  CA  TYR A   1       8.574  -6.600   0.000  0.00  0.00    +0.000 C 
+ATOM      6  N   TYR A   1       8.574  -7.425   0.000  0.00  0.00    +0.000 NA
+BRANCH   5   7
+ATOM      7  CB  TYR A   1       9.288  -6.188   0.000  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  CG  TYR A   1      10.003  -6.600   0.000  0.00  0.00    +0.000 A 
+ATOM      9  CD1 TYR A   1      10.717  -6.188   0.000  0.00  0.00    +0.000 A 
+ATOM     10  CE1 TYR A   1      11.431  -6.600   0.000  0.00  0.00    +0.000 A 
+ATOM     11  CZ  TYR A   1      11.431  -7.425   0.000  0.00  0.00    +0.000 A 
+ATOM     12  OH  TYR A   1      12.146  -7.838   0.000  0.00  0.00    +0.000 OA
+ATOM     13  CE2 TYR A   1      10.717  -7.838   0.000  0.00  0.00    +0.000 A 
+ATOM     14  CD2 TYR A   1      10.003  -7.425   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   7   8
+ENDBRANCH   5   7
+ENDBRANCH   3   5
+ENDBRANCH   1   2
+BRANCH   1  16
+ATOM     15  N   LEU A   3       5.001  -6.188   0.000  0.00  0.00    +0.000 NA
+ATOM     16  C   SER A   2       5.716  -6.600   0.000  0.00  0.00    +0.000 C 
+ATOM     17  O   SER A   2       5.716  -7.425   0.000  0.00  0.00    +0.000 OA
+BRANCH  15  18
+ATOM     18  CA  LEU A   3       4.287  -6.600   0.000  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  C   LEU A   3       4.287  -7.425   0.000  0.00  0.00    +0.000 C 
+ATOM     20  O   LEU A   3       5.001  -7.838   0.000  0.00  0.00    +0.000 OA
+ATOM     21  OXT LEU A   3       3.572  -7.838   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  18  19
+BRANCH  18  22
+ATOM     22  CB  LEU A   3       3.572  -6.188   0.000  0.00  0.00    +0.000 C 
+BRANCH  22  24
+ATOM     23  CD1 LEU A   3       2.143  -6.188   0.000  0.00  0.00    +0.000 C 
+ATOM     24  CG  LEU A   3       2.858  -6.600   0.000  0.00  0.00    +0.000 C 
+ATOM     25  CD2 LEU A   3       2.858  -7.425   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  22  24
+ENDBRANCH  18  22
+ENDBRANCH  15  18
+ENDBRANCH   1  16
+BRANCH   1  26
+ATOM     26  CB  SER A   2       6.430  -5.362   0.000  0.00  0.00    +0.000 C 
+ATOM     27  OG  SER A   2       7.145  -4.950   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1  26
+TORSDOF 10

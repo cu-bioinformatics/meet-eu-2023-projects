@@ -1,0 +1,169 @@
+
+  Mrv1652310211602052D          
+
+ 27 31  0  0  0  0            999 V2000
+    1.5662   -2.8960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5663   -3.7210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8518   -4.1335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1373   -3.7210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1373   -2.8960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8517   -2.4835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8517   -1.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1163   -2.0322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5657   -1.2419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5657   -0.4945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3012   -0.1208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8517   -0.9111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0368   -0.4945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0368   -1.2419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3012   -1.6156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5873   -2.0322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8344   -1.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4159   -0.8676    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0505   -2.2490    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8480   -2.4600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0641   -3.2562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8617   -3.4671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0778   -4.2633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4963   -4.8486    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6988   -4.6376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4827   -3.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8519   -4.9585    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 21 26  1  0  0  0  0
+  3 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12764
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC=C(C=C1)C12CC3CC(CC(C3)(C1)C(=O)NCC1=CC=NC=C1)C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H25ClN2O/c24-20-3-1-19(2-4-20)22-10-17-9-18(11-22)13-23(12-17,15-22)21(27)26-14-16-5-7-25-8-6-16/h1-8,17-18H,9-15H2,(H,26,27)
+
+> <INCHI_KEY>
+CAOTVXGYTWCKQE-UHFFFAOYSA-N
+
+> <FORMULA>
+C23H25ClN2O
+
+> <MOLECULAR_WEIGHT>
+380.92
+
+> <EXACT_MASS>
+380.1655411
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.192095693801456
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(4-chlorophenyl)-N-[(pyridin-4-yl)methyl]adamantane-1-carboxamide
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+4.341206200333334
+
+> <ALOGPS_LOGS>
+-6.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.120974925780292
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.020436630241021
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.99
+
+> <JCHEM_REFRACTIVITY>
+106.93779999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.15e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-(4-chlorophenyl)-N-(pyridin-4-ylmethyl)adamantane-1-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12764
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Opaganib
+
+> <SYNONYMS>
+4-Pyridinylmethyl 3(4-Chlorophenyl)Adamantine Carboxamide; 4-Pyridinylmethyl-3-(4-Chlorophenyl) Adamantine Carboxamide; ABC-294640; ABC294640; Opaganib; Yeliva
+
+$$$$

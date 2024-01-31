@@ -1,0 +1,169 @@
+
+  Mrv0541 02231216032D          
+
+ 22 24  0  0  1  0            999 V2000
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  2 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  3 15  1  1  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 15 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02224
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@@H]1[C@H](OC2=CC(O)=CC(O)=C2C1=O)C1=CC=C(O)C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12O7/c16-7-4-10(19)12-11(5-7)22-15(14(21)13(12)20)6-1-2-8(17)9(18)3-6/h1-5,14-19,21H/t14-,15+/m0/s1
+
+> <INCHI_KEY>
+CXQWRCVTCMQVQX-LSDHHAIUSA-N
+
+> <FORMULA>
+C15H12O7
+
+> <MOLECULAR_WEIGHT>
+304.2516
+
+> <EXACT_MASS>
+304.058302738
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.16531409325668586
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.031784137700317
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-3,4-dihydro-2H-1-benzopyran-4-one
+
+> <ALOGPS_LOGP>
+1.07
+
+> <JCHEM_LOGP>
+1.8163842679999997
+
+> <ALOGPS_LOGS>
+-2.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.00135193872008
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.742827034290162
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.040608005010741
+
+> <JCHEM_POLAR_SURFACE_AREA>
+127.45000000000002
+
+> <JCHEM_REFRACTIVITY>
+74.60890000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02224
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01185
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Taxifolin
+
+> <SYNONYMS>
+(+)-(2R,3R)-dihydroquercetin; (+)-dihydroquercetin; (+)-taxifolin; (2R,3R)-(+)-taxifolin; (2R,3R)-3,3',4',5,7-pentahydroxyflavanone; (2R,3R)-dihydroquercetin; Dihydroquercetin
+
+$$$$

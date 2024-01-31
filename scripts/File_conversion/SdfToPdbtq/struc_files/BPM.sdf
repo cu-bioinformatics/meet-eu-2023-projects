@@ -1,0 +1,161 @@
+BPM
+  Mrv0541 02241213272D          
+
+ 23 24  0  0  0  0            999 V2000
+   -0.8317    0.5454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8317   -0.2796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1172   -0.6921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1172   -1.5171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5462   -1.5171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5462   -0.6921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8317   -1.9296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8317   -2.7546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5462   -3.1671    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2606   -3.5796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1337   -3.8816    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9587   -2.4527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1172    0.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1172    1.7829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5973    2.1954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3117    0.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5973    0.5454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3117    1.7829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0262    2.1954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0262    3.0204    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0262    3.8454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8512    3.0204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2012    3.0204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07480
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OP(O)(=O)OC1=CC=C(CC2=CC=C(OP(O)(O)=O)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14O8P2/c14-22(15,16)20-12-5-1-10(2-6-12)9-11-3-7-13(8-4-11)21-23(17,18)19/h1-8H,9H2,(H2,14,15,16)(H2,17,18,19)
+
+> <INCHI_KEY>
+LGSCVLKUKMBYNC-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H14O8P2
+
+> <MOLECULAR_WEIGHT>
+360.193
+
+> <EXACT_MASS>
+360.016390448
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.519023787669273
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.5650571813583
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4-{[4-(phosphonooxy)phenyl]methyl}phenoxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+1.24
+
+> <JCHEM_LOGP>
+2.1501789083333334
+
+> <ALOGPS_LOGS>
+-3.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-4
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-4
+
+> <JCHEM_PKA>
+2.09309338908349
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.4910427640298143
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.52
+
+> <JCHEM_REFRACTIVITY>
+81.5028
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.07e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07480
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-PHOSPHONOOXY-PHENYL-METHYL-[4-PHOSPHONOOXY]BENZEN
+
+$$$$

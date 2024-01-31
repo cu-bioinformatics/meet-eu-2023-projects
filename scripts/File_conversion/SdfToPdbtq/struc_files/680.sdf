@@ -1,0 +1,195 @@
+680
+  Mrv0541 02231214552D          
+
+ 30 33  0  0  0  0            999 V2000
+    4.5073   -2.6666    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    2.2827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216    0.2205    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8480   -0.9914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1384   -2.2315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    1.4578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073   -1.0169    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4192   -0.9969    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    1.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    2.2827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    1.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    2.6951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    1.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073   -0.1920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216   -1.4293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -1.4293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2216   -2.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -2.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9591   -0.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0555   -0.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9591   -2.6951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7064   -1.4121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0555   -2.6951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7064   -2.2713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -1.4121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -2.2713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1352   -1.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5639   -1.4011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2767   -0.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 28  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 28  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 23  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 24  2  0  0  0  0
+ 20 23  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00680
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)NC1=CC2=C(SC3=CC=CC=C3N2C(=O)CCN2CCOCC2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H25N3O4S/c1-2-29-22(27)23-16-7-8-20-18(15-16)25(17-5-3-4-6-19(17)30-20)21(26)9-10-24-11-13-28-14-12-24/h3-8,15H,2,9-14H2,1H3,(H,23,27)
+
+> <INCHI_KEY>
+FUBVWMNBEHXPSU-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H25N3O4S
+
+> <MOLECULAR_WEIGHT>
+427.517
+
+> <EXACT_MASS>
+427.156576993
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.3514226776991869
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.26943582899834
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl N-{10-[3-(morpholin-4-yl)propanoyl]-10H-phenothiazin-2-yl}carbamate
+
+> <ALOGPS_LOGP>
+3.04
+
+> <JCHEM_LOGP>
+3.0723045793333315
+
+> <ALOGPS_LOGS>
+-4.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.467498121585702
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.896780583486072
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.733870128078027
+
+> <JCHEM_POLAR_SURFACE_AREA>
+71.11
+
+> <JCHEM_REFRACTIVITY>
+118.87870000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.39e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00680
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01124
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Moricizine
+
+> <SYNONYMS>
+[10-(3-Morpholin-4-yl-propionyl)-10H-phenothiazin-2-yl]-carbamic acid ethyl ester; Ethmozin; ethyl 10-(3-morpholinopropionyl)phenothiazine-2-carbamate; ethyl 10-(β-N-morpholinylpropionyl)phenothiazine-2-carbamate; Etmozin; Moracizin; Moracizina; Moracizine; Moracizinum; Moricizine
+
+> <PRODUCTS>
+Ethmozine
+
+> <INTERNATIONAL_BRANDS>
+Etmozins
+
+> <SALTS>
+Moricizine hydrochloride
+
+$$$$

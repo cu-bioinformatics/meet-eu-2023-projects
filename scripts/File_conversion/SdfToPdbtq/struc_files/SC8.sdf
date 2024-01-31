@@ -1,0 +1,164 @@
+SC8
+  Mrv0541 02241214092D          
+
+ 25 28  0  0  0  0            999 V2000
+   -2.2604    1.3788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4758    1.1239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4758    0.2989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2604    0.0440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7453    0.7114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7613    1.5364    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0469    1.1239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0469    0.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7613   -0.1136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7613   -0.9386    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6676    1.5364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4758   -1.3511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4758   -2.1761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7613   -2.5886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7613   -3.4136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4758   -3.8261    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1903   -3.4136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1903   -2.5886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6676    2.3614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3821    2.7739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0966    2.3614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0966    1.5364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3821    1.1239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3821    0.2989    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8110    1.1239    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 13  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22 21  2  0  0  0  0
+ 23 11  2  0  0  0  0
+ 23 22  1  0  0  0  0
+ 24 23  1  0  0  0  0
+ 25 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08531
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC=CC(=C1Cl)C1=NC2=CC=NN2C(NCC2=CC=NC=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H13Cl2N5/c19-14-3-1-2-13(18(14)20)15-10-17(25-16(24-15)6-9-23-25)22-11-12-4-7-21-8-5-12/h1-10,22H,11H2
+
+> <INCHI_KEY>
+CVYWYUAQFJMLEO-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H13Cl2N5
+
+> <MOLECULAR_WEIGHT>
+370.235
+
+> <EXACT_MASS>
+369.054800855
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.010376849675202797
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.336292375188805
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(2,3-dichlorophenyl)-N-[(pyridin-4-yl)methyl]pyrazolo[1,5-a]pyrimidin-7-amine
+
+> <ALOGPS_LOGP>
+3.92
+
+> <JCHEM_LOGP>
+3.963007487666667
+
+> <ALOGPS_LOGS>
+-5.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.0205985428747715
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.11
+
+> <JCHEM_REFRACTIVITY>
+110.05019999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.40e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08531
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-(2,3-dichlorophenyl)-N-(pyridin-4-ylmethyl)pyrazolo[1,5-a]pyrimidin-7-amine
+
+$$$$

@@ -1,0 +1,160 @@
+
+  Mrv0541 04191212112D          
+
+ 18 19  0  0  1  0            999 V2000
+    9.7429   -8.9570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0755   -9.4420    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6629   -8.1724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5275   -9.2120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4080   -8.9570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0755  -10.2670    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.4880   -8.1724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6990  -10.0189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3610  -10.6795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1406   -8.6599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7899  -10.6795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3610  -11.5045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6465  -10.2670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9253   -8.9149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5384   -8.3628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9320  -10.6795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6465  -11.9170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9320  -11.5045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  7  1  2  0  0  0  0
+  5  2  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  5  3  2  0  0  0  0
+  8  4  2  0  0  0  0
+ 10  4  1  0  0  0  0
+  9  6  1  0  0  0  0
+  6 11  1  6  0  0  0
+ 12  9  2  0  0  0  0
+ 13  9  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 16 13  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 18 16  1  0  0  0  0
+ 18 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00292
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)C1=CN=CN1[C@H](C)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H16N2O2/c1-3-18-14(17)13-9-15-10-16(13)11(2)12-7-5-4-6-8-12/h4-11H,3H2,1-2H3/t11-/m1/s1
+
+> <INCHI_KEY>
+NPUKDXXFDDZOKR-LLVKDONJSA-N
+
+> <FORMULA>
+C14H16N2O2
+
+> <MOLECULAR_WEIGHT>
+244.289
+
+> <EXACT_MASS>
+244.121177766
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0017782663632494049
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.42905693593039
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl 1-[(1R)-1-phenylethyl]-1H-imidazole-5-carboxylate
+
+> <ALOGPS_LOGP>
+2.66
+
+> <JCHEM_LOGP>
+2.499786043
+
+> <ALOGPS_LOGS>
+-2.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.250769792434163
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+69.59230000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.77e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00292
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00965
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Etomidate
+
+> <SYNONYMS>
+(+)-ethyl 1-(α-methylbenzyl)imidazole-5-carboxylate; (+)-etomidate; (R)-(+)-1-(α-methylbenzyl)imidazole-5-carboxylic acid ethyl ester; (R)-1-(1-phenylethyl)-1H-imidazole-5-carboxylic acid ethyl ester; 3-((R)-1-Phenyl-ethyl)-3H-imidazole-4-carboxylic acid ethyl ester; Etomidate; Etomidato; Etomidatum; R-(+)-ethyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate
+
+> <PRODUCTS>
+Amidate; Amidate(tm) Etomidate; Etomidate; Etomidate Injection USP; Tomvi
+
+> <INTERNATIONAL_BRANDS>
+Hypnomidate
+
+$$$$

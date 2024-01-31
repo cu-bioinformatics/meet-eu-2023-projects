@@ -1,0 +1,183 @@
+
+  Mrv1909 11291917582D          
+
+ 30 33  0  0  0  0            999 V2000
+   -0.4012   -0.1718    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2974   -0.5684    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0968   -0.5684    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4012    0.6155    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4100   -1.0390    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9900   -0.1718    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2974   -1.3616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0968   -1.3616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8043   -0.1125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0998    0.3964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3180    1.0565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1560    1.1159    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9900    0.6533    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7748   -0.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4100   -1.7909    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8043   -1.7909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4910   -0.5684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7748    0.9082    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.9900    1.6309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2597    0.2407    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4100   -2.6494    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4910   -1.3616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0298    1.6931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0050    0.2371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0918   -1.7257    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8368    1.8646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4776    2.3063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0918    2.6494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2974    0.2567    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9900   -0.9969    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  6  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  1  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  1  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  1  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  6  0  0  0
+ 16 22  1  0  0  0  0
+ 18 23  1  1  0  0  0
+ 20 24  1  6  0  0  0
+ 22 25  2  0  0  0  0
+ 23 26  1  0  0  0  0
+ 23 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 20  1  0  0  0  0
+  2 29  1  1  0  0  0
+  6 30  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB09095
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12C[C@@H](C)[C@H](C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])C[C@H](F)C2=CC(=O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H28F2O4/c1-11-6-13-14-8-16(23)15-7-12(26)4-5-21(15,3)22(14,24)18(28)9-20(13,2)19(11)17(27)10-25/h4-5,7,11,13-14,16,18-19,25,28H,6,8-10H2,1-3H3/t11-,13+,14+,16+,18+,19-,20+,21+,22+/m1/s1
+
+> <INCHI_KEY>
+OGPWIDANBSLJPC-RFPWEZLHSA-N
+
+> <FORMULA>
+C22H28F2O4
+
+> <MOLECULAR_WEIGHT>
+394.459
+
+> <EXACT_MASS>
+394.195565708
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.200831929970484
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,3aS,3bS,5S,9aS,9bR,10S,11aS)-5,9b-difluoro-10-hydroxy-1-(2-hydroxyacetyl)-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+2.22
+
+> <JCHEM_LOGP>
+2.011321779666665
+
+> <ALOGPS_LOGS>
+-3.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.009788198789298
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.418263447906684
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.295502644315541
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+100.99329999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.46e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-ornithinium(1+) (+)-aspartate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09095
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Difluocortolone
+
+> <SYNONYMS>
+Diflucortolona; Diflucortolone; Diflucortolonum
+
+> <PRODUCTS>
+Nerisalic Oily Cream; Nerisone Cream; Nerisone Oily Cream; Nerisone Ointment
+
+> <SALTS>
+Difluocortolone valerate
+
+$$$$

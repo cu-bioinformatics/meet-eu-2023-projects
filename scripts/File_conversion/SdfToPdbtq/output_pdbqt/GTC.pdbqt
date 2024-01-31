@@ -1,0 +1,29 @@
+REMARK  Name = GTC
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_11
+REMARK    2  A    between atoms: C_3  and  C_7
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       0.404  -0.281   0.000  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1       0.553  -1.702   0.000  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1       1.224  -0.195   0.000  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1       1.709  -0.863   0.000  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1       1.374  -1.616   0.000  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1       0.068  -1.035   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   8
+ATOM      7  C   UNL     1      -1.161   1.171   0.000  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -0.081   0.386   0.000  0.00  0.00    +0.000 A 
+ATOM      9  N   UNL     1       0.174   1.171   0.000  0.00  0.00    +0.000 NA
+ATOM     10  N   UNL     1      -0.494   1.656   0.000  0.00  0.00    +0.000 NA
+ATOM     11  N   UNL     1      -0.906   0.386   0.000  0.00  0.00    +0.000 NA
+ATOM     12  S   UNL     1      -1.946   1.426   0.000  0.00  0.00    +0.000 S 
+ENDBRANCH   1   8
+BRANCH   3  14
+ATOM     13  O   UNL     1       2.380   0.645   0.000  0.00  0.00    +0.000 OA
+ATOM     14  C   UNL     1       1.560   0.559   0.000  0.00  0.00    +0.000 C 
+ATOM     15  O   UNL     1       1.075   1.226   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   3  14
+TORSDOF 2

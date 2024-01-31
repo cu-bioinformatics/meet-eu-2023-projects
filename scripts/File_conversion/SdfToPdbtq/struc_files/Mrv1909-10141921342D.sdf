@@ -1,0 +1,164 @@
+
+  Mrv1909 10141921342D          
+
+ 26 27  0  0  0  0            999 V2000
+   -4.4589   -0.3074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7444    0.1050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0299   -0.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0299   -1.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7444   -1.5449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3154    0.1050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6010   -0.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6010   -1.1324    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8865    0.1050    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8865    0.9300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1720   -0.3074    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1720   -1.1324    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5423    0.1050    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6286    0.9255    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0155    1.4775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4355    1.0970    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8480    0.3825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2960   -0.2305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6685    0.2963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1535    0.9637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9739    0.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4589    1.5449    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.3095    0.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8246   -0.5435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0041   -0.4573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5192   -1.1247    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9  7  1  0  0  0  0
+  9 10  1  1  0  0  0
+ 11  9  1  0  0  0  0
+ 11 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 13 18  1  1  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15552
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H]1OC(=N[C@H]1[C@H](O)[C@H](O)C(=O)NC(CO)CO)C1=CC(Cl)=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H21ClN2O7/c1-7-12(13(23)14(24)15(25)18-9(5-20)6-21)19-16(26-7)10-4-8(17)2-3-11(10)22/h2-4,7,9,12-14,20-24H,5-6H2,1H3,(H,18,25)/t7-,12+,13-,14-/m0/s1
+
+> <INCHI_KEY>
+DQWZJXAZNNVHLN-MBTXQYBYSA-N
+
+> <FORMULA>
+C16H21ClN2O7
+
+> <MOLECULAR_WEIGHT>
+388.8
+
+> <EXACT_MASS>
+388.1037287
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.87890495873661
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3S)-3-[(4S,5S)-2-(5-chloro-2-hydroxyphenyl)-5-methyl-4,5-dihydro-1,3-oxazol-4-yl]-N-(1,3-dihydroxypropan-2-yl)-2,3-dihydroxypropanamide
+
+> <ALOGPS_LOGP>
+-0.09
+
+> <JCHEM_LOGP>
+-0.2989106616666658
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.86643409299494
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.835247820763223
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.3571970100646678
+
+> <JCHEM_POLAR_SURFACE_AREA>
+151.84
+
+> <JCHEM_REFRACTIVITY>
+91.2701
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+8.64e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R)-3-[(4S,5S)-2-(5-chloro-2-hydroxyphenyl)-5-methyl-4,5-dihydro-1,3-oxazol-4-yl]-3-hydroxypropanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15552
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Leptazoline B
+
+$$$$

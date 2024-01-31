@@ -1,0 +1,174 @@
+
+  Mrv0541 05041402062D          
+
+ 27 29  0  0  1  0            999 V2000
+    0.7604    1.4597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9097    2.8808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5809    1.3734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7302    2.7945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3957    2.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0534    4.0452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3859    2.7353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6992    5.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4659    1.9507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4248    2.2133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0534    3.2202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0658    2.0409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3389    4.4577    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7312    3.0532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0854    5.4427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6244    4.0452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3187    3.7677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3389    5.2827    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6409    1.9507    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7208    2.7353    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5382    3.2248    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8708    4.3808    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8863    1.9546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2569    6.2497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6985    4.8907    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.5018    3.8539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3389    3.6327    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+ 10  1  1  0  0  0  0
+ 10  2  1  0  0  0  0
+ 10  5  2  0  0  0  0
+ 11  6  1  0  0  0  0
+ 11  7  2  0  0  0  0
+ 12  3  1  0  0  0  0
+ 12  4  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14  5  1  0  0  0  0
+ 15  8  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 14  2  0  0  0  0
+ 13 18  1  1  0  0  0
+ 19  7  1  0  0  0  0
+ 19  9  2  0  0  0  0
+ 20  9  1  0  0  0  0
+ 20 11  1  0  0  0  0
+ 21 14  1  0  0  0  0
+ 21 16  2  0  0  0  0
+ 22  8  1  0  0  0  0
+ 22 16  1  0  0  0  0
+ 22 17  1  0  0  0  0
+ 23 12  2  0  0  0  0
+ 24 15  2  0  0  0  0
+ 25 15  1  0  0  0  0
+ 26 17  1  0  0  0  0
+ 13 27  1  1  0  0  0
+M  CHG  1  25  -1
+M  END
+> <DATABASE_ID>
+DB04667
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC1=CN=CN1)C1=NC(C=C2C=CC(=O)C=C2)=C(O)N1CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17N5O4/c18-13(6-11-7-19-9-20-11)16-21-14(17(26)22(16)8-15(24)25)5-10-1-3-12(23)4-2-10/h1-5,7,9,13,26H,6,8,18H2,(H,19,20)(H,24,25)/p-1/t13-/m0/s1
+
+> <INCHI_KEY>
+XQYFXZGKDDMSCJ-ZDUSSCGKSA-M
+
+> <FORMULA>
+C17H16N5O4
+
+> <MOLECULAR_WEIGHT>
+354.34
+
+> <EXACT_MASS>
+354.120229025
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.3777511670702031
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.805710969291255
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+-1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-{2-[(1S)-1-amino-2-(1H-imidazol-5-yl)ethyl]-5-hydroxy-4-[(4-oxocyclohexa-2,5-dien-1-ylidene)methyl]-1H-imidazol-1-yl}acetate
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+-2.1326552696778935
+
+> <ALOGPS_LOGS>
+-2.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.26148866082859
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5587874551801413
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.8835327778868995
+
+> <JCHEM_POLAR_SURFACE_AREA>
+149.95
+
+> <JCHEM_REFRACTIVITY>
+105.94489999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.97e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04667
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+CHROMOPHORE (HIS-TYR-GLY)
+
+$$$$

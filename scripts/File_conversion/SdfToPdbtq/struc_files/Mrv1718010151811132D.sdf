@@ -1,0 +1,158 @@
+
+  Mrv1718010151811132D          
+
+ 22 25  0  0  0  0            999 V2000
+    0.1443    0.1600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1228    0.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7897   -0.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6076   -0.1365    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9398    0.6255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5975    1.3852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5586   -0.2604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6258   -1.1392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2838    0.1277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3029    0.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2506   -1.6890    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1434   -1.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3194   -2.2129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0909   -2.4987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2980   -2.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7594    1.5248    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5718    1.3559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9834    2.0764    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4253    2.6906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6689    2.3495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9834   -0.3022    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0439    2.7569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 16  2  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  3  2  0  0  0  0
+  5  4  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  1  1  0  0  0  0
+  8  3  1  0  0  0  0
+  9  7  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  8  1  0  0  0  0
+ 12  8  2  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 11  2  0  0  0  0
+ 15 13  2  0  0  0  0
+  6 10  2  0  0  0  0
+ 17  5  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 16  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB14718
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NN=C2CN=C(C3=CC=CC=N3)C3=C(C=CC(Br)=C3)N12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H12BrN5/c1-10-20-21-15-9-19-16(13-4-2-3-7-18-13)12-8-11(17)5-6-14(12)22(10)15/h2-8H,9H2,1H3
+
+> <INCHI_KEY>
+BGRWSFIQQPVEML-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H12BrN5
+
+> <MOLECULAR_WEIGHT>
+354.211
+
+> <EXACT_MASS>
+353.027608
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.849772455926484
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+12-bromo-3-methyl-9-(pyridin-2-yl)-2,4,5,8-tetraazatricyclo[8.4.0.0^{2,6}]tetradeca-1(10),3,5,8,11,13-hexaene
+
+> <ALOGPS_LOGP>
+1.76
+
+> <JCHEM_LOGP>
+2.3560382713333325
+
+> <ALOGPS_LOGS>
+-3.67
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.382785615728853
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.7513560285185177
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.96
+
+> <JCHEM_REFRACTIVITY>
+99.16810000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.59e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+12-bromo-3-methyl-9-(pyridin-2-yl)-2,4,5,8-tetraazatricyclo[8.4.0.0^{2,6}]tetradeca-1(10),3,5,8,11,13-hexaene
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB14718
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pyrazolam
+
+> <SYNONYMS>
+Pirazolam
+
+$$$$

@@ -1,0 +1,145 @@
+L15
+  Mrv0541 02241213502D          
+
+ 15 16  0  0  0  0            999 V2000
+    2.8670   -0.2453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8670   -1.0703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5345   -1.5552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2795   -2.3399    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4545   -2.3399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1996   -1.5552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4150   -1.3003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8019   -1.8523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0173   -1.5974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1543   -0.7904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9389   -0.5355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1104    0.2715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8950    0.5264    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4588   -0.2384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2435   -0.4933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08070
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NNC=C1C1=CC=C(CCN)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H15N3/c1-9-12(8-14-15-9)11-4-2-10(3-5-11)6-7-13/h2-5,8H,6-7,13H2,1H3,(H,14,15)
+
+> <INCHI_KEY>
+ILTOXASLQDKYJW-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H15N3
+
+> <MOLECULAR_WEIGHT>
+201.2676
+
+> <EXACT_MASS>
+201.126597495
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9984853259760581
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.158177306937308
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[4-(3-methyl-1H-pyrazol-4-yl)phenyl]ethan-1-amine
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+1.4704549799999995
+
+> <ALOGPS_LOGS>
+-2.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.437929645315327
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.769861431263534
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.7
+
+> <JCHEM_REFRACTIVITY>
+62.70150000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.66e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08070
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[4-(3-METHYL-1H-PYRAZOL-4-YL)PHENYL]ETHANAMINE
+
+$$$$

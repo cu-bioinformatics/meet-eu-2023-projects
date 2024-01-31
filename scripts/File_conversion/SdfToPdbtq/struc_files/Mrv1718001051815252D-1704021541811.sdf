@@ -1,0 +1,159 @@
+
+  Mrv1718001051815252D          
+
+ 23 25  0  0  1  0            999 V2000
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -0.1271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    2.9750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992    3.2299    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992    4.0549    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8838    4.3099    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3687    3.6424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    5.0945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9457    5.2660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2006    6.0507    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4556    6.8353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9853    5.7957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4160    6.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    4.5399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683    2.7450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  1  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 11  8  1  1  0  0  0
+ 12 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 14 16  1  1  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 13 22  1  6  0  0  0
+ 12 23  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB05973
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@@H]1[C@@H](COS(O)(=O)=O)O[C@H]([C@@H]1O)N1C=NC2=C1N=CNC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N4O8S/c15-6-4(1-21-23(18,19)20)22-10(7(6)16)14-3-13-5-8(14)11-2-12-9(5)17/h2-4,6-7,10,15-16H,1H2,(H,11,12,17)(H,18,19,20)/t4-,6-,7-,10-/m1/s1
+
+> <INCHI_KEY>
+IGYLPKLXFDOQGM-KQYNXXCUSA-N
+
+> <FORMULA>
+C10H12N4O8S
+
+> <MOLECULAR_WEIGHT>
+348.29
+
+> <EXACT_MASS>
+348.037584536
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.98110914088169
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-oxo-6,9-dihydro-1H-purin-9-yl)oxolan-2-yl]methoxy}sulfonic acid
+
+> <ALOGPS_LOGP>
+-2.10
+
+> <JCHEM_LOGP>
+-4.5251678328738425
+
+> <ALOGPS_LOGS>
+-1.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.933801105548344
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.217770259026385
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.5847303785967122
+
+> <JCHEM_POLAR_SURFACE_AREA>
+172.56999999999996
+
+> <JCHEM_REFRACTIVITY>
+71.32360000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.07e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,4R,5R)-3,4-dihydroxy-5-(6-oxo-1H-purin-9-yl)oxolan-2-yl]methoxysulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05973
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Inosine 5'-sulfate
+
+$$$$

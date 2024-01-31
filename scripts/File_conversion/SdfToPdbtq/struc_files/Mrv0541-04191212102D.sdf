@@ -1,0 +1,196 @@
+
+  Mrv0541 04191212102D          
+
+ 31 33  0  0  1  0            999 V2000
+   -1.0890    1.2765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -0.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4101   -0.2159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8950    0.4515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035    0.8640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -1.1985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035    0.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035   -1.6110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8035   -2.4360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -2.8485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5179   -2.8485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0890   -3.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745   -2.4360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5179   -3.6735    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8035   -4.0860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2324   -4.0860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3044    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4101    1.9440    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1246    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8390    1.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9825    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2680    1.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5535    2.3565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4101    1.1190    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1246    1.5315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745    0.0390    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3745   -0.7860    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3745    0.8640    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3745    1.6890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2680    1.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9825    1.5315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 26 28  1  0  0  0  0
+ 28 24  1  0  0  0  0
+ 28  1  1  0  0  0  0
+ 26  2  1  0  0  0  0
+ 26  3  1  0  0  0  0
+ 24  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  6  0  0  0
+  3  4  1  0  0  0  0
+  5  7  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 24 18  1  0  0  0  0
+ 18 17  1  6  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 23 30  1  0  0  0  0
+ 30 21  1  0  0  0  0
+ 30 22  1  0  0  0  0
+ 24 25  1  6  0  0  0
+ 26 27  1  6  0  0  0
+ 28 29  1  1  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00146
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H](CCCC(C)(C)O)[C@@]1([H])CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C27H44O2/c1-19-10-13-23(28)18-22(19)12-11-21-9-7-17-27(5)24(14-15-25(21)27)20(2)8-6-16-26(3,4)29/h11-12,20,23-25,28-29H,1,6-10,13-18H2,2-5H3/b21-11+,22-12-/t20-,23+,24-,25+,27-/m1/s1
+
+> <INCHI_KEY>
+JWUBBDSIWDLEOM-DTOXIADCSA-N
+
+> <FORMULA>
+C27H44O2
+
+> <MOLECULAR_WEIGHT>
+400.6371
+
+> <EXACT_MASS>
+400.334130652
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+73
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.2938629910064985e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+50.3826472736591
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,3Z)-3-{2-[(1R,3aS,4E,7aR)-1-[(2R)-6-hydroxy-6-methylheptan-2-yl]-7a-methyl-octahydro-1H-inden-4-ylidene]ethylidene}-4-methylidenecyclohexan-1-ol
+
+> <ALOGPS_LOGP>
+6.71
+
+> <JCHEM_LOGP>
+5.654346069666669
+
+> <ALOGPS_LOGS>
+-5.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.53076846661296
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.384341369959035
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9842558878714639
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+125.06059999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.20e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00146
+
+> <SECONDARY_ACCESSION_NUMBERS>
+NUTR00006; APRD00428
+
+> <DRUG_GROUPS>
+approved; nutraceutical
+
+> <GENERIC_NAME>
+Calcifediol
+
+> <SYNONYMS>
+(3S,5Z,7E)-9,10-secocholesta-5,7,10-triene-3,25-diol; (3β,5Z,7E)-9,10-secocholesta-5,7,10(19)-triene-3,25-diol; (5Z,7E)-(3S)-9,10-secocholesta-5,7,10(19)-triene-3,25-diol; 25-hydroxycholecalciferol; 25-Hydroxyvitamin D3; Calcidiol; Calcifediol; Calcifédiol; Calcifediol anhydrous; Calcifediolum
+
+> <PRODUCTS>
+Rayaldee
+
+> <INTERNATIONAL_BRANDS>
+Calderol; Caldiol; De Kai; Dedrogyl; Dédrogyl; Didrogyl; Hidroferol
+
+> <SALTS>
+Calcifediol hydrate
+
+$$$$

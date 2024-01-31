@@ -1,0 +1,155 @@
+HHG
+  Mrv0541 02231217312D          
+
+ 18 17  0  0  0  0            999 V2000
+   -3.5971   -0.5920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8826   -0.1796    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4702   -0.8940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2951    0.5348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1682    0.2329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4537   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7394    0.2329    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7394    1.0579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0249   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6896    0.2329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4039   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4039   -1.0046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1184    0.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8328   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5473    0.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2617   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9762    0.2329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2450    0.5248    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  7 18  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04199
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)(COC(=O)CCCCC)COP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H19O7P/c1-2-3-4-5-9(11)15-6-8(10)7-16-17(12,13)14/h8,10H,2-7H2,1H3,(H2,12,13,14)/t8-/m0/s1
+
+> <INCHI_KEY>
+FIMVTNBZKNVWDN-QMMMGPOBSA-N
+
+> <FORMULA>
+C9H19O7P
+
+> <MOLECULAR_WEIGHT>
+270.2167
+
+> <EXACT_MASS>
+270.086839474
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.8548016475325497
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.89129919751203
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(2S)-3-(hexanoyloxy)-2-hydroxypropoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.03
+
+> <JCHEM_LOGP>
+0.5127871983333339
+
+> <ALOGPS_LOGS>
+-1.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.531115837556447
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.505317785248875
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4039997949880525
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.29000000000002
+
+> <JCHEM_REFRACTIVITY>
+58.9704
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.94e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04199
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01744
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Monohexanoyl-2-Hydroxy-Sn-Glycero-3-Phosphate
+
+$$$$

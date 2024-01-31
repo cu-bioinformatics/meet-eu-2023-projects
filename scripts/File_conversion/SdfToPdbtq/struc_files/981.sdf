@@ -1,0 +1,173 @@
+981
+  Mrv0541 02231215092D          
+
+ 21 23  0  0  1  0            999 V2000
+    3.5651    0.0678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2627    1.4644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7863   -0.6839    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8691    0.5845    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2044    0.5042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4566   -0.6851    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.1240   -0.2001    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.7121   -1.4644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7891   -0.2001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5322   -1.4637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0441    0.5845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7891   -1.1700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5714   -0.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9514   -0.3917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3540    1.2520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4789    1.2319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3715    0.2425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6370    1.0597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0107    0.6787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.1151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6586    0.1871    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2 19  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5 19  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  6  0  0  0
+  7 21  1  6  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00981
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12N(C)CC[C@@]1(C)C1=C(C=CC(OC(=O)NC)=C1)N2C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H21N3O2/c1-15-7-8-17(3)13(15)18(4)12-6-5-10(9-11(12)15)20-14(19)16-2/h5-6,9,13H,7-8H2,1-4H3,(H,16,19)/t13-,15+/m1/s1
+
+> <INCHI_KEY>
+PIJVFDBKTWXHHD-HIFRSBDPSA-N
+
+> <FORMULA>
+C15H21N3O2
+
+> <MOLECULAR_WEIGHT>
+275.3461
+
+> <EXACT_MASS>
+275.163376931
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.2782271548965943
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.631075515781177
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3aS,8aR)-1,3a,8-trimethyl-1H,2H,3H,3aH,8H,8aH-pyrrolo[2,3-b]indol-5-yl N-methylcarbamate
+
+> <ALOGPS_LOGP>
+1.80
+
+> <JCHEM_LOGP>
+2.2325330733333337
+
+> <ALOGPS_LOGS>
+-2.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.772488335318311
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.585999039777746
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.81
+
+> <JCHEM_REFRACTIVITY>
+78.39679999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.92e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00981
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00406
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Physostigmine
+
+> <SYNONYMS>
+Eserine; Physostigmine; Physostol
+
+> <PRODUCTS>
+Antilirium Inj 1mg/ml; Physostigmine Salicylate
+
+> <INTERNATIONAL_BRANDS>
+Antilirium
+
+> <SALTS>
+Physostigmine salicylate; Physostigmine Sulfate
+
+$$$$

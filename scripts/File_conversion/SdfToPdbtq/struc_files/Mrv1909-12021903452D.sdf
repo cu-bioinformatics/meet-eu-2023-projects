@@ -1,0 +1,150 @@
+
+  Mrv1909 12021903452D          
+
+ 18 18  0  0  0  0            999 V2000
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -1.2374    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5723   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8578    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5723    0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13069
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=NC=C(CNC(=O)N(CCCl)N=O)C(N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13ClN6O2/c1-6-12-4-7(8(11)14-6)5-13-9(17)16(15-18)3-2-10/h4H,2-3,5H2,1H3,(H,13,17)(H2,11,12,14)
+
+> <INCHI_KEY>
+VFEDRRNHLBGPNN-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13ClN6O2
+
+> <MOLECULAR_WEIGHT>
+272.69
+
+> <EXACT_MASS>
+272.0788514
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.70676164828004
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(4-amino-2-methylpyrimidin-5-yl)methyl]-3-(2-chloroethyl)-3-nitrosourea
+
+> <ALOGPS_LOGP>
+0.80
+
+> <JCHEM_LOGP>
+0.6260267126666659
+
+> <ALOGPS_LOGS>
+-3.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.944433019409894
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.263701786124429
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.57
+
+> <JCHEM_REFRACTIVITY>
+68.5516
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-{5-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methanesulfinyl]-1,3-benzodiazol-1-ylsulfonyl}phenoxyacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13069
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Nimustine
+
+> <SYNONYMS>
+Nimustina; Nimustine; Nimustinum
+
+> <SALTS>
+Nimustine hydrochloride
+
+$$$$

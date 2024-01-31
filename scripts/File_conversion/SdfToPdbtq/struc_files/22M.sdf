@@ -1,0 +1,154 @@
+22M
+  Mrv0541 02241213042D          
+
+ 19 21  0  0  0  0            999 V2000
+    2.1301    0.4935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1301   -0.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8445   -0.7440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5590   -0.3315    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8445   -1.5690    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4156   -0.7440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7011   -0.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7011    0.4935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4156    0.9060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0835    0.7484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5684    0.0810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3934    0.0810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8059   -0.6335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6309   -0.6335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0434    0.0810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6309    0.7955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8059    0.7955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3934    1.5099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0835   -0.5864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06918
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=CC=C1C1=CC2=C(N1)C=C(C=C2)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H15N3/c1-10-4-2-3-5-13(10)15-8-11-6-7-12(16(17)18)9-14(11)19-15/h2-9,19H,1H3,(H3,17,18)
+
+> <INCHI_KEY>
+ZRYXDGAKQGRHFG-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H15N3
+
+> <MOLECULAR_WEIGHT>
+249.3104
+
+> <EXACT_MASS>
+249.126597495
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9999320339261242
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.784451401963242
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-methylphenyl)-1H-indole-6-carboximidamide
+
+> <ALOGPS_LOGP>
+2.84
+
+> <JCHEM_LOGP>
+3.073124158333333
+
+> <ALOGPS_LOGS>
+-4.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.549105378439254
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.167858819515603
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.66
+
+> <JCHEM_REFRACTIVITY>
+88.87190000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.84e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06918
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2-METHYLPHENYL)-1H-INDOLE-6-CARBOXIMIDAMIDE
+
+$$$$

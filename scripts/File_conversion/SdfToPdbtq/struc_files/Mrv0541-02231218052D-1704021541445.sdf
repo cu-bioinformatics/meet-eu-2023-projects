@@ -1,0 +1,164 @@
+
+  Mrv0541 02231218052D          
+
+ 21 22  0  0  1  0            999 V2000
+    4.5080   -1.6500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -3.7126    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.4751    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -2.8876    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0791    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    3.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+ 14  2  1  6  0  0  0
+  3  6  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 16  2  3  0  0  0
+  7 18  1  0  0  0  0
+  7 21  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  CHG  2   4  -1   7   1
+M  END
+> <DATABASE_ID>
+DB05025
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@@H](CON=C(Cl)C1=C[N+]([O-])=CC=C1)CN1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20ClN3O3/c15-14(12-5-4-8-18(20)9-12)16-21-11-13(19)10-17-6-2-1-3-7-17/h4-5,8-9,13,19H,1-3,6-7,10-11H2/t13-/m1/s1
+
+> <INCHI_KEY>
+SGEIEGAXKLMUIZ-CYBMUJFWSA-N
+
+> <FORMULA>
+C14H20ClN3O3
+
+> <MOLECULAR_WEIGHT>
+313.78
+
+> <EXACT_MASS>
+313.119319228
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9927497502935749
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.98134012007559
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[chloro({[(2R)-2-hydroxy-3-(piperidin-1-yl)propoxy]imino})methyl]pyridin-1-ium-1-olate
+
+> <ALOGPS_LOGP>
+0.45
+
+> <JCHEM_LOGP>
+-0.44170851700000013
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.004873504325898
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.136485889418392
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.0
+
+> <JCHEM_REFRACTIVITY>
+82.75570000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.37e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05025
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Arimoclomol
+
+> <SYNONYMS>
+Arimoclomol
+
+> <SALTS>
+Arimoclomol citrate; Arimoclomol maleate
+
+$$$$

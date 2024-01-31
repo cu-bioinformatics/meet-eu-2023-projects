@@ -1,0 +1,188 @@
+
+  Mrv1909 01292016092D          
+
+ 31 34  0  0  0  0            999 V2000
+   -2.0751   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0751   -1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3737   -2.0627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6311   -1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6311   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3737   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0701   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8127   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8127   -1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5140   -2.0627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2155   -1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2155   -0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5140   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0701   -2.0627    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.9168   -2.0627    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6182   -1.6501    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7764   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7764    0.4126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5191    0.8252    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.2204    0.4126    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.2204   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.5191   -0.8251    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.5191   -1.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9218    0.8252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9218   -0.8251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5191    1.6502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7764    2.0628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3744   -1.9795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9218   -1.3619    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5032   -0.6506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6977   -0.8290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  8 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 16 15  1  1  0  0  0
+ 17  1  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 17  1  0  0  0  0
+ 22 23  1  6  0  0  0
+ 20 24  1  6  0  0  0
+ 21 25  1  1  0  0  0
+ 19 26  1  1  0  0  0
+ 26 27  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 16 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09038
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)C1=CC=C(Cl)C(CC2=CC=C(O[C@H]3CCOC3)C=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H27ClO7/c24-18-6-3-14(23-22(28)21(27)20(26)19(11-25)31-23)10-15(18)9-13-1-4-16(5-2-13)30-17-7-8-29-12-17/h1-6,10,17,19-23,25-28H,7-9,11-12H2/t17-,19+,20+,21-,22+,23-/m0/s1
+
+> <INCHI_KEY>
+OBWASQILIWPZMG-QZMOQZSNSA-N
+
+> <FORMULA>
+C23H27ClO7
+
+> <MOLECULAR_WEIGHT>
+450.91
+
+> <EXACT_MASS>
+450.1445309
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+58
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-3.5910466600203e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.11710454123466
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3R,4R,5S,6R)-2-[4-chloro-3-({4-[(3S)-oxolan-3-yloxy]phenyl}methyl)phenyl]-6-(hydroxymethyl)oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+1.79
+
+> <JCHEM_LOGP>
+1.6553187060000008
+
+> <ALOGPS_LOGS>
+-3.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.456757206604877
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.567882362588916
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.979190369034347
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.61000000000001
+
+> <JCHEM_REFRACTIVITY>
+113.79159999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.11e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+fidaxomicin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09038
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Empagliflozin
+
+> <SYNONYMS>
+(1S)-1,5-anhydro-1-(4-chloro-3-{4-[(3S)-tetrahydrofuran-3-yloxy]benzyl}phenyl)-D-glucitol; 1-chloro-4-(glucopyranos-1-yl)-2-(4-(tetrahydrofuran-3-yloxy)benzyl)benzene; Empagliflozin; Empagliflozina; Empagliflozine; Empagliflozinum
+
+> <PRODUCTS>
+Glyxambi; Jardiance; Synjardy; Synjardy XR; Trijardy XR
+
+$$$$

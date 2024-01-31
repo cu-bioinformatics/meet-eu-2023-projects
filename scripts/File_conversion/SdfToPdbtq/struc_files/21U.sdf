@@ -1,0 +1,167 @@
+21U
+  Mrv0541 02241213042D          
+
+ 26 27  0  0  0  0            999 V2000
+    3.0375   -0.3382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3230   -1.5757    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3230   -0.7507    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6085   -0.3382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6085    0.4868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8941   -0.7507    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8078   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0009   -1.7427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4116   -1.0283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1404   -0.4152    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0311    0.3918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8158    0.6467    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9873    1.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7719    1.7086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3850    1.1566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1696    1.4115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3412    2.2185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7281    2.7706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9434    2.5156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5820    0.9438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7519   -0.7507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4664   -0.3382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7519   -1.5757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7827    0.8595    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.8287   -1.0427    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5942   -0.0477    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 21  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3 25  1  6  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 26  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 20  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06911
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](N)(CC(C)C)C(=O)N1CCC[C@@]1([H])C(=O)NCC1=CC(Cl)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H26ClN3O2/c1-12(2)9-15(20)18(24)22-8-4-7-16(22)17(23)21-11-13-5-3-6-14(19)10-13/h3,5-6,10,12,15-16H,4,7-9,11,20H2,1-2H3,(H,21,23)/t15-,16+/m1/s1
+
+> <INCHI_KEY>
+FHVBVJXZKNCSLP-CVEARBPZSA-N
+
+> <FORMULA>
+C18H26ClN3O2
+
+> <MOLECULAR_WEIGHT>
+351.871
+
+> <EXACT_MASS>
+351.171354798
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9301643647295531
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.843144465792626
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-1-[(2R)-2-amino-4-methylpentanoyl]-N-[(3-chlorophenyl)methyl]pyrrolidine-2-carboxamide
+
+> <ALOGPS_LOGP>
+1.77
+
+> <JCHEM_LOGP>
+2.1567966676666663
+
+> <ALOGPS_LOGS>
+-3.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.287430325088623
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.124482449699011
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.43
+
+> <JCHEM_REFRACTIVITY>
+95.29369999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.18e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06911
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+D-leucyl-N-(3-chlorobenzyl)-L-prolinamide
+
+$$$$

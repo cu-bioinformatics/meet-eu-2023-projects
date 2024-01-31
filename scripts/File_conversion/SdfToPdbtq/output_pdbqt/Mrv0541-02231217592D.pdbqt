@@ -1,0 +1,41 @@
+REMARK  Name = 
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_8  and  C_10
+REMARK    2  A    between atoms: N_8  and  CA_16
+REMARK    3  A    between atoms: C_9  and  C_15
+REMARK    4  A    between atoms: CA_16  and  CB_17
+REMARK    5  A    between atoms: CA_16  and  C_18
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNK A   0       3.110   1.501   0.000  0.00  0.00    +0.000 OA
+ATOM      2  O   UNK A   0       2.093   0.787   0.000  0.00  0.00    +0.000 OA
+ATOM      3  O   UNK A   0       3.522  -1.688   0.000  0.00  0.00    +0.000 OA
+ATOM      4  O   UNK A   0       2.093  -0.863   0.000  0.00  0.00    +0.000 OA
+ATOM      5  C   UNK A   0       3.522   0.787   0.000  0.00  0.00    +0.000 C 
+ATOM      6  C   UNK A   0       4.237  -0.451   0.000  0.00  0.00    +0.000 C 
+ATOM      7  C   UNK A   0       4.237   0.374   0.000  0.00  0.00    +0.000 C 
+ATOM      8  C   UNK A   0       2.808   0.374   0.000  0.00  0.00    +0.000 C 
+ATOM      9  C   UNK A   0       3.522  -0.863   0.000  0.00  0.00    +0.000 C 
+ATOM     10  C   UNK A   0       2.808  -0.451   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   5  12
+ATOM     11  O   UNK A   0       4.760   1.501   0.000  0.00  0.00    +0.000 OA
+ATOM     12  C   UNK A   0       3.934   1.501   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH   5  12
+BRANCH   6  13
+ATOM     13  N   SER A   1       4.951  -0.863   0.000  0.00  0.00    +0.000 NA
+BRANCH  13  14
+ATOM     14  CA  SER A   1       5.665  -0.451   0.000  0.00  0.00    +0.000 C 
+BRANCH  14  16
+ATOM     15  OG  SER A   1       7.094  -0.451   0.000  0.00  0.00    +0.000 OA
+ATOM     16  CB  SER A   1       6.380  -0.863   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  14  16
+BRANCH  14  18
+ATOM     17  O   SER A   1       6.380   0.787   0.000  0.00  0.00    +0.000 OA
+ATOM     18  C   SER A   1       5.665   0.374   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  14  18
+ENDBRANCH  13  14
+ENDBRANCH   6  13
+TORSDOF 5

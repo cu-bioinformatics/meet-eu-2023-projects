@@ -1,0 +1,175 @@
+SOX
+  Mrv0541 02241214102D          
+
+ 28 30  0  0  0  0            999 V2000
+   -0.9005    0.8478    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3171    0.2644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5079    0.2644    0.0000 N   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2925    0.5193    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5475    1.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3544    1.4755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9954    1.9171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7774   -0.1481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3905    0.4039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3905   -0.7001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2925   -0.8155    0.0000 S   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5079   -0.5606    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3171   -0.5606    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9005   -1.1440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6974   -0.9304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9109   -0.1335    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2807   -1.5138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0776   -1.3003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6610   -1.8836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4579   -1.6701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6714   -0.8732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0880   -0.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2911   -0.5034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5475   -1.6002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8796    0.9322    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9909   -0.9262    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4165   -1.1373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8566   -0.3371    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  3  2  1  6  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  8  1  0  0  0  0
+  4 25  1  6  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  1  6  0  0  0
+ 11 26  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 12 27  1  1  0  0  0
+ 13 14  1  6  0  0  0
+ 13 28  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08559
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(NC(=O)CC2=CC=CC=C2)C(=O)[N@]2[C@]1([H])[S@@]([H])(O)C(C)(C)[C@]2([H])C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20N2O5S/c1-16(2)12(15(21)22)18-13(20)11(14(18)24(16)23)17-10(19)8-9-6-4-3-5-7-9/h3-7,11-12,14,23-24H,8H2,1-2H3,(H,17,19)(H,21,22)/t11-,12+,14-/m1/s1
+
+> <INCHI_KEY>
+WMPGEOZLAYOFHH-MBNYWOFBSA-N
+
+> <FORMULA>
+C16H20N2O5S
+
+> <MOLECULAR_WEIGHT>
+352.405
+
+> <EXACT_MASS>
+352.10929245
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9997913931130806
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.04395015257231
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-4-hydroxy-3,3-dimethyl-7-oxo-6-(2-phenylacetamido)-4lambda4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.75
+
+> <JCHEM_LOGP>
+0.06799999999999917
+
+> <ALOGPS_LOGS>
+-1.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.905662872317851
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3450126660157284
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7704678352623646
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.94000000000001
+
+> <JCHEM_REFRACTIVITY>
+85.85470000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.20e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08559
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[(2S,4S,6R)-2-(dihydroxymethyl)-4-hydroxy-3,3-dimethyl-7-oxo-4lambda~4~-thia-1-azabicyclo[3.2.0]hept-6-yl]-2-phenylacetamide
+
+$$$$

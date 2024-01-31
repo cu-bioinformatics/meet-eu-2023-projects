@@ -1,0 +1,159 @@
+
+  Mrv1652306231722482D          
+
+ 22 23  0  0  1  0            999 V2000
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0329    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6829    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    0.0000    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+  6 22  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB13792
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H]1CCC[C@@H](C)N1NC(=O)C1=CC=C(Cl)C(=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20ClN3O3S/c1-9-4-3-5-10(2)18(9)17-14(19)11-6-7-12(15)13(8-11)22(16,20)21/h6-10H,3-5H2,1-2H3,(H,17,19)(H2,16,20,21)/t9-,10+
+
+> <INCHI_KEY>
+LBXHRAWDUMTPSE-AOOOYVTPSA-N
+
+> <FORMULA>
+C14H20ClN3O3S
+
+> <MOLECULAR_WEIGHT>
+345.84
+
+> <EXACT_MASS>
+345.0913904
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.92735791756881
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-chloro-N-[(2R,6S)-2,6-dimethylpiperidin-1-yl]-3-sulfamoylbenzamide
+
+> <ALOGPS_LOGP>
+2.33
+
+> <JCHEM_LOGP>
+1.5867721943333333
+
+> <ALOGPS_LOGS>
+-3.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.757382009632984
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.85329996872671
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.317248342127276
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.5
+
+> <JCHEM_REFRACTIVITY>
+86.17209999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+clopamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13792
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Clopamide
+
+> <SYNONYMS>
+Clopamide
+
+$$$$

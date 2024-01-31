@@ -1,0 +1,155 @@
+
+  Mrv1909 09161915222D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.2505    0.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639    0.5194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4639   -0.3055    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2505   -0.7181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9651   -0.3055    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9651    0.5194    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7515   -1.1026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2504   -1.1026    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6795    0.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6795    1.7571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3942    0.5194    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2538   -1.7571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9650   -1.5151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6794   -1.1026    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3942   -1.5151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0920   -0.3880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2669   -0.3880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  1  0  0  0  0
+  5  7  1  0  0  0  0
+  3  8  1  1  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  6  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09060
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)[C@@H]1CC[C@@H]2CN1C(=O)N2OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11N3O6S/c8-6(11)5-2-1-4-3-9(5)7(12)10(4)16-17(13,14)15/h4-5H,1-3H2,(H2,8,11)(H,13,14,15)/t4-,5+/m1/s1
+
+> <INCHI_KEY>
+NDCUAPJVLWFHHB-UHNVWZDZSA-N
+
+> <FORMULA>
+C7H11N3O6S
+
+> <MOLECULAR_WEIGHT>
+265.24
+
+> <EXACT_MASS>
+265.03685626
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.324695775741624
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2S,5R)-2-carbamoyl-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-1.79
+
+> <JCHEM_LOGP>
+-3.606539514926804
+
+> <ALOGPS_LOGS>
+-1.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.05107818142906
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.9846012790805518
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.909811589415722
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.24
+
+> <JCHEM_REFRACTIVITY>
+52.48340000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.50e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+avibactam
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09060
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Avibactam
+
+> <SYNONYMS>
+Avibactam
+
+> <PRODUCTS>
+Avycaz; Zavicefta
+
+> <SALTS>
+Avibactam sodium
+
+$$$$

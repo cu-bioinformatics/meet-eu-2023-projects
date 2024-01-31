@@ -1,0 +1,169 @@
+922
+  Mrv0541 02231215062D          
+
+ 21 22  0  0  1  0            999 V2000
+    9.5092   -2.0130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3658   -1.6005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0802   -2.0130    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    0.8745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.4620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.5245    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0802   -0.3630    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    8.7947   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3658   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0802    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7947   -1.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369   -0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223   -0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9369    0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2223    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 19  2  0  0  0  0
+  6 20  3  0  0  0  0
+  7 21  3  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  6  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00922
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H]1CC(=O)NN=C1C1=CC=C(NN=C(C#N)C#N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12N6O/c1-9-6-13(21)19-20-14(9)10-2-4-11(5-3-10)17-18-12(7-15)8-16/h2-5,9,17H,6H2,1H3,(H,19,21)/t9-/m1/s1
+
+> <INCHI_KEY>
+WHXMKTBCFHIYNQ-SECBINFHSA-N
+
+> <FORMULA>
+C14H12N6O
+
+> <MOLECULAR_WEIGHT>
+280.2847
+
+> <EXACT_MASS>
+280.107259036
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9438577480225807
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.66762850143643
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-cyano-N-{4-[(4R)-4-methyl-6-oxo-1,4,5,6-tetrahydropyridazin-3-yl]phenyl}methanecarbohydrazonoyl cyanide
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+2.161618159333333
+
+> <ALOGPS_LOGS>
+-3.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.787195276325209
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.774593173611052
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.240698304361134
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.42999999999998
+
+> <JCHEM_REFRACTIVITY>
+77.6308
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.81e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00922
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01296
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Levosimendan
+
+> <SYNONYMS>
+Levosimendán; Levosimendan; Lévosimendan; Levosimendanum
+
+> <INTERNATIONAL_BRANDS>
+Simdax; Simendan
+
+$$$$

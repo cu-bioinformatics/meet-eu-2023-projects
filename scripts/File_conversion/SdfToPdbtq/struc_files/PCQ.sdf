@@ -1,0 +1,160 @@
+PCQ
+  Mrv0541 02231216522D          
+
+ 18 19  0  0  0  0            999 V2000
+    1.4289   -2.0263    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.0262    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.7888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.6138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.6137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.7887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.0988    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.0987    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.9238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.6863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.0988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.6863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.8613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03346
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=C(Cl)C=C(C=C1Cl)C1=CC(Cl)=C(O)C(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H6Cl4O2/c13-7-1-5(2-8(14)11(7)17)6-3-9(15)12(18)10(16)4-6/h1-4,17-18H
+
+> <INCHI_KEY>
+YCYDXOVJXVALHY-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H6Cl4O2
+
+> <MOLECULAR_WEIGHT>
+323.987
+
+> <EXACT_MASS>
+321.912190264
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.5020693634779363
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.98468811270222
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3,3',5,5'-tetrachloro-[1,1'-biphenyl]-4,4'-diol
+
+> <ALOGPS_LOGP>
+6.22
+
+> <JCHEM_LOGP>
+5.429519239999999
+
+> <ALOGPS_LOGS>
+-4.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.792829019575723
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.11365497846286
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.4976826989129215
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+74.3752
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.59e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03346
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02524
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3,3',5,5'-tetrachlorobiphenyl-4,4'-diol
+
+> <SYNONYMS>
+3,3',5,5'-Tetrachloro-4,4'-biphenyldiol
+
+$$$$

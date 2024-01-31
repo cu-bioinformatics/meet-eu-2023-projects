@@ -1,0 +1,142 @@
+ESI
+  Mrv0541 02231216432D          
+
+ 13 14  0  0  0  0            999 V2000
+   -0.8071    0.0999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0179    0.0999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2196    0.8144    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2196   -0.6145    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.5029   -0.5675    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2875   -0.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2875    0.5124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5029    0.7674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0019   -0.7251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7164   -0.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7164    0.5124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0019    0.9249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0019    1.7499    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  CHG  1   4   1
+M  END
+> <DATABASE_ID>
+DB03136
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=[NH2+])C1=CC2=C(S1)C=CC=C2I
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H7IN2S/c10-6-2-1-3-7-5(6)4-8(13-7)9(11)12/h1-4H,(H3,11,12)/p+1
+
+> <INCHI_KEY>
+YERQOXAYAFWFEJ-UHFFFAOYSA-O
+
+> <FORMULA>
+C9H8IN2S
+
+> <MOLECULAR_WEIGHT>
+303.143
+
+> <EXACT_MASS>
+302.945287376
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9749752919698907
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.18925590009546
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[amino(4-iodo-1-benzothiophen-2-yl)methylidene]azanium
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+2.831122985
+
+> <ALOGPS_LOGS>
+-4.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.590624590720346
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.61
+
+> <JCHEM_REFRACTIVITY>
+75.0172
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.48e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03136
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01360
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Iodobenzo[B]Thiophene-2-Carboxamidine
+
+$$$$

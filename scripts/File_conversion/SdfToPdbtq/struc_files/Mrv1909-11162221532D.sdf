@@ -1,0 +1,152 @@
+
+  Mrv1909 11162221532D          
+
+ 18 16  0  0  1  0            999 V2000
+   -1.5718   -1.3200    0.0000 Pt  0  2  0  0  0  0  0  0  0  0  0  0
+    5.1827    1.3406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1827    0.5156    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8971    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8971   -0.7219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1827   -1.1344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4682   -0.7219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4682    0.1031    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7537    0.5156    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5554    0.2195    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1429   -0.4950    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8574   -0.9075    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.2696   -1.2095    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5716   -0.0825    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5716    0.7425    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5716    1.5675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3966    0.7425    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.2534    0.7425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+M  CHG  3   1   2  12  -1  17  -1
+M  END
+> <DATABASE_ID>
+DB17120
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Pt++].N[C@@H]1CCCC[C@H]1N.OP([O-])(=O)OP(O)([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2.H4O7P2.Pt/c7-5-3-1-2-4-6(5)8;1-8(2,3)7-9(4,5)6;/h5-6H,1-4,7-8H2;(H2,1,2,3)(H2,4,5,6);/q;;+2/p-2/t5-,6-;;/m1../s1
+
+> <INCHI_KEY>
+SCMHTXQHAHWVSX-BNTLRKBRSA-L
+
+> <FORMULA>
+C6H16N2O7P2Pt
+
+> <MOLECULAR_WEIGHT>
+485.233
+
+> <EXACT_MASS>
+485.008067
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.881555008854674
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.680077647919845
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+platinum(2+) (1R,2R)-cyclohexane-1,2-diamine hydrogen (hydrogen phosphonatooxy)phosphonate
+
+> <ALOGPS_LOGP>
+-0.36
+
+> <JCHEM_LOGP>
+-1.4419023016666666
+
+> <ALOGPS_LOGS>
+-1.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.060391741362254
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7026764435673858
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.95000000000002
+
+> <JCHEM_REFRACTIVITY>
+23.2814
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.81e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N'-[(1E)-1-(5-chloro-2-hydroxyphenyl)ethylidene]-3-(4-methylpiperazin-1-ylsulfonyl)benzohydrazide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17120
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Imifoplatin
+
+> <SYNONYMS>
+1,2-cyclohexanediamine pyrophosphatoplatinum(ii), (r,r)-; Cyclohexane-(1r,2r)-diamineplatinum(ii) diphosphate; Cyclohexanediamine pyrophosphatoplatinum(ii), (1r,2r)-; Dihydrogen (sp-4-2)-((1r,2r)-cyclohexane-1,2-diamine-.kappa.2n1,n2)(diphosphato(4)-.kappa.2o1,o3)platinate(2); Platinate(2-), ((1r,2r)-1,2-cyclohexanediamine-.kappa.n1,.kappa.n2)(diphosphato(4-)-.kappa.o,.kappa.o'')-, hydrogen (1:2), (sp-4-2)-
+
+$$$$

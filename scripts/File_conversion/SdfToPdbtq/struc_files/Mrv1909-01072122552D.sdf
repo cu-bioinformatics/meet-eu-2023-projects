@@ -1,0 +1,180 @@
+
+  Mrv1909 01072122552D          
+
+ 29 31  0  0  0  0            999 V2000
+    0.3604    0.1671    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0025   -0.5761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8018   -0.7596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8018    1.0941    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0025    0.9105    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4468   -0.2453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4468    0.5796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1854    0.1671    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9853   -1.5639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5168    1.5554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5979   -0.5472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5168   -1.2210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1854   -1.2617    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2154    2.3234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326    1.4325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3806   -2.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5641   -2.9294    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5456    2.8455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8470    2.0775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7298    2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1612   -0.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0599    3.4905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1612    0.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4229   -0.5472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0405   -3.4905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3525   -3.1726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8758    3.3675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8758   -0.2453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8758    0.5796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  4  1  0  0  0  0
+  1  8  1  1  0  0  0
+  9  3  1  0  0  0  0
+  5 10  1  1  0  0  0
+ 11  8  1  0  0  0  0
+ 12  2  2  0  0  0  0
+ 13 11  2  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15 10  2  0  0  0  0
+ 16  9  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 15  1  0  0  0  0
+ 20 14  2  0  0  0  0
+ 21  6  1  0  0  0  0
+ 22 18  1  0  0  0  0
+ 23  7  1  0  0  0  0
+ 24 11  1  0  0  0  0
+ 25 17  1  0  0  0  0
+ 26 17  1  0  0  0  0
+ 27 22  1  0  0  0  0
+ 28 21  2  0  0  0  0
+ 29 23  2  0  0  0  0
+  7  6  2  0  0  0  0
+ 20 18  1  0  0  0  0
+ 29 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00343
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC=C(C=C1)[C@@H]1SC2=C(C=CC=C2)N(CCN(C)C)C(=O)[C@@H]1OC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H26N2O4S/c1-15(25)28-20-21(16-9-11-17(27-4)12-10-16)29-19-8-6-5-7-18(19)24(22(20)26)14-13-23(2)3/h5-12,20-21H,13-14H2,1-4H3/t20-,21+/m1/s1
+
+> <INCHI_KEY>
+HSUGRBWQSSZJOP-RTWAWAEBSA-N
+
+> <FORMULA>
+C22H26N2O4S
+
+> <MOLECULAR_WEIGHT>
+414.518
+
+> <EXACT_MASS>
+414.16132802
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9373891059483869
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.679221382801245
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3S)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3,4,5-tetrahydro-1,5-benzothiazepin-3-yl acetate
+
+> <JCHEM_LOGP>
+2.7272518843333335
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.860751889993132
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.175280193715892
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.08
+
+> <JCHEM_REFRACTIVITY>
+114.36630000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+disodium dexamethasone phosphate(2-)
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00343
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00473
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Diltiazem
+
+> <SYNONYMS>
+(+)-cis-5-[2-(dimethylamino)ethyl]-2,3-dihydro-3-hydroxy-2-(p-methoxyphenyl)-1,5-benzothiazepin-4(5H)-one acetate ester; (2S-cis)-3-(acetyloxy)-5-[2-(dimethylamino)ethyl]-2,3-dihydro-2-(4-methoxyphenyl)-1,5-benzothiazepin-4(5H)-one; (2S,3S)-5-(2-(dimethylamino)ethyl)-2-(4-methoxyphenyl)-4-oxo-2,3,4,5-tetrahydrobenzo[b][1,4]thiazepin-3-yl acetate; Acetic acid (2S,3S)-5-(2-dimethylamino-ethyl)-2-(4-methoxy-phenyl)-4-oxo-2,3,4,5-tetrahydro-benzo[b][1,4]thiazepin-3-yl ester; d-cis-diltiazem; Diltiazem; Diltiazemum
+
+> <PRODUCTS>
+Aa-diltiaz; Act Diltiazem CD; Act Diltiazem T; Alti-diltiazem Tab 30mg; Alti-diltiazem Tab 60mg; Apo-diltiaz CD; Apo-diltiaz Injectable; Apo-diltiaz SR; Apo-diltiaz TZ; Ava-diltiazem; Cardizem; Cardizem CD; Cardizem Injectable; Cardizem Injectable Liq 5mg/ml; Cardizem LA; Cardizem SR 120mg; Cardizem SR 60mg; Cardizem SR 90mg; Cartia XT; Cartia Xt; Dilacor XR; Dilt-CD; Diltia XT; Diltiazem CD; Diltiazem HCl; Diltiazem HCl CD; Diltiazem Hci; Diltiazem Hydrochloride; Diltiazem Hydrochloride EXTENDED RELEASE; Diltiazem Hydrochloride Extended Release; Diltiazem Hydrochloride Extended Release Extended Release; Diltiazem Hydrochloride Extended-Release; Diltiazem Hydrochloride Extended-release; Diltiazem Hydrochloride Injection; Diltiazem HydrochlorideExtended Release Extended Release; Diltiazem T; Diltiazem TZ; Diltiazem Tablets 30mg; Diltiazem Tablets 60mg; Diltiazem hydrochloride; Diltiazem-30 Tab 30mg; Diltiazem-60 Tab 60mg; Diltiazem-CD; Diltzac; Gen-diltiazem - Tab 30mg; Gen-diltiazem - Tab 60mg; Gen-diltiazem CD; Gen-diltiazem SR 120mg; Gen-diltiazem SR 60mg; Gen-diltiazem SR 90mg; Jamp Diltiazem CD; Jamp Diltiazem T; Mar-diltiazem CD; Mar-diltiazem T; Matzim LA; Med Diltiazem - Tab 30mg; Med Diltiazem - Tab 60mg; Novo-diltazem SR Capsules; Nu-diltiaz Tab 30mg; Nu-diltiaz Tab 60mg; Nu-diltiaz-CD Capsules; Nu-diltiaz-CD Capsules 120mg; Nu-diltiaz-CD Capsules 180mg; Nu-diltiaz-CD Capsules 240mg; PMS-diltiazem CD; Penta-diltiazem - 30mg; Penta-diltiazem - 60mg; Ratio-diltiazem CD; Sandoz Diltiazem CD; Sandoz Diltiazem T; Taro-diltiazem T; Taro-diltiazem Tab 30mg; Taro-diltiazem Tab 60mg; Taztia Xt; Teva-diltiazem; Teva-diltiazem CD; Teva-diltiazem HCl ER; Teva-diltiazem Xc; Tiadylt ER; Tiazac; Tiazac Extended Release; Tiazac Xc; Tria-diltiazem 30mg Tablets; Tria-diltiazem 60 Mg Tablets
+
+> <INTERNATIONAL_BRANDS>
+Acalix; Adizem; Altiazem; Anoheal; Calcicard; Cartia; Dilacor; Dilacor-XR; Dilcontin; Dilrene; Dilticard; Dilzem; Herbesser; Incoril AP; Masdil; Surazem; TAZTIA; Tildem; Viazem
+
+> <SALTS>
+Diltiazem hydrochloride; Diltiazem malate; Diltiazem maleate
+
+$$$$

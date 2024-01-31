@@ -1,0 +1,168 @@
+902
+  Mrv0541 02231215052D          
+
+ 21 24  0  0  1  0            999 V2000
+    3.6960   -1.8487    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6356    1.1902    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6960   -0.2644    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820    0.9237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4648    1.7115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1056    0.6016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2396    1.8761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6960    0.5276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4234    1.1074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820   -0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0100   -0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3820   -1.4527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0100   -1.4527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0901   -0.2370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -0.2370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0901   -1.8761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -1.8761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8078   -0.6441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -0.6441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8078   -1.4691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5842   -1.4691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00902
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CCC(CN2C3=CC=CC=C3SC3=CC=CC=C23)C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H20N2S/c1-19-11-10-14(12-19)13-20-15-6-2-4-8-17(15)21-18-9-5-3-7-16(18)20/h2-9,14H,10-13H2,1H3
+
+> <INCHI_KEY>
+HTMIBDQKFHUPSX-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H20N2S
+
+> <MOLECULAR_WEIGHT>
+296.43
+
+> <EXACT_MASS>
+296.13471934
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9846869005568211
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.37077404915795
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+10-[(1-methylpyrrolidin-3-yl)methyl]-10H-phenothiazine
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+3.936746242333333
+
+> <ALOGPS_LOGS>
+-4.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.80823505727767
+
+> <JCHEM_POLAR_SURFACE_AREA>
+6.48
+
+> <JCHEM_REFRACTIVITY>
+91.63630000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.47e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB00902
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00713
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Methdilazine
+
+> <SYNONYMS>
+Methdilazine; Methdilazinum; Metodilazina
+
+> <INTERNATIONAL_BRANDS>
+Dilosyn; Tacaryl
+
+> <SALTS>
+Methdilazine Hydrochloride
+
+$$$$

@@ -1,0 +1,156 @@
+
+  Mrv1718001051815232D          
+
+ 19 20  0  0  0  0            999 V2000
+   -2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08687
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CNC(=O)C1=C(O)C2=CC=CC=C2C(Cl)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9ClN2O4/c13-11-7-4-2-1-3-6(7)10(18)9(15-11)12(19)14-5-8(16)17/h1-4,18H,5H2,(H,14,19)(H,16,17)
+
+> <INCHI_KEY>
+OUQVKRKGTAUJQA-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9ClN2O4
+
+> <MOLECULAR_WEIGHT>
+280.664
+
+> <EXACT_MASS>
+280.025084493
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.935261549495866
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(1-chloro-4-hydroxyisoquinolin-3-yl)formamido]acetic acid
+
+> <ALOGPS_LOGP>
+2.39
+
+> <JCHEM_LOGP>
+1.853856671333333
+
+> <ALOGPS_LOGS>
+-3.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.215945901928906
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1786593130965937
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.1298989675951162
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+67.88600000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.67e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1-chloro-4-hydroxyisoquinolin-3-yl)formamido]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08687
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05577
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+FG-2216
+
+> <SYNONYMS>
+(((1-Chloro-4-hydroxyisoquinolin-3-yl)carbonyl)amino)acetic acid; 1-Chloro-N- (hydroxyformylmethyl-4-hydroxyisoquinoline-3-carboxamide; 1-Chloro-N-(hydroxyformylmethyl-4-hydroxyisoquinoline-3-carboxamide
+
+$$$$

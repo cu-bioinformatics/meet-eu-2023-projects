@@ -1,0 +1,168 @@
+
+  Mrv0541 02231216102D          
+
+ 24 26  0  0  0  0            999 V2000
+   -5.7158   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -1.2375    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 16 24  1  0  0  0  0
+M  CHG  2   2   1  18   1
+M  END
+> <DATABASE_ID>
+DB02390
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[NH+](C)CCNC(=O)C1=CC=CC2=C(N)C3=C([NH+]=C12)C(Br)=CC=C3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H19BrN4O/c1-23(2)10-9-21-18(24)13-7-3-5-11-15(20)12-6-4-8-14(19)17(12)22-16(11)13/h3-8H,9-10H2,1-2H3,(H2,20,22)(H,21,24)/p+2
+
+> <INCHI_KEY>
+NROQPXQSDDINMC-UHFFFAOYSA-P
+
+> <FORMULA>
+C18H21BrN4O
+
+> <MOLECULAR_WEIGHT>
+389.29
+
+> <EXACT_MASS>
+388.089873961
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.510287182224219
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.73832823003047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+2
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+9-amino-4-bromo-5-{[2-(dimethylazaniumyl)ethyl]carbamoyl}acridin-10-ium
+
+> <ALOGPS_LOGP>
+-1.09
+
+> <JCHEM_LOGP>
+2.5390151073333334
+
+> <ALOGPS_LOGS>
+-7.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.709983915299048
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.52450416002751
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.7
+
+> <JCHEM_REFRACTIVITY>
+113.14950000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.82e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02390
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01117
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Bromo-N[2-(Dimethylamino)Ethyl]-9-Aminoacridine-4-Carboxamide
+
+$$$$

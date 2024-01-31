@@ -1,0 +1,155 @@
+
+  Mrv1909 01022017062D          
+
+ 27 25  0  0  0  0            999 V2000
+   -1.4590   -4.0640    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4929   -4.5871    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+   -2.3649   -2.1120    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.9360   -2.1120    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2214   -3.3495    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0464   -3.3495    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.2214   -4.1745    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -1.6504   -1.6995    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.6035   -3.3495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5235   -1.3975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3485   -2.8265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2214   -2.5245    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4929   -2.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4929   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074   -0.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9220    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4929    0.3630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074    1.6005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9220    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4929    1.1880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074    2.4255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4929    2.8380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9220    2.8380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4929    3.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9220    3.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2074    4.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  2  0  0  0  0
+  4 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 25 27  2  0  0  0  0
+ 26 27  1  0  0  0  0
+M  CHG  6   1   1   2   1   3   1   6  -1   7  -1   8  -1
+M  END
+> <DATABASE_ID>
+DB07424
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[K+].[K+].[K+].[O-]P([O-])(=O)[C@@H](CCCC1=CC=C(C=C1)C1=CC=CC=C1)S([O-])(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19O6PS.3K/c17-23(18,19)16(24(20,21)22)8-4-5-13-9-11-15(12-10-13)14-6-2-1-3-7-14;;;/h1-3,6-7,9-12,16H,4-5,8H2,(H2,17,18,19)(H,20,21,22);;;/q;3*+1/p-3/t16-;;;/m1.../s1
+
+> <INCHI_KEY>
+LBNUOQAEVSXSSE-UFRNLTNDSA-K
+
+> <FORMULA>
+C16H16K3O6PS
+
+> <MOLECULAR_WEIGHT>
+484.628
+
+> <EXACT_MASS>
+483.931641029
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.1768130856367
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+potassium (1R)-4-{[1,1'-biphenyl]-4-yl}-1-[bis(potassiooxy)phosphoryl]butane-1-sulfonate
+
+> <JCHEM_LOGP>
+5.0685
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.519266839304437
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.9
+
+> <JCHEM_REFRACTIVITY>
+87.36349999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <JCHEM_TRADITIONAL_IUPAC>
+potassium (1R)-4-{[1,1'-biphenyl]-4-yl}-1-(dipotassiooxyphosphoryl)butane-1-sulfonate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07424
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tripotassium (1R)-4-biphenyl-4-yl-1-phosphonatobutane-1-sulfonate
+
+$$$$

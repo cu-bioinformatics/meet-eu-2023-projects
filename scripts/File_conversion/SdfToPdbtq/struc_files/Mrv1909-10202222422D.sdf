@@ -1,0 +1,166 @@
+
+  Mrv1909 10202222422D          
+
+ 18 19  0  0  1  0            999 V2000
+    0.7144    0.9328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8974   -2.2416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674   -0.7895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3046    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.5742    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    2.1703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    0.9328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.1703    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.9953    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.7578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.5203    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5618   -2.9953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.5203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6674   -0.7895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.5742    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7350    0.0698    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2273   -1.4451    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  2  0  0  0  0
+  5  3  1  0  0  0  0
+  6  2  1  6  0  0  0
+  7  4  1  0  0  0  0
+  9  4  1  0  0  0  0
+ 10  7  2  0  0  0  0
+ 11  7  1  0  0  0  0
+ 11  8  2  0  0  0  0
+ 12  1  1  0  0  0  0
+  5 12  1  6  0  0  0
+ 12  8  1  0  0  0  0
+ 13  2  1  0  0  0  0
+ 14  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 16  3  1  0  0  0  0
+  6 16  1  0  0  0  0
+  5 17  1  1  0  0  0
+  6 18  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB00879
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CO)O[C@@]([H])(CS1)N1C=C(F)C(=N)N=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10FN3O3S/c9-4-1-12(8(14)11-7(4)10)5-3-16-6(2-13)15-5/h1,5-6,13H,2-3H2,(H2,10,11,14)/t5-,6+/m0/s1
+
+> <INCHI_KEY>
+XQSPYNMVSIKCOC-NTSWFWBYSA-N
+
+> <FORMULA>
+C8H10FN3O3S
+
+> <MOLECULAR_WEIGHT>
+247.247
+
+> <EXACT_MASS>
+247.042690096
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.02641444104372587
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.15483582333278
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-fluoro-1-[(2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]-4-imino-1,4-dihydropyrimidin-2-ol
+
+> <ALOGPS_LOGP>
+-0.30
+
+> <JCHEM_LOGP>
+0.08247278233333338
+
+> <ALOGPS_LOGS>
+-2.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.29466177857758
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.472442868902741
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.560362041719956
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.14000000000001
+
+> <JCHEM_REFRACTIVITY>
+66.77990000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.68e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00879
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00226
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Emtricitabine
+
+> <SYNONYMS>
+(−)-(2R,5S)-5-fluoro-1-[2-(hydroxymethyl)-1,3-oxathiolan-5-yl]cytosine; (−)-2'-deoxy-5-fluoro-3'-thiacytidine; (−)-cis-4-amino-5-fluoro-1-(2-hydroxymethyl-1,3-oxathiolan-5-yl)-(1H)-pyrimidin-2-one; (−)-FTC; (−)-β-2',3'-dideoxy-5-fluoro-3'-thiacytidine; (2R-cis)-4-amino-5-fluoro-1-(2-(hydroxymethyl)-1,3-oxathiolan-5-yl)-2(1H)-pyrimidinone; 4-amino-5-fluoro-1-((2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl)pyrimidin-2(1H)-one; 4-Amino-5-fluoro-1-((2R,5S)-2-hydroxymethyl-[1,3]oxathiolan-5-yl)-1H-pyrimidin-2-one; 5-fluoro-1-((2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl)cytosine; Emtricitabin; Emtricitabina; Emtricitabine; Emtricitabinum
+
+> <PRODUCTS>
+Ag-emtricitabine / Tenofovir Disoproxil Fumarate; Apo-efavirenz-emtricitabine-tenofovir; Apo-emtricitabine-tenofovir; Atripla; Atripla Access; Auro-efavirenz-emtricitabine-tenofovir; Auro-emtricitabine-tenofovir; Biktarvy; COMPLERA Access; Complera; Descovy; Efavirenz, Emtricitabine And Tenofovir Disoproxil Fumarate; Efavirenz, Emtricitabine and Tenofovir Disoproxil Fumarate; Efavirenz, emtricitabine and tenofovir disoproxil fumarate; Efavirenz/emtricita Bine/tenofovir Disoproxil Mylan; Efavirenz/emtricitabine/ Tenofovir Disoproxil Krka; Efavirenz/emtricitabine/ Tenofovir Disoproxil Zentiva; Emtricitabine; Emtricitabine and Tenofovir Disoproxil Fumarate; Emtricitabine and tenofovir disoproxil fumarate; Emtricitabine/ten Ofovir Disoproxil Mylan; Emtricitabine/teno Fovir Disoproxil Krka; Emtricitabine/teno Fovir Disoproxil Krka D.D.; Emtricitabine/tenofovir Disoproxil Mylan; Emtricitabine/tenofovir Disoproxil Zentiva; Emtriva; Eviplera; Genvoya; Jamp Efavirenz/emtricitabine/tenofovir Disoproxil Fumarate; Jamp Emtricitabine/tenofovir Disoproxil Fumarate; Mint-emtricitabine/tenofovir; Mylan-efavirenz/emtricitabine/tenofovir Disoproxil Fumarate; Mylan-emtricitabine/tenofovir Disoproxil; Odefsey; PMS-efavirenz-emtricitabine-tenofovir; PMS-emtricitabine-tenofovir; Riva-efavirenz/emtricitabine/tenofovir; Sandoz Efavirenz/emtricitabine/tenofovir; Sandoz Emtricitabine-tenofovir; Stribild; Stribild Access; Symtuza; Teva-efavirenz/emtricitabine/tenofovir; Teva-emtricitabine/tenofovir; Truvada; Truvada Access
+
+> <INTERNATIONAL_BRANDS>
+Coviracil
+
+$$$$

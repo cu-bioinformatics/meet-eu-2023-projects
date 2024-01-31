@@ -1,0 +1,170 @@
+MTH
+  Mrv0541 02231216342D          
+
+ 24 26  0  0  0  0            999 V2000
+   -2.0083   -2.7909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3409   -2.3060    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4271   -1.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7597   -1.0006    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7597   -0.1756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5099   -0.5881    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3349   -0.5881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0249   -1.2555    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2799   -2.0401    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0249    0.0794    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2799    0.8640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2050    1.5314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2799    2.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0645    1.9439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7790    2.3564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7790    3.1814    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4934    1.9439    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4934    1.1189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7790    0.7064    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0645    1.1189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2800   -0.7355    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7750   -1.1084    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3880   -1.6684    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3880    0.4923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 21  1  6  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 22  1  1  0  0  0
+  8  9  1  6  0  0  0
+  8 23  1  1  0  0  0
+ 10 11  1  1  0  0  0
+ 10 24  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02933
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CSC)O[C@@]([H])(N2C=CC3=C(N)N=CN=C23)[C@]([H])(O)[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H16N4O3S/c1-20-4-7-8(17)9(18)12(19-7)16-3-2-6-10(13)14-5-15-11(6)16/h2-3,5,7-9,12,17-18H,4H2,1H3,(H2,13,14,15)/t7-,8-,9-,12-/m1/s1
+
+> <INCHI_KEY>
+WBPLMFVTQMIPLW-MFYTUXHUSA-N
+
+> <FORMULA>
+C12H16N4O3S
+
+> <MOLECULAR_WEIGHT>
+296.345
+
+> <EXACT_MASS>
+296.094311088
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.7627420174330908
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.80163940263252
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5S)-2-{4-amino-7H-pyrrolo[2,3-d]pyrimidin-7-yl}-5-[(methylsulfanyl)methyl]oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+0.04
+
+> <JCHEM_LOGP>
+0.20401108433333323
+
+> <ALOGPS_LOGS>
+-1.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.013657741543893
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.473555635432072
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.509423164061544
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.42
+
+> <JCHEM_REFRACTIVITY>
+76.2052
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.64e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02933
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02244
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5'-Deoxy-5'-(Methylthio)-Tubercidin
+
+$$$$

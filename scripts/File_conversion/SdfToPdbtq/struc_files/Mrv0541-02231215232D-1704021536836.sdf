@@ -1,0 +1,192 @@
+
+  Mrv0541 02231215232D          
+
+ 29 31  0  0  1  0            999 V2000
+    5.6654   -0.5339    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3466   -2.3118    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2100   -0.9498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7938    1.2916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219    0.7036    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9508    2.3537    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0337   -1.5555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3798    2.3537    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.9412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3798    0.7036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0367   -0.1265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.7036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2117   -0.1248    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.3798   -0.1214    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.2117    0.7070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6654    1.1161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9508    0.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9508   -0.1214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2364    1.1161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4477   -0.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6654    1.9412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4947   -1.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2727   -0.8436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6837   -1.5588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5040   -1.6468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    1.1161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6739   -2.4541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9586   -2.8652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5599   -0.7991    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 24  1  0  0  0  0
+  2 28  1  0  0  0  0
+ 13  3  1  6  0  0  0
+  3 22  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5 19  1  0  0  0  0
+  5 26  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8 21  2  0  0  0  0
+  9 26  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 29  1  6  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01331
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SCC(COC(N)=O)=C(N1C(=O)[C@]2(NC(=O)CC1=CC=CS1)OC)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H17N3O7S2/c1-25-16(18-10(20)5-9-3-2-4-27-9)13(23)19-11(12(21)22)8(6-26-15(17)24)7-28-14(16)19/h2-4,14H,5-7H2,1H3,(H2,17,24)(H,18,20)(H,21,22)/t14-,16+/m1/s1
+
+> <INCHI_KEY>
+WZOZEZRFJCJXNZ-ZBFHGGJFSA-N
+
+> <FORMULA>
+C16H17N3O7S2
+
+> <MOLECULAR_WEIGHT>
+427.452
+
+> <EXACT_MASS>
+427.050791293
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9998595909620468
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.46932898276823
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(6R,7S)-3-[(carbamoyloxy)methyl]-7-methoxy-8-oxo-7-[2-(thiophen-2-yl)acetamido]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+0.28835905266666645
+
+> <ALOGPS_LOGS>
+-3.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.968089935497765
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3946375366655706
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.843469463572101
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.26
+
+> <JCHEM_REFRACTIVITY>
+98.76430000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.95e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01331
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00897
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Cefoxitin
+
+> <SYNONYMS>
+(6R,7S)-4-[(carbamoyloxy)methyl]-7-methoxy-8-oxo-7-[(thiophen-2-enyl)acetamido]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid; Cefoxitin; Cefoxitina; Cefoxitine; Cefoxitinum; Ceftoxitin; Cephoxitin; CFX; Rephoxitin
+
+> <PRODUCTS>
+Cefoxitin; Cefoxitin and Dextrose; Cefoxitin for Injection; Cefoxitin for Injection USP; Mefoxin; Mefoxin Inj 1gm/vial Add-vantag; Mefoxin Inj 2gm/vial Add-vantag; Mefoxin Pws 1gm/vial; Mefoxin Pws 2gm/vial; Mefoxin Pws Inj 10gm/vial
+
+> <INTERNATIONAL_BRANDS>
+Cefoctin; Cenomicin; Mefoxitin
+
+> <SALTS>
+Cefoxitin sodium
+
+$$$$

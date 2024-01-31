@@ -1,0 +1,161 @@
+
+  Mrv1909 02072023322D          
+
+ 21 20  0  0  0  0            999 V2000
+   -4.2942    0.8057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5785    0.3955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8629    0.8099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1471    0.3997    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4314    0.8141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7156    0.4038    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.8182    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7156    0.4080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4314    0.8224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1471    0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8629    0.8266    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.5785    0.4164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2942    0.8307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5767   -0.4332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4332    1.6428    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7156   -0.4206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4314   -0.8307    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4314   -1.6553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7174   -0.4206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8610    1.6553    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5803   -0.4123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 10 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3  4  1  0  0  0  0
+  5 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  6 16  1  1  0  0  0
+ 16 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  8 19  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 20  1  6  0  0  0
+  2  3  1  0  0  0  0
+ 12 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04701
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CSC[C@H](NC(=O)CC[C@H](N)C(O)=O)C(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H19N3O6S/c1-21-5-7(10(18)13-4-9(16)17)14-8(15)3-2-6(12)11(19)20/h6-7H,2-5,12H2,1H3,(H,13,18)(H,14,15)(H,16,17)(H,19,20)/t6-,7-/m0/s1
+
+> <INCHI_KEY>
+QTQDDTSVRVWHMO-BQBZGAKWSA-N
+
+> <FORMULA>
+C11H19N3O6S
+
+> <MOLECULAR_WEIGHT>
+321.35
+
+> <EXACT_MASS>
+321.099456045
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.004223960112616
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.246856718688115
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-{[(1R)-1-[(carboxymethyl)carbamoyl]-2-(methylsulfanyl)ethyl]carbamoyl}butanoic acid
+
+> <ALOGPS_LOGP>
+-2.81
+
+> <JCHEM_LOGP>
+-4.482684919353734
+
+> <ALOGPS_LOGS>
+-2.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.8052546574364174
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8149703286110692
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.3114248383471
+
+> <JCHEM_POLAR_SURFACE_AREA>
+158.82
+
+> <JCHEM_REFRACTIVITY>
+73.7659
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-threoninol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04701
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-Methyl glutathione
+
+> <SYNONYMS>
+Glutathione ester; Glutathione S-methyl ester; L-gamma-Glutamyl-S-methyl-L-cysteinylglycine
+
+$$$$

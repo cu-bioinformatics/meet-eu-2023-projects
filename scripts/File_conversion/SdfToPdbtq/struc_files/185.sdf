@@ -1,0 +1,177 @@
+185
+  Mrv0541 02241213032D          
+
+ 29 31  0  0  0  0            999 V2000
+    1.5962   -0.6024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5962    0.2226    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3106   -1.0149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0251   -0.6024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3106   -1.8399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5962   -2.2524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8817   -1.8399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8817   -1.0149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1672   -0.6024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8817    0.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1672    0.2226    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5472    0.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2617    0.2226    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5472    1.4601    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1672    1.8726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1672    2.6976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8817    1.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9762    0.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6906    0.2226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4051    0.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4051    1.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6906    1.8726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9762    1.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1196    1.8726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8341    2.2851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5962   -3.0774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5962   -3.9024    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8817    3.1101    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5962    1.8726    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 26  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 28  1  0  0  0  0
+ 17 29  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 24  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 24 25  3  0  0  0  0
+ 26 27  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06874
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(=CC(C)=C1OC1=C(Br)C(CO)=NC(NC2=CC=C(C=C2)C#N)=N1)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H16BrN5O2/c1-12-7-15(10-24)8-13(2)19(12)29-20-18(22)17(11-28)26-21(27-20)25-16-5-3-14(9-23)4-6-16/h3-8,28H,11H2,1-2H3,(H,25,26,27)
+
+> <INCHI_KEY>
+LSIZSSASMKSUIU-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H16BrN5O2
+
+> <MOLECULAR_WEIGHT>
+450.288
+
+> <EXACT_MASS>
+449.048737428
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0002189865975649121
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.24890293900521
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-({5-bromo-2-[(4-cyanophenyl)amino]-6-(hydroxymethyl)pyrimidin-4-yl}oxy)-3,5-dimethylbenzonitrile
+
+> <ALOGPS_LOGP>
+3.52
+
+> <JCHEM_LOGP>
+5.08510187
+
+> <ALOGPS_LOGS>
+-4.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.944797252777843
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.657732002648073
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.001245516595578
+
+> <JCHEM_POLAR_SURFACE_AREA>
+114.85000000000001
+
+> <JCHEM_REFRACTIVITY>
+113.15090000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.32e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06874
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(6-[4-(AMINOMETHYL)-2,6-DIMETHYLPHENOXY]-2-{[4-(AMINOMETHYL)PHENYL]AMINO}-5-BROMOPYRIMIDIN-4-YL)METHANOL
+
+$$$$

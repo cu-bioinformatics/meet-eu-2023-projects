@@ -1,0 +1,174 @@
+N5I
+  Mrv0541 02241213572D          
+
+ 27 29  0  0  0  0            999 V2000
+   -1.9978   -2.5285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8859    3.9288    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8859    3.1038    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6004    2.6913    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.1714    2.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4570    3.1038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7425    2.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1714    1.8663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4570    1.4538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7425    1.8663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9579    1.6113    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4729    2.2788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9579    2.9462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7029    0.8267    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0817    0.5718    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0817   -0.2532    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7029   -0.5082    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9579   -1.2928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1878    0.1593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7491   -0.7382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6629   -1.5586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3303   -2.0436    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8153   -1.3761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8454   -2.7110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2797    0.9181    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6020    0.0119    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2900   -0.9211    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 14 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 25  1  6  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  1  0  0  0
+ 16 26  1  6  0  0  0
+ 17 18  1  6  0  0  0
+ 17 19  1  0  0  0  0
+ 17 27  1  1  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  CHG  2   3   1   4  -1
+M  END
+> <DATABASE_ID>
+DB08245
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)C[C@@]([H])(O[C@]1([H])COP(O)(O)=O)N1C=CC2=CC(=CC=C12)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H15N2O8P/c16-11-6-13(23-12(11)7-22-24(19,20)21)14-4-3-8-5-9(15(17)18)1-2-10(8)14/h1-5,11-13,16H,6-7H2,(H2,19,20,21)/t11-,12+,13+/m0/s1
+
+> <INCHI_KEY>
+FQCJFJRLZCIFHB-YNEHKIRRSA-N
+
+> <FORMULA>
+C13H15N2O8P
+
+> <MOLECULAR_WEIGHT>
+358.2406
+
+> <EXACT_MASS>
+358.056601978
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9169901260148912
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.850695979552775
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-3-hydroxy-5-(5-nitro-1H-indol-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+0.41
+
+> <JCHEM_LOGP>
+1.2291128883333342
+
+> <ALOGPS_LOGS>
+-2.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.257785941568953
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2319680632733125
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.244698302875761
+
+> <JCHEM_POLAR_SURFACE_AREA>
+144.29
+
+> <JCHEM_REFRACTIVITY>
+79.42349999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08245
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(2-DEOXY-5-O-PHOSPHONO-BETA-D-ERYTHRO-PENTOFURANOSYL)-5-NITRO-1H-INDOLE
+
+$$$$

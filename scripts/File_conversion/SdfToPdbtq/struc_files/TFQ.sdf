@@ -1,0 +1,150 @@
+TFQ
+  Mrv0541 02241214122D          
+
+ 18 18  0  0  0  0            999 V2000
+    2.8556    0.5721    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1412    0.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7287    0.2701    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5537    1.6991    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4267    1.3971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7122    0.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0023    1.3971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7167    0.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7122    0.1596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0023   -0.2529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7167    0.1596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4312   -0.2529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4312   -1.0779    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7167   -1.4904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1457   -1.4904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1457   -2.3154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8601   -1.0779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9369   -0.7859    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 18  1  1  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08617
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CC1=CC=C(CC(F)(F)F)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12F3NO2/c12-11(13,14)6-8-3-1-7(2-4-8)5-9(15)10(16)17/h1-4,9H,5-6,15H2,(H,16,17)/t9-/m0/s1
+
+> <INCHI_KEY>
+VXIZYDKGLBPCAQ-VIFPVBQESA-N
+
+> <FORMULA>
+C11H12F3NO2
+
+> <MOLECULAR_WEIGHT>
+247.2137
+
+> <EXACT_MASS>
+247.082013248
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0035956300484795145
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.669959705324572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-[4-(2,2,2-trifluoroethyl)phenyl]propanoic acid
+
+> <ALOGPS_LOGP>
+-0.90
+
+> <JCHEM_LOGP>
+-0.036647108685943154
+
+> <ALOGPS_LOGS>
+-2.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.1360513071453178
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.441007653627885
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+55.54180000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08617
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(2,2,2-TRIFLUOROETHYL)-L-PHENYLALANINE
+
+$$$$

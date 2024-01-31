@@ -1,0 +1,160 @@
+
+  Mrv1909 01072022362D          
+
+ 20 20  0  0  0  0            999 V2000
+   -1.0165   -1.8563    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0165   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0165    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.2689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0165   -2.6814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8415    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8415   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1914   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3019    0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3019   -0.6187    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4125    0.6187    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4125   -1.0313    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1270    0.2062    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4125   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    2.6814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0304    1.6996    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  2  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 13  3  1  6  0  0  0
+ 12  4  1  6  0  0  0
+ 16  5  1  1  0  0  0
+  6 17  1  0  0  0  0
+  8 18  2  0  0  0  0
+ 14 11  1  1  0  0  0
+ 11 18  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  6  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04492
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([C@H]1[C@@H](O)O[C@H](CO)[C@H](OS(O)(=O)=O)[C@@H]1O)C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO9S/c1-3(11)9-5-6(12)7(18-19(14,15)16)4(2-10)17-8(5)13/h4-8,10,12-13H,2H2,1H3,(H,9,11)(H,14,15,16)/t4-,5-,6-,7+,8+/m1/s1
+
+> <INCHI_KEY>
+WHCJUIFHMJFEFZ-YQXRAVKXSA-N
+
+> <FORMULA>
+C8H15NO9S
+
+> <MOLECULAR_WEIGHT>
+301.271
+
+> <EXACT_MASS>
+301.046751773
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.000037056346495
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.112465513295493
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R,3R,4R,5R,6S)-5-acetamido-4,6-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-2.04
+
+> <JCHEM_LOGP>
+-4.920668676521459
+
+> <ALOGPS_LOGS>
+-0.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.463895971777568
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.0335881928679225
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3884257447108814
+
+> <JCHEM_POLAR_SURFACE_AREA>
+162.62
+
+> <JCHEM_REFRACTIVITY>
+57.01650000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.29e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(E)-N''-(4-chlorophenyl)-N-hydroxyguanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04492
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02336
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(acetylamino)-2-deoxy-4-O-sulfo-alpha-D-galactopyranose
+
+$$$$

@@ -1,0 +1,179 @@
+Y11
+  Mrv0541 02241214182D          
+
+ 30 32  0  0  0  0            999 V2000
+   -2.2642    0.2005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5497   -1.0370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5497   -1.8620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9787   -1.8620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9787   -1.0370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9787    0.6130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2642   -2.2745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2642   -0.6245    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5497    0.6130    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8353    0.2005    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8353   -0.6245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1208   -1.0370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1208   -1.8620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5937   -2.2745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3081   -1.8620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3081   -1.0370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5937   -0.6245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1208    0.6130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1208    1.4380    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5937    0.2005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7778    1.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0600    2.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4028    1.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1206    0.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8725    2.1635    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1546    2.9388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5903   -0.1622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8725   -0.9375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3081    0.6130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8353    0.7844    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  4  1  0  0  0  0
+  7  3  1  0  0  0  0
+  8  2  1  0  0  0  0
+  9  1  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 30  1  1  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 18  1  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 29  1  0  0  0  0
+ 24 23  1  0  0  0  0
+ 25 22  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 27 28  3  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08752
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC1CCCCC1)(NC(=O)N1CCOCC1)C(=O)NC1(CCN(C)CC1)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H35N5O3/c1-25-9-7-21(16-22,8-10-25)24-19(27)18(15-17-5-3-2-4-6-17)23-20(28)26-11-13-29-14-12-26/h17-18H,2-15H2,1H3,(H,23,28)(H,24,27)/t18-/m0/s1
+
+> <INCHI_KEY>
+IRSOCWQJNYLTDD-SFHVURJKSA-N
+
+> <FORMULA>
+C21H35N5O3
+
+> <MOLECULAR_WEIGHT>
+405.5343
+
+> <EXACT_MASS>
+405.273990011
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+64
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.7422581682895196
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.73426940263121
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-N-(4-cyano-1-methylpiperidin-4-yl)-3-cyclohexyl-2-[(morpholine-4-carbonyl)amino]propanamide
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+0.4671505859999998
+
+> <ALOGPS_LOGS>
+-2.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.966267683220378
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.96199232457064
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.459394839542292
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+110.43379999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.78e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08752
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[(1S)-2-[(4-cyano-1-methylpiperidin-4-yl)amino]-1-(cyclohexylmethyl)-2-oxoethyl]morpholine-4-carboxamide
+
+$$$$

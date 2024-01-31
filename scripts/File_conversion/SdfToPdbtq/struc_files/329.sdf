@@ -1,0 +1,138 @@
+329
+  Mrv0541 02241213082D          
+
+ 13 14  0  0  0  0            999 V2000
+   -1.8073    0.6103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0226    0.3554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3776    0.8698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4267    0.6862    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9411    1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4267   -0.8004    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3776   -0.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5612   -1.7883    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0226   -0.4696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8073   -0.7246    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2922   -0.0571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846   -0.0571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2338    1.2373    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  6  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07003
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(C)CN=C(N)C2=C(O1)C=CS2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H10N2OS/c1-5-4-10-8(9)7-6(11-5)2-3-12-7/h2-3,5H,4H2,1H3,(H2,9,10)/t5-/m0/s1
+
+> <INCHI_KEY>
+TUOXPJFCQDMQOX-YFKPBYRVSA-N
+
+> <FORMULA>
+C8H10N2OS
+
+> <MOLECULAR_WEIGHT>
+182.243
+
+> <EXACT_MASS>
+182.051383642
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.3410015042612916
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.69068948459517
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-methyl-2H,3H-thieno[2,3-f][1,4]oxazepin-5-amine
+
+> <ALOGPS_LOGP>
+1.20
+
+> <JCHEM_LOGP>
+1.1176505446666667
+
+> <ALOGPS_LOGS>
+-2.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.7138718719755195
+
+> <JCHEM_POLAR_SURFACE_AREA>
+47.61
+
+> <JCHEM_REFRACTIVITY>
+48.0152
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.65e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07003
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S)-2-methyl-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine
+
+$$$$

@@ -1,0 +1,163 @@
+NTS
+  Mrv0541 02231217392D          
+
+ 22 23  0  0  0  0            999 V2000
+   -0.5657   -0.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2802   -0.4007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2802    0.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5657    0.8368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8633    0.8368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5777    0.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5777   -0.4007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8633   -0.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1488   -0.4007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1488    0.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5657   -2.4632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2593   -1.6382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3907   -1.6382    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -2.7091    1.2493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5821    1.5513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4071    0.1223    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.0067    1.2493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7047    0.1223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8797    1.5513    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.5657   -1.6382    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9946    0.8368    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2922    0.8368    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 21  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 22  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 20  2  0  0  0  0
+ 12 20  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 21  2  0  0  0  0
+ 15 21  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 22  2  0  0  0  0
+ 19 22  1  0  0  0  0
+M  CHG  3  13  -1  16  -1  19  -1
+M  END
+> <DATABASE_ID>
+DB04409
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[O-]S(=O)(=O)C1=CC2=C(C=C1)C(=CC(=C2)S([O-])(=O)=O)S([O-])(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8O9S3/c11-20(12,13)7-1-2-9-6(3-7)4-8(21(14,15)16)5-10(9)22(17,18)19/h1-5H,(H,11,12,13)(H,14,15,16)(H,17,18,19)/p-3
+
+> <INCHI_KEY>
+ZPBSAMLXSQCSOX-UHFFFAOYSA-K
+
+> <FORMULA>
+C10H5O9S3
+
+> <MOLECULAR_WEIGHT>
+365.336
+
+> <EXACT_MASS>
+364.909568828
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.9999999992228332
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.294454509289096
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-3
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+naphthalene-1,3,6-trisulfonate
+
+> <ALOGPS_LOGP>
+-0.69
+
+> <JCHEM_LOGP>
+0.5054427226666667
+
+> <ALOGPS_LOGS>
+-3.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+-2.6604565664944655
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-3.27396953913759
+
+> <JCHEM_POLAR_SURFACE_AREA>
+171.6
+
+> <JCHEM_REFRACTIVITY>
+71.01060000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.56e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04409
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02393
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Naphthalene Trisulfonate
+
+$$$$

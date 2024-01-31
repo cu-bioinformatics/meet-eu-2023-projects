@@ -1,0 +1,165 @@
+1114
+  Mrv0541 02231215152D          
+
+ 19 20  0  0  1  0            999 V2000
+    3.7935   -2.8876    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01114
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCC(C1=CC=C(Cl)C=C1)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19ClN2/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13/h3-9,11,15H,10,12H2,1-2H3
+
+> <INCHI_KEY>
+SOYKEARSMXGVTM-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H19ClN2
+
+> <MOLECULAR_WEIGHT>
+274.788
+
+> <EXACT_MASS>
+274.123676325
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9973766974234765
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.821200958347674
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[3-(4-chlorophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+3.5849509150000003
+
+> <ALOGPS_LOGS>
+-3.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.474711663883962
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+80.8503
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.19e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01114
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00001; DB09440
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Chlorpheniramine
+
+> <SYNONYMS>
+1-(p-chlorophenyl)-1-(2-pyridyl)-3-dimethylaminopropane; 1-(p-chlorophenyl)-1-(2-pyridyl)-3-N,N-dimethylpropylamine; 2-[p-chloro-α-[2-(dimethylamino)ethyl]benzyl]pyridine; 3-(p-chlorophenyl)-3-(2-pyridyl)-N,N-dimethylpropylamine; Chlorophenylpyridamine; Chlorphenamin; Chlorphenamine; Chlorphenaminum; Chlorpheniramine; Chlorpheniramine polistirex; Chlorpheniraminum; Clorfenamina; Clorfeniramina; γ-(4-chlorophenyl)-N,N-dimethyl-2-pyridinepropanamine; γ-(4-chlorophenyl)-γ-(2-pyridyl)propyldimethylamine
+
+> <PRODUCTS>
+4 Hour Allergy Relief; 999 Cold Remedy; 999 Cold Remedy Granular; 999 GANMAOLING Cold; ANTIGRIP Nighttime; AccuHist; AccuHist PDX; Acetaminophen, Ascorbic acid, Chlorpheniramine Maleate; Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride; Acetaminophen, Chlorpheniramine Maleate, Phenylephrine HCl; Acetaminophen, Chlorpheniramine Maleate, Phenylephrine Hydrochloride; Acetaminophen, Phenylephrine Hydrochloride, Chlorpheniramine Maleate; Acta Tabs PE; Acti PE; Actidom Da; Actifed PE; Actifed PE Plus; Advil Allergy Congestion Relief; Advil Allergy Sinus; Advil Allergy and Congestion Relief; Advil Cold & Sinus Convenience Pack; Advil Cold & Sinus Plus; Advil Cold and Sinus Nighttime; Advil Cold, Sinus & Flu Extra Strength; Advil Multi-Symptom Cold and Flu; Alka Seltzer Plus 1s Blister Pack; Alka Seltzer Plus 2s Blister Pack; Alka Seltzer Plus Cold; Alka Seltzer Plus Severe Cold and Flu PowerFast Fizz; Alka-Seltzer Plus; Alka-Seltzer Plus Cold Formula (Cherry Burst); Alka-Seltzer Plus Cold Formula (Orange Zest); Alka-Seltzer Plus Cold Medicine Sparkling Original; Alka-Seltzer Plus Cold Orange Zest; Alka-Seltzer Plus Cold Sparkling Original; Alka-Seltzer Plus Cold Sparkling Original PowerFast Fizz; Alka-Seltzer Plus Cold and Cough; Alka-Seltzer Plus Cold and Cough Cool Menthol; Alka-Seltzer Plus Cold and Cough Formula; Alka-Seltzer Plus Cold and Flu; Alka-Seltzer Plus Fast Crystals Packs Cold Formula; Alka-Seltzer Plus Fast Packs Cold and Flu Formula; Alka-Seltzer Plus Flu Formula; Alka-Seltzer Plus Maximum Strength Cold and Cough; Alka-Seltzer Plus Maximum Strength Cold and Cough Liquid Gels with Cool Menthol Flavor Liquid Gels; Alka-Seltzer Plus Maximum Strength Cold and Cough Power Max Gels; Alka-Seltzer Plus Maximum Strength Sinus Congestion and Pain PowerFast Fizz; Alka-Seltzer Plus Multi-Symptom Cold and Cough; Alka-Seltzer Plus Severe Cold And Flu Formula; Alka-Seltzer Plus Severe Cold PowerFast Fizz Orange Zest; Alka-Seltzer Plus Severe Cold and Cough PowerFast Fizz; Alka-Seltzer Plus Severe Cold and Flu; Alka-Seltzer Plus Severe Cold and Flu PowerFast Fizz; Alka-Seltzer Plus Severe Sinus and Cold; Alka-Seltzer Plus-D Multi-Symptom Sinus and Cold; Alka-seltzer Plus Cold and Flu; AlleRx Dose Pack; AlleRx Dose Pack DF; AlleRx Dose Pack PE; Aller-Chlor; Aller-chlor; Allerest PE; Allerfed; Allerfed Cold and Allergy; Allerfed Cold and Allergy PE; Allergie Extra Fort; Allergy; Allergy + Sinus Relief Extra Strength Tablets; Allergy + Sinus Relief Extra Strength Tablets PE; Allergy + Sinus Relief Regular Caplets; Allergy DN II; Allergy DN PE; Allergy Multi Symptom; Allergy Multi symptom; Allergy Multi-Symptom; Allergy Multi-symptom; Allergy MultiSymptom; Allergy Multisymptom; Allergy Nite; Allergy Pain Relief; Allergy Relief; Allergy Relief 4 Hour; Allergy Relief D; Allergy Relief Multi-Symptom; Allergy Relief Multisymptom; Allergy Sinus Medication; Allergy Sinus Medication - Caplet; Allergy Sinus PE Pain Relief; Allergy Time; Allergy and Pain Relief Multi-Symptom; Allergy and Sinus PE Maximum Strength; Allergy and Sinus Relief Extra Strength; Allergy and Stuffy Nose; AllergyNite; Allpanto S; Altilan CL; Ana-kit; Ana-kit (2mg/tab Orl, 1mg/ml Liq Sc Im); Anakit Insect Sting Treatment Kit; Anti Allergy; Antiflu; Antiflu Des Cough and Flu; Antiflu Kids; Antiflu powder; Antigrip; Aphedrid Cold and Allergy; Atrohist Pediatric; Atuss DS Tannate Suspension; Atuss HS Tannate; BC Sinus Congestion and Pain; Bactimicina Childrens Cough and Cold; Baczol Cold Medicine; Balamine DM Syrup; Basic Care Childrens Cold Plus Flu; Benylin 1 Nightime With Menthactin; Benylin A-D-AH Extra Strength Caplets; Benylin A-D-AH Regular Strength Caplets; Benylin All-IN-one Cold & Flu Nighttime; Benylin D-AH for Children; Benylin DM-D-AH Chewables for Children; Benylin DM-D-AH for Children; Benylin Extra Strength All-IN-one Cold and Flu Nightime; Benylin Extra Strength All-IN-one Cough, Cold & Flu Night; Benylin Extra Strength Cold & Sinus Night; Benylin Extra Strength Cold & Sinus Plus; Benylin Extra Strength Mucus & Phlegm Plus Cold Relief Night; Benylin for Children All-IN-one Cold & Fever; Benylin for Children All-IN-one Cold and Fever; Benylin for Children Cough Stuffy and Runny Nose; Best Choice Effervescent Cold Relief; Bio-B Kids; Bio-rytuss; Bronchodex D Cap; Broncochem Allergy Control; Broncochem Cold and Flu Caplets; Broncochem Cold and Flu Tea; Broncochem Expectorant II; Broncochem Kids Allergy Control; Bronkids; Bubbles R Better Effervescent Cold Relief; Buckley's Complete Extra Strength Cough, Cold and Flu Night; COMTREX Maximum Strength Day / Night Severe Cold and Sinus; CVS Childrens Cold plus Cough plus Runny Nose; CVSHealth Childrens Allergy Relief Pops; Calmadol Plus; CapCof; Carbaphen CH; Carbaphen Ped CH; Cardec; Cardec DM; Care One Cold Head Congestion; Care One Cold Multi Symptom; Care One Cold and Allergy; Care One Sinus; Care One Sinus and Allergy PE; CareOne Childrens Cold and Flu; CareOne Sinus Plus Headache; Careone Allergy Relief; Careone Childrens Multi Symptom Fever and Cold; Carepanto; Ceron; Ceron DM; Children Cough and Cold; Children's Advil Cold & Flu Multi-symptom; Children's Coltalin Fruit Flavor Chewable Cold Tablets; Children's Nicold Medicine; Children's Nyquil Liquid; Children's Tylenol Cold; Children's Tylenol Cold Chewable Tablets; Children's Tylenol Cold Liquid; Children's Tylenol Cold Liquid With DM; Children's Tylenol Cold and Cough; Children's Tylenol Complete Cold, Cough & Fever; Children's Tylenol Cough and Runny Nose; Childrens Cold and Flu; Childrens Coltalin; Childrens Dimetapp Long Acting Cough Plus Cold; Childrens Dimetapp Multisymptom Cold and Flu; Childrens Flu Relief; Childrens Multi Symptom Fever and Cold; Childrens Multi-Symptom Cold Plus Dye-Free; Childrens Pain Relief Cold and Flu; Childrens Pain Relief Plus Multi Symptom Cold; Childrens Plus Cold; Childrens Plus Cold Grape; Childrens Plus Cough and Runny Nose; Childrens Plus Flu; Childrens Plus Flu with PE; Childrens Plus Multi Symptom Cold; Childrens Plus Multi Symptom Cold DYE FREE; Childrens Plus Multi Symptom Cold Dye Free; Childrens Plus Multi-Symptom Cold Grape with PE; Childrens Plus Multi-Symptom Grape with PE; Childrens Plus Multi-Symptom with PE; Childrens Robitussin Cough and Cold Long-acting; Childrens Robitussin Nighttime Cough Long-Acting DM; Childrens TYLENOL COLD Plus FLU; Childrens TYLENOL COLD plus COUGH plus RUNNY NOSE; Childrens Tylenol Plus Flu; Childrens Tylenol Plus Multi-Symptom Cold; Chlor Tripolon Decongest Syr; Chlor-Allergy 4-Hour; Chlor-Tan A 12 Suspension; Chlor-Trimeton 12 Hour; Chlor-Trimeton 4Hour; Chlor-tripolon; Chlor-tripolon 12 Hour; Chlor-tripolon Day and Night; Chlor-tripolon Decon Ext Str Repetabs 12; Chlor-tripolon Night Time Allergy Relief; ChlorTabs; Chlorphen Mal Dex HBr Pseudoeph HCl; Chlorphen Mal Pseudoeph HCl; Chlorphen SR; Chlorphen-12; Chlorpheniramine; Chlorpheniramine Maleate; Chlorpheniramine Maleate 4 mg; Chlorpheniramine Maleate 4mg; Chlorpheniramine Maleate 4mg Tablet; Chlorpheniramine Maleate Injection USP; Chlorpheniramine Maleate Tab 4mg; Chlorpheniramine Maleate, Phenylephrine Hydrochloride; Chlorpheniramine Tablets, 4 mg; Chlorpheniramine and Codeine; Chlorpheniramine maleate; Chlorpheniramine maleate 4mg; Chlortab; Chlortripolon Inj 10mg/ml; Chlortripolon Syr 2.5mg/5ml; Clear Choice Allergy Relief; ClorRelief; Codar AR; Codeine and Chlorpheniramine Maleate ER; Codeprex Pennkinetic; Colcol-S; Cold; Cold & Cough; Cold & Cough Extra Strength; Cold & Stuffy Nose; Cold + Sinus Daytime Cold + Sinus Nighttime; Cold + Sinus Nighttime; Cold + Sinus Plus; Cold Allergy; Cold Decongestant Long Acting Cap; Cold FAid; Cold Flu Severe Day Night; Cold Formula Daytime Nighttime, Non-Aspirin, Multi-Symptom; Cold Head Congestion; Cold Head Congestion Daytime / Nighttime; Cold Head Congestion Night Time; Cold Head Congestion Nighttime; Cold MULTI-SYMPTOM, DAYTIME / NIGHTTIME; Cold Max Day and Night; Cold Max Multi Symptom; Cold Max Multi Symptom Nighttime; Cold Max Nighttime; Cold Medication; Cold Medication Extra Strength Night Time; Cold Medication Reg Strength N Tab; Cold Medication Regular Nighttime Tablets; Cold Medication Regular Nighttime Tablets PE; Cold Medicine; Cold Medicine XL-3 for Children; Cold Medicine XL3; Cold Medicine XL3 FORTE; Cold Multi Symptom Daytime Nighttime; Cold Multi Symptom Nighttime; Cold Multi Symptom Relief; Cold Multi-Symptom; Cold Multi-Symptom Daytime Nighttime; Cold Multi-Symptom Daytime and Nighttime; Cold Multi-Symptom Night-time; Cold Multi-Symptom Nighttime; Cold PE; Cold Plus Head Congestion Day and Night; Cold Plus Head Congestion Nighttime; Cold Relief; Cold Relief Duo Pack; Cold Relief Multi Symptom; Cold Relief Multi-Symptom; Cold Relief Multi-Symptom, Daytime, Nighttime, Non-drowsy; Cold Relief Multi-symptom; Cold Relief Nightime Tablet; Cold Remedy Gan Mao Ling; Cold Remedy Soothing; Cold and Allergy; Cold and Allergy Maximum Strength; Cold and Allergy Maximum strength; Cold and Allergy PE; Cold and Allergy Relief; Cold and Cough; Cold and Cough High Blood Pressure; Cold and Flu; Cold and Flu BP; Cold and Flu Daytime Severe, Nighttime Severe; Cold and Flu HBP; Cold and Flu Hbp; Cold and Flu Multi-Symptom Daytime/Nighttime Severe; Cold and Flu Multi-Symptom Nighttime Severe; Cold and Flu Nighttime Relief Syrup Extra Strength; Cold and Flu Severe; Cold and Flu Severe Day Time / Night Time; Cold and Flu Severe Daytime Nighttime; Cold and Flu Severe Daytime and Nighttime; Cold and Flu Severe, Day and Nighttime; Cold and Flu Severe, Day, Night; Cold and Flu Severe, Daytime, Nighttime; Cold and Nasal Congestion Relief Nighttime Extra Strength; Cold and Sinus Plus; Cold,sore Throat Pain & Cough Ultra Strength; Cold/Flu Multi-Symptom Relief Daytime/Nighttime; ColdaeWon Cold A; ColdaeWon Cold A Syrup; ColdaeWon Nose A; ColdaeWon Nose A Syrup; Coldaside Cold; Coldaside Cold & Flu Extra Strength; Coldaside Cough & Cold; Coldcough; Coldcough PD; Coldtac Ultra; Coltalin; Coltalin Cold & Allergy Tablets; Coltalin-DM; Complete; Complete Allergy Relief 4-Hour; Complete Allergy and Sinus Multi Symptom; Complete One Cold and Flu Nightime Extra Strength Liquid; Comtrex Cough and Cold Day/Night; ConRx Allergy Sinus; ConRx Allergy Sinus Multi-Symptoms; Contac Cold Capsules; Contac Cold Extra Strength Capsules; Contac Cold Nasal Congestion-nighttime; Contac Cold and Flu Day Night; Contac Cold and Flu Maximum Strength; Contac Cold and Flu Night; Contac Cough Cold and Flu Caplets; Contac Gold; Contac Night Cough Syrup; Contact C Src; Copanto; Corfen DM; Coricidin Cold & Flu; Coricidin Cold & Flu Extra Strength; Coricidin Cold & Flu Multi-symptom; Coricidin Complete Cold, Cough & Flu; Coricidin Cough & Cold; Coricidin D Flu, Nasal and Sinus; Coricidin D Long Acting Tab; Coricidin D Tab; Coricidin HBP; Coricidin HBP Cold and Flu; Coricidin HBP Cough and Cold; Coricidin HBP Cough and Cold Cough Suppressant, Antihistamine; Coricidin HBP Day and Night; Coricidin HBP Maximum Strength Flu; Coricidin HBP Maximum Strength Multi Symptom Flu; Coricidin Max Flu; Coricidin Sinus Headache Tab; Coricidin Tab; Corsym Suspension; Cough & Cold; Cough and Cold; Cough and Cold HBP; Cough and Cold HBP Decongestant-free; Cough and Cold HBP Maximum Strength; Cough and Cold Relief HBP; Cough and Cold XL3 Xtra; Cough and Cold plus; Cough and Runny Nose Childrens Plus; Cough, Cold & Flu Super Strength; Counteract Sinus and Allergy; Cpm-pse DM; Cpm/pse; DG Health Cold Head Congestion; DG Health Cold and Allergy; DG Health cold multi symptom nite time; DG health allergy multi symptom; Dallergy; Dallergy DROPS; Dallergy PE; Dallergy PE SYRUP; Dallergy PSE; Day & Night Combo Pack; Daytime Cold, Nighttime Cold multi-symptom; Daytime Nighttime Cold/flu Relief A P J; Daytime and Nighttime Cough and Chest Congestion Childrens; Dcp; De-Chlor DM; Defensol D; Defensol D (Multi Symptom Effervescent Tablets); Dehistine; Desenfriol-D; Dg Health Sinus Congestion and Pain; DiHydro CP; Dicel; Dicel DM; Dimetapp Nighttime Cold Extra Strength Caplets; Dimetapp Nighttime Cold Tablets; Dollar General Effervescent Cold Relief; Dometuss; Dometuss-DA; Dometuss-NR; Donatussin; Donatussin DM Drops DM; DrKids Children Multi Symptom Cold and Flu; DriHist SR; Dristan Capsules; Dristan Cold Multisymptom; Dristan Extra Strength Caplets; Dristan Tablets; DryMax; DryMax AF; Duohist DH; Duradryl; Ed A-hist; Ed A-hist DM; Ed Chlorped; Ed Chlorped D; Ed Chlorped Jr; Ed-A-hist DM; Ed-chlortan; Effervescent Cold Relief; Effervescent Cold Relief - Orange; Effervescent Orange Cold Relief; EndaCof C; EndaCof Drops; EndaCof-C; Endal CD; Entre-S; Equaline Allergy; Equaline Childrens Cold; Equaline Daytime and Nighttime Cold; Equaline Effervescent Cold Relief; Equaline nighttime cold multi symptom; Equate Effervescent Cold Relief; Extra Fast Coltalin; Extra Strength Allergy Plus Sinus Relief; Extra Strength Allergy Sinus Medication; Extra Strength Allergy and Sinus Relief; Extra Strength Cold Medication Night Time Relief; Extra Strength Cold Medication Nighttime Relief; Extra Strength Cold Medication Nighttime Rlf; Extra Strength Contac C - Src; Extra Strength Day and Night Cold Medication; Extra Strength Neocitran Flu Night; Extra Strength Neocitran Total Night; Extra Strength Nighttime Cold Relief; Extra Strength Nighttime Cold Relief PE; Extra Strength Nighttime Cold Relief-caplet; Extra Strength Nighttime Flu PE; Extra Strength Sinutab Sinus & Allergy; Extra Strength TYLENOL Cold plus Flu Multi-Action Day/Night; Extra Strength Tylenol Allergy; Extra Strength Tylenol Allergy Sinus Caplets; Extra Strength Tylenol Cold & Sinus Nighttime; Extra Strength Tylenol Cold Nighttime; Extra Strength Tylenol Cold Nighttime Caplet; Extra Strength Tylenol Cold and Flu Powder; Extra Strength Tylenol Complete Cold, Cough & Flu Plus Mucus Relief Nighttime; Extra Strength Tylenol Flu Nighttime; Extra Strength Tylenol Sinus Nighttime; Extra Strength Tylenol Sinus Pain and Congestion Nighttime; Extra Strength Tylenol Total Cough, Cold & Flu; FLONASE Headache and Allergy Relief; Facol Classic One; Family Wellness Effervescent Cold Relief Orange; Family Wellness Effervescent Cold Relief Original; Father Johns Cough Medicine Plus; Febrix Kids PLUS; Flu BP Maximum Strength; Flu HBP; Flu HBP Maximum Strength; Flu HBP Maxium Strength; Flu Multi Symptom Relief; Flu Relief Childrens; Fluact; Formule 115 DM; Fulton Street Market Cold; Ganmaoling; Ganmaoling 999; Gencontuss; Giltuss Allergy Plus; Giltuss Allergy Plus Cough and Congestion; Giltuss Childrens Allergy Plus Cough and Congestion; Giltuss Childrens MultiSymptom Cold and Flu; Giltuss D Allergy and Congestion; Giltuss MultiSymptom Cold and Flu; Good Neighbor Pharmacy Allergy; Good Neighbor Pharmacy Allergy Multi Symptom; Good Neighbor Pharmacy Cold; Good Neighbor Pharmacy Cold Head Congestion; Good Neighbor Pharmacy Cold Plus Multi Symptom; Good Neighbor Pharmacy Cold and Allergy PE; Good Neighbor Pharmacy Sinus; Good Neighbor Pharmacy Sinus Congestion and Pain; Good Neighbor Pharmacy Sinus and Allergy PE; Good Sense Allergy; Good Sense Allergy Multi Symptom; Good Sense Allergy Relief; Good Sense Allergy Relief 4 Hour; Good Sense Cold; Good Sense Cold and Allergy; Good Sense Effervescent Cold Relief; Good Sense Sinus and Allergy PE; Grippalin & C Tab; Grippe Extra Fort Nuit; Haben Herb; Hanshinnocol; Head Congestion; Head Congestion Cold Relief; Head Congestion Daytime and Nighttime Cold; Health Mart Allergy Relief; Health Mart Childrens Cold and Flu; Healthy Accents Allergy Multi Symptom; Healthy Accents Childrens Multi Symptom Fever and Cold; Healthy Accents Cold; Healthy Accents Cold Head Congestion; Healthy Accents Multi Symptom Cold; Healthy Accents Sinus; High Blood Pressure Cold and Flu; Histalon Tab 4mg; Hot Lemon Night Time Total Extra Strength; Hot Lemon Relief for Sore Throat and Cough Extra Strength; Hot Lemon Relief for Symptoms Of Cough, Cold and Flu; Hot Lemon Relief for Symptoms Of Cough, Cold and Flu Extra Strength; Hot Lemon Relief for Symptoms Of Cough, Cold and Flu Ultra Strength; Hot Lemon Ultra Strength Total Flu Night; HyTan; HyVee Health Effervescent Cold Relief; Hydrocodone Bitartrate Chlorpheniramine Maleate and Pseudoephedrine Hydrochloride; Hydrocodone Bitartrate and Chlorpheniramine Maleate; Hydrocodone Bitartrate and Chlorpheniramine Maleate Solution; Hydrocodone Bitartrate, Chlorpheniramine Maleate and Pseudoephedrine Hydrochloride; Hydrocodone Bitartrate, Chlorpheniramine Maleate, and Pseudoephedrine HCl; Hydrocodone Bitartrate, Chlorpheniramine Maleate, and Pseudoephedrine Hydrochloride Oral Solution; Hydrocodone Polistirex and Chlorpheniramine Polisitrex; Hydrocodone Polistirex and Chlorpheniramine Polistirex; Hydrocodone Polistirex and Chlorpheniramine Polistirex Extended-Release; Hydrocodone Polistirex and Chlorpheniramine Polistirex Pennkinetic; Hydrocodone Polistirex and Chlorpheniramine Polistirex extended-release; Infants Tylenol Cold Suspension Drops; Jack & Jill Children's Formula Cough Liquid; Jack & Jill Complete; Jack & Jill Cough and Cold; Jack & Jill Cough, Cold & Flu Junior Strength Tablets; Junior Strength Cold DM - Tablet; Junior Strength Tylenol Cold and Cough; Junior Strength Tylenol Complete Cold, Cough & Fever; Kgs Allergy Soothing; Kidkare cough/cold; Kirkland Signature Cold; Kroger Effervescent Cold Relief; Leader Allergy Multi Symptom; Leader Cold Head Congestion; Leader Cold and Allergy; Leader Sinus and Allergy PE; Lexuss 210; Lil Drug Store Allergy Sinus Relief; LoHist; LoHist D; M-end DM; Madame Pearl's Cough Syrup; Maux De Gorge Et De LA Toux Extra-fort; Maxi-Tuss CD; Maxi-Tuss DM; Maxichlor PEH DM; Maximum Strength Allergy Sinus; Maximum Strength Flu; Maximum Strength Flu HBP; MediGummies Allergy and Sinus; MediGummies Cold and Sinus; Medicament Pour Le Rhume, Nuit; Medique Chlorphen; Medique Medicidin D; Medique Onset Forte; Meijer Effervescent Cold Relief; Members Mark Allergy; Mesehist DM; Metreton Tab; Mintuss DR; Multi Symptom Cold Allergy Tabs; Multi Symptom Cold Childrens; Multi Symptom Cold Childrens Plus; Multi Symptom Cold Plus Childrens; Multi Symptom Cold Plus Childrens Pain Relief; Multi Symptom Cold Relief Childrens; Multi Symptom Fever and Cold Childrens; Multi Sympton Cold Day Night; Multi-Symptom Allergy; Multi-Symptom Cold; Multi-Symptom Cold Relief; Multi-Symptom Cold Relief Daytime, Nighttime; Nasal + Sinus Cold Formula; Nasohist DM Pediatric; Nasohist Pediatric; Neo DM DROPS DM; Neo Tuss Syr; Neocitran Cough & Cold Syrup; Neocitran Ultra Strength Total Flu Night; Neutrahist PDX Drops; Neutrahist Pediatric; Neutrahist Pediatric Drops; Night Time Cold Multi-Symptom; Night Time Sinus Congestion and Pain; Night Time Total Extra Strength; Nighttime Childrens Multi Symptoms Cold and Cough Multi-Symptom Relief; Nighttime Cold; Nighttime Cold Head Congestion; Nighttime Cold Relief Extra Strength Tablets; Nighttime Cold Relief Extra Strength Tablets PE; Nighttime Cold and Flu Relief Alcohol Free; Nighttime Extra Strength Contac Cold & Sore Throat; Nighttime Extra Strength Contac Complete Cough, Cold & Flu; Nighttime Extra Strength Contac Complete Cough, Cold & Flu Plus Vitamin C; Nighttime Multi-Symptom Cold; Nighttime Regular Strength Contac Cold Nasal Congestion; Nighttime Total Super Strength; Nite Time (children's); Nitetime Cold Relief Extra Strength; NoHist; NoHist DM; NoHist LQ; Nocold-F; Norel AD; Norel SR; NorelCS CS; Once-A-day Benylin Cold Cap; Only For ALLERGY; Ornade AF Liquid; Ornade AF Spansule Src; Ornade DM 10 Liq; Ornade DM 15 Liq; Ornade DM 30 Liq; Ornade Expectorant Cough Formula; Ornade Liquid; Ornade Spansule Src; Otis Clapp Valihist; PE Hist DM; Pain & Fever + Cold; Pain & Fever + Cold & Cough; Pain Relief Plus; Pain Relief Plus Multi Symptom Cold Childrens; Pain Reliever Fever Reducer; Panadol; Pancold S; Panto A; Panto Flu; Pedia Relief; PediaCare Childrens Plus Cough and Runny Nose; PediaCare Childrens Plus Flu; PediaCare Childrens Plus Multisymptom Cold; PediaCare Multi Symptom Cold; PediaCare Plus Multisymptom Cold; Pediacare-Cough-RunnyNose; Pediatric Cough and Cold Medicine; Pentrexcilina Daytime; Pentuss Srs; Pharbechlor; Phenagil; Phenagil CH; Phenylephrine Hydrochloride, Chlorpheniramine Maleate; Phenylhistine DH; Physicians Care Allergy; Physicians Care Allergy Plus; PhysiciansCare Allergy Multi-Symptom Relief; Plus Multi Symptom Cold Childrens Pain Relief; Poly Hist Pd; Poly-tussin DM; Prime's Sore Throat, Cough and Colds Capsules; Pseudoephedrine Plus; Pyrichlor PE; Quality Choice Effervescent Cold Relief - Orange; Quality Choice Effervescent Cold Relief Plus; Quartuss; Quartuss DM; R-Tanna; R-Tanna Pediatric Suspension; Rapid Release Multi-Symptom Allergy Relief; Re Dcp Drops; Reformulated Rynatan Pediatric; Reg.str.cold Medic.(night Time Relief)caplet; Regular Strength Tylenol Cold Nighttime; Regular Strength Tylenol Cold Nighttime Caplet; Regular Strength Tylenol Cold and Flu Powder; Relief-PE; Relievol Allergy Sinus Caplets Extra Strength; Rescon; Rescon DM; RespiVent Dosepack DF; Rhume Extra Fort Nuit; Robitussin Cough and Cold Long Acting; Robitussin Night Time Cough, Cold and Flu; Robitussin Peak Cold Nighttime Nasal Relief; Robitussin Total Cough, Cold & Flu Nighttime Extra Strength; Rx Act sinus and allergy PE; Rycontuss Cherry Flavor; Rynatan; Rynatan Chewable Pediatric; Rynatuss; Ryneze Liquid; SINUS PAIN AND CONGESTION Nighttime; SanaTos COLD Multi-Symptom; Sanaflu Xtra; Scot-Tussin DM Maximum Strength Cough Suppressant and Cold Relief; Scot-Tussin DM SF Maximum Strength Cough Cold; Severe Cold and Flu Relief Daytime/Nighttime; ShopRite Allergy; ShopRite Childrens Multi Symptom Cold Relief; Sildec PE; Sildec PE DM; Sine Off Sinus/cold Medicine; Sine-off Allergy Tab; Sinsin Mulpas; Sinus; Sinus Congestion and Pain; Sinus Congestion and Pain Daytime Nighttime; Sinus Congestion and Pain Daytime/Nighttime; Sinus Congestion and Pain Nighttime; Sinus Congestion and Pain daytime nighttime; Sinus Extra Fort Nuit; Sinus Headache Day Night; Sinus Nighttime Extra Strength Caplets; Sinus PE and Allergy; Sinus PE plus Allergy; Sinus PE plus Allergy Maximum Strength; Sinus Pain and Congestion; Sinus Plus Headache Day and Night; Sinus Relief; Sinus Relief Congestion and Pain - Daytime and Nighttime; Sinus Relief Congestion and Pain Nighttime; Sinus Ultra Strength Tablet; Sinus and Allergy; Sinus and Allergy Maximum Strength; Sinus and Allergy PE; Sinus and Allergy PE Maximum Strength; Sinus and Allergy PE maximum strength; Sinus and Allergy Regular Strength; Sinus and Allergy Releif PE; Sinus and Allergy Relief; Sinus and Allergy Relief PE; Sinus and Headache Day Night; Sinus plus Headache Day and Night; Sinus plus Headache Daytime and Nighttime; Sinusales Extra Fort Nuit; Sinutab PE Extra Strength; Sinutab PE Nightime; Sinutab Regular Strength Tablets; Sinutab With Codeine Tablets; Smart Sense Childrens Multi Symptom Cold Relief; Smart Sense Effervescent Cold Relief; Smart Sense Multi Symptom Cold; Smart Sense Multi Symptom Fever and Cold Childrens; Smart Sense Sinus; Smart Sense sinus plus headache; SoCheongRyong Tang Extract; SohMed Allergy Sinus; Sonahist; Sonahist DM; Sore Throat & Cough Ultra Strength; Sprinsol; Stona; Stona for Children; Stona-S; Stonarhini; Sudafed Sinus & Allergy; Sudafed Sinus Complete; Sudal 12 Tannate Chewable; SudoGest; Sun Mark Allergy Antihistamine; Sunmark Allergy Multi Symptom; Sunmark Cold and Allergy; Sunmark Sinus and Allergy PE Maximum Strength; Sunmark allergy relief; Suphedrine PE; Suphedrine PE Sinus plus Allergy; TRIAMINIC Childrens Cold and Allergy; Tabcin 500; Tannate; Teldrin Allergy Relief; Teva-pheniram; Theraflu Flu Cold and Cough Medicine; Theraflu Flu Relief Max Strength Daytime Nighttime Combo Pack; Theraflu Flu Relief Max Strength Daytime Nighttime Value Pack; Theraflu Flu Relief Maximum Strength Daytime Nighttime Combo Pack; Theraflu Warming Relief Nighttime Multi-Symptom Cold Caplets; Tl-hist Cm; Top Value Effervescent Cold Relief; Top Value Effervescent Cold Relief - Orange; TopCare Cold NightTime Multi Symptom; TopCare Sinus and Allergy PE Maximum Strength; Topcare Allergy; Topcare Allergy Multi Symptom; Topcare Allergy Relief 4 Hour; Topcare Childrens Cold and Flu; Topcare Cold; Topcare Cold Head Congestion Nighttime; Topcare Cold and Allergy; Topcare Sinus Congestion and Pain; Total Flu; Toux Rhume Et Grippe (extra-fort); Tri-dex PE; Triaminic Cold & Nighttime Cough; Triaminic Cold Cough and Fever; Triaminic Cold and Allergy; Triaminic Cold and Allergy Syrup; Triaminic Cold and Cough; Triaminic DM Expectorant Syr; Triaminic Expectorant Syr; Triaminic Multi-Symptom Fever; Triaminic Multi-Symptom Fever and Cold; Triaminic Softchews Cold and Allergy; Triaminic Softchews Cough and Cold; Triaminic Total Cold With Cough & Fever Relief; Triaminicol DM Syrup; Tricode AR; Trigofen; Trigofen DM; Trital DM; Trital SR; Truemed Group LLC; Tusscough DHC; TussiCaps; Tussicaps; Tussicaps Extended-release; Tussilyn DM; Tussionex Pennkinetic; Tussionex Pennkinetic Extended-Release; Tuxarin; Tuzistra XR; Tylenol Allergy; Tylenol Allergy Multi-Symptom; Tylenol Cold Nightime Rapid Release; Tylenol Cold Plus Flu Severe Day/night; Tylenol Complete Cold, Cough & Flu Nighttime; Tylenol Flu Nighttime; Tylenol Sinus Nighttime; Up and Up Childrens Multi Symptom Cold Pain Relief Plus; Up and Up Cold Relief; Vaso Dose Pack; Vasofrinic; Vasofrinic Dh; Vasofrinic Plus Sirop; Vasofrinic Sirop; Vicks 44 M; Vicks Alcohol Free NyQuil Cold and Flu Nighttime Relief; Vicks Children's Nyquil Cold & Cough Multi-symptom Relief; Vicks Childrens NyQuil Cold and Cough Multi-Symptom Relief; Vicks Custom Care Cough & Cold PM; Vicks Formula 44 Nighttime Cough and Cold; Vicks Formula 44m Liq; Vicks NyQuil Alcohol Free Cold and Flu Nighttime Relief; Vicks NyQuil Childrens; Vicks NyQuil Cold and Flu Nighttime Relief and Vicks Childrens NyQuil Cold and Cough; Vicks NyQuil Less Drowsy; Vicks Pediatric Formula 44m Liq; Virdec DM Drops; Virdec Drops; VisRx Dose Pack; Vituz; Wal-Finate; Wal-Finate D; Wal-Phed PE Maximum Strength; Wal-phed; Walgreens Childrens; Walgreens DAY and NIGHT PACK; Walgreens Effervescent Cold Relief Plus; WellTuss HC; WinCo Foods Effervescent Cold Relief; XL-3 Cold; XL-3 Cold Medicine; XL-3 Xtra; Xl3 Xtra; Yinchiao; Z-tuss Ac; Zicam; ZoDen DM; Zodryl AC 25; Zodryl AC 30; Zodryl AC 35; Zodryl AC 40; Zodryl AC 50; Zodryl AC 60; Zodryl AC 80; Zodryl DAC 25; Zodryl DAC 30; Zodryl DAC 35; Zodryl DAC 40; Zodryl DAC 50; Zodryl DAC 60; Zodryl DAC 80; Zutripro; allergy and sinus PE; allergy sinus PE; childrens Multi Symptom Fever and Cold; childrens Wal Tussin Cough and Cold; cold and flu HBP; cold and flu relief hbp MAXIMUM STRENGTH multi-symptom; cough and cold relief HBP; flu HBP; flu HBP Maximum Strength; hybrid CF; multi-symptom cold relief Daytime, Nighttime; sinus plus allergy PE maximum strength; sunmark Cold
+
+> <INTERNATIONAL_BRANDS>
+Chlo-Amine; Chlor-Trimeton; Haynon; Piriton
+
+> <SALTS>
+Chlorpheniramine gluconate; Chlorpheniramine hydrochloride; Chlorpheniramine maleate; Chlorpheniramine tannate
+
+$$$$

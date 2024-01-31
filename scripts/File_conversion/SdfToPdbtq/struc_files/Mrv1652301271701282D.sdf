@@ -1,0 +1,156 @@
+
+  Mrv1652301271701282D          
+
+ 23 25  0  0  0  0            999 V2000
+   -1.0540    0.1444    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4155   -0.2270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3814    1.5424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4155    0.5104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0540    0.8792    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6951   -0.2270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0027   -0.9424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6951    0.5104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3825   -0.0123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0540   -0.6865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3099    1.8450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1172    2.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0170    2.0762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4430    0.8077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2438    1.0223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8228   -0.9424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4155   -1.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6742    2.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0170    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0027   -2.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2356   -1.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8228   -2.3735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4512    1.4433    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  1  1  0  0  0  0
+  2  7  1  6  0  0  0
+  8  6  1  0  0  0  0
+  9  2  1  0  0  0  0
+  1 10  1  1  0  0  0
+ 11 15  1  0  0  0  0
+ 12  3  1  0  0  0  0
+ 13  3  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16  7  2  0  0  0  0
+ 17  7  1  0  0  0  0
+ 18 11  1  0  0  0  0
+ 19 11  1  0  0  0  0
+ 20 17  2  0  0  0  0
+ 21 16  1  0  0  0  0
+ 22 20  1  0  0  0  0
+  5 23  1  6  0  0  0
+  5  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06512
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12CC[C@](C)(C1(C)C)[C@@](C2)(OCCN(C)C)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H31NO/c1-18(2)17-11-12-19(18,3)20(15-17,22-14-13-21(4)5)16-9-7-6-8-10-16/h6-10,17H,11-15H2,1-5H3/t17-,19-,20+/m1/s1
+
+> <INCHI_KEY>
+QOBGWWQAMAPULA-RLLQIKCJSA-N
+
+> <FORMULA>
+C20H31NO
+
+> <MOLECULAR_WEIGHT>
+301.474
+
+> <EXACT_MASS>
+301.240564622
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.463945436577234
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl(2-{[(1R,2S,4R)-1,7,7-trimethyl-2-phenylbicyclo[2.2.1]heptan-2-yl]oxy}ethyl)amine
+
+> <ALOGPS_LOGP>
+5.22
+
+> <JCHEM_LOGP>
+4.299470741333334
+
+> <ALOGPS_LOGS>
+-5.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.867143947975286
+
+> <JCHEM_POLAR_SURFACE_AREA>
+12.47
+
+> <JCHEM_REFRACTIVITY>
+92.58680000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.03e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+deramciclane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB06512
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Deramciclane
+
+> <SYNONYMS>
+Deramciclane
+
+$$$$

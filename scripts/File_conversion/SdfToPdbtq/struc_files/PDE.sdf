@@ -1,0 +1,171 @@
+PDE
+  Mrv0541 02241214032D          
+
+ 25 25  0  0  0  0            999 V2000
+   -1.3760    0.0968    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1421    0.4030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0698    0.8629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6822   -0.6693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6099   -0.2094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0383    0.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8044   -0.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4526    0.5051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2187    0.1989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3347    1.3216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8669    0.7092    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.7490    1.5257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6329    0.4030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2812    0.9133    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7508   -0.4135    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7903   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6724   -0.9239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5563    0.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0867   -1.1280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2046   -0.3115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3206   -1.4342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7349   -1.6383    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.6171   -2.4549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5010   -1.3321    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3247    0.9259    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  6  0  0  0
+  1  3  1  1  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 13  1  0  0  0  0
+ 11 25  1  6  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 22 24  1  0  0  0  0
+M  CHG  2  22   1  24  -1
+M  END
+> <DATABASE_ID>
+DB08411
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](C)(NC(=O)CCC[P@](O)(=O)OC1=CC=C(C=C1)[N+]([O-])=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H17N2O8P/c1-9(13(17)18)14-12(16)3-2-8-24(21,22)23-11-6-4-10(5-7-11)15(19)20/h4-7,9H,2-3,8H2,1H3,(H,14,16)(H,17,18)(H,21,22)/t9-/m0/s1
+
+> <INCHI_KEY>
+KBXXIYHMPQZHCH-VIFPVBQESA-N
+
+> <FORMULA>
+C13H17N2O8P
+
+> <MOLECULAR_WEIGHT>
+360.2564
+
+> <EXACT_MASS>
+360.072252042
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9994830026563282
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.1178573336125
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-{4-[hydroxy(4-nitrophenoxy)phosphoryl]butanamido}propanoic acid
+
+> <ALOGPS_LOGP>
+0.44
+
+> <JCHEM_LOGP>
+0.45837908433333385
+
+> <ALOGPS_LOGS>
+-3.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.715353103228107
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8033019084421569
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.7620717334515175
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.07
+
+> <JCHEM_REFRACTIVITY>
+80.7186
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08411
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[4-(4-nitrophenylphospho)butanoyl]-L-alanine
+
+> <SYNONYMS>
+N-[4-(4-nitrophenylphospho)butyryl]-L-alanine; p-nitrophenyl phosphonobutanoyl L-alanine
+
+$$$$

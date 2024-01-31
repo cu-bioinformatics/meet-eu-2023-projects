@@ -1,0 +1,181 @@
+TPI
+  Mrv0541 02231217082D          
+
+ 30 31  0  0  0  0            999 V2000
+   -4.2044   -1.3904    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9189   -1.8029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7919   -2.1049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6169   -0.6759    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4899   -0.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0774   -1.6924    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9024   -0.2634    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0610   -0.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7755   -0.5654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7755    0.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0610    0.6721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6320    0.6721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0824    0.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0824   -0.5654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6320   -0.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3465   -0.5654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3465    0.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7969    0.6721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7969    1.4971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5114    0.2596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2258    0.6721    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2258    1.4971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9403    1.9096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5114    1.9096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9403    0.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6548    0.6721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3693    0.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0837    0.6721    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3693   -0.5654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7201    0.9641    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 21 20  1  6  0  0  0
+ 21 22  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 30  1  1  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03714
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CCC(O)=O)(NC(=O)C1=CC2=C(C=C1)C=C(C=C2)C(F)(F)P(O)(O)=O)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17F2N2O7P/c18-17(19,29(26,27)28)12-4-3-9-7-11(2-1-10(9)8-12)16(25)21-13(15(20)24)5-6-14(22)23/h1-4,7-8,13H,5-6H2,(H2,20,24)(H,21,25)(H,22,23)(H2,26,27,28)/t13-/m0/s1
+
+> <INCHI_KEY>
+OWWCIKSGGKYNHT-ZDUSSCGKSA-N
+
+> <FORMULA>
+C17H17F2N2O7P
+
+> <MOLECULAR_WEIGHT>
+430.2966
+
+> <EXACT_MASS>
+430.07414383
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.5945436962019452
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.73421357011861
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4S)-4-carbamoyl-4-({6-[difluoro(phosphono)methyl]naphthalen-2-yl}formamido)butanoic acid
+
+> <ALOGPS_LOGP>
+0.59
+
+> <JCHEM_LOGP>
+0.2131286993333334
+
+> <ALOGPS_LOGS>
+-4.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+4.149747504422514
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.49922180808892336
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2357625304707125
+
+> <JCHEM_POLAR_SURFACE_AREA>
+167.01999999999998
+
+> <JCHEM_REFRACTIVITY>
+96.39629999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.31e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03714
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03090
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Carbamoyl-4-{[6-(Difluoro-Phosphono-Methyl)-Naphthalene-2-Carbonyl]-Amino}-Butyric Acid
+
+$$$$

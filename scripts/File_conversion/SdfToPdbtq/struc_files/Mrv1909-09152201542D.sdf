@@ -1,0 +1,159 @@
+
+  Mrv1909 09152201542D          
+
+ 19 20  0  0  0  0            999 V2000
+   -3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+  7 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16965
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCNCC1=NC2=C(C(Cl)=CC(Cl)=C2O)C(=O)N1C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13Cl2N3O2/c1-3-15-5-8-16-10-9(12(19)17(8)2)6(13)4-7(14)11(10)18/h4,15,18H,3,5H2,1-2H3
+
+> <INCHI_KEY>
+LQNHWKHRUWSYBK-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H13Cl2N3O2
+
+> <MOLECULAR_WEIGHT>
+302.16
+
+> <EXACT_MASS>
+301.0384821
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.06002334099807256
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.547172362403973
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5,7-dichloro-2-[(ethylamino)methyl]-8-hydroxy-3-methyl-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+1.71
+
+> <JCHEM_LOGP>
+0.7483448051691053
+
+> <ALOGPS_LOGS>
+-3.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.808679080817943
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.867737467230901
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.93
+
+> <JCHEM_REFRACTIVITY>
+76.75999999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.61e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16965
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+PBT-434
+
+> <SYNONYMS>
+5,7-dichloro-2-((ethylamino)methyl)-8-hydroxy-3-methylquinazolin-4(3h)-one
+
+> <SALTS>
+PBT-434 Mesylate
+
+$$$$

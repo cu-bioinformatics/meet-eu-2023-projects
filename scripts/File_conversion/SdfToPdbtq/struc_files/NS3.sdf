@@ -1,0 +1,178 @@
+NS3
+  Mrv0541 02241214002D          
+
+ 29 32  0  0  0  0            999 V2000
+   -3.0406    2.3116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8476    2.4832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2601    1.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7080    1.1555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9543    1.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2398    1.0786    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5253    1.4911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2398    0.2535    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5253   -0.1590    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9950   -0.7911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0556   -0.7911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8108    0.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0962   -0.1590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8108    1.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0962    1.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6182    1.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3328    1.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6182    0.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3328   -0.1590    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9203   -0.8736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7453    0.5554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0473   -0.5715    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0473   -1.3966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7618   -1.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4763   -1.3966    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1909   -1.8091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4763   -0.5715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7618   -0.1590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7455    0.7866    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  1  0  0  0
+  6  8  1  0  0  0  0
+  6 29  1  6  0  0  0
+  7  6  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10  9  2  0  0  0  0
+ 12  9  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14  7  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 18 16  2  0  0  0  0
+ 19 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 19  2  0  0  0  0
+ 22 19  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 24 23  1  0  0  0  0
+ 25 24  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 25  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08303
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(NC2=CC(C)=C(C=C2S(=O)(=O)N1)S(=O)(=O)N1CCN(C)CC1)C1CCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H28N4O4S2/c1-13-11-15-17(27(23,24)20-18(19-15)14-5-3-4-6-14)12-16(13)28(25,26)22-9-7-21(2)8-10-22/h11-12,14,18-20H,3-10H2,1-2H3/t18-/m0/s1
+
+> <INCHI_KEY>
+CUMKMTBOHBENJI-SFHVURJKSA-N
+
+> <FORMULA>
+C18H28N4O4S2
+
+> <MOLECULAR_WEIGHT>
+428.569
+
+> <EXACT_MASS>
+428.155196784
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.08382959181752767
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.708719566116436
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-1,1-dione
+
+> <ALOGPS_LOGP>
+1.01
+
+> <JCHEM_LOGP>
+1.3993716453333327
+
+> <ALOGPS_LOGS>
+-3.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.645976464296393
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.021674932376161
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.968031206946945
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.82
+
+> <JCHEM_REFRACTIVITY>
+110.31679999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.00e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08303
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(3S)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2,4-benzothiadiazine 1,1-dioxide
+
+$$$$

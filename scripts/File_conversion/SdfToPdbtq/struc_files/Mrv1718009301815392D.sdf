@@ -1,0 +1,153 @@
+
+  Mrv1718009301815392D          
+
+ 19 20  0  0  0  0            999 V2000
+   -1.0716   -1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5005   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5005   -1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.6187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3571    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.6187    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 10  5  1  0  0  0  0
+ 10  3  2  0  0  0  0
+  4  1  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  9  4  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03322
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)NC[C@@H](O)COC1=CC=CC2=C1C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H21NO2/c1-12(2)17-10-14(18)11-19-16-9-5-7-13-6-3-4-8-15(13)16/h3-9,12,14,17-18H,10-11H2,1-2H3/t14-/m1/s1
+
+> <INCHI_KEY>
+AQHHHDLHHXJYJD-CQSZACIVSA-N
+
+> <FORMULA>
+C16H21NO2
+
+> <MOLECULAR_WEIGHT>
+259.3434
+
+> <EXACT_MASS>
+259.157228921
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.047011235253866
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-1-(naphthalen-1-yloxy)-3-[(propan-2-yl)amino]propan-2-ol
+
+> <ALOGPS_LOGP>
+3.03
+
+> <JCHEM_LOGP>
+2.5836959293333335
+
+> <ALOGPS_LOGS>
+-3.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.087930079742037
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.666166403559243
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.489999999999995
+
+> <JCHEM_REFRACTIVITY>
+76.8257
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.94e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+)-propranolol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03322
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02931
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dexpropranolol
+
+> <SYNONYMS>
+(+)-1-Isopropylamino-3-(1-naphthyloxy)-2-propanol; (+)-Propranolol; (R)-(+)-propranolol; 2R-Propranolol; D-Propranolol; Dexpropranolol; R (+)-Propanolol; R-(+)-Propranolol
+
+$$$$

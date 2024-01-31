@@ -1,0 +1,175 @@
+MVB
+  Mrv0541 02241213572D          
+
+ 28 30  0  0  0  0            999 V2000
+   -1.9420    3.0097    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2014    2.5972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9159    3.0097    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2014    1.7722    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6303    0.1222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5131    1.3597    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.2275    1.7722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2275    2.5972    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5131    3.0097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2275   -0.7028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5131    0.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2014    0.1222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2014   -0.7028    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5131   -1.1153    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5131   -1.9403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2014   -2.3528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9159   -1.9403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9159   -1.1153    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6303   -0.7028    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3448   -1.1153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3448   -1.9403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6303   -2.3528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0074    1.0677    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7332    2.3052    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3737   -0.6014    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7128   -0.5666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7162   -0.5666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2550   -0.2555    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  1  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  4  6  1  0  0  0  0
+ 19  5  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  1  0  0  0
+  6 23  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 24  1  6  0  0  0
+ 14 10  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 13 12  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 25  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 14 26  1  1  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 27  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 19 28  1  6  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08224
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)CC(=O)O[C@@]([H])(CC[C@@]2([H])[C@@]([H])(C)C=CC3=CCC[C@]([H])(O)[C@]23[H])C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H26O4/c1-11-5-6-12-3-2-4-16(20)18(12)15(11)8-7-14-9-13(19)10-17(21)22-14/h3,5-6,11,13-16,18-20H,2,4,7-10H2,1H3/t11-,13+,14-,15-,16-,18-/m0/s1
+
+> <INCHI_KEY>
+WWSNTLOVYSRDEL-TVKPWXLESA-N
+
+> <FORMULA>
+C18H26O4
+
+> <MOLECULAR_WEIGHT>
+306.3966
+
+> <EXACT_MASS>
+306.18310932
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.167086942092065e-09
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.95553940142197
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4R,6S)-6-{2-[(1S,2S,8S,8aR)-8-hydroxy-2-methyl-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]ethyl}-4-hydroxyoxan-2-one
+
+> <ALOGPS_LOGP>
+1.73
+
+> <JCHEM_LOGP>
+1.4859516173333325
+
+> <ALOGPS_LOGS>
+-3.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.46052808398042
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.914537666911121
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8477647559053647
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+85.6799
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.60e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08224
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S,7S,8S,8AR)-1,2,3,7,8,8A-HEXAHYDRO-7-METHYL-8-[2-[(2R,4R)-TETRAHYDRO-4-HY DROXY-6-OXO-2H-PYRAN-2-YL]ETHYL]-1-NAPHTHALENOL
+
+$$$$

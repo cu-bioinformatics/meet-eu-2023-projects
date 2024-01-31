@@ -1,0 +1,155 @@
+
+  Mrv1909 12022222402D          
+
+ 17 17  0  0  1  0            999 V2000
+   -0.2691   -3.4225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4454   -3.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1598   -3.4225    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1598   -2.5975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8743   -3.8350    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8743   -4.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5888   -5.0725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5888   -3.4225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3033   -3.8350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0177   -3.4225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1040   -2.6020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9109   -2.4305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3234   -3.1450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7714   -3.7581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9429   -4.5650    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.7276   -4.8200    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.3298   -5.1171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  CHG  2  15   1  16  -1
+M  END
+> <DATABASE_ID>
+DB17304
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC[C@@H](O)[C@H](CO)OCN1C=CN=C1[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H13N3O6/c12-3-6(14)7(4-13)17-5-10-2-1-9-8(10)11(15)16/h1-2,6-7,12-14H,3-5H2/t6-,7+/m1/s1
+
+> <INCHI_KEY>
+FIITXXIVUIXYMI-RQJHMYQMSA-N
+
+> <FORMULA>
+C8H13N3O6
+
+> <MOLECULAR_WEIGHT>
+247.207
+
+> <EXACT_MASS>
+247.080435151
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.5242972215783639
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.49474836542491
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S)-3-[(2-nitro-1H-imidazol-1-yl)methoxy]butane-1,2,4-triol
+
+> <ALOGPS_LOGP>
+-1.49
+
+> <JCHEM_LOGP>
+-1.184960409
+
+> <ALOGPS_LOGS>
+-1.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.64593704691099
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.309506606884232
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.03760110908585415
+
+> <JCHEM_POLAR_SURFACE_AREA>
+130.88
+
+> <JCHEM_REFRACTIVITY>
+53.7736
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.55e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,3S)-3-[(2-nitroimidazol-1-yl)methoxy]butane-1,2,4-triol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17304
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Doranidazole
+
+> <SYNONYMS>
+(2rs,3sr)-3-((2-nitroimidazol-1-yl)methoxy)butane-1,2,4-triol; 1,2,4-butanetriol, 3-((2-nitro-1h-imidazol-1-yl)methoxy)-, (2r,3s)-rel-
+
+$$$$

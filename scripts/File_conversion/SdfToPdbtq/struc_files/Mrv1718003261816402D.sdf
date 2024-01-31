@@ -1,0 +1,148 @@
+
+  Mrv1718003261816402D          
+
+ 17 17  0  0  0  0            999 V2000
+   -0.5302   -1.1659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.7037    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    1.1162    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.1213    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    0.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5338    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4290    1.1162    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5302   -1.1659    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2481   -1.9412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290    1.1162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.9412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -0.5338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.1213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.5287    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.5287    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.9464    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.2911    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  1  1  6  0  0  0
+  4  6  1  0  0  0  0
+  7  5  1  0  0  0  0
+  6  8  1  1  0  0  0
+  9  1  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+ 13  5  1  0  0  0  0
+  6 13  1  0  0  0  0
+  2 14  1  6  0  0  0
+  3 15  1  6  0  0  0
+  4 16  1  1  0  0  0
+ 17  5  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03008
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)[C@@]([H])(O)[C@]([H])(O)[C@](F)(CO)OC1([H])F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10F2O5/c7-5-3(11)2(10)4(12)6(8,1-9)13-5/h2-5,9-12H,1H2/t2-,3+,4+,5?,6+/m1/s1
+
+> <INCHI_KEY>
+MGHYRMVVRYCAON-NURPGYHYSA-N
+
+> <FORMULA>
+C6H10F2O5
+
+> <MOLECULAR_WEIGHT>
+200.1374
+
+> <EXACT_MASS>
+200.04962984
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+23
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.40089525553114
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5S)-2,6-difluoro-2-(hydroxymethyl)oxane-3,4,5-triol
+
+> <ALOGPS_LOGP>
+-0.83
+
+> <JCHEM_LOGP>
+-1.6015615616666665
+
+> <ALOGPS_LOGS>
+0.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.328215849717186
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.612094434365714
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.615981146758429
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+34.628899999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.56e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,3S,4R,5S)-2,6-difluoro-2-(hydroxymethyl)oxane-3,4,5-triol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03008
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01670
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-fluoro-beta-L-gulosyl fluoride
+
+$$$$

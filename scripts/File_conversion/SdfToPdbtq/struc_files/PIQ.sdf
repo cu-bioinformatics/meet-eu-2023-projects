@@ -1,0 +1,153 @@
+PIQ
+  Mrv0541 02241214042D          
+
+ 17 19  0  0  0  0            999 V2000
+   -2.8024   -0.7118    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9774   -0.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4925   -0.0443    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7079   -0.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0066    0.1132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7211   -0.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4355    0.1132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4355    0.9382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1500    1.3507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8645    0.9382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8645    0.1132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1500   -0.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4925   -1.3792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7474    0.7403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7079   -1.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0066   -1.5368    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7211   -1.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08398
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(N)=NC2=NC=C(C=C12)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H12N4/c1-17-11-7-10(9-5-3-2-4-6-9)8-15-12(11)16-13(17)14/h2-8H,1H3,(H2,14,15,16)
+
+> <INCHI_KEY>
+UQVKZNNCIHJZLS-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H12N4
+
+> <MOLECULAR_WEIGHT>
+224.2612
+
+> <EXACT_MASS>
+224.106196404
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.012923838256683595
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.676243540355088
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-methyl-6-phenyl-1H-imidazo[4,5-b]pyridin-2-amine
+
+> <ALOGPS_LOGP>
+2.27
+
+> <JCHEM_LOGP>
+2.093061605
+
+> <ALOGPS_LOGS>
+-2.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.1170491311793
+
+> <JCHEM_POLAR_SURFACE_AREA>
+56.730000000000004
+
+> <JCHEM_REFRACTIVITY>
+68.59100000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.16e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08398
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB12735
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine
+
+> <SYNONYMS>
+2-amino-1-methyl-6-phenylimidazo[4,5-b]pyridine; PhIP
+
+$$$$

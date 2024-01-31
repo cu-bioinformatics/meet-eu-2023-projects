@@ -1,0 +1,152 @@
+M2C
+  Mrv0541 02231215482D          
+
+ 16 16  0  0  0  0            999 V2000
+    0.0518    0.6974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3607   -0.0171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7732   -0.7315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3537   -0.4296    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0682   -0.0171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7827   -0.4296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4971   -0.0171    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2116   -0.4296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3537   -1.2546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0752    0.3954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7897   -0.0171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5042    0.3954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5042    1.2204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7897    1.6329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0752    1.2204    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3537    0.1544    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  1  0  0  0
+  4 16  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01882
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CCSC)C(O)(O)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16N2O2S/c1-15-7-5-8(11)10(13,14)9-4-2-3-6-12-9/h2-4,6,8,13-14H,5,7,11H2,1H3/t8-/m0/s1
+
+> <INCHI_KEY>
+JPZQHIBHGCCNKS-QMMMGPOBSA-N
+
+> <FORMULA>
+C10H16N2O2S
+
+> <MOLECULAR_WEIGHT>
+228.311
+
+> <EXACT_MASS>
+228.093248456
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9602138934167843
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.867743445313295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-(methylsulfanyl)-1-(pyridin-2-yl)butane-1,1-diol
+
+> <ALOGPS_LOGP>
+-0.10
+
+> <JCHEM_LOGP>
+0.19875768737622174
+
+> <ALOGPS_LOGS>
+-1.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.076780440769992
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.237104940260403
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.389613093801824
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.37
+
+> <JCHEM_REFRACTIVITY>
+60.93980000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.28e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01882
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02085
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s)-2-Amino-4-(Methylsulfanyl)-1-Pyridin-2-Ylbutane-1,1-Diol
+
+$$$$

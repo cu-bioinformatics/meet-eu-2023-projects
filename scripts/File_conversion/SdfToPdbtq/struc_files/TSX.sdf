@@ -1,0 +1,180 @@
+TSX
+  Mrv0541 02231216492D          
+
+ 29 31  0  0  0  0            999 V2000
+    3.0492   -0.3083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3347   -0.7208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3347   -1.5458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0492   -1.9583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7636   -1.5458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4781   -1.9583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6202   -0.3083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6202    0.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9058    0.9292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1913    0.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5232    0.9292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9058   -0.7208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1211   -0.4659    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9058   -1.5458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6202   -1.9583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6202   -2.7833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1211   -1.8008    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3638   -1.1333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1888   -1.1333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6013   -0.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4263   -0.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8388    0.2956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4263    1.0101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6013    1.0101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1888    0.2956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8388    1.7246    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4263    2.4390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8388    3.1535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6013    2.4390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03267
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCN1C2=C(NC(CC3=CC=C(NC(C)=O)C=C3)=N2)C(=O)N(CC=C)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H25N5O3/c1-4-6-12-25-19-18(20(28)26(11-5-2)21(25)29)23-17(24-19)13-15-7-9-16(10-8-15)22-14(3)27/h5,7-10H,2,4,6,11-13H2,1,3H3,(H,22,27)(H,23,24)
+
+> <INCHI_KEY>
+XFOWZKUTPKXWIE-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H25N5O3
+
+> <MOLECULAR_WEIGHT>
+395.4549
+
+> <EXACT_MASS>
+395.195739691
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.12154328762640544
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.91071356420572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-{[3-butyl-2,6-dioxo-1-(prop-2-en-1-yl)-2,3,6,7-tetrahydro-1H-purin-8-yl]methyl}phenyl)acetamide
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+2.4809420983333332
+
+> <ALOGPS_LOGS>
+-3.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.48413777988655
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.858989313033043
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6904246812931224
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.4
+
+> <JCHEM_REFRACTIVITY>
+111.9964
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.60e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03267
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03126
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-Allyl-3-Butyl-8-(N-Acetyl-4-Aminobenzyl)-Xanthine
+
+$$$$

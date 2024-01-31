@@ -1,0 +1,166 @@
+
+  Mrv0541 02231217052D          
+
+ 23 23  0  0  1  0            999 V2000
+   -4.2868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559   -1.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+  4 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03662
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC[C@H](NCC1=C(O)C(C)=NC=C1COP(O)(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H21N2O7P/c1-3-4-11(13(17)18)15-6-10-9(7-22-23(19,20)21)5-14-8(2)12(10)16/h5,11,15-16H,3-4,6-7H2,1-2H3,(H,17,18)(H2,19,20,21)/t11-/m0/s1
+
+> <INCHI_KEY>
+YYAMSLLSQINIQO-NSHDSACASA-N
+
+> <FORMULA>
+C13H21N2O7P
+
+> <MOLECULAR_WEIGHT>
+348.2888
+
+> <EXACT_MASS>
+348.108637548
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.971076616747213
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.02541891496913
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-[({3-hydroxy-2-methyl-5-[(phosphonooxy)methyl]pyridin-4-yl}methyl)amino]pentanoic acid
+
+> <ALOGPS_LOGP>
+-1.07
+
+> <JCHEM_LOGP>
+-3.178653462164872
+
+> <ALOGPS_LOGS>
+-2.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+1.9772144746297664
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.1425528238919944
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.791304878000032
+
+> <JCHEM_POLAR_SURFACE_AREA>
+149.20999999999998
+
+> <JCHEM_REFRACTIVITY>
+81.1138
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.00e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03662
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02714
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Vitamin B6 Complexed with 2-Amino-Pentanoic Acid
+
+$$$$

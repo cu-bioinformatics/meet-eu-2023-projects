@@ -1,0 +1,160 @@
+
+  Mrv0541 05271409282D          
+
+ 17 17  0  0  0  0            999 V2000
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.0625    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.4125    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8578    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  5  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  3  1  0  0  0  0
+  7  4  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  6  2  0  0  0  0
+ 10  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  5  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13  8  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 15 10  1  0  0  0  0
+ 16 11  2  0  0  0  0
+ 17 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08946
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(CC1=C(I)C(N)=C(I)C=C1I)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12I3NO2/c1-2-5(11(16)17)3-6-7(12)4-8(13)10(15)9(6)14/h4-5H,2-3,15H2,1H3,(H,16,17)
+
+> <INCHI_KEY>
+OIRFJRBSRORBCM-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H12I3NO2
+
+> <MOLECULAR_WEIGHT>
+570.9319
+
+> <EXACT_MASS>
+570.800208893
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9999487357476435
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.91483952554683
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-[(3-amino-2,4,6-triiodophenyl)methyl]butanoic acid
+
+> <ALOGPS_LOGP>
+3.93
+
+> <JCHEM_LOGP>
+4.578601728785412
+
+> <ALOGPS_LOGS>
+-4.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.252301713431148
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.854922641229148
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.7640419437609438
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32000000000001
+
+> <JCHEM_REFRACTIVITY>
+95.93
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.38e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08946
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Iopanoic acid
+
+> <SYNONYMS>
+Acidum iopanoicum; Iodopanoic acid; Iopanoic acid
+
+> <PRODUCTS>
+Telepaque - Tablet - 500mg; Telepaque Tab; Telepaque Tab 500mg
+
+> <INTERNATIONAL_BRANDS>
+Colegraf
+
+$$$$

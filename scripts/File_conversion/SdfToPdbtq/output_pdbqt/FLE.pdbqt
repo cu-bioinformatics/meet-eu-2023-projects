@@ -1,0 +1,39 @@
+REMARK  Name = FLE
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  CB_3
+REMARK    3  A    between atoms: CA_2  and  C_7
+REMARK    4  A    between atoms: CB_3  and  CG_4
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   LEU A   1       0.221   0.570   0.000  0.00  0.00    +0.000 NA
+ATOM      2  C   UNK A   0       0.935   0.157   0.000  0.00  0.00    +0.000 C 
+ATOM      3  O   UNK A   0       0.935  -0.668   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   2   4
+ATOM      4  C   UNK A   0       1.650   0.570   0.000  0.00  0.00    +0.000 A 
+ATOM      5  O   UNK A   0       1.736   1.390   0.000  0.00  0.00    +0.000 OA
+ATOM      6  C   UNK A   0       2.403   0.234   0.000  0.00  0.00    +0.000 A 
+ATOM      7  C   UNK A   0       2.955   0.847   0.000  0.00  0.00    +0.000 A 
+ATOM      8  C   UNK A   0       2.543   1.562   0.000  0.00  0.00    +0.000 A 
+ENDBRANCH   2   4
+BRANCH   1   9
+ATOM      9  CA  LEU A   1      -0.494   0.157   0.000  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  C   LEU A   1      -0.494  -0.668   0.000  0.00  0.00    +0.000 C 
+ATOM     11  O   LEU A   1      -1.208  -1.080   0.000  0.00  0.00    +0.000 OA
+ATOM     12  OXT LEU A   1       0.221  -1.080   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   9  10
+BRANCH   9  13
+ATOM     13  CB  LEU A   1      -1.208   0.570   0.000  0.00  0.00    +0.000 C 
+BRANCH  13  14
+ATOM     14  CG  LEU A   1      -1.923   0.157   0.000  0.00  0.00    +0.000 C 
+ATOM     15  CD1 LEU A   1      -2.637   0.570   0.000  0.00  0.00    +0.000 C 
+ATOM     16  CD2 LEU A   1      -1.923  -0.668   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  13  14
+ENDBRANCH   9  13
+ENDBRANCH   1   9
+TORSDOF 5

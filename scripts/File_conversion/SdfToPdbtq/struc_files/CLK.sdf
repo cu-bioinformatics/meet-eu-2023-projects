@@ -1,0 +1,160 @@
+CLK
+  Mrv0541 02231217392D          
+
+ 20 20  0  0  0  0            999 V2000
+   -2.9768    0.6970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6913    0.2845    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9768    1.5220    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2624    0.2845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2624   -0.5405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5479    0.6970    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8334    0.2845    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8334   -0.5405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1189   -0.9530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1189    0.6970    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1189    1.5220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5955    0.2845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3100    0.6970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0245    0.2845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0245   -0.5405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7389   -0.9530    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3100   -0.9530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5955   -0.5405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3391   -0.0075    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6246    0.9889    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 19  1  6  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 10 20  1  1  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04411
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CO)(NC(=O)C(Cl)Cl)[C@]([H])(O)C1=CC=C(N)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14Cl2N2O3/c12-10(13)11(18)15-8(5-16)9(17)6-1-3-7(14)4-2-6/h1-4,8-10,16-17H,5,14H2,(H,15,18)/t8-,9-/m1/s1
+
+> <INCHI_KEY>
+BFLNGKUCFYKCFZ-RKDXNWHRSA-N
+
+> <FORMULA>
+C11H14Cl2N2O3
+
+> <MOLECULAR_WEIGHT>
+293.146
+
+> <EXACT_MASS>
+292.038147738
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0037253280677559688
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.078022850238476
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(1R,2R)-1-(4-aminophenyl)-1,3-dihydroxypropan-2-yl]-2,2-dichloroacetamide
+
+> <ALOGPS_LOGP>
+0.46
+
+> <JCHEM_LOGP>
+0.10979334466666682
+
+> <ALOGPS_LOGS>
+-1.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.847241039199446
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.334411351092278
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.9466496600605963
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.58
+
+> <JCHEM_REFRACTIVITY>
+70.57640000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04411
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00940
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Alpha-N-Dichloroacetyl-P-Aminophenylserinol
+
+$$$$

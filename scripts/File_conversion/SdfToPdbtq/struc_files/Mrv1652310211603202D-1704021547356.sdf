@@ -1,0 +1,162 @@
+
+  Mrv1652310211603202D          
+
+ 26 28  0  0  1  0            999 V2000
+    2.8579    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 12  5  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  3  0  0  0  0
+ 20 24  1  0  0  0  0
+ 17 25  1  0  0  0  0
+ 16 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12925
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC(=CC(Br)=C1OC)[C@@H]1C2=CC=C(N)C(N)=C2OC(N)=C1C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H17BrN4O3/c1-24-13-6-8(5-11(19)17(13)25-2)14-9-3-4-12(21)15(22)16(9)26-18(23)10(14)7-20/h3-6,14H,21-23H2,1-2H3/t14-/m1/s1
+
+> <INCHI_KEY>
+JXONINOYTKKXQQ-CQSZACIVSA-N
+
+> <FORMULA>
+C18H17BrN4O3
+
+> <MOLECULAR_WEIGHT>
+417.263
+
+> <EXACT_MASS>
+416.048403
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.35271573087824
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4R)-2,7,8-triamino-4-(3-bromo-4,5-dimethoxyphenyl)-4H-chromene-3-carbonitrile
+
+> <ALOGPS_LOGP>
+2.43
+
+> <JCHEM_LOGP>
+1.8289620819999999
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.514771912542271
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.54
+
+> <JCHEM_REFRACTIVITY>
+113.03299999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.77e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4R)-2,7,8-triamino-4-(3-bromo-4,5-dimethoxyphenyl)-4H-chromene-3-carbonitrile
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12925
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Crolibulin
+
+> <SYNONYMS>
+Crolibulin
+
+$$$$

@@ -1,0 +1,175 @@
+
+  Mrv1909 12152018042D          
+
+ 30 34  0  0  0  0            999 V2000
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7846   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2695    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7846    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0396    1.8646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8465    2.0361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1015    2.8207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5494    3.4338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7425    3.2623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4875    2.4777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0945    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5070    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3320    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7445    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3320   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5070   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0945   -1.0164    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+  8 23  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 24 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16074
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CCN(CC1)C1=C2N=C(N(C3CCOCC3)C2=NC(C)=N1)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H27ClN6O/c1-15-24-21(28-11-9-27(2)10-12-28)19-22(25-15)29(16-7-13-30-14-8-16)20(26-19)17-5-3-4-6-18(17)23/h3-6,16H,7-14H2,1-2H3
+
+> <INCHI_KEY>
+UCMNDPDJRSEZPL-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H27ClN6O
+
+> <MOLECULAR_WEIGHT>
+426.95
+
+> <EXACT_MASS>
+426.1934872
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.756723303200486
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.09758942112567
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+8-(2-chlorophenyl)-2-methyl-6-(4-methylpiperazin-1-yl)-9-(oxan-4-yl)-9H-purine
+
+> <ALOGPS_LOGP>
+3.15
+
+> <JCHEM_LOGP>
+3.6565760356666663
+
+> <ALOGPS_LOGS>
+-3.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.490456648358195
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.31
+
+> <JCHEM_REFRACTIVITY>
+130.2806
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16074
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+LY2828360
+
+$$$$

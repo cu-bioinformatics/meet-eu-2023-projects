@@ -1,0 +1,158 @@
+NDT
+  Mrv0541 02241213582D          
+
+ 21 23  0  0  0  0            999 V2000
+   -1.6276   -1.5210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6276   -0.6960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3421   -0.2835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0566   -0.6960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0566   -1.5210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3421   -1.9335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9132   -1.9335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1987   -1.5210    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1987   -0.6960    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9132   -0.2835    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9132    0.5415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5158   -0.2835    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9283   -0.9979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1033    0.4310    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2303    0.1290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2303    0.9540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9447    1.3665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6592    0.9540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6592    0.1290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9447   -0.2835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3737    1.3665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08265
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C(C=C1)S(=O)(=O)N1N=CC2=C(C=CC=C2)B1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H13BN2O3S/c1-11-6-8-13(9-7-11)21(19,20)17-15(18)14-5-3-2-4-12(14)10-16-17/h2-10,18H,1H3
+
+> <INCHI_KEY>
+UQIDNSKBUXCODH-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H13BN2O3S
+
+> <MOLECULAR_WEIGHT>
+300.141
+
+> <EXACT_MASS>
+300.073993448
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.005445848486225517
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.499235538454855
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-methylbenzenesulfonyl)-1,2-dihydro-2,3,1-benzodiazaborinin-1-ol
+
+> <ALOGPS_LOGP>
+2.37
+
+> <JCHEM_LOGP>
+2.9176
+
+> <ALOGPS_LOGS>
+-3.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.260594256499392
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.0829261360479827
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+76.6992
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.80e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08265
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(TOLUENE-4-SULFONYL)-2H-BENZO[D][1,2,3]DIAZABORININ-1-OL
+
+$$$$

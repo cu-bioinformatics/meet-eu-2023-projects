@@ -1,0 +1,168 @@
+
+  Mrv1909 09102020272D          
+
+ 22 23  0  0  0  0            999 V2000
+   -2.8324   -0.4303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5740   -0.8243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7992    0.3774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1735   -0.8508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2660   -0.3906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5077    0.8311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3591   -0.4138    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2328    0.4337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7001   -0.8474    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9050    0.8508    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.0248   -0.3906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7532   -0.8342    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0248    0.2418    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4419   -0.4138    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1404   -0.8508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8059   -0.4270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8225    0.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5177   -0.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5377    0.8078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2528   -0.4237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2229    0.4039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9050    0.8078    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+  6  8  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11542
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC=C(\C=N\NC(=N)N\N=C\C2=CC=C(Cl)C=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H13Cl2N5/c16-13-5-1-11(2-6-13)9-19-21-15(18)22-20-10-12-3-7-14(17)8-4-12/h1-10H,(H3,18,21,22)/b19-9+,20-10+
+
+> <INCHI_KEY>
+MOOFYEJFXBSZGE-LQGKIZFRSA-N
+
+> <FORMULA>
+C15H13Cl2N5
+
+> <MOLECULAR_WEIGHT>
+334.2
+
+> <EXACT_MASS>
+333.0548008
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.009560839884644201
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.90639665563408
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N,N'-bis[(E)-[(4-chlorophenyl)methylidene]amino]guanidine
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+4.379414271
+
+> <ALOGPS_LOGS>
+-4.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.782240482080468
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.710773421017047
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.985131777710633
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.63
+
+> <JCHEM_REFRACTIVITY>
+122.65220000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.65e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11542
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Robenidine
+
+> <SYNONYMS>
+Robenidina; Robenidine; Robenidinum
+
+> <SALTS>
+Robenidine hydrochloride
+
+$$$$

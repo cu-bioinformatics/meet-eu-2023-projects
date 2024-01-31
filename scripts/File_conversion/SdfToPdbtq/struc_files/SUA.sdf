@@ -1,0 +1,163 @@
+SUA
+  Mrv0541 02231216522D          
+
+ 21 22  0  0  0  0            999 V2000
+   -3.2585   -1.1266    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9730   -1.5391    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8460   -1.8411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6710   -0.4121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1151   -0.7141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8296   -1.1266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5441   -0.7141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5441    0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8296    0.5234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1151    0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4007    0.5234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3138    0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3138   -0.7141    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0283    0.5234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7428    0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4572    0.5234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1717    0.1109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9254    0.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4774   -0.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0649   -0.8811    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2579   -0.7096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03333
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(NC(=S)OCCC2=CSC=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14N2O3S3/c14-21(16,17)12-3-1-11(2-4-12)15-13(19)18-7-5-10-6-8-20-9-10/h1-4,6,8-9H,5,7H2,(H,15,19)(H2,14,16,17)
+
+> <INCHI_KEY>
+NXMUSVRWCFYOTJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H14N2O3S3
+
+> <MOLECULAR_WEIGHT>
+342.457
+
+> <EXACT_MASS>
+342.016654394
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.7246432738014498
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.35532269496511
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-sulfamoylphenyl)[2-(thiophen-3-yl)ethoxy]carbothioamide
+
+> <ALOGPS_LOGP>
+3.22
+
+> <JCHEM_LOGP>
+3.119723948666666
+
+> <ALOGPS_LOGS>
+-4.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.511219889713356
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.580441842331828
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.2297530682748206
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.42
+
+> <JCHEM_REFRACTIVITY>
+89.16680000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.12e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03333
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02975
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(4-sulfamoyl-phenyl)-thiocarbamic acid O-(2-thiophen-3-yl-ethyl) ester
+
+$$$$

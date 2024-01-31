@@ -1,0 +1,176 @@
+
+  Mrv1909 12241914262D          
+
+ 31 31  0  0  0  0            999 V2000
+   -1.7861   -5.2057    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.6682    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    2.2192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.8067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.9057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151    4.6942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -1.4932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    4.6942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.9817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.2557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.9817    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.5692    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151    3.0442    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -1.9057    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.5692    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7861    3.0442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    2.2192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.2557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    3.4567    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0717    1.8067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.9817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.4932    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5006    4.2817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.9817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -2.7307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -3.1432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -3.1432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -3.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -3.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -4.3807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 31  1  0  0  0  0
+  2 18  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3 20  2  0  0  0  0
+  4 21  2  0  0  0  0
+ 22  5  1  6  0  0  0
+  6 23  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 23  2  0  0  0  0
+  9 28  1  0  0  0  0
+ 10 28  2  0  0  0  0
+ 15 11  1  6  0  0  0
+ 11 20  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 19 13  1  6  0  0  0
+ 14 22  1  0  0  0  0
+ 14 25  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 24 28  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 29  1  0  0  0  0
+ 27 30  2  0  0  0  0
+ 29 31  2  0  0  0  0
+ 30 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03889
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N[C@@H](CCC(=O)N[C@@H](CS[C@H](O)N(O)C1=CC=C(Br)C=C1)C(=O)NCC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H23BrN4O8S/c18-9-1-3-10(4-2-9)22(30)17(29)31-8-12(15(26)20-7-14(24)25)21-13(23)6-5-11(19)16(27)28/h1-4,11-12,17,29-30H,5-8,19H2,(H,20,26)(H,21,23)(H,24,25)(H,27,28)/t11-,12-,17-/m0/s1
+
+> <INCHI_KEY>
+OGZMPQOWGQBWAV-PRXAMGSTSA-N
+
+> <FORMULA>
+C17H23BrN4O8S
+
+> <MOLECULAR_WEIGHT>
+523.356
+
+> <EXACT_MASS>
+522.041997069
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0046674297597145
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+46.928927432143645
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-{[(1R)-2-{[(S)-[(4-bromophenyl)(hydroxy)amino](hydroxy)methyl]sulfanyl}-1-[(carboxymethyl)carbamoyl]ethyl]carbamoyl}butanoic acid
+
+> <JCHEM_LOGP>
+-2.02047496116778
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+3.429172959851543
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.770102421655815
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.30852493623742
+
+> <JCHEM_POLAR_SURFACE_AREA>
+202.52
+
+> <JCHEM_REFRACTIVITY>
+122.91749999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2R,3S,5R)-5-(5-fluoro-2,4-dioxo-3H-pyrimidin-1-yl)-3-hydroxyoxolan-2-yl]methoxyphosphonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03889
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01552
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+S-(N-hydroxy-N-bromophenylcarbamoyl)glutathione
+
+> <SYNONYMS>
+(2S)-2-Amino-5-[[(2R)-3-[(S)-(4-bromo-N-hydroxyanilino)-hydroxymethyl]sulfanyl-1-(carboxymethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid; L-γ-Glutamyl-S-[(S)-[(4-bromophenyl)(hydroxy)amino](hydroxy)methyl]-L-cysteinylglycine
+
+$$$$

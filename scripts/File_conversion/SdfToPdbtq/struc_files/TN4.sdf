@@ -1,0 +1,184 @@
+TN4
+  Mrv0541 02241214132D          
+
+ 31 33  0  0  0  0            999 V2000
+    1.4651    2.3006    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7506    2.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7506    3.5381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0361    2.3006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0361    1.4756    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7506    1.0631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7506    0.2381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0361   -0.1744    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4486   -0.8889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3764   -0.8889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6783    0.2381    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6783    1.0631    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3928    1.4756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1073    1.0631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3928   -0.1744    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9231   -0.8064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1106   -0.9497    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4787   -1.4800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6219   -2.2924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0101   -2.8227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1332   -3.6352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7853   -2.5406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9231    0.4576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1795    2.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1795    3.5381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8940    2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6085    2.7131    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.5418    1.7675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4786   -0.3106    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6783    1.6470    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5466   -0.7985    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 24  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 28  1  1  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 15 11  1  6  0  0  0
+ 11 29  1  6  0  0  0
+ 12 13  1  6  0  0  0
+ 12 30  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 23  1  1  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  1  0  0  0
+ 17 31  1  6  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08633
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CC=C(C)C)O[C@]1(C)[C@@]1([H])[C@]([H])(OC)[C@@]([H])(CC[C@]11CO1)OC(=O)NC(=O)CCl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28ClNO6/c1-11(2)5-6-13-18(3,27-13)16-15(24-4)12(7-8-19(16)10-25-19)26-17(23)21-14(22)9-20/h5,12-13,15-16H,6-10H2,1-4H3,(H,21,22,23)/t12-,13-,15-,16-,18+,19+/m1/s1
+
+> <INCHI_KEY>
+MSHZHSPISPJWHW-PVDLLORBSA-N
+
+> <FORMULA>
+C19H28ClNO6
+
+> <MOLECULAR_WEIGHT>
+401.882
+
+> <EXACT_MASS>
+401.16051534
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+55
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0019389676540944522
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.459216274075416
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R,4S,5S,6R)-5-methoxy-4-[(2R,3R)-2-methyl-3-(3-methylbut-2-en-1-yl)oxiran-2-yl]-1-oxaspiro[2.5]octan-6-yl N-(2-chloroacetyl)carbamate
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.2436498499999997
+
+> <ALOGPS_LOGS>
+-4.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.711586527459572
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7149144595362564
+
+> <JCHEM_POLAR_SURFACE_AREA>
+89.69
+
+> <JCHEM_REFRACTIVITY>
+98.4515
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.34e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08633
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB12828
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+TNP-470
+
+> <SYNONYMS>
+O-(chloroacetylcarbamoyl)fumagillol; O-chloroacetylcarbamoylfumagillol
+
+$$$$

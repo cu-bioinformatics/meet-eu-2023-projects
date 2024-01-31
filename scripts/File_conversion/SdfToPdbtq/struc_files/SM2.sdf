@@ -1,0 +1,164 @@
+SM2
+  Mrv0541 02241214102D          
+
+ 23 24  0  0  0  0            999 V2000
+   -2.9889    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1605    2.3465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4460    2.7590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8329    2.2069    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1685    1.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7560    0.7388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9310    0.7388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5185    1.4533    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5185    0.0243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3065    0.0243    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7190    0.7388    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3065    1.4533    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5440    0.7388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7190   -0.6902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5440   -0.6902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3065   -1.4046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7190   -2.1191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5440   -2.1191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9565   -1.4046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7815   -1.4046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1940   -0.6902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1940   -2.1191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0146    0.5300    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 14  1  0  0  0  0
+ 10 23  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08551
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](NC(=O)CC1=CC=CS1)(B(O)O)C1=CC(=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H14BNO5S/c17-12(8-11-5-2-6-22-11)16-13(15(20)21)9-3-1-4-10(7-9)14(18)19/h1-7,13,20-21H,8H2,(H,16,17)(H,18,19)/t13-/m0/s1
+
+> <INCHI_KEY>
+HQLQTGGLHBYZSA-ZDUSSCGKSA-N
+
+> <FORMULA>
+C14H14BNO5S
+
+> <MOLECULAR_WEIGHT>
+319.141
+
+> <EXACT_MASS>
+319.068573719
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0238736751195705
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.805303303158844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(R)-(dihydroxyboranyl)[2-(thiophen-2-yl)acetamido]methyl]benzoic acid
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+2.3004000000000002
+
+> <ALOGPS_LOGS>
+-4.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.592032798971122
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.031741076300323
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.08503311936925
+
+> <JCHEM_POLAR_SURFACE_AREA>
+106.86
+
+> <JCHEM_REFRACTIVITY>
+76.5311
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.97e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08551
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-{(R)-(Dihydroxyboryl)[(2-thienylacetyl)amino]methyl}benzoic acid
+
+$$$$

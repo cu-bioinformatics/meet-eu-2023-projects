@@ -1,0 +1,153 @@
+
+  Mrv1909 09242017232D          
+
+ 17 19  0  0  0  0            999 V2000
+    0.7761    1.3602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8623    2.1807    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6693    2.3522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0818    1.6377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5298    1.0246    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0615    0.9477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0615    0.1227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7761   -0.2897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7761   -1.1147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0615   -1.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6528   -1.1147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3673   -1.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0818   -1.1147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0818   -0.2897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3673    0.1227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6528   -0.2897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0615   -2.3522    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  1  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+  7 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 10 17  1  0  0  0  0
+  1  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15881
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=C2C=CC=CC2=C(CC2=NCCN2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H13ClN2/c15-13-6-5-10(9-14-16-7-8-17-14)11-3-1-2-4-12(11)13/h1-6H,7-9H2,(H,16,17)
+
+> <INCHI_KEY>
+GPPLXTFJYCQMRB-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H13ClN2
+
+> <MOLECULAR_WEIGHT>
+244.72
+
+> <EXACT_MASS>
+244.0767261
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9993433757363208
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.00427617669626
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[(4-chloronaphthalen-1-yl)methyl]-4,5-dihydro-1H-imidazole
+
+> <ALOGPS_LOGP>
+3.73
+
+> <JCHEM_LOGP>
+2.7971616260000003
+
+> <ALOGPS_LOGS>
+-4.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.18239781128791
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.39
+
+> <JCHEM_REFRACTIVITY>
+70.32430000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+unii-71TH42O2CQ
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15881
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Clonazoline
+
+> <SYNONYMS>
+Clonazolina; Clonazoline; Clonazolinum
+
+> <SALTS>
+Clonazoline hydrochloride
+
+$$$$

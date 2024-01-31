@@ -1,0 +1,154 @@
+
+  Mrv1909 05201914532D          
+
+ 23 25  0  0  1  0            999 V2000
+    3.1574    2.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6430    2.3449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9444    1.5770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7602    1.4540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4300    0.9320    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6257    1.1155    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9807    0.6012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9807   -0.2238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6257   -0.7382    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4300   -0.5546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7880    0.1887    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.6130    0.1887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0255    0.9031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8505    0.9031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2630    0.1887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0880    0.1887    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8505   -0.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0255   -0.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3940    0.1887    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5690    0.1887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1565   -0.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6685   -0.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0810   -1.2403    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  3  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 12 18  1  0  0  0  0
+  9 19  1  1  0  0  0
+  6 19  1  1  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+M  ISO  1  23 123
+M  END
+> <DATABASE_ID>
+DB15144
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC(=O)[C@@H]1[C@H]2CC[C@@H](C[C@@H]1C1=CC=C(F)C=C1)N2C\C=C\[123I]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H21FINO2/c1-23-18(22)17-15(12-3-5-13(19)6-4-12)11-14-7-8-16(17)21(14)10-2-9-20/h2-6,9,14-17H,7-8,10-11H2,1H3/b9-2+/t14-,15+,16+,17-/m0/s1/i20-4
+
+> <INCHI_KEY>
+GTQLIPQFXVKRKJ-HYRAKNMCSA-N
+
+> <FORMULA>
+C18H21FINO2
+
+> <MOLECULAR_WEIGHT>
+425.275
+
+> <EXACT_MASS>
+425.061230027
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.1860850060329
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl (1R,2S,3S,5S)-3-(4-fluorophenyl)-8-[(2E)-3-(¹²³I)iodoprop-2-en-1-yl]-8-azabicyclo[3.2.1]octane-2-carboxylate
+
+> <ALOGPS_LOGP>
+4.05
+
+> <JCHEM_LOGP>
+3.9505804279999994
+
+> <ALOGPS_LOGS>
+-4.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.590797575785283
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.54
+
+> <JCHEM_REFRACTIVITY>
+97.34190000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.10e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-14-fluoro-2-methyl-6,9,10,19-tetraazapentacyclo[14.2.1.0^{2,6}.0^{8,18}.0^{12,17}]nonadeca-1(18),8,12(17),13,15-pentaen-11-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15144
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Altropane I-123
+
+$$$$

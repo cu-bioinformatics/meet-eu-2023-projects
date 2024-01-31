@@ -1,0 +1,154 @@
+APQ
+  Mrv0541 02231216192D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.8569    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5713   -0.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2858    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1424   -0.2896    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4279    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2866   -0.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010    0.9479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155    1.3604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4300    0.9479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4300    0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1444   -0.2896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155   -0.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155   -1.1146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010   -1.5271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0010   -2.3521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2866   -1.1146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7155    2.1854    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02599
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCSCC1=CC(N)=CC2=C1N=C(N)NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H16N4OS/c1-2-3-18-6-7-4-8(13)5-9-10(7)15-12(14)16-11(9)17/h4-5H,2-3,6,13H2,1H3,(H3,14,15,16,17)
+
+> <INCHI_KEY>
+RSKNEWMEOVQZII-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H16N4OS
+
+> <MOLECULAR_WEIGHT>
+264.347
+
+> <EXACT_MASS>
+264.104481844
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.05952172326007559
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.691486024290192
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2,6-diamino-8-[(propylsulfanyl)methyl]-3,4-dihydroquinazolin-4-one
+
+> <ALOGPS_LOGP>
+1.34
+
+> <JCHEM_LOGP>
+1.314716904333333
+
+> <ALOGPS_LOGS>
+-2.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.396328508974447
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.801050898373763
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.5
+
+> <JCHEM_REFRACTIVITY>
+77.7064
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.35e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02599
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00543
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,6-Diamino-8-Propylsulfanylmethyl-3h-Quinazoline-4-One
+
+$$$$

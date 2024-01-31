@@ -1,0 +1,151 @@
+
+  Mrv1909 11191922202D          
+
+ 17 16  0  0  0  0            999 V2000
+    2.1486    2.0669    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.4310    0.8293    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8293    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7175    2.0669    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7175    2.0669    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4310    1.6544    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.4310   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7175   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7175    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4310   -1.6544    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7175   -2.0669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6544    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7175   -2.0669    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4310   -1.6544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1486   -2.0669    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1486   -2.0669    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 11  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  CHG  2   1  -1   6   1
+M  END
+> <DATABASE_ID>
+DB02027
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NCCNC[C@@H](N)CCCNC(=N)N[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H21N7O2/c9-3-5-12-6-7(10)2-1-4-13-8(11)14-15(16)17/h7,12H,1-6,9-10H2,(H3,11,13,14)/t7-/m0/s1
+
+> <INCHI_KEY>
+RMSWBHUVFNFNIZ-ZETCQYMHSA-N
+
+> <FORMULA>
+C8H21N7O2
+
+> <MOLECULAR_WEIGHT>
+247.298
+
+> <EXACT_MASS>
+247.175672951
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.972277419823207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N'-[(4S)-4-amino-5-[(2-aminoethyl)amino]pentyl]-N-nitroguanidine
+
+> <ALOGPS_LOGP>
+-1.35
+
+> <JCHEM_LOGP>
+-2.4827171768330802
+
+> <ALOGPS_LOGS>
+-2.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA>
+16.97057148744589
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.98064180331937
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.942346479457344
+
+> <JCHEM_POLAR_SURFACE_AREA>
+155.12
+
+> <JCHEM_REFRACTIVITY>
+74.4197
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2lambda5-triaz-1-en-2-yn-1-ide hydrate diiron
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02027
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01253
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-{(4S)-4-Amino-5-[(2-aminoethyl)amino]pentyl}-N'-nitroguanidine
+
+> <SYNONYMS>
+1-{(4S)-4-Amino-5-[(2-aminoethyl)amino]pentyl}-3-nitroguanidine
+
+$$$$

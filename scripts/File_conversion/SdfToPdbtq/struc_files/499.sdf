@@ -1,0 +1,165 @@
+499
+  Mrv0541 02231214432D          
+
+ 19 19  0  0  0  0            999 V2000
+    2.9685    1.8563    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.8563    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.6813    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.6188    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.0313    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9370   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  CHG  2   5  -1   8   1
+M  END
+> <DATABASE_ID>
+DB00499
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)C(=O)NC1=CC(=C(C=C1)[N+]([O-])=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H11F3N2O3/c1-6(2)10(17)15-7-3-4-9(16(18)19)8(5-7)11(12,13)14/h3-6H,1-2H3,(H,15,17)
+
+> <INCHI_KEY>
+MKXKFYHWDHIYRV-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H11F3N2O3
+
+> <MOLECULAR_WEIGHT>
+276.2118
+
+> <EXACT_MASS>
+276.072176843
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.554629990743175e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.219275126764558
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide
+
+> <ALOGPS_LOGP>
+2.55
+
+> <JCHEM_LOGP>
+3.2723109796666665
+
+> <ALOGPS_LOGS>
+-4.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.808366980542429
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7216522183548544
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.24
+
+> <JCHEM_REFRACTIVITY>
+62.4166
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.66e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00499
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00984
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Flutamide
+
+> <SYNONYMS>
+4'-nitro-3'-trifluoromethylisobutyranilide; Flutamid; Flutamida; Flutamide; Flutamidum; FTA; NFBA; Niftolid; Niftolide; α,α,α-trifluoro-2-methyl-4'-nitro-m-propionotoluidide
+
+> <PRODUCTS>
+Dom-flutamide; Euflex; Eulexin; Flutamide; Flutamide-250; Nu-flutamide Tablets; PMS-flutamide; Penta-flutamide; Teva-flutamide
+
+> <INTERNATIONAL_BRANDS>
+Andraxan; Antipros; Curestat; Cytomid; Dedile; Drogenil; Elbat; Etaconil; Farostat; Flimutal; Flucinom; Flulem; Odyne; Prostadirex; Prostanon
+
+$$$$

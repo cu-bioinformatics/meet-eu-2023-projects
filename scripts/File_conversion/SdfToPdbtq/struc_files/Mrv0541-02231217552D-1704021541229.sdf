@@ -1,0 +1,152 @@
+
+  Mrv0541 02231217552D          
+
+ 17 18  0  0  0  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7376   -1.4675    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9091   -0.6605    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0806    0.1465    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7161   -0.8320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1021   -0.4890    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 12 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04800
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1N=C(C=C1NS(O)(=O)=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N3O3S/c1-13-10(12-17(14,15)16)7-9(11-13)8-5-3-2-4-6-8/h2-7,12H,1H3,(H,14,15,16)
+
+> <INCHI_KEY>
+OTZLVSGSRPNRFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11N3O3S
+
+> <MOLECULAR_WEIGHT>
+253.278
+
+> <EXACT_MASS>
+253.052111923
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9998204596402808
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.74645988436346
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(1-methyl-3-phenyl-1H-pyrazol-5-yl)sulfamic acid
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+-1.050099639422103
+
+> <ALOGPS_LOGS>
+-2.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.260926223058934
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.805105127543114
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.255581636698722
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.22
+
+> <JCHEM_REFRACTIVITY>
+72.90140000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04800
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-METHYL-3-PHENYL-1H-PYRAZOL-5-YLSULFAMIC ACID
+
+$$$$

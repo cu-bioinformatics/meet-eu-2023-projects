@@ -1,0 +1,162 @@
+
+  Mrv0541 05041411072D          
+
+ 21 21  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    1.5395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  2  1  0  0  0  0
+  5  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  1  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  9  1  6  0  0  0
+  6 10  1  1  0  0  0
+ 14  2  1  0  0  0  0
+ 14  6  1  0  0  0  0
+  5 15  1  1  0  0  0
+ 16 11  1  0  0  0  0
+ 16 12  2  0  0  0  0
+ 16 13  2  0  0  0  0
+ 16 15  1  0  0  0  0
+  2 17  1  6  0  0  0
+  3 18  1  6  0  0  0
+  4 19  1  1  0  0  0
+  5 20  1  6  0  0  0
+  6 21  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB01818
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)O[C@]([H])(CO)[C@]([H])(O)[C@]([H])(OS(O)(=O)=O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O9S/c7-1-2-3(8)5(15-16(11,12)13)4(9)6(10)14-2/h2-10H,1H2,(H,11,12,13)/t2-,3+,4-,5+,6-/m1/s1
+
+> <INCHI_KEY>
+HHRMGTRTCHNCRO-FDROIEKHSA-N
+
+> <FORMULA>
+C6H12O9S
+
+> <MOLECULAR_WEIGHT>
+260.219
+
+> <EXACT_MASS>
+260.020202672
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0000522061676522
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.802687107019104
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2R,3R,4S,5S,6R)-2,3,5-trihydroxy-6-(hydroxymethyl)oxan-4-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-2.11
+
+> <JCHEM_LOGP>
+-4.729415807583714
+
+> <ALOGPS_LOGS>
+-0.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.300440238027804
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.9980021667040393
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.98112808794708
+
+> <JCHEM_POLAR_SURFACE_AREA>
+153.74999999999997
+
+> <JCHEM_REFRACTIVITY>
+45.9152
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01818
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02894
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+O3-Sulfonylgalactose
+
+$$$$

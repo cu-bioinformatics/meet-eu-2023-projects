@@ -1,0 +1,187 @@
+ 
+  Mrv1909 04062120192D          
+ 
+ 28 30  0  0  1  0            999 V2000
+    9.5655  -18.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5655  -17.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2695  -17.4333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0148  -17.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0148  -18.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2695  -19.0897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7188  -19.0897    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.4227  -18.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1268  -19.0897    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8306  -18.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5346  -19.0897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2386  -18.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2386  -17.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9840  -17.4333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6879  -17.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6879  -18.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9840  -19.0897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3919  -17.4333    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0958  -17.8474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0958  -18.6756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7188  -19.9178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8148  -17.4362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5177  -17.8461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7666  -18.6327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5946  -18.6395    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8570  -17.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1911  -17.3620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6607  -17.6003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+  7 21  1  6  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 23 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08893
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(CC(=O)NC2=CC=C(CCNC[C@H](O)C3=CC=CC=C3)C=C2)=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H24N4O2S/c22-21-25-18(14-28-21)12-20(27)24-17-8-6-15(7-9-17)10-11-23-13-19(26)16-4-2-1-3-5-16/h1-9,14,19,23,26H,10-13H2,(H2,22,25)(H,24,27)/t19-/m0/s1
+
+> <INCHI_KEY>
+PBAPPPCECJKMCM-IBGZPJMESA-N
+
+> <FORMULA>
+C21H24N4O2S
+
+> <MOLECULAR_WEIGHT>
+396.506
+
+> <EXACT_MASS>
+396.161996722
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0009128304896644
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.20288852562741
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-amino-1,3-thiazol-4-yl)-N-[4-(2-{[(2R)-2-hydroxy-2-phenylethyl]amino}ethyl)phenyl]acetamide
+
+> <ALOGPS_LOGP>
+2.20
+
+> <JCHEM_LOGP>
+2.8864113700000003
+
+> <ALOGPS_LOGS>
+-4.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.438041725992933
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.836274352409324
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.621991311185106
+
+> <JCHEM_POLAR_SURFACE_AREA>
+100.27
+
+> <JCHEM_REFRACTIVITY>
+113.23109999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.12e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3S,4S,5R)-6-{[(2-{4-[2-(2-amino-1,3-thiazol-4-yl)acetamido]phenyl}ethyl)[(2R)-2-hydroxy-2-phenylethyl]carbamoyl]oxy}-3,4,5-trihydroxyoxane-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08893
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB05702
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Mirabegron
+
+> <SYNONYMS>
+Mirabegron
+
+> <PRODUCTS>
+Betmiga; Myrbetriq
+
+> <INTERNATIONAL_BRANDS>
+Betanis; Metmiga
+
+$$$$

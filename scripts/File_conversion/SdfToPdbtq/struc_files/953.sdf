@@ -1,0 +1,168 @@
+953
+  Mrv0541 02231215082D          
+
+ 20 22  0  0  0  0            999 V2000
+    6.5944   -1.5972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9142    1.4693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558   -0.5207    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8695   -1.3411    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7982    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5944   -0.2693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8137   -0.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8507    0.5149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8137   -1.3457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6580    0.6851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0993   -0.1082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0759   -0.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847   -0.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0993   -1.7582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847   -1.3457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703   -0.1082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3633    2.0833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7215    1.6394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2021   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.5128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4 20  2  0  0  0  0
+  5 19  2  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00953
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CCC1=CNC2=C1C=C(CN1C=NC=N1)C=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H19N5/c1-19(2)6-5-13-8-17-15-4-3-12(7-14(13)15)9-20-11-16-10-18-20/h3-4,7-8,10-11,17H,5-6,9H2,1-2H3
+
+> <INCHI_KEY>
+ULFRLSNUDGIQQP-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H19N5
+
+> <MOLECULAR_WEIGHT>
+269.3449
+
+> <EXACT_MASS>
+269.164045633
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9972406097079124
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.999849183730085
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl(2-{5-[(1H-1,2,4-triazol-1-yl)methyl]-1H-indol-3-yl}ethyl)amine
+
+> <ALOGPS_LOGP>
+1.67
+
+> <JCHEM_LOGP>
+1.7678793143333331
+
+> <ALOGPS_LOGS>
+-2.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.22771685729457
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.556421004446486
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.74
+
+> <JCHEM_REFRACTIVITY>
+93.1323
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.38e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00953
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00008
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Rizatriptan
+
+> <SYNONYMS>
+N,N-Dimethyl-2-[5-(1,2,4-triazol-1-ylmethyl)-1H-indol-3-yl]-ethanamine; N,N-Dimethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-1H-indole-3-ethanamine; Risatriptan; Rizatriptán; Rizatriptan; Rizatriptanum
+
+> <PRODUCTS>
+Accel-rizatriptan ODT; Act Rizatriptan; Act Rizatriptan ODT; Ag-rizatriptan ODT; Apo-rizatriptan; Apo-rizatriptan Rpd; Auro-rizatriptan; Auro-rizatriptan ODT; Bio-rizatriptan ODT; Ccp-rizatriptan ODT; Dom-rizatriptan Rdt; Ipg-rizatriptan; Jamp Rizatriptan; Jamp-rizatriptan Ir; Jamp-rizatriptan ODT; Mar-rizatriptan; Mar-rizatriptan ODT; Maxalt; Maxalt Rpd; Maxalt-mlt; Mint-rizatriptan ODT; Mylan-rizatriptan; Mylan-rizatriptan ODT; Nat-rizatriptan; Nat-rizatriptan ODT; Nra-rizatriptan ODT; PMS-rizatriptan Rdt; Priva-rizatriptan; Q-rizatriptan ODT; RIZATRIPTAN Benzoate; Riva-rizatriptan ODT; Rizatriptan; Rizatriptan Benzoate; Rizatriptan Benzoate ODT; Rizatriptan ODT; Rizatriptan Rdt; Rizatriptan benzoate; Sandoz Rizatriptan ODT; Teva-rizatriptan; Teva-rizatriptan ODT; Van-rizatriptan; Van-rizatriptan ODT
+
+> <SALTS>
+Rizatriptan benzoate
+
+$$$$

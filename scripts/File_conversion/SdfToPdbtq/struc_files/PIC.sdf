@@ -1,0 +1,155 @@
+PIC
+  Mrv0541 02241214042D          
+
+ 20 21  0  0  0  0            999 V2000
+   -1.5936   -0.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8792   -0.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8792    0.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9787    0.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9787   -0.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2643   -0.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5498   -0.2911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1647   -0.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6932    0.9464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1647    0.9464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5498    0.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2643    0.9464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6932    1.7714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4077    0.5339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0061    0.0109    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1811   -1.4180    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3081   -1.1161    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0226   -1.5286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7206   -0.4016    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8956   -1.8305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3 10  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08397
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=CC2=C(C=C1)C=C(C=C2)C(F)(F)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9F2O5P/c13-12(14,20(17,18)19)10-4-3-7-5-9(11(15)16)2-1-8(7)6-10/h1-6H,(H,15,16)(H2,17,18,19)
+
+> <INCHI_KEY>
+NKGNOWNPXBURRW-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9F2O5P
+
+> <MOLECULAR_WEIGHT>
+302.1674
+
+> <EXACT_MASS>
+302.01556632
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.5949783778360374
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.777370330240572
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-[difluoro(phosphono)methyl]naphthalene-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.33
+
+> <JCHEM_LOGP>
+1.8732167846666663
+
+> <ALOGPS_LOGS>
+-3.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.989101625809196
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.4909563707160352
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+66.4863
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.94e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08397
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(DIFLUORO-PHOSPHONO-METHYL)-NAPHTHALENE-2-CARBOXYLIC ACID
+
+$$$$

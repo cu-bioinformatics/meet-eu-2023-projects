@@ -1,0 +1,154 @@
+LZ4
+  Mrv0541 02241213532D          
+
+ 18 19  0  0  0  0            999 V2000
+   16.6667    7.1015    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6667    6.2765    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8417    6.2765    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4917    6.2765    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6667    5.4515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3812    5.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3812    4.2140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6667    3.8015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6667    2.9765    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9522    2.5640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9522    1.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2377    1.3265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5233    1.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5233    2.5640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8088    2.9765    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   15.2377    2.9765    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9522    4.2140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9522    5.0390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08134
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NS(=O)(=O)C1=CC=C(NC2=NC(Cl)=CN=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H9ClN4O2S/c11-9-5-13-6-10(15-9)14-7-1-3-8(4-2-7)18(12,16)17/h1-6H,(H,14,15)(H2,12,16,17)
+
+> <INCHI_KEY>
+RSNSGNZRUMHXAY-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H9ClN4O2S
+
+> <MOLECULAR_WEIGHT>
+284.722
+
+> <EXACT_MASS>
+284.013473949
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00017950877010409696
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.28470502303934
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(6-chloropyrazin-2-yl)amino]benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+1.0025368903333336
+
+> <ALOGPS_LOGS>
+-3.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.350726342133758
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.742957091115922
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.10408794370713971
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+68.5679
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.20e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08134
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-[(6-chloropyrazin-2-yl)amino]benzenesulfonamide
+
+$$$$

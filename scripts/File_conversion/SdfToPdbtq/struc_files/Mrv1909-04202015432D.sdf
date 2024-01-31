@@ -1,0 +1,162 @@
+
+  Mrv1909 04202015432D          
+
+ 20 22  0  0  0  0            999 V2000
+   -0.5649    2.8029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2795    2.3904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2795    1.5653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5649    1.1528    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1495    1.5653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1495    2.3904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9342    1.3103    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9342    2.6452    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4191    1.9778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9940    1.1528    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1891    0.5256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6370   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1450   -0.7377    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8360   -1.5026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3439   -2.1528    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0626    0.3497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0913   -0.4748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6938   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8518   -2.8028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940   -1.6448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  9  2  0  0  0  0
+  7  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15671
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC=C2N=CN(CC3(CC3)OCP(O)(O)=O)C2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O4P/c11-9-12-3-7-8(14-9)15(5-13-7)4-10(1-2-10)19-6-20(16,17)18/h3,5H,1-2,4,6H2,(H2,11,12,14)(H2,16,17,18)
+
+> <INCHI_KEY>
+KDNSSKPZBDNJDF-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14N5O4P
+
+> <MOLECULAR_WEIGHT>
+299.227
+
+> <EXACT_MASS>
+299.078340949
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.3063664319056729
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.937860540555313
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+({1-[(2-amino-9H-purin-9-yl)methyl]cyclopropoxy}methyl)phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.37
+
+> <JCHEM_LOGP>
+-3.089104611824867
+
+> <ALOGPS_LOGS>
+-2.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.904876900345456
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.35055705424887
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.580198980331224
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.38000000000002
+
+> <JCHEM_REFRACTIVITY>
+69.8495
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.07e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(argentiooxy)silver
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15671
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Besifovir
+
+> <SYNONYMS>
+Besifovir
+
+$$$$

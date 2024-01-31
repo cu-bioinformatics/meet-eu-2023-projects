@@ -1,0 +1,166 @@
+1006
+  Mrv0541 02231215102D          
+
+ 22 24  0  0  0  0            999 V2000
+    2.9558    1.4438    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8695    2.2643    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.7213    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703   -3.0938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2427    3.0938    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0993    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2021    1.1082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9558   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8137    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0993    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8137    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    2.4358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6703   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5282    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2 20  2  0  0  0  0
+  3 13  2  0  0  0  0
+  3 20  1  0  0  0  0
+  4 21  3  0  0  0  0
+  5 22  3  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01006
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+N#CC1=CC=C(C=C1)C(N1C=NC=N1)C1=CC=C(C=C1)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H11N5/c18-9-13-1-5-15(6-2-13)17(22-12-20-11-21-22)16-7-3-14(10-19)4-8-16/h1-8,11-12,17H
+
+> <INCHI_KEY>
+HPJKCIUCZWXJDR-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H11N5
+
+> <MOLECULAR_WEIGHT>
+285.3027
+
+> <EXACT_MASS>
+285.101445377
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+7.703801863213106e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.589094793110164
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(4-cyanophenyl)(1H-1,2,4-triazol-1-yl)methyl]benzonitrile
+
+> <ALOGPS_LOGP>
+1.86
+
+> <JCHEM_LOGP>
+2.9354919133333333
+
+> <ALOGPS_LOGS>
+-3.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.8872030284176107
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.28999999999999
+
+> <JCHEM_REFRACTIVITY>
+94.4741
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.99e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01006
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01066
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Letrozole
+
+> <SYNONYMS>
+Letrozol; Letrozole
+
+> <PRODUCTS>
+Accel-letrozole Tablets USP; Ach-letrozole; Ag-letrozole; Apo-letrozole; Auro-letrozole; Bio-letrozole; Ccp-letrozole; Co Letrozole; Dom-letrozole; Femara; Femara 2.5mg; Ipg-letrozole; Jamp-letrozole; Kisqali Femara Co-pack; Letrozole; Letrozole Sun; Letrozole Tablets; Mar-letrozole; Med-letrozole; Mint-letrozole; Myl-letrozole; Mylan-letrozole; Nat-letrozole; Nra-letrozole; PHL-letrozole; PMS-letrozole; Priva-letrozole; Riva-letrozole; Sandoz Letrozole; Stason-letrozole; Taro-letrozole; Teva-letrozole; Van-letrozole; Zinda-letrozole
+
+$$$$

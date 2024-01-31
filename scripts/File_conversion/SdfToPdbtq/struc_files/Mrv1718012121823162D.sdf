@@ -1,0 +1,167 @@
+
+  Mrv1718012121823162D          
+
+ 20 21  0  0  0  0            999 V2000
+    0.7143    0.8251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4288    0.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7141    1.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4285    2.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1432    0.8253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1432    1.6503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8576    2.0629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7146    0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4290    0.4122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1432   -1.6503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4285   -2.0627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1432   -0.8253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288   -0.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7141   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8576   -2.0629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  3  2  0  0  0  0
+  5  2  1  0  0  0  0
+  6  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  1  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12  9  1  0  0  0  0
+ 13  8  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18 17  2  0  0  0  0
+ 19 16  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 19 12  2  0  0  0  0
+ 20 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00255
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC\C(=C(\CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H20O2/c1-3-17(13-5-9-15(19)10-6-13)18(4-2)14-7-11-16(20)12-8-14/h5-12,19-20H,3-4H2,1-2H3/b18-17+
+
+> <INCHI_KEY>
+RGLYKWWBQGJZGM-ISLYRVAYSA-N
+
+> <FORMULA>
+C18H20O2
+
+> <MOLECULAR_WEIGHT>
+268.356
+
+> <EXACT_MASS>
+268.146329884
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.69005777835331
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(3E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol
+
+> <ALOGPS_LOGP>
+4.62
+
+> <JCHEM_LOGP>
+5.193882748
+
+> <ALOGPS_LOGS>
+-4.39
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.231491526289268
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.629198524189572
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.456792337140983
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+83.2406
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.09e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+diethylstilbestrol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00255
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00920; EXPT01164
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Diethylstilbestrol
+
+> <SYNONYMS>
+(E)-3,4-bis(4-hydroxyphenyl)-3-hexene; (E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol; 4,4'-dihydroxy-α,β-diethylstilbene; DES; Diéthylstilbestrol; Diethylstilbestrol; Diethylstilbestrolum; Dietilestilbestrol; Stilboestrol; trans-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol; trans-Diethylstilbesterol; trans-Diethylstilbestrol; trans-Diethylstilboesterol; α,α'-diethyl-(E)-4,4'-stilbenediol
+
+> <PRODUCTS>
+Honvol Ampoules 250mg; Honvol Tablets 100mg; Stilbestrol 0.5mg Tablet; Stilbestrol 1.0mg Tablet; Stilbestrol Tab 1mg; Stilbestrol Tablets 0.1 mg; Stilbestrol Tablets 0.5 mg; Stilbestrol Tablets 1.0 mg; Stilboestrol Tab 0.1mg; Stilboestrol Tab 0.5mg
+
+> <INTERNATIONAL_BRANDS>
+Distilbene; Stilbestrol; Stilbetin
+
+> <SALTS>
+Diethylstilbestrol diphosphate; Diethylstilbestrol diphosphate sodium
+
+$$$$

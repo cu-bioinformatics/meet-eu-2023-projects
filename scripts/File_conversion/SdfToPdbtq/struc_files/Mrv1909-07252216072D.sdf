@@ -1,0 +1,176 @@
+
+  Mrv1909 07252216072D          
+
+ 25 28  0  0  1  0            999 V2000
+    0.6529   -1.2716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3673   -0.8590    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0818   -1.2716    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0818   -2.0966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3673   -2.5091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6529   -2.0966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3673   -0.0340    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7963   -0.8590    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6529    0.3784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0616   -0.0340    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7761    0.3784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7761    1.2034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0616    1.6159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6528    1.2034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4905   -0.0340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2442    0.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7963   -0.3116    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3838   -1.0260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5768   -0.8546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7194   -1.7797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3673    1.6159    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2331    2.4229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0536    2.5091    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3892    1.7554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1962    1.5839    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  1  0  0  0
+  3  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 11  2  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 10  9  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 19 15  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16849
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C=C(C=N1)C1=C2C(=O)NCC2=C(F)C(N[C@@H]2CCCC[C@@H]2N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H21FN6O/c1-24-8-9(6-21-24)15-13-10(7-20-17(13)25)14(18)16(23-15)22-12-5-3-2-4-11(12)19/h6,8,11-12H,2-5,7,19H2,1H3,(H,20,25)(H,22,23)/t11-,12+/m0/s1
+
+> <INCHI_KEY>
+MJHOMTRKVMKCNE-NWDGAFQWSA-N
+
+> <FORMULA>
+C17H21FN6O
+
+> <MOLECULAR_WEIGHT>
+344.394
+
+> <EXACT_MASS>
+344.176087483
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9987861860287778
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.86164224914821
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-{[(1R,2S)-2-aminocyclohexyl]amino}-7-fluoro-4-(1-methyl-1H-pyrazol-4-yl)-1H,2H,3H-pyrrolo[3,4-c]pyridin-3-one
+
+> <ALOGPS_LOGP>
+1.33
+
+> <JCHEM_LOGP>
+0.8694755173333333
+
+> <ALOGPS_LOGS>
+-2.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.384910895691752
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.700332450114729
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.91452284199706
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.85999999999999
+
+> <JCHEM_REFRACTIVITY>
+104.85529999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.53e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{2-methyl-5-[(methylamino)methyl]phenyl}-4-[(4-phenylquinazolin-2-yl)amino]benzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16849
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Mivavotinib
+
+> <SYNONYMS>
+6-{[(1r,2s)-2-Aminocyclohexyl]amino}-7-Fluoro-4-(1-Methyl-1h-Pyrazol-4-Yl)-1,2-Dihydro-3h-Pyrrolo[3,4-C]pyridin-3-One; Mivavotinib
+
+> <SALTS>
+Mivavotinib citrate; Mivavotinib hydrochloride
+
+$$$$

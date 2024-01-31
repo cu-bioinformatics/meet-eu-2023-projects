@@ -1,0 +1,154 @@
+
+  Mrv0541 05041404302D          
+
+ 17 17  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  3  7  1  6  0  0  0
+  8  1  1  0  0  0  0
+  4  9  1  1  0  0  0
+  5 10  1  6  0  0  0
+  6 11  1  6  0  0  0
+ 12  2  1  0  0  0  0
+ 12  6  1  0  0  0  0
+  2 13  1  6  0  0  0
+  3 14  1  1  0  0  0
+  4 15  1  6  0  0  0
+  5 16  1  1  0  0  0
+  6 17  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB03291
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(N)[C@]([H])(O)[C@@]([H])(O)[C@@]([H])(O)O[C@]1([H])CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO5/c7-3-2(1-8)12-6(11)5(10)4(3)9/h2-6,8-11H,1,7H2/t2-,3-,4+,5-,6+/m1/s1
+
+> <INCHI_KEY>
+BXZVZSSSRTUQJP-DVKNGEFBSA-N
+
+> <FORMULA>
+C6H13NO5
+
+> <MOLECULAR_WEIGHT>
+179.1711
+
+> <EXACT_MASS>
+179.079372531
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9383063412651582
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.706445971311016
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R,4S,5S,6S)-5-amino-6-(hydroxymethyl)oxane-2,3,4-triol
+
+> <ALOGPS_LOGP>
+-2.72
+
+> <JCHEM_LOGP>
+-3.0394210146666665
+
+> <ALOGPS_LOGS>
+0.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.09096140987147
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.316988499160548
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.18247300515306
+
+> <JCHEM_POLAR_SURFACE_AREA>
+116.17000000000002
+
+> <JCHEM_REFRACTIVITY>
+37.5809
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.37e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03291
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01568
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-Deoxy-4-Amino-Beta-D-Glucose
+
+$$$$

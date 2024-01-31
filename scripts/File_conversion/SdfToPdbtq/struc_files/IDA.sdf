@@ -1,0 +1,158 @@
+IDA
+  Mrv0541 02241213452D          
+
+ 20 21  0  0  0  0            999 V2000
+   -3.9580   -0.3762    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1330   -0.3762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7205   -1.0906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7205    0.3383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8955    0.3383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4106   -0.3291    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6259   -0.0742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6259    0.7508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4106    1.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0885    1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8030    0.7508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5175    1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2320    0.7508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9464    1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8030   -0.0742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0885   -0.4867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0885   -1.3117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8030   -1.7242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5175   -1.3117    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8030   -2.5492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07958
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCC1=CC2=C(NC(CC(N)=O)=C2)C(CC(O)=O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H18N2O3/c1-2-3-9-4-10-6-12(8-13(16)18)17-15(10)11(5-9)7-14(19)20/h4-6,17H,2-3,7-8H2,1H3,(H2,16,18)(H,19,20)
+
+> <INCHI_KEY>
+OMLOGGCSARAIGZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H18N2O3
+
+> <MOLECULAR_WEIGHT>
+274.315
+
+> <EXACT_MASS>
+274.131742452
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9960020197176882
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.82525462972768
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[2-(carbamoylmethyl)-5-propyl-1H-indol-7-yl]acetic acid
+
+> <ALOGPS_LOGP>
+1.77
+
+> <JCHEM_LOGP>
+1.863121617
+
+> <ALOGPS_LOGS>
+-3.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.532014337454935
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.603580780331588
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.326140614055993
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.18
+
+> <JCHEM_REFRACTIVITY>
+75.70259999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.02e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07958
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2-CARBAMOYLMETHYL-5-PROPYL-OCTAHYDRO-INDOL-7-YL)ACETIC ACID
+
+$$$$

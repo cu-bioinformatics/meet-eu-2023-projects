@@ -1,0 +1,157 @@
+
+  Mrv0541 02231217022D          
+
+ 18 19  0  0  0  0            999 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.8875    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5888   -3.6020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4138   -2.1730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+  7 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  4 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+  2 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03592
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=NC=C(COP(O)(O)=O)N=C2C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N5O5P/c8-7-11-5-4(6(13)12-7)10-3(1-9-5)2-17-18(14,15)16/h1H,2H2,(H2,14,15,16)(H3,8,9,11,12,13)
+
+> <INCHI_KEY>
+AJXFJEHKGGCFNM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8N5O5P
+
+> <MOLECULAR_WEIGHT>
+273.1427
+
+> <EXACT_MASS>
+273.026304903
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.845830388336008
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.433957522153907
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2-amino-4-oxo-3,4-dihydropteridin-6-yl)methoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.64
+
+> <JCHEM_LOGP>
+-1.7674192723333333
+
+> <ALOGPS_LOGS>
+-1.62
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.5650558629961795
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5394950361147244
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8099313299058436
+
+> <JCHEM_POLAR_SURFACE_AREA>
+160.02
+
+> <JCHEM_REFRACTIVITY>
+58.983
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.53e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03592
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02619
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Pterin-6-Yl-Methyl-Monophosphate
+
+$$$$

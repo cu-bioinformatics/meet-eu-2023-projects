@@ -1,0 +1,175 @@
+L09
+  Mrv0541 02241213502D          
+
+ 28 30  0  0  0  0            999 V2000
+   -2.8092    3.5522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8092    2.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6342    2.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9842    2.7272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8092    1.9022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1418    1.4173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3967    0.6326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9118   -0.0348    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0913    0.0514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7558    0.8051    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6064   -0.6160    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2141   -0.5298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5496    0.2239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3701    0.3101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8550   -0.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6755   -0.2711    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.5195   -1.1110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0044   -1.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8249   -1.6922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3098   -2.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1303   -2.2734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6152   -2.9408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2796   -3.6945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -3.7807    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9742   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6990   -1.1972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2217    0.6326    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4767    1.4173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 28  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 27  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 26  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 26  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 27 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08064
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(C)C1=NNC(NC(=O)NC2=CC=C(Cl)C(COC3=CC=CN=C3)=C2)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H22ClN5O2/c1-20(2,3)17-10-18(26-25-17)24-19(27)23-14-6-7-16(21)13(9-14)12-28-15-5-4-8-22-11-15/h4-11H,12H2,1-3H3,(H3,23,24,25,26,27)
+
+> <INCHI_KEY>
+NTMADESEDXKNFZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H22ClN5O2
+
+> <MOLECULAR_WEIGHT>
+399.874
+
+> <EXACT_MASS>
+399.14620268
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.006007964741003717
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.10542764070327
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(3-tert-butyl-1H-pyrazol-5-yl)-1-{4-chloro-3-[(pyridin-3-yloxy)methyl]phenyl}urea
+
+> <ALOGPS_LOGP>
+4.42
+
+> <JCHEM_LOGP>
+4.396210859
+
+> <ALOGPS_LOGS>
+-4.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.95627391633061
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.052615073459915
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.788542937612052
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.92999999999999
+
+> <JCHEM_REFRACTIVITY>
+111.0111
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.41e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08064
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(3-TERT-BUTYL-1H-PYRAZOL-5-YL)-N'-{4-CHLORO-3-[(PYRIDIN-3-YLOXY)METHYL]PHENYL}UREA
+
+$$$$

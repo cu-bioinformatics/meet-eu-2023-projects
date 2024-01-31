@@ -1,0 +1,150 @@
+
+  Mrv1652309151717342D          
+
+ 19 20  0  0  1  0            999 V2000
+    1.5326   -5.3934    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    5.8217   -3.7368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1061   -1.6848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4004   -3.7368    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6747   -4.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1111   -4.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9590   -3.7468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6747   -4.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4004   -2.9210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1111   -4.9830    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2483   -4.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2483   -4.1572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9590   -5.3934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1061   -2.5106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5375   -4.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8217   -5.3934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5375   -4.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3804   -1.2644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8067   -1.2794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  6  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 15  2  0  0  0  0
+  6 10  2  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13679
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(C)CC[C@@H](C1=CC=C(Cl)C=C1)C1=NC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19ClN2/c1-19(2)12-10-15(16-5-3-4-11-18-16)13-6-8-14(17)9-7-13/h3-9,11,15H,10,12H2,1-2H3/t15-/m0/s1
+
+> <INCHI_KEY>
+SOYKEARSMXGVTM-HNNXBMFYSA-N
+
+> <FORMULA>
+C16H19ClN2
+
+> <MOLECULAR_WEIGHT>
+274.79
+
+> <EXACT_MASS>
+274.1236763
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.8205314118093
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(3S)-3-(4-chlorophenyl)-3-(pyridin-2-yl)propyl]dimethylamine
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+3.5849509150000003
+
+> <ALOGPS_LOGS>
+-3.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.474711663883962
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+80.8503
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.19e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+)-chlorpheniramine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13679
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+Dexchlorpheniramine
+
+> <SYNONYMS>
+Dexchlorpheniramine; dexclorfeniramina
+
+> <PRODUCTS>
+Dextromethorphan Tannate, Phenylephrine Tannate, Dexchlorpheniramine Tannate
+
+$$$$

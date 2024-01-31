@@ -1,0 +1,164 @@
+PC0
+  Mrv0541 02241214032D          
+
+ 23 24  0  0  0  0            999 V2000
+   -2.7367    0.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4511   -0.3772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1656    0.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1656    0.8603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4511    1.2728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7367    0.8603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8801    1.2728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0222   -0.3772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3077    0.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3077    0.8603    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5933   -0.3772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1212    0.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8357   -0.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5502    0.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5502    0.8603    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2646    1.2728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9791    0.8603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9791    0.0353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2646   -0.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6936   -0.3772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6936   -1.2022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4080   -1.6147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2646   -1.2022    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08372
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC1=C(F)C(CCNC(=S)NC2=CC=C(C)C=N2)=NC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H19FN4OS/c1-3-22-13-7-9-18-12(15(13)17)6-8-19-16(23)21-14-5-4-11(2)10-20-14/h4-5,7,9-10H,3,6,8H2,1-2H3,(H2,19,20,21,23)
+
+> <INCHI_KEY>
+QOVMZMFNTIUFLU-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H19FN4OS
+
+> <MOLECULAR_WEIGHT>
+334.412
+
+> <EXACT_MASS>
+334.126360145
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0008805944289751157
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.33526397932904
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[2-(4-ethoxy-3-fluoropyridin-2-yl)ethyl]-3-(5-methylpyridin-2-yl)thiourea
+
+> <ALOGPS_LOGP>
+2.64
+
+> <JCHEM_LOGP>
+3.048286734333333
+
+> <ALOGPS_LOGS>
+-4.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.361984123696143
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.21953215727819
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.857095231833841
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.07000000000001
+
+> <JCHEM_REFRACTIVITY>
+93.74419999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.20e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08372
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[2-(4-ETHOXY-3-FLUOROPYRIDIN-2-YL)ETHYL]-3-(5-METHYLPYRIDIN-2-YL)THIOUREA
+
+$$$$

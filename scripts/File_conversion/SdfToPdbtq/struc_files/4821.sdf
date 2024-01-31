@@ -1,0 +1,158 @@
+4821
+  Mrv0541 02231217562D          
+
+ 18 20  0  0  1  0            999 V2000
+    2.3645    1.0928    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5214    2.3588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.1447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.2678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.2678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.5053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.0928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.9697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309    1.5339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309   -0.1733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.5053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    1.1100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.3822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2784    0.2506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -2.2072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.6197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 15  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04821
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CC(C2=CC=CC=C2)C2=C(C1)C(N)=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H18N2/c1-18-10-14(12-6-3-2-4-7-12)13-8-5-9-16(17)15(13)11-18/h2-9,14H,10-11,17H2,1H3
+
+> <INCHI_KEY>
+XXPANQJNYNUNES-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H18N2
+
+> <MOLECULAR_WEIGHT>
+238.3275
+
+> <EXACT_MASS>
+238.146998586
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9844331687105115
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.534788818673725
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-methyl-4-phenyl-1,2,3,4-tetrahydroisoquinolin-8-amine
+
+> <ALOGPS_LOGP>
+2.94
+
+> <JCHEM_LOGP>
+2.6243819343333334
+
+> <ALOGPS_LOGS>
+-2.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.799953491144532
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.259999999999998
+
+> <JCHEM_REFRACTIVITY>
+77.17730000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB04821
+
+> <DRUG_GROUPS>
+approved; withdrawn
+
+> <GENERIC_NAME>
+Nomifensine
+
+> <SYNONYMS>
+(+-)-nomifensin; (+-)-nomifensine; 2-Methyl-4-phenyl-1,2,3,4-tetrahydro-isoquinolin-8-ylamine; 8-Amino-2-methyl-4-phenyl-1,2,3,4-tetrahydroisoquinoline; D,L-nomifensine; Nomifensin; Nomifensina; Nomifensine; Nomifensinum
+
+> <INTERNATIONAL_BRANDS>
+Linamiphen
+
+> <SALTS>
+Nomifensine maleate
+
+$$$$

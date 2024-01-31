@@ -1,0 +1,183 @@
+
+  Mrv1909 10112217032D          
+
+ 29 34  0  0  0  0            999 V2000
+    4.2478   -5.5737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0762   -4.7668    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3226   -4.4312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4088   -3.6107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7414   -3.1258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9877   -3.4614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9015   -4.2819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5689   -4.7668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2158   -3.4392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6283   -4.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4533   -4.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8658   -3.4392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6727   -3.6107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3402   -3.1258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0939   -3.4614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1801   -4.2819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5127   -4.7668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7590   -4.4312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0053   -4.7668    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8338   -5.5737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0492   -5.8287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8776   -6.6357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7061   -7.4426    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4533   -2.7247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6283   -2.7247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3733   -1.9401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5887   -1.6852    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0408   -1.4552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7082   -1.9401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  2 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  3  0  0  0  0
+ 12 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+  9 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 24 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB17029
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C2=C(C=CC=C2)C2=C1C1=C(C3=C2C(=O)NC3)C2=CC=CC=C2N1CCC#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H18N4O/c1-27-17-9-4-2-7-14(17)20-21-16(13-26-24(21)29)19-15-8-3-5-10-18(15)28(12-6-11-25)23(19)22(20)27/h2-5,7-10H,6,12-13H2,1H3,(H,26,29)
+
+> <INCHI_KEY>
+VWVYILCFSYNJHF-UHFFFAOYSA-N
+
+> <FORMULA>
+C24H18N4O
+
+> <MOLECULAR_WEIGHT>
+378.435
+
+> <EXACT_MASS>
+378.148061216
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.909330335142631e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.869101484709006
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-{23-methyl-14-oxo-3,13,23-triazahexacyclo[14.7.0.0^{2,10}.0^{4,9}.0^{11,15}.0^{17,22}]tricosa-1(16),2(10),4,6,8,11(15),17(22),18,20-nonaen-3-yl}propanenitrile
+
+> <ALOGPS_LOGP>
+4.11
+
+> <JCHEM_LOGP>
+3.2543662666666666
+
+> <ALOGPS_LOGS>
+-3.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.255506556086925
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.532165186404761
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.4847372862710007
+
+> <JCHEM_POLAR_SURFACE_AREA>
+62.75
+
+> <JCHEM_REFRACTIVITY>
+112.97279999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.66e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-cyclopropaneamido-N-[hydroxy(2H2)methyl]-4-{[2-methoxy-3-(1-methyl-1,2,4-triazol-3-yl)phenyl]amino}pyridazine-3-carboxamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17029
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Go-6976
+
+> <SYNONYMS>
+12h-indolo(2,3-a)pyrrolo(3,4-c)carbazole-12-propanenitrile, 5,6,7,13-tetrahydro-13-methyl-5-oxo-
+
+$$$$

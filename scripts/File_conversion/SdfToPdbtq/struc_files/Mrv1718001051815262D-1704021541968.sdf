@@ -1,0 +1,145 @@
+
+  Mrv1718001051815262D          
+
+ 17 17  0  0  1  0            999 V2000
+   -4.6213    1.2717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1363    1.9391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4719    2.6928    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2924    2.7790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3159    1.8529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7638    2.4660    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0101    2.1304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0964    1.3099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9034    1.1384    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2957    2.5429    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5812    2.1304    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.1333    2.5429    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8477    2.1304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5622    2.5429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1333    3.3679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5812    1.3054    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2957    3.3679    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  1  6  0  0  0
+ 11 16  1  1  0  0  0
+ 10 17  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB06297
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C\C(=N/O)C1=NC=C(N1)[C@@H](O)[C@H](O)[C@H](O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H15N3O5/c1-4(12-17)9-10-2-5(11-9)7(15)8(16)6(14)3-13/h2,6-8,13-17H,3H2,1H3,(H,10,11)/b12-4+/t6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+AMXVYJYMZLDINS-RSWLNLDNSA-N
+
+> <FORMULA>
+C9H15N3O5
+
+> <MOLECULAR_WEIGHT>
+245.235
+
+> <EXACT_MASS>
+245.101170595
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.956343517422454
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,2S,3R)-1-{2-[(1E)-1-(hydroxyimino)ethyl]-1H-imidazol-5-yl}butane-1,2,3,4-tetrol
+
+> <ALOGPS_LOGP>
+-1.71
+
+> <JCHEM_LOGP>
+-2.938905484666667
+
+> <ALOGPS_LOGS>
+-1.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.541926861205912
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.726095976525936
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.6481441802544525
+
+> <JCHEM_POLAR_SURFACE_AREA>
+142.19
+
+> <JCHEM_REFRACTIVITY>
+57.2954
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.48e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1R,2S,3R)-1-{2-[(1E)-1-(hydroxyimino)ethyl]-3H-imidazol-4-yl}butane-1,2,3,4-tetrol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06297
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+LX-2931
+
+$$$$

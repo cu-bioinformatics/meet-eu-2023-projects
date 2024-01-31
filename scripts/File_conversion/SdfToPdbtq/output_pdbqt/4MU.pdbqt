@@ -1,0 +1,21 @@
+REMARK  Name = 4MU
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -0.717  -0.854   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -1.432  -0.442   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -1.432   0.384   0.000  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       1.426   0.384   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1       1.426  -0.442   0.000  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1       0.712  -0.854   0.000  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1       2.141   0.796   0.000  0.00  0.00    +0.000 OA
+ATOM      8  O   UNL     1       0.712   0.796   0.000  0.00  0.00    +0.000 OA
+ATOM      9  C   UNL     1       0.712  -1.679   0.000  0.00  0.00    +0.000 C 
+ATOM     10  C   UNL     1      -0.003  -0.442   0.000  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -0.003   0.384   0.000  0.00  0.00    +0.000 A 
+ATOM     12  C   UNL     1      -0.717   0.796   0.000  0.00  0.00    +0.000 A 
+ATOM     13  O   UNL     1      -2.146   0.796   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0

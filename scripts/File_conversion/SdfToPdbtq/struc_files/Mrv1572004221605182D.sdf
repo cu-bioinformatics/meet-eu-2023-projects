@@ -1,0 +1,150 @@
+
+  Mrv1572004221605182D          
+
+ 19 20  0  0  0  0            999 V2000
+   -2.1434    8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    7.4250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    6.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5395    5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    5.3625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  2  0  0  0  0
+  8  1  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  2  1  0  0  0  0
+ 10  3  2  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  5  2  0  0  0  0
+ 11  6  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 14  9  2  0  0  0  0
+ 15  9  1  0  0  0  0
+ 15 12  2  0  0  0  0
+ 16 12  1  0  0  0  0
+ 19 11  1  0  0  0  0
+ 19 16  1  0  0  0  0
+ 19 17  2  0  0  0  0
+ 19 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13283
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC(C)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N4O2S/c1-8-7-12(15-9(2)14-8)16-19(17,18)11-5-3-10(13)4-6-11/h3-7H,13H2,1-2H3,(H,14,15,16)
+
+> <INCHI_KEY>
+YZMCKZRAOLZXAZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N4O2S
+
+> <MOLECULAR_WEIGHT>
+278.33
+
+> <EXACT_MASS>
+278.083746881
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.046866440499432
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(2,6-dimethylpyrimidin-4-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.84
+
+> <JCHEM_LOGP>
+0.9113270486712229
+
+> <ALOGPS_LOGS>
+-3.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.123049051976725
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.99758324242454
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+73.78429999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.29e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+domian
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13283
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Sulfaisodimidine
+
+> <SYNONYMS>
+solfisomidina; Sulfisomidine
+
+$$$$

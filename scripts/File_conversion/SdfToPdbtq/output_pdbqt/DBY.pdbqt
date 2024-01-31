@@ -1,0 +1,32 @@
+REMARK  Name = DBY
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3
+REMARK    2  A    between atoms: CA_2  and  C_5
+REMARK    3  A    between atoms: C_5  and  C_6
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       0.033  -0.418   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1       0.033  -1.243   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -0.682  -1.656   0.000  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -0.682  -0.006   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -1.396  -0.418   0.000  0.00  0.00    +0.000 A 
+ATOM      6  C   UNL     1      -1.396  -1.243   0.000  0.00  0.00    +0.000 A 
+ATOM      7  O   UNL     1      -2.111  -1.656   0.000  0.00  0.00    +0.000 OA
+ATOM      8 BR   UNL     1      -0.682  -2.481   0.000  0.00  0.00    +0.000 Br
+ATOM      9 BR   UNL     1      -2.111  -0.006   0.000  0.00  0.00    +0.000 Br
+ENDROOT
+BRANCH   1  10
+ATOM     10  C   UNL     1       0.747  -0.006   0.000  0.00  0.00    +0.000 C 
+BRANCH  10  12
+ATOM     11  N   UNL     1       0.033   1.232   0.000  0.00  0.00    +0.000 NA
+ATOM     12  CA  UNL     1       0.747   0.819   0.000  0.00  0.00    +0.000 C 
+BRANCH  12  13
+ATOM     13  C   UNL     1       1.462   1.232   0.000  0.00  0.00    +0.000 C 
+ATOM     14  O   UNL     1       1.462   2.057   0.000  0.00  0.00    +0.000 OA
+ATOM     15  OXT UNL     1       2.176   0.819   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   1  10
+TORSDOF 3

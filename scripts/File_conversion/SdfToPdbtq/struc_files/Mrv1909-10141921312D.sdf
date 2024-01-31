@@ -1,0 +1,152 @@
+
+  Mrv1909 10141921312D          
+
+ 20 21  0  0  0  0            999 V2000
+    3.2933   -1.8043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8808   -1.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2933   -0.3753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0558   -1.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6433   -0.3753    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0558    0.3390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8183   -0.3753    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3334   -1.0428    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5884   -1.8274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4511   -0.7878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4511    0.0371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3334    0.2920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1185    0.5220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8722    0.1864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5397    0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2933    0.3358    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4534    1.4918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6998    1.8274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0323    1.3425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2786    1.6780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  0  0  0  0
+  5  6  1  6  0  0  0
+  7  5  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15551
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H]1OC(=N[C@H]1[C@H](O)CC(O)=O)C1=CC(Cl)=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H14ClNO5/c1-6-12(10(17)5-11(18)19)15-13(20-6)8-4-7(14)2-3-9(8)16/h2-4,6,10,12,16-17H,5H2,1H3,(H,18,19)/t6-,10+,12+/m0/s1
+
+> <INCHI_KEY>
+ZFAIHGMUJXZHDW-ISROVCFRSA-N
+
+> <FORMULA>
+C13H14ClNO5
+
+> <MOLECULAR_WEIGHT>
+299.71
+
+> <EXACT_MASS>
+299.0560503
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.60589974337417
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R)-3-[(4S,5S)-2-(5-chloro-2-hydroxyphenyl)-5-methyl-4,5-dihydro-1,3-oxazol-4-yl]-3-hydroxypropanoic acid
+
+> <ALOGPS_LOGP>
+1.51
+
+> <JCHEM_LOGP>
+2.3199513009999997
+
+> <ALOGPS_LOGS>
+-2.87
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.840539976055293
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6605359486661824
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.232804265346473
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.35000000000001
+
+> <JCHEM_REFRACTIVITY>
+70.9582
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R)-3-[(4S,5S)-2-(5-chloro-2-hydroxyphenyl)-5-methyl-4,5-dihydro-1,3-oxazol-4-yl]-3-hydroxypropanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15551
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Leptazoline A
+
+$$$$

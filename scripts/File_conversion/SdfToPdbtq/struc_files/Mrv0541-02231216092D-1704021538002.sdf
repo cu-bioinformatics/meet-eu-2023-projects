@@ -1,0 +1,158 @@
+
+  Mrv0541 02231216092D          
+
+ 19 18  0  0  0  0            999 V2000
+    9.2368   -2.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2368   -2.8579    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5224   -3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8079   -2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0934   -3.2704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3789   -2.8579    0.0000 P   0  0  2  0  0  0  0  0  0  0  0  0
+    5.9664   -3.5724    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.7914   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6645   -2.4454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500   -2.8579    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2355   -3.2704    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3625   -3.5724    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.5375   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9513   -3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6658   -2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3802   -3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0947   -2.8579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0947   -2.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8092   -3.2704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  1  0  0  0
+  6  7  1  6  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+  2 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  CHG  3   7  -1  11  -1  12  -1
+M  END
+> <DATABASE_ID>
+DB02369
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN(CCO[P@]([O-])(=O)OP([O-])([O-])=O)CCC=C(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H21NO7P2/c1-9(2)5-4-6-10(3)7-8-16-19(14,15)17-18(11,12)13/h5H,4,6-8H2,1-3H3,(H,14,15)(H2,11,12,13)/p-3
+
+> <INCHI_KEY>
+UWHNDWYDKGVRGE-UHFFFAOYSA-K
+
+> <FORMULA>
+C9H18NO7P2
+
+> <MOLECULAR_WEIGHT>
+314.1892
+
+> <EXACT_MASS>
+314.055849959
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.4333476099905194
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.14899002448023
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+-3
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+({2-[methyl(4-methylpent-3-en-1-yl)amino]ethyl phosphonato}oxy)phosphonate
+
+> <ALOGPS_LOGP>
+1.18
+
+> <JCHEM_LOGP>
+-1.0842863746324958
+
+> <ALOGPS_LOGS>
+-1.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.187994222501447
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7561045453224362
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.598223836460877
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.02000000000001
+
+> <JCHEM_REFRACTIVITY>
+68.53430000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.79e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02369
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00160
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-Aza-2,3-Dihydrogeranyl Diphosphate
+
+$$$$

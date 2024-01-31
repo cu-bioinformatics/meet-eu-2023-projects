@@ -1,0 +1,157 @@
+
+  Mrv0541 09011310352D          
+
+ 18 19  0  0  0  0            999 V2000
+    6.2431   -0.8927    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    0.0615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0273   -0.6364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4994   -1.6769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4589   -1.1491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    1.8001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597    3.1280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.6390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.8765    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    4.1140    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    1.0159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9231    0.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868   -0.1086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    2.8765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3410    2.4640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    3.2890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 14  2  0  0  0  0
+  8 18  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13868
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=C2N=CN(CCOCP(O)(O)=O)C2=NC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N5O4P/c9-7-6-8(11-3-10-7)13(4-12-6)1-2-17-5-18(14,15)16/h3-4H,1-2,5H2,(H2,9,10,11)(H2,14,15,16)
+
+> <INCHI_KEY>
+SUPKOOSCJHTBAH-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12N5O4P
+
+> <MOLECULAR_WEIGHT>
+273.1857
+
+> <EXACT_MASS>
+273.062690409
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.193953480727325
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.56193566872306
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[2-(6-amino-9H-purin-9-yl)ethoxy]methyl}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.84
+
+> <JCHEM_LOGP>
+-3.854568305898385
+
+> <ALOGPS_LOGS>
+-2.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.9053720874273745
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.350667049017141
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7519374065138797
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.38
+
+> <JCHEM_REFRACTIVITY>
+63.1162
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.02e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13868
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Adefovir
+
+> <SYNONYMS>
+9-(2-(phosphonomethoxy)ethyl)adenine; 9-(2-phosphonylmethoxyethyl)adenine; Adefovir; Adéfovir; Adefovirum
+
+$$$$

@@ -1,0 +1,157 @@
+OAI
+  Mrv0541 02231217202D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.1358    0.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4214    0.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2931    0.0427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2931   -0.7823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4214   -1.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1358   -0.7823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9205   -1.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4054   -0.3698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9205    0.2976    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0076    0.4552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0076    1.2802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7221    1.6927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7221    2.5177    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4365    1.2802    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2931    1.6927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0076   -1.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0076   -2.0198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7221   -0.7823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04001
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C(=O)NC1=CC2=C(C=CN2)C=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H8N2O5/c14-9(11(17)18)13-8-4-7-5(1-2-12-7)3-6(8)10(15)16/h1-4,12H,(H,13,14)(H,15,16)(H,17,18)
+
+> <INCHI_KEY>
+AHWMERGBWWROMM-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H8N2O5
+
+> <MOLECULAR_WEIGHT>
+248.1916
+
+> <EXACT_MASS>
+248.043321376
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9992901922072575
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.790984459928637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-(carboxyformamido)-1H-indole-5-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.67
+
+> <JCHEM_LOGP>
+1.5768952293333331
+
+> <ALOGPS_LOGS>
+-3.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.8523489245724805
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.410807312905051
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.8875013708839985
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.49
+
+> <JCHEM_REFRACTIVITY>
+61.05860000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.60e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04001
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02409
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+6-(Oxalyl-Amino)-1h-Indole-5-Carboxylic Acid
+
+$$$$

@@ -1,0 +1,140 @@
+ESX
+  Mrv0541 02231217412D          
+
+ 12 13  0  0  0  0            999 V2000
+   -1.5296   -0.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7046   -0.2296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9421    0.4848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9421   -0.9441    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.2197   -0.8971    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5649   -0.6421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5649    0.1829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2197    0.4378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2794   -1.0546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9938   -0.6421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9938    0.1829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2794    0.5954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  CHG  1   4   1
+M  END
+> <DATABASE_ID>
+DB04446
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=[NH2+])C1=CC2=C(S1)C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N2S/c10-9(11)8-5-6-3-1-2-4-7(6)12-8/h1-5H,(H3,10,11)/p+1
+
+> <INCHI_KEY>
+JZWDLUGQTRKBNA-UHFFFAOYSA-O
+
+> <FORMULA>
+C9H9N2S
+
+> <MOLECULAR_WEIGHT>
+177.246
+
+> <EXACT_MASS>
+177.048643988
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+21
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9785398805928819
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.866980830183792
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[amino(1-benzothiophen-2-yl)methylidene]azanium
+
+> <ALOGPS_LOGP>
+-0.23
+
+> <JCHEM_LOGP>
+1.9021785066666665
+
+> <ALOGPS_LOGS>
+-3.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.658946396018763
+
+> <JCHEM_POLAR_SURFACE_AREA>
+51.61
+
+> <JCHEM_REFRACTIVITY>
+61.654700000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.48e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04446
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01365
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Benzo[B]Thiophene-2-Carboxamidine
+
+$$$$

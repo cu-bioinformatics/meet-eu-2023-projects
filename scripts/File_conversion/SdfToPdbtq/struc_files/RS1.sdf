@@ -1,0 +1,178 @@
+RS1
+  Mrv0541 02241214082D          
+
+ 28 30  0  0  0  0            999 V2000
+    3.2147   -0.2481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9292   -0.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9292   -1.4856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2147   -1.8981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5003   -1.4856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5003   -0.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7858   -1.8981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0713   -1.4856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3569   -1.8981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3576   -1.4856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3576   -0.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3569   -0.2481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0713   -0.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0721   -0.2481    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4846   -0.9626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6596    0.4664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7866    0.1644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7866    0.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0687    1.7646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5384    2.3966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7260    2.2534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4438    1.4781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9741    0.8461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5990    0.8461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8812    0.0709    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1293    1.4781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6937   -0.0724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6437   -0.2481    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 28  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  1  0  0  0  0
+ 18 24  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  2  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08490
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ONC(=O)C1(CS(=O)(=O)C2=CC=C(OC3=CC=C(Cl)C=C3)C=C2)CCOCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H20ClNO6S/c20-14-1-3-15(4-2-14)27-16-5-7-17(8-6-16)28(24,25)13-19(18(22)21-23)9-11-26-12-10-19/h1-8,23H,9-13H2,(H,21,22)
+
+> <INCHI_KEY>
+ROSNVSQTEGHUKU-UHFFFAOYSA-N
+
+> <FORMULA>
+C19H20ClNO6S
+
+> <MOLECULAR_WEIGHT>
+425.883
+
+> <EXACT_MASS>
+425.069985774
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.014763119558471708
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.111263929497426
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{[4-(4-chlorophenoxy)benzenesulfonyl]methyl}-N-hydroxyoxane-4-carboxamide
+
+> <ALOGPS_LOGP>
+2.41
+
+> <JCHEM_LOGP>
+2.2514313883333323
+
+> <ALOGPS_LOGS>
+-4.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.91531907075402
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.824362526384691
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.566022972087861
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.93000000000002
+
+> <JCHEM_REFRACTIVITY>
+104.01979999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.15e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08490
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB12372
+
+> <DRUG_GROUPS>
+experimental; investigational
+
+> <GENERIC_NAME>
+CTS-1027
+
+$$$$

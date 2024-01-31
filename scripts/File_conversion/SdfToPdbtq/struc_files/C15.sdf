@@ -1,0 +1,158 @@
+C15
+  Mrv0541 02231216212D          
+
+ 22 21  0  0  0  0            999 V2000
+    4.6732    0.9492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8763    0.7357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6628   -0.0612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1971   -6.3378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9835   -5.5408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1866   -5.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9730   -4.5303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8658   -0.2749    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0794   -1.0718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6523    0.5221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1762   -4.3168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9625   -3.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1656   -3.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0479   -2.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8448   -2.2958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0584   -1.4989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8553   -1.2853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0689   -0.4884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8869    1.7462    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1004    2.5431    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6838    1.5326    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0899    1.9597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 19 22  1  0  0  0  0
+M  CHG  1   8   1
+M  END
+> <DATABASE_ID>
+DB02643
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCCCCCCCC[N+](C)(C)CCCS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H37NO3S/c1-4-5-6-7-8-9-10-11-12-13-15-18(2,3)16-14-17-22(19,20)21/h4-17H2,1-3H3/p+1
+
+> <INCHI_KEY>
+IZWSFJTYBVKZNK-UHFFFAOYSA-O
+
+> <FORMULA>
+C17H38NO3S
+
+> <MOLECULAR_WEIGHT>
+336.554
+
+> <EXACT_MASS>
+336.257239777
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.5839243250326263e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.88533526832868
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dodecyldimethyl(3-sulfopropyl)azanium
+
+> <ALOGPS_LOGP>
+0.35
+
+> <JCHEM_LOGP>
+-0.011468371805078592
+
+> <ALOGPS_LOGS>
+-6.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-0.8002655638916858
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+106.13499999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+15
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.89e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02643
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00799
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Dodecyl-N,N-Dimethyl-3-Ammonio-1-Propanesulfonate
+
+$$$$

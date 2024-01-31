@@ -1,0 +1,191 @@
+820
+  Mrv1909 11232123202D          
+
+ 30 35  0  0  1  0            999 V2000
+    7.2908    0.5262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3835    2.2047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7999    2.9805    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.3166    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1159    0.9412    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -0.8466    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5878    1.8063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8304    0.5287    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.4015    0.5287    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8304   -0.2963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4015   -0.2963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1159   -0.7088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5811    0.9469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9433   -1.5105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1027    1.8005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6870    0.9412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8436    2.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1276   -1.5955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4555   -2.1943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6870    1.7662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9725    0.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7675   -2.3701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3038    2.2160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9725    2.1787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1134   -2.9770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2580    0.9412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2637   -3.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2580    1.7662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9842    3.0655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3994    0.1944    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  2  0  0  0  0
+  2 15  2  0  0  0  0
+  3 24  1  0  0  0  0
+  3 29  1  0  0  0  0
+  4 28  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 30  1  6  0  0  0
+  9 11  1  0  0  0  0
+  9 16  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 18 22  2  0  0  0  0
+ 19 25  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 26  2  0  0  0  0
+ 22 27  1  0  0  0  0
+ 24 28  2  0  0  0  0
+ 25 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00820
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12CC3=C(NC4=CC=CC=C34)[C@H](N1C(=O)CN(C)C2=O)C1=CC2=C(OCO2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H19N3O4/c1-24-10-19(26)25-16(22(24)27)9-14-13-4-2-3-5-15(13)23-20(14)21(25)12-6-7-17-18(8-12)29-11-28-17/h2-8,16,21,23H,9-11H2,1H3/t16-,21-/m1/s1
+
+> <INCHI_KEY>
+WOXKDUGGOYFFRN-IIBYNOLFSA-N
+
+> <FORMULA>
+C22H19N3O4
+
+> <MOLECULAR_WEIGHT>
+389.404
+
+> <EXACT_MASS>
+389.137556111
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+4.079084756878814e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.92193544197736
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,8R)-2-(2H-1,3-benzodioxol-5-yl)-6-methyl-3,6,17-triazatetracyclo[8.7.0.0^{3,8}.0^{11,16}]heptadeca-1(10),11,13,15-tetraene-4,7-dione
+
+> <ALOGPS_LOGP>
+2.36
+
+> <JCHEM_LOGP>
+1.6393403350000002
+
+> <ALOGPS_LOGS>
+-3.19
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+6
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+18.73994401241041
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.169919973818779
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.233477677173522
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.87
+
+> <JCHEM_REFRACTIVITY>
+104.08160000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.50e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R,8R)-2-(2H-1,3-benzodioxol-5-yl)-6-methyl-3,6,17-triazatetracyclo[8.7.0.0^{3,8}.0^{11,16}]heptadeca-1(10),11,13,15-tetraene-4,7-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00820
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00071
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tadalafil
+
+> <SYNONYMS>
+(6R-trans)-6-(1,3-Benzodioxol-5-yl)-2,3,6,7,12,12a-hexahydro-2-methyl-pyrazino(1',2':1,6)pyrido(3,4-b)indole-1,4-dione; (6R,12aR)-2,3,6,7,12,12a-Hexahydro-2-methyl-6-(3,4-(methylenedioxy)phenyl) pyrazino(1',2':1,6)pyrido(3,4-b)indole-1,4-dione; Tadalafil; Tadalafilo
+
+> <PRODUCTS>
+Ach-tadalafil; Act Tadalafil; Adcirca; Ag-tadalafil; Alyq; Apo-tadalafil; Apo-tadalafil Pah; Auro-tadalafil; Bio-tadalafil; Cialis; Dom-tadalafil; Entadfi; Ipg-tadalafil; Jamp-tadalafil; M-tadalafil; Mar-tadalafil; Mint-tadalafil; Mylan-tadalafil; Nra-tadalafil; Opsynvi; PMS-tadalafil; Priva-tadalafil; Prz-tadalafil; Ran-tadalafil; Riva-tadalafil; Tadalafil; Tadalafil Lilly; Tadalafil Mylan; Tadalfil; Tadliq; Talmanco; Teva-tadalafil
+
+$$$$

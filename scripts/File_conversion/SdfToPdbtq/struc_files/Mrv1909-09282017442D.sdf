@@ -1,0 +1,191 @@
+
+  Mrv1909 09282017442D          
+
+ 29 30  0  0  0  0            999 V2000
+    1.9472    0.4071    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9472   -0.4188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6626    0.8230    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3752   -0.4188    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.3752    0.4071    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2287    0.8202    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2078    0.8289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5104    0.4158    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6626   -0.8318    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5837    0.8958    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9176    0.4101    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.2525    0.4101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2078    1.6519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1706   -0.3751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2287    1.6432    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6626   -1.6548    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9937   -0.3751    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0906   -0.8318    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6713    1.6461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0936    0.8144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5923    1.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5162    2.0591    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6597   -0.8580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3781   -2.0678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9385    2.0678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3811   -0.4536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0936   -0.8667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9472    1.2302    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5133    1.2302    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  3  1  0  0  0  0
+  6  1  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  6  1  0  0  0  0
+  9  2  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11  7  1  6  0  0  0
+ 12 10  1  0  0  0  0
+ 13  7  2  0  0  0  0
+ 14 11  1  0  0  0  0
+ 15  6  1  0  0  0  0
+  9 16  1  1  0  0  0
+ 17 14  1  0  0  0  0
+  4 18  1  1  0  0  0
+  3 19  1  6  0  0  0
+  5 20  1  6  0  0  0
+ 21 10  1  0  0  0  0
+ 15 22  1  1  0  0  0
+ 17 23  1  1  0  0  0
+ 24 16  1  0  0  0  0
+ 25 15  1  0  0  0  0
+ 26 23  1  0  0  0  0
+ 27 26  1  0  0  0  0
+  1 28  1  1  0  0  0
+  6 29  1  1  0  0  0
+  9  4  1  0  0  0  0
+ 12 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01190
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](NC(=O)[C@@H]1C[C@@H](CCC)CN1C)([C@H](C)Cl)[C@@]1([H])O[C@H](SC)[C@H](O)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H33ClN2O5S/c1-5-6-10-7-11(21(3)8-10)17(25)20-12(9(2)19)16-14(23)13(22)15(24)18(26-16)27-4/h9-16,18,22-24H,5-8H2,1-4H3,(H,20,25)/t9-,10+,11-,12+,13-,14+,15+,16+,18+/m0/s1
+
+> <INCHI_KEY>
+KDLRVYVGXIQJDK-AWPVFWJPSA-N
+
+> <FORMULA>
+C18H33ClN2O5S
+
+> <MOLECULAR_WEIGHT>
+424.98
+
+> <EXACT_MASS>
+424.179871
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0013564788548301
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.816030062295575
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,4R)-N-[(1S,2S)-2-chloro-1-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(methylsulfanyl)oxan-2-yl]propyl]-1-methyl-4-propylpyrrolidine-2-carboxamide
+
+> <ALOGPS_LOGP>
+1.76
+
+> <JCHEM_LOGP>
+1.0377376403333325
+
+> <ALOGPS_LOGS>
+-2.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.078517579630162
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.412864458097758
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.551882356072365
+
+> <JCHEM_POLAR_SURFACE_AREA>
+102.26
+
+> <JCHEM_REFRACTIVITY>
+105.71729999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.10e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cleocin T gel
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01190
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00566
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Clindamycin
+
+> <SYNONYMS>
+7-CDL; 7(S)-Chloro-7-deoxylincomycin; Clindamicina; Clindamycin; Clindamycine; Clindamycinum; Methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-alpha-D-galacto-octopyranoside
+
+> <PRODUCTS>
+Acanya; Adapalene 0.1% / Benzoyl Peroxide 2.5% / Clindamycin 1%; Adapalene 0.3% / Benzoyl Peroxide 2.5% / Clindamycin 1%; Ag-clindamycin; Apo-clindamycin; Auro-clindamycin; Ava-clindamycin; Benzaclin; Benzoyl Peroxide 2.5% / Clindamycin 1% / Niacinamide 2% / Tretinoin 0.025%; Benzoyl Peroxide 2.5% / Clindamycin 1% / Niacinamide 4%; Benzoyl Peroxide 2.5%, Clindamycin Phosphate 1%, Niacinamide 2% / Tretinoin 0.05%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Spironolactone 2%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Spironolactone 2% / Tretinoin 0.025%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Spironolactone 2% / Tretinoin 0.05%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Tretinoin 0.05%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 2% / Tretinoin 0.1%; Benzoyl Peroxide 5% / Clindamycin 1% / Niacinamide 4%; Benzoyl Peroxide 5% / Clindamycin1% / Niacinamide 2% / Tretinoin 0.025%; Biacna Topical Gel; CLIN-LIDO-Single Use Kit; CLIN-Single Use Kit; CLINDAMYCIN PALMITATE HYDROCHLORIDE (Pediatric); Cleocin; Cleocin Hydrochloride; Cleocin Pediatric; Cleocin Phosphate; Cleocin Phosphate (0009-6582) (standalone); Cleocin T; Clinda-Derm; Clinda-T; ClindaMax; ClindaReach; Clindacin; Clindacin ETZ; Clindacin P; Clindacin PAC; Clindagel; Clindamax; Clindamycin; Clindamycin - Benzoyl Peroxide; Clindamycin 1% / Hydrocortisone 2.5% / Niacinamide 4%; Clindamycin 1% / Niacinamide 2% / Tazarotene 0.05%; Clindamycin 1% / Niacinamide 4%; Clindamycin 1% / Niacinamide 4% / Spironolactone 2% / Tretinoin 0.025%; Clindamycin 1% / Niacinamide 4% / Tretinoin 0.025%; Clindamycin 1% / Niacinamide 4% / Tretinoin 0.05%; Clindamycin 1% / Sodium Sulfacetamide Monohydrate 5% / Tretinoin 0.025%; Clindamycin HCL; Clindamycin Hydrochloride; Clindamycin IV Infusion; Clindamycin Injection In 5% Dextrose; Clindamycin Injection Sdz; Clindamycin Injection USP; Clindamycin Injection, USP; Clindamycin Palmitate Hydrochloride; Clindamycin Palmitate Hydrochloride (Pediatric); Clindamycin Palmitate Hydrochloride (pediatric); Clindamycin Phoaphate Topical Solution USP, 1%; Clindamycin Phoaphate Topical Solution, 1%; Clindamycin Phosphate; Clindamycin Phosphate 1.2% and Tretinoin 0.025%; Clindamycin Phosphate Injection USP Liq; Clindamycin Phosphate Topical Solution USP; Clindamycin Phosphate Topical Solution USP, 1%; Clindamycin Phosphate and Benzoyl Peroxide; Clindamycin Phosphate and Benzoyl Peroxide Clindamycin Phosphate and Benzoyl Peroxide; Clindamycin Phosphate and Tretinion; Clindamycin Phosphate and Tretinoin; Clindamycin and Benzoyl Peroxide; Clindamycin hydrochloride; Clindamycin in 5 Percent Dextrose; Clindamycin phosphate; Clindamycin phosphate and benzoyl peroxide; Clindamycine-150; Clindamycine-300; Clindap-T; Clindasol; Clindavix; Clindesse; Clindets; Clindoxyl Adv Gel; Clindoxyl Gel; Dalacin C 150 mg; Dalacin C 300 mg; Dalacin C Flavoured Granules; Dalacin C Phosphate; Dalacin T 1%; Dalacin Vaginal Cream; Duac; Evoclin; Imiquimod 5% / Levocetirizine Dihydrochloride 1% / Tretinoin 0.05%; Jamp Clindamycin; M-clindamycin; Med-clindamycin; Mylan-clindamycin; Neuac; Neuac Kit; Nra-clindamycin; Nu-clindamycin; NuCaraClinPAK; NuCaraRXPAK; Onexton; PMS-clindamycin; Priva-clindamycin; Ratio-clindamycin Capsules - 300mg; Ratio-clindamycin Capsules-150mg; Riva-clindamycin; Taro-benzoyl Peroxide / Clindamycin Kit; Taro-clindamycin; Taro-clindamycin/benzoyl Peroxide Gel; Teva-clindamycin; Truemed Group LLC; Veltin; Xaciato; Ziana
+
+> <INTERNATIONAL_BRANDS>
+Clinimycin; Dalacin C; Dalacin T Topical Solution; Zindaclin
+
+> <SALTS>
+Clindamycin hydrochloride; Clindamycin palmitate hydrochloride; Clindamycin phosphate
+
+$$$$

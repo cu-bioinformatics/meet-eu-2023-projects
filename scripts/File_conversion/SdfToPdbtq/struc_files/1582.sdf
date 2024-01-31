@@ -1,0 +1,162 @@
+1582
+  Mrv0541 02231215342D          
+
+ 19 20  0  0  0  0            999 V2000
+    2.4751    0.1279    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.1279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.9529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    0.9529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.1904    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -3.1722    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.6971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.1096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.9347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    2.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330    0.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.4280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 11  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01582
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N4O2S/c1-8-7-9(2)15-12(14-8)16-19(17,18)11-5-3-10(13)4-6-11/h3-7H,13H2,1-2H3,(H,14,15,16)
+
+> <INCHI_KEY>
+ASWVTGNCAZCNNR-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N4O2S
+
+> <MOLECULAR_WEIGHT>
+278.33
+
+> <EXACT_MASS>
+278.083746402
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.5036958532229254
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.801909322826223
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.43
+
+> <JCHEM_LOGP>
+0.6500011459999999
+
+> <ALOGPS_LOGS>
+-3.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.993568276859255
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9977089408222475
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.97
+
+> <JCHEM_REFRACTIVITY>
+73.38390000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.30e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01582
+
+> <DRUG_GROUPS>
+approved; investigational; vet_approved
+
+> <GENERIC_NAME>
+Sulfamethazine
+
+> <SYNONYMS>
+(p-Aminobenzolsulfonyl)-2-amino-4,6-dimethylpyrimidin; 2-(4-Aminobenzenesulfonamido)-4,6-dimethylpyrimidine; 2-(p-Aminobenzenesulfonamido)-4,6-dimethylpyrimidine; 2-Sulfanilamido-4,6-dimethylpyrimidine; 4-Amino-N-(2,6-dimethyl-4-pyrimidinyl)benzenesulfonamide; 4-Amino-N-(4,6-dimethyl-pyrimidin-2-yl)-benzenesulfonamide; 4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide; 4,6-Dimethyl-2-sulfanilamidopyrimidine; 6-(4'-Aminobenzol-sulfonamido)-2,4-dimethylpyrimidin; N-(4,6-Dimethyl-2-pyrimidyl)sulfanilamide; N(1)-(4,6-Dimethyl-2-pyrimidinyl)sulfanilamide; N(1)-(4,6-Dimethyl-2-pyrimidyl)sulfanilamide; SMZ; Sulfadimethyldiazine; Sulfadimethylpyrimidine; Sulfadimidina; Sulfadimidine; Sulfadimidinum; Sulfametazina; Sulfametazyny; Sulfamethazine; Sulfamezathine; Sulphadimethylpyrimidine; Sulphamethazine
+
+> <PRODUCTS>
+Trisulfaminic Sus; Trisulfaminic Tab
+
+> <SALTS>
+Sulfamethazine sodium
+
+$$$$

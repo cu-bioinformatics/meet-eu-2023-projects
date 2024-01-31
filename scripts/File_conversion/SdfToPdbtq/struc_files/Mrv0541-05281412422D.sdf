@@ -1,0 +1,184 @@
+
+  Mrv0541 05281412422D          
+
+ 29 32  0  0  0  0            999 V2000
+    4.5465    1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0306    1.7357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5753   -0.8489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7632   -0.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0195   -0.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3366    0.1740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1708    1.0432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7344    1.4788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3587    1.1884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9223    1.6240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9193   -0.3634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2423    1.5050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1071   -0.2182    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.4511    0.2672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4829    0.0722    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6708    0.2174    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0147    0.7029    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5659    0.9665    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0596    1.6178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8268    0.5577    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3905    0.9933    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2639    2.1563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2632    0.1220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3705    2.3820    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3874   -0.9941    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1989   -0.7023    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5826   -0.6028    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2988    1.4774    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7557    0.8110    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  4  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  8  1  0  0  0  0
+ 13  3  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14  7  1  0  0  0  0
+ 14 11  1  0  0  0  0
+ 15  4  1  0  0  0  0
+ 16  5  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17  8  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 18  6  1  0  0  0  0
+ 19 12  1  0  0  0  0
+ 18 19  1  6  0  0  0
+ 20  1  1  6  0  0  0
+ 20  9  1  0  0  0  0
+ 20 13  1  0  0  0  0
+ 20 17  1  0  0  0  0
+ 21  2  1  6  0  0  0
+ 21 10  1  0  0  0  0
+ 21 16  1  0  0  0  0
+ 21 18  1  0  0  0  0
+ 22 12  1  0  0  0  0
+ 23 14  2  0  0  0  0
+ 24 19  2  0  0  0  0
+ 13 25  1  6  0  0  0
+ 15 26  1  6  0  0  0
+ 16 27  1  1  0  0  0
+ 17 28  1  1  0  0  0
+ 18 29  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB08956
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@]4([H])CC(=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)C(=O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H32O3/c1-20-9-7-14(23)11-13(20)3-4-15-16-5-6-18(19(24)12-22)21(16,2)10-8-17(15)20/h13,15-18,22H,3-12H2,1-2H3/t13-,15+,16+,17+,18-,20+,21+/m1/s1
+
+> <INCHI_KEY>
+USPYDUPOCUYHQL-VEVMSBRDSA-N
+
+> <FORMULA>
+C21H32O3
+
+> <MOLECULAR_WEIGHT>
+332.477
+
+> <EXACT_MASS>
+332.23514489
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+56
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.3645711791781045e-07
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.60562526332246
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,3aS,3bR,5aR,9aS,9bS,11aS)-1-(2-hydroxyacetyl)-9a,11a-dimethyl-hexadecahydro-1H-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+3.43
+
+> <JCHEM_LOGP>
+3.3771906896666675
+
+> <ALOGPS_LOGS>
+-4.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.864842341459132
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.295317874234453
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+93.58079999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.56e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08956
+
+> <DRUG_GROUPS>
+investigational; withdrawn
+
+> <GENERIC_NAME>
+Hydroxydione
+
+> <SYNONYMS>
+21-hydroxy-5β-pregnane-3,20-dione; 5beta-dihydrodeoxycorticosterone; 5β-dihydrodeoxycorticosterone
+
+> <INTERNATIONAL_BRANDS>
+Viadril
+
+> <SALTS>
+Hydroxydione sodium
+
+$$$$

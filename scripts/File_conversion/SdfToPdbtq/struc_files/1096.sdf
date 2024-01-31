@@ -1,0 +1,165 @@
+1096
+  Mrv0541 02231215142D          
+
+ 20 21  0  0  1  0            999 V2000
+    2.3645    1.5348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.7652    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2454   -0.9688    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4219   -0.5504    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.9402    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9929   -0.5448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9929    0.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2454    0.7385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7058   -0.9601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079    0.2973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5079   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.7098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1347   -0.9656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.9402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.2973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.5277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8509   -0.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1316   -1.7906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.7098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 20  1  0  0  0  0
+M  CHG  2   2  -1   6   1
+M  END
+> <DATABASE_ID>
+DB01096
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)NCC1CCC2=CC(CO)=C(C=C2N1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H21N3O3/c1-9(2)15-7-12-4-3-10-5-11(8-18)14(17(19)20)6-13(10)16-12/h5-6,9,12,15-16,18H,3-4,7-8H2,1-2H3
+
+> <INCHI_KEY>
+XCGYUJZMCCFSRP-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H21N3O3
+
+> <MOLECULAR_WEIGHT>
+279.3348
+
+> <EXACT_MASS>
+279.158291553
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9987063897867413
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.267853886578298
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(7-nitro-2-{[(propan-2-yl)amino]methyl}-1,2,3,4-tetrahydroquinolin-6-yl)methanol
+
+> <ALOGPS_LOGP>
+1.54
+
+> <JCHEM_LOGP>
+1.5718621709999994
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+17.892598490903413
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.467305742478135
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.887149941872721
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.43
+
+> <JCHEM_REFRACTIVITY>
+78.86080000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.24e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01096
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01150
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Oxamniquine
+
+> <INTERNATIONAL_BRANDS>
+Mansil; Vansil
+
+$$$$

@@ -1,0 +1,154 @@
+
+  Mrv1652306231722472D          
+
+ 19 20  0  0  0  0            999 V2000
+    1.6268   -2.8879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3718   -3.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5468   -3.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2919   -2.8879    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9593   -2.4029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9593   -1.5779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6738   -1.1654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6738   -0.3404    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0064    0.1445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2613    0.9291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7764    1.5966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0863    0.9291    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3412    0.1445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1259   -0.1104    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5712    1.5966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2357    2.3502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0619   -4.3399    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.3975   -5.0936    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7586   -4.2537    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  1  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  CHG  2  17   1  19  -1
+M  END
+> <DATABASE_ID>
+DB13730
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OCN1C(=O)CN(\N=C\C2=CC=C(O2)[N+]([O-])=O)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8N4O6/c14-5-11-7(15)4-12(9(11)16)10-3-6-1-2-8(19-6)13(17)18/h1-3,14H,4-5H2/b10-3+
+
+> <INCHI_KEY>
+UIDWQGRXEVDFCA-XCVCLJGOSA-N
+
+> <FORMULA>
+C9H8N4O6
+
+> <MOLECULAR_WEIGHT>
+268.185
+
+> <EXACT_MASS>
+268.044383994
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.67667392547734
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-(hydroxymethyl)-1-[(E)-[(5-nitrofuran-2-yl)methylidene]amino]imidazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.57
+
+> <JCHEM_LOGP>
+-0.577774996333333
+
+> <ALOGPS_LOGS>
+-2.69
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.935795902920333
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.836557239917864
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.15873625848703
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.49
+
+> <JCHEM_REFRACTIVITY>
+58.1084
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.44e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levantin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13730
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Nifurtoinol
+
+> <SYNONYMS>
+Nifurtoinol
+
+$$$$

@@ -1,0 +1,180 @@
+
+  Mrv1909 12152018142D          
+
+ 30 33  0  0  0  0            999 V2000
+    3.8092    1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7486    1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0769   -1.6527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8839   -1.4811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4359   -2.0942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1810   -2.8788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7330   -3.4919    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3740   -3.0504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8220   -2.4373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0051    0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4223    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4223    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 10 16  1  0  0  0  0
+  8 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  2 19  1  0  0  0  0
+  7 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 20 26  1  0  0  0  0
+  4 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB16173
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1(C)N(CCN2C(NC3=CC=C(F)C=C3)=C(N=C12)C1=CC=C(F)C=C1)C(=O)CN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H23F2N5O/c1-22(2)21-27-19(14-3-5-15(23)6-4-14)20(26-17-9-7-16(24)8-10-17)28(21)11-12-29(22)18(30)13-25/h3-10,26H,11-13,25H2,1-2H3
+
+> <INCHI_KEY>
+BUPRVECGWBHCQV-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H23F2N5O
+
+> <MOLECULAR_WEIGHT>
+411.457
+
+> <EXACT_MASS>
+411.187066707
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9842456976714725
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.67886641117819
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-amino-1-[2-(4-fluorophenyl)-3-[(4-fluorophenyl)amino]-8,8-dimethyl-5H,6H,7H,8H-imidazo[1,2-a]pyrazin-7-yl]ethan-1-one
+
+> <ALOGPS_LOGP>
+3.25
+
+> <JCHEM_LOGP>
+3.0734811020000015
+
+> <ALOGPS_LOGS>
+-3.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.693730764098348
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.132973429613662
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.18
+
+> <JCHEM_REFRACTIVITY>
+109.5848
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.06e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxy-4-[(1E)-3-[4-(nitrooxy)butoxy]-3-oxoprop-1-en-1-yl]phenyl (4R)-4-[(1R,3aS,3bR,4S,5aS,7R,9aS,9bS,11aR)-4,7-dihydroxy-9a,11a-dimethyl-tetradecahydro-1H-cyclopenta[a]phenanthren-1-yl]pentanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB16173
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Ganaplacide
+
+> <SYNONYMS>
+Ganaplacide
+
+$$$$

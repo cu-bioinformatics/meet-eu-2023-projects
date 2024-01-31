@@ -1,0 +1,157 @@
+ 
+  Mrv0541 08011313302D          
+ 
+ 18 19  0  0  1  0            999 V2000
+   12.2919  -11.1782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2919  -12.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9931  -12.4156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7356  -12.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7356  -11.1782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9931  -10.7657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5605  -12.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7356  -13.4468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5605  -13.4468    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.1481  -12.7044    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.9730  -14.1481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5605  -11.1782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3855  -12.0032    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7979  -11.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7979  -12.7044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6229  -12.7044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6229  -11.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7979  -14.1481    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  8 10  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  9 11  1  6  0  0  0
+ 10  4  1  1  0  0  0
+ 10  7  1  6  0  0  0
+  4  5  1  0  0  0  0
+  7 12  2  0  0  0  0
+  5  6  2  0  0  0  0
+  7 13  1  0  0  0  0
+  6  1  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 14 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+ 11 18  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08918
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CC)C(=O)[C@]1(C[C@H]1CN)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H22N2O/c1-3-17(4-2)14(18)15(10-13(15)11-16)12-8-6-5-7-9-12/h5-9,13H,3-4,10-11,16H2,1-2H3/t13-,15+/m0/s1
+
+> <INCHI_KEY>
+GJJFMKBJSRMPLA-DZGCQCFKSA-N
+
+> <FORMULA>
+C15H22N2O
+
+> <MOLECULAR_WEIGHT>
+246.348
+
+> <EXACT_MASS>
+246.173213336
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.998514729354545
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.33919828251937
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R)-2-(aminomethyl)-N,N-diethyl-1-phenylcyclopropane-1-carboxamide
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.421706622999999
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.827548067218556
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.33
+
+> <JCHEM_REFRACTIVITY>
+73.8095
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.23e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08918
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Levomilnacipran
+
+> <SYNONYMS>
+(1S,2R)-milnacipran; Levomilnacipran
+
+> <PRODUCTS>
+Fetzima; Levomilnacipran
+
+> <SALTS>
+Levomilnacipran hydrochloride
+
+$$$$

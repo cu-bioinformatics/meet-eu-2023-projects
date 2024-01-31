@@ -1,0 +1,145 @@
+ISA
+  Mrv0541 02231216182D          
+
+ 14 14  0  0  0  0            999 V2000
+    2.3669    1.6869    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6524    1.2744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6524    0.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9379    0.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9379    1.6869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2234    1.2744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2234    0.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4910    0.0369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4910   -0.7881    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2234   -1.2006    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2055   -1.2006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2055   -2.0256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9200   -0.7881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0147   -0.4961    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  1  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02570
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](S)(CC1=CC=C(I)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9IO2S/c10-7-3-1-6(2-4-7)5-8(13)9(11)12/h1-4,8,13H,5H2,(H,11,12)/t8-/m0/s1
+
+> <INCHI_KEY>
+MXQYDIIKDPMYMF-QMMMGPOBSA-N
+
+> <FORMULA>
+C9H9IO2S
+
+> <MOLECULAR_WEIGHT>
+308.136
+
+> <EXACT_MASS>
+307.936793642
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0018277942622478
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.210255356161355
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-3-(4-iodophenyl)-2-sulfanylpropanoic acid
+
+> <ALOGPS_LOGP>
+3.24
+
+> <JCHEM_LOGP>
+3.157254795333333
+
+> <ALOGPS_LOGS>
+-3.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.69023197168995
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.319614304679082
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+62.94830000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.48e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02570
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01931
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PD150606
+
+$$$$

@@ -1,0 +1,174 @@
+414
+  Mrv0541 02231214402D          
+
+ 22 23  0  0  0  0            999 V2000
+    2.4751    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -3.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    3.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330    2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -3.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 14  2  0  0  0  0
+  5 21  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00414
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H20N2O4S/c1-11(18)12-7-9-14(10-8-12)22(20,21)17-15(19)16-13-5-3-2-4-6-13/h7-10,13H,2-6H2,1H3,(H2,16,17,19)
+
+> <INCHI_KEY>
+VGZSUPCWNCWDAN-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H20N2O4S
+
+> <MOLECULAR_WEIGHT>
+324.395
+
+> <EXACT_MASS>
+324.114377828
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9979468311591344
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.96530430945232
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(4-acetylbenzenesulfonyl)-3-cyclohexylurea
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.8149334736666671
+
+> <ALOGPS_LOGS>
+-3.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.767579752295735
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.313317626025074
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.419213725695493
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.34
+
+> <JCHEM_REFRACTIVITY>
+82.7722
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.83e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00414
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00773
+
+> <DRUG_GROUPS>
+approved; investigational; withdrawn
+
+> <GENERIC_NAME>
+Acetohexamide
+
+> <SYNONYMS>
+1-((p-Acetylphenyl)sulfonyl)-3-cyclohexylurea; 1-[(4-acetylbenzene)sulfonyl]-3-cyclohexylurea 4-acetyl-N-(cyclohexylcarbamoyl)benzenesulfonamide; Acetohexamid; Acetohexamida; Acétohexamide; Acetohexamide; Acetohexamidum; N-(p-Acetylphenylsulfonyl)-N'-cyclohexylurea
+
+> <PRODUCTS>
+Dimelor Tablet 1843 500mg
+
+> <INTERNATIONAL_BRANDS>
+Acetohexamide; Dimelin; Dymelor; Gamadiabet
+
+$$$$

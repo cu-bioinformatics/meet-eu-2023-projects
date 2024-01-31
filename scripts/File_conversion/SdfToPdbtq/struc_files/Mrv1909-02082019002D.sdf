@@ -1,0 +1,166 @@
+
+  Mrv1909 02082019002D          
+
+ 21 22  0  0  0  0            999 V2000
+   -1.3889   -3.6626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9041   -2.9952    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5715   -2.5103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2366   -3.4801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4192   -2.3278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7547   -1.5741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2698   -0.9067    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5551   -0.9067    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0400   -1.5741    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8100   -0.1221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1426    0.3627    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1426    1.1876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8571    1.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8571    2.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5715    2.8377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1426    2.8376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1426    3.6626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5718    2.4251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5717    1.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2862    1.1876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5247   -0.1221    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 16  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 12  1  0  0  0  0
+ 21 11  1  0  0  0  0
+ 21  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03195
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CN([C@H]2C[C@H](F)[C@@H](COP(O)(O)=O)O2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14FN2O7P/c1-5-3-13(10(15)12-9(5)14)8-2-6(11)7(20-8)4-19-21(16,17)18/h3,6-8H,2,4H2,1H3,(H,12,14,15)(H2,16,17,18)/t6-,7+,8+/m0/s1
+
+> <INCHI_KEY>
+GGCAVPJXJISBOA-XLPZGREQSA-N
+
+> <FORMULA>
+C10H14FN2O7P
+
+> <MOLECULAR_WEIGHT>
+324.1995
+
+> <EXACT_MASS>
+324.052265529
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+35
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9202061783184625
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.73911713963338
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-3-fluoro-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.81
+
+> <JCHEM_LOGP>
+-0.35152784666666614
+
+> <ALOGPS_LOGS>
+-1.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.243639101684846
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.217872212367998
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.197966042104471
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.39999999999999
+
+> <JCHEM_REFRACTIVITY>
+64.5928
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.05e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+11-[(1S,3aS,3bR,4R,9bS,11aS)-1,7-dihydroxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H-cyclopenta[a]phenanthren-4-yl]-N-butyl-N-methylundecanamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03195
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01414
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3'-Fluoro-3'-deoxythymidine 5'-monophosphate
+
+> <SYNONYMS>
+3'-Deoxy-3'-fluorothymidine monophosphate; 3'-Fluoro-3'-deoxythymidine 5'-monophosphate; 3'-Fluoro-3'-deoxythymidine 5'-phosphate; 5'-Thymidylic acid, 3'-deoxy-3'-fluoro-
+
+$$$$

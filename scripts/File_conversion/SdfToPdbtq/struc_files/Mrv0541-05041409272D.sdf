@@ -1,0 +1,170 @@
+
+  Mrv0541 05041409272D          
+
+ 25 25  0  0  1  0            999 V2000
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5395    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5395   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    1.6002    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2448    1.8695    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.8250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  1  1  0  0  0  0
+  3  8  1  6  0  0  0
+  6  9  1  6  0  0  0
+ 16  2  1  0  0  0  0
+ 16  6  1  0  0  0  0
+  4 17  1  1  0  0  0
+  5 18  1  6  0  0  0
+ 19 10  1  0  0  0  0
+ 19 11  2  0  0  0  0
+ 19 12  2  0  0  0  0
+ 19 17  1  0  0  0  0
+ 20 13  1  0  0  0  0
+ 20 14  2  0  0  0  0
+ 20 15  2  0  0  0  0
+ 20 18  1  0  0  0  0
+  2 21  1  6  0  0  0
+  3 22  1  1  0  0  0
+  4 23  1  6  0  0  0
+  5 24  1  1  0  0  0
+  6 25  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB02879
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(O)O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(OS(O)(=O)=O)[C@@]1([H])OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O12S2/c7-1-2-3(8)4(17-19(10,11)12)5(6(9)16-2)18-20(13,14)15/h2-9H,1H2,(H,10,11,12)(H,13,14,15)/t2-,3-,4+,5-,6+/m1/s1
+
+> <INCHI_KEY>
+ORUZACWROKWTRH-DVKNGEFBSA-N
+
+> <FORMULA>
+C6H12O12S2
+
+> <MOLECULAR_WEIGHT>
+340.282
+
+> <EXACT_MASS>
+339.977017228
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.000051186965105
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.324208714890563
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(2S,3R,4S,5R,6R)-2,5-dihydroxy-6-(hydroxymethyl)-4-(sulfooxy)oxan-3-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-2.48
+
+> <JCHEM_LOGP>
+-6.8281449199081425
+
+> <ALOGPS_LOGS>
+-1.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+-1.9197303803609291
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-2.5700038292896346
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981129756046202
+
+> <JCHEM_POLAR_SURFACE_AREA>
+197.11999999999995
+
+> <JCHEM_REFRACTIVITY>
+55.907000000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.03e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02879
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02535
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2,3-Di-O-Sulfo-Alpha-D-Glucopyranose
+
+$$$$

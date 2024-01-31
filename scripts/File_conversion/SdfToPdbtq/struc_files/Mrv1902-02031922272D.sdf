@@ -1,0 +1,186 @@
+
+  Mrv1902 02031922272D          
+
+ 30 33  0  0  0  0            999 V2000
+   -1.7616   -0.7461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4761   -1.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7616   -2.3962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0472   -1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3327   -2.3962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3816   -1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3816    0.4913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8807   -1.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4761   -1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1906   -2.3962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8807    0.3337    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5952    0.7462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3656   -0.3336    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.1906   -0.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0472   -1.1586    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0472   -0.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0961    0.0788    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0961    0.9038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0961   -0.7461    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0961   -1.5711    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3327   -0.7461    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3327   -1.5711    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3327    0.0788    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0472    0.4913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8807    1.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5952    1.5712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3816   -1.1586    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3816   -0.3336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1663    1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1663    2.3962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 15  1  0  0  0  0
+  2  9  1  0  0  0  0
+  9  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+ 21 15  1  0  0  0  0
+ 15  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 27  1  0  0  0  0
+ 27 19  1  0  0  0  0
+ 21 27  1  0  0  0  0
+ 23 21  1  0  0  0  0
+  7 23  1  0  0  0  0
+  7 17  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19  8  1  0  0  0  0
+ 11 13  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 25  1  1  0  0  0
+ 11 12  1  6  0  0  0
+ 13 14  1  6  0  0  0
+ 15 16  1  1  0  0  0
+ 17 18  1  1  0  0  0
+ 19 20  1  6  0  0  0
+ 21 22  1  6  0  0  0
+ 23 24  1  1  0  0  0
+ 25 29  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 27 28  1  1  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01234
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12C[C@@H](C)[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H29FO5/c1-12-8-16-15-5-4-13-9-14(25)6-7-19(13,2)21(15,23)17(26)10-20(16,3)22(12,28)18(27)11-24/h6-7,9,12,15-17,24,26,28H,4-5,8,10-11H2,1-3H3/t12-,15+,16+,17+,19+,20+,21+,22+/m1/s1
+
+> <INCHI_KEY>
+UREBDLICKHMUKA-CXSFZGCWSA-N
+
+> <FORMULA>
+C22H29FO5
+
+> <MOLECULAR_WEIGHT>
+392.4611
+
+> <EXACT_MASS>
+392.199902243
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+57
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.709708692604025
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R,2R,3aS,3bS,9aS,9bR,10S,11aS)-9b-fluoro-1,10-dihydroxy-1-(2-hydroxyacetyl)-2,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+1.93
+
+> <JCHEM_LOGP>
+1.6815696796666673
+
+> <ALOGPS_LOGS>
+-3.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.482283372225584
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.424778249663545
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3301756738658193
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+102.49289999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.05e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+saquinavir
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01234
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00674
+
+> <DRUG_GROUPS>
+approved; investigational; vet_approved
+
+> <GENERIC_NAME>
+Dexamethasone
+
+> <SYNONYMS>
+1-Dehydro-16alpha-methyl-9alpha-fluorohydrocortisone; 1-Dehydro-16α-methyl-9α-fluorohydrocortisone; 16alpha-Methyl-9alpha-fluoro-1-dehydrocortisol; 16α-Methyl-9α-fluoro-1-dehydrocortisol; 9alpha-Fluoro-16alpha-methylprednisolone; 9α-Fluoro-16α-methylprednisolone; Dexametasona; Dexaméthasone; Dexamethasone; Dexamethasonum
+
+> <PRODUCTS>
+999 Itch Relief; AK-Trol; Accufix II Dec Model 033-212; Apo-dexamethasone; Baycadron; Ciprodex; Ciprofloxacin and Dexamethasone; Ciprofloxacin and dexamethasone; Cortaren Corticosteroid/Anti-Inflammatory System; Cresophene Liq; Cushings Syndrome Diagnostic; DEXAMETHASONE 6-Day; DEXAMETHASONE Sodium Phosphate; Decadron; Decadron DP; Decadron Phosphate Eye Ear Sol 0.1%; Decadron Phosphate Inj 4mg/ml; Decadron Tab 0.5mg; Decadron Tab 4mg; Dex-Moxi; Dex-Moxi PF; Dex-Moxi-Ketor; DexMoxiKetor PF; Dexabliss; Dexamethasone; Dexamethasone 1.5 mg; Dexamethasone Intensol; Dexamethasone Omega Unidose; Dexamethasone Sod Phos Inj 4mg/ml; Dexamethasone Sod Phosph Inj 10mg/ml USP; Dexamethasone Sodium Phosphate; Dexamethasone Sodium Phosphate 0.1%; Dexamethasone Sodium Phosphate 0.1% / Finasteride 0.1% / Minoxidil 5%; Dexamethasone Sodium Phosphate 0.1% / Finasteride 0.1% / Minoxidil 5% / Tretinoin 0.025%; Dexamethasone Sodium Phosphate Inj USP 4mg/ml; Dexamethasone Sodium Phosphate Injection Sdz; Dexamethasone Sodium Phosphate Injection, USP; Dexamethasone Sodium Phosphates; Dexamethasone Tablets; Dexamethasone-omega; Dexamethsone; Dexasone 0.5mg; Dexasone 0.75mg; Dexasone 4mg; Dexlido Kit; Dexlido-M Kit; Dexopin; Dextenza; Dexycu; Dioptrol Ointment; Dioptrol Suspension; Dmt Suik; Dom-dexamethasone Tablet 4mg; DoubleDex Kit; Dxevo; Encor Dec Model 033-159 Imp 0.5mg/imp; Encor Dec Model 033-443 Imp 0.5mg/imp; Encor Dec Model 033-448 Imp 0.5mg/imp; Encor Dec Model 033-757 Imp 0.5mg/imp; Encor Dec Model 033-856 Imp 0.5mg/imp; Gati-Dex; Hemady; Hexadrol Phosphate; Hexadrol Phosphate Inj 10mg/ml; Hexadrol Phosphate Inj 4mg/ml; HiDex 6-day; LoCort 11-Day; LoCort 7-Day; Ludaxine; Mardex 25 Kit; Mas Care-pak Dexamethasone; Maxidex; Maxitrol; Methedex; Neo-poly-dex; Neodecadron Eye Ear Soln 0.1%; Neofordex; Neomycin Polymyxin B Sulfates and Dexamethasone; Neomycin Sulfate, Polymyxin B Sulfate and Dexamethasone; Neomycin and Polymyxin B Sulfates and Dexamethasone; Netildex; Neuromaquel Neuroma/Anti-Inflammatory System; Npd; Ocudex Liq 0.1%; Odan-dexamethasone; Odan-dexamethasone Elixir; Odan-trol; Ozurdex; PHL-dexamethasone; PMS Dexamethasone Tab 0.5mg USP; PMS Dexamethasone Tab 0.75mg USP; PMS Dexamethasone Tab 4mg; PMS-dexamethasone; PMS-dexamethasone Elixir; PMS-dexamethasone Sod Phosphate Dps 1mg/ml; PMS-dexamethasone Sod Phosphate Inj 10mg/ml; PMS-dexamethasone Sod Phosphate Inj 4mg/ml; Pro-dexamethasone - 4; R.O.-dexsone; Ratio-dexamethasone; Ratio-dexamethasone Tablets, USP; ReadySharp Anesthetics plus Dexamethasone; ReadySharp Dexamethasone; Ropidex; Sandoz Ciprofloxacin / Dexamethasone; Sandoz Dexamethasone; Sandoz Tobramycin / Dexamethasone; Sofracort Ear/eye Ointment; Sofracort Sterile Ear/eye Ointment; TaperDex 12-day; TaperDex 6-day; TaperDex 7-day; Taro-ciprofloxacin/dexamethasone; TobraDex; Tobradex; Tobradex ST; Tobramycin and Dexamethasone; TopiDex; Viadox; Zcort; Zema Pak; ZoDex; ZonaCort 11-Day; ZonaCort 7-Day
+
+> <SALTS>
+Dexamethasone phosphate; Dexamethasone sodium phosphate
+
+$$$$

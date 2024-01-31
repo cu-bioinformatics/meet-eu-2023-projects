@@ -1,0 +1,152 @@
+
+  Mrv1909 02022018202D          
+
+ 16 16  0  0  0  0            999 V2000
+   -0.4018    1.8965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1163    1.4840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1163    0.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018    0.2463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3126    0.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3126    1.4840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018    2.7216    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4018   -0.5786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8308    1.8965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1164    3.1341    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0271    0.2463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0271   -0.5786    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3126   -0.9912    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7416   -0.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7416   -1.8162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4562   -0.5786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  5 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 13  1  1  0  0  0
+  1  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 15  1  0  0  0  0
+  2  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03631
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N=C1C=C(C[C@H](N)C(O)=O)C(=O)C=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10N2O4/c10-5-1-4(2-6(11)9(14)15)7(12)3-8(5)13/h1,3,6,10,13H,2,11H2,(H,14,15)/b10-5-/t6-/m0/s1
+
+> <INCHI_KEY>
+FKLZKBKFGLLJJV-HPWAZMHGSA-N
+
+> <FORMULA>
+C9H10N2O4
+
+> <MOLECULAR_WEIGHT>
+210.1867
+
+> <EXACT_MASS>
+210.064056818
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.04798498543628671
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.49715687357413
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(4-hydroxy-3-imino-6-oxocyclohexa-1,4-dien-1-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-2.51
+
+> <JCHEM_LOGP>
+-5.335739241917182
+
+> <ALOGPS_LOGS>
+-2.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+3.5222171872991836
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7416474584115158
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.173325282388705
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.47000000000001
+
+> <JCHEM_REFRACTIVITY>
+63.8424
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.20e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-(aminomethyl)-1-(carboxymethyl)-2,5-dihydroxy-4-oxo-3H-imidazol-1-ium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03631
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03144
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(4-hydroxy-3-imino-6-oxo-cyclohexa-1,4-dienyl)-alanine
+
+$$$$

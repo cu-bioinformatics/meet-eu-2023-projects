@@ -1,0 +1,179 @@
+
+  Mrv1909 12141900452D          
+
+ 30 32  0  0  0  0            999 V2000
+    0.2557    0.1755    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9702    0.5880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4589    0.5881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9701    1.4131    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4589    1.4130    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2556    1.8256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2556   -0.6495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4590   -1.0619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1734   -0.6494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1733    1.8255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8879    1.4130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6024    0.1755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8879   -1.0619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6024   -0.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6024    1.8256    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.3168    0.5881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3168    1.4130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4591   -1.8869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8879   -1.8868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1735   -2.2993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7538    1.6701    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4219    1.1861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0076    2.4551    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0886    1.6719    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8328    2.4563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3168    3.1243    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1737   -3.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6024    2.6506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9509    2.2413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7799    0.7963    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  1  0  0  0  0
+  1  7  1  6  0  0  0
+  3  1  1  0  0  0  0
+  8  7  1  0  0  0  0
+  5  3  1  0  0  0  0
+  5 10  1  1  0  0  0
+ 11 10  1  0  0  0  0
+ 14 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 17 16  2  0  0  0  0
+  8  9  2  0  0  0  0
+ 18  8  1  0  0  0  0
+ 19 13  1  0  0  0  0
+ 20 18  2  0  0  0  0
+ 20 19  1  0  0  0  0
+ 22 21  1  0  0  0  0
+ 23 21  1  0  0  0  0
+ 24 22  1  0  0  0  0
+ 25 23  1  0  0  0  0
+ 25 24  1  0  0  0  0
+  4 21  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 20 27  1  0  0  0  0
+ 15 28  1  1  0  0  0
+  4 29  1  6  0  0  0
+ 21 30  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB02621
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CSC(=O)N1)[C@@]1(O)C[C@H]2C[C@@H](CC[C@H](C)\C=C/C=C/CC\C(C)=C/C(=O)O2)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H31NO5S/c1-15-7-5-3-4-6-8-16(2)11-20(24)27-18-12-17(10-9-15)28-22(26,13-18)19-14-29-21(25)23-19/h3-5,7,11,15,17-19,26H,6,8-10,12-14H2,1-2H3,(H,23,25)/b4-3+,7-5-,16-11-/t15-,17-,18-,19+,22-/m1/s1
+
+> <INCHI_KEY>
+DDVBPZROPPMBLW-IZGXTMSKSA-N
+
+> <FORMULA>
+C22H31NO5S
+
+> <MOLECULAR_WEIGHT>
+421.55
+
+> <EXACT_MASS>
+421.192293797
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.758274941150844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4R)-4-[(1R,4Z,8E,10Z,12S,15R,17R)-17-hydroxy-5,12-dimethyl-3-oxo-2,16-dioxabicyclo[13.3.1]nonadeca-4,8,10-trien-17-yl]-1,3-thiazolidin-2-one
+
+> <ALOGPS_LOGP>
+3.00
+
+> <JCHEM_LOGP>
+4.314082884666666
+
+> <ALOGPS_LOGS>
+-4.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.51775949263852
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.356813156336859
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.366840692603634
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.86
+
+> <JCHEM_REFRACTIVITY>
+115.96109999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.04e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-3-({[3-(4-{3-[(3-nitro-5-{[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}phenyl)formamido]propyl}piperazin-1-yl)propyl]carbamoyl}oxy)propyl N-[3-(4-{3-[(3-nitro-5-{[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}phenyl)formamido]propyl}piperazin-1-yl)propyl]carbamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02621
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02004
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Latrunculin A
+
+> <SYNONYMS>
+(+)-latrunculin A; (4R)-4-[(1R,4Z,8E,10Z,12S,15R,17R)-17-hydroxy-5,12-dimethyl-3-oxo-2,16-dioxabicyclo[13.3.1]nonadeca-4,8,10-trien-17-yl]-1,3-thiazolidin-2-one; LAT-A; LatA
+
+$$$$

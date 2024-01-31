@@ -1,0 +1,166 @@
+884
+  Mrv0541 02231215042D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.8075    1.4134    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9344    1.1114    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6325   -0.0156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3950    2.1278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0929    1.0009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6489    1.5239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3469    0.3969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0896    2.1886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0776    1.9238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910   -1.7761    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200    0.6989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054    0.2864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -0.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7910   -0.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2200   -1.7761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -2.1886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00884
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(CC1=CN=CC=C1)(P(O)(O)=O)P(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO7P2/c9-7(16(10,11)12,17(13,14)15)4-6-2-1-3-8-5-6/h1-3,5,9H,4H2,(H2,10,11,12)(H2,13,14,15)
+
+> <INCHI_KEY>
+IIDJRNMFWXDHID-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H11NO7P2
+
+> <MOLECULAR_WEIGHT>
+283.1123
+
+> <EXACT_MASS>
+283.001074735
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.5427459635654457
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.907355631641323
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[1-hydroxy-1-phosphono-2-(pyridin-3-yl)ethyl]phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.75
+
+> <JCHEM_LOGP>
+-3.323865664200742
+
+> <ALOGPS_LOGS>
+-1.43
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-3
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+1.4431961069705728
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.6802531022191398
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.912099290314398
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.18
+
+> <JCHEM_REFRACTIVITY>
+57.1247
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.04e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00884
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00410; DB02782
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Risedronic acid
+
+> <SYNONYMS>
+Acide risédroniqe; Acido risedronico; Acidum risedronicum; Risedronate; Risedronic acid; Risedronsäure
+
+> <PRODUCTS>
+Actonel; Actonel Dr; Actonel Plus Calcium; Actonel Sachet Kit; Actonel With Calcium; Actonel with Calcium; Apo-risedronate; Apo-risedronate Dr; Atelvia; Auro-risedronate; Dom-risedronate; Jamp-risedronate; Mylan-risedronate; Ntp-risedronate; PHL-risedronate; PMS-risedronate; PMS-risedronate Plus Calcium; Pendo-risedronate; Q-risedronate; Ratio-risedronate; Risedronate; Risedronate Sodium; Risedronate Sodium Amorphous Fv2910cl; Risedronate-35; Riva-risedronate; Sandoz Risedronate; Teva-risedronate; Teva-risedronate/calcium
+
+> <INTERNATIONAL_BRANDS>
+Benet; Ridron
+
+> <SALTS>
+Risedronate sodium; Risedronate sodium hemi-pentahydrate; Risedronate sodium monohydrate
+
+$$$$

@@ -1,0 +1,164 @@
+FSE
+  Mrv0541 02241213392D          
+
+ 21 23  0  0  0  0            999 V2000
+   -2.6949   -0.8661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9804   -1.2786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2659   -0.8661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2659   -0.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9804    0.3714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6949   -0.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5515   -1.2786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1630   -0.8661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1630   -0.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8775    0.3714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8775    1.1964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5919    1.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064    1.1964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064    0.3714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5919   -0.0411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5515    0.3714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5515   -2.1036    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0209   -0.0411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0209    1.6089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8775   -1.2786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4093    0.3714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 21  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07795
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC2=C(C=C1)C(=O)C(O)=C(O2)C1=CC=C(O)C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10O6/c16-8-2-3-9-12(6-8)21-15(14(20)13(9)19)7-1-4-10(17)11(18)5-7/h1-6,16-18,20H
+
+> <INCHI_KEY>
+XHEFDIBZLJXQHF-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10O6
+
+> <MOLECULAR_WEIGHT>
+286.2363
+
+> <EXACT_MASS>
+286.047738052
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.8639860573004826
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.63536387895102
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(3,4-dihydroxyphenyl)-3,7-dihydroxy-4H-chromen-4-one
+
+> <ALOGPS_LOGP>
+2.03
+
+> <JCHEM_LOGP>
+1.8098647856666665
+
+> <ALOGPS_LOGS>
+-3.28
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+8.481610772232772
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.3180160019747795
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.856247726581812
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+74.88130000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.51e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07795
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Fisetin
+
+> <SYNONYMS>
+2-(3,4-Dihydroxyphenyl)-3,7-dihydroxy-4H-1-benzopyran-4-one; 3,3',4',7-Tetrahydroxyflavone; 3,7,3',4'-tetrahydroxyflavone; 5-Desoxyquercetin; 7,3',4'-Trihydroxyflavonol
+
+$$$$

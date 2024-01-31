@@ -1,0 +1,165 @@
+OEV
+  Mrv0541 02241214012D          
+
+ 24 24  0  0  0  0            999 V2000
+   -2.2001    0.1570    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4855    0.5695    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2001   -0.6680    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4855   -1.0806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9146   -1.0806    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.9146   -1.9056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6291   -0.6680    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.3436   -1.0806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6291    0.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3436    0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3436    1.3946    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9146    0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7711    0.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0565    0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6580    0.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3726    0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0871    0.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8016    0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5162    0.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2306    0.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6249    0.0556    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6249   -0.5666    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4089   -1.3725    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6291   -1.2520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1 21  1  6  0  0  0
+  2 13  1  0  0  0  0
+  3  1  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3 22  1  1  0  0  0
+  5  3  1  0  0  0  0
+  5 23  1  6  0  0  0
+  5  6  1  1  0  0  0
+  7  5  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 24  1  1  0  0  0
+  7  8  1  6  0  0  0
+  9 12  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12  1  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08321
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)C(CO)=C[C@@]([H])(NCCCCCCCC)[C@]([H])(O)[C@@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H29NO4/c1-2-3-4-5-6-7-8-16-12-9-11(10-17)13(18)15(20)14(12)19/h9,12-20H,2-8,10H2,1H3/t12-,13-,14+,15+/m1/s1
+
+> <INCHI_KEY>
+UPZUHYMBTUUPML-KBXIAJHMSA-N
+
+> <FORMULA>
+C15H29NO4
+
+> <MOLECULAR_WEIGHT>
+287.3951
+
+> <EXACT_MASS>
+287.209658421
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9668998428434229
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.587642653860414
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2S,3R,6R)-4-(hydroxymethyl)-6-(octylamino)cyclohex-4-ene-1,2,3-triol
+
+> <ALOGPS_LOGP>
+0.95
+
+> <JCHEM_LOGP>
+0.3963382919999996
+
+> <ALOGPS_LOGS>
+-1.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.90259349214474
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.830467917290129
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.465573298813164
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.95
+
+> <JCHEM_REFRACTIVITY>
+78.935
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08321
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(1S,2S,3R,6R)-4-(hydroxymethyl)-6-(octylamino)cyclohex-4-ene-1,2,3-triol
+
+$$$$

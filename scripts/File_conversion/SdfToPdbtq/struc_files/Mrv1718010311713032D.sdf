@@ -1,0 +1,153 @@
+
+  Mrv1718010311713032D          
+
+ 22 23  0  0  0  0            999 V2000
+    1.7862   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.6188    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7862    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5007    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2153    1.8563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2153    1.0312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2153   -0.2062    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007   -1.4438    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5007   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2153   -1.0312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  2  0  0  0  0
+  6  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6 13  1  0  0  0  0
+ 13  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  9  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 18 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 19  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08472
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNCC[C@@H](OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H18F3NO/c1-21-12-11-16(13-5-3-2-4-6-13)22-15-9-7-14(8-10-15)17(18,19)20/h2-10,16,21H,11-12H2,1H3/t16-/m1/s1
+
+> <INCHI_KEY>
+RTHCYVBBDHJXIQ-MRXNPFEDSA-N
+
+> <FORMULA>
+C17H18F3NO
+
+> <MOLECULAR_WEIGHT>
+309.3261
+
+> <EXACT_MASS>
+309.134048818
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.32246570775346
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl[(3R)-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propyl]amine
+
+> <ALOGPS_LOGP>
+4.09
+
+> <JCHEM_LOGP>
+4.1732195433333334
+
+> <ALOGPS_LOGS>
+-5.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.80313944120745
+
+> <JCHEM_POLAR_SURFACE_AREA>
+21.259999999999998
+
+> <JCHEM_REFRACTIVITY>
+80.36750000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.70e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl[(3R)-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propyl]amine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08472
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(R)-Fluoxetine
+
+> <SYNONYMS>
+(+)-fluoxetine; (R)-(+)-fluoxetine; (R)-N-methyl-3-(4-trifluoromethylphenoxy)-3-phenylpropylamine; (R)-N-methyl-3-(4-trifluoromethylphenyloxy)-3-(phenyl)propylamine; (R)-N-methyl-3-phenyl-3-[(α,α,α-trifluoro-p-tolyl)oxy]propylamine; (R)-N-methyl-γ-(4-trifluoromethylphenoxy)-3-phenylpropylamine; (R)-Prozac
+
+$$$$

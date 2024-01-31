@@ -1,0 +1,153 @@
+BP6
+  Mrv0541 02231216492D          
+
+ 16 17  0  0  0  0            999 V2000
+   -0.1552   -0.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5593   -0.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2738   -0.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5593   -1.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2738   -1.9600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1552   -1.9600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8696   -1.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8696   -0.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1552    0.5150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8696    0.9275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8696    1.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1552    2.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5593    1.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5593    0.9275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5841    0.5150    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2738    0.5150    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03259
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=CC(=C1O)C1=C(Cl)C=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H8Cl2O2/c13-8-4-2-5-9(14)11(8)7-3-1-6-10(15)12(7)16/h1-6,15-16H
+
+> <INCHI_KEY>
+MCZUCSAAGDCHHN-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H8Cl2O2
+
+> <MOLECULAR_WEIGHT>
+255.097
+
+> <EXACT_MASS>
+253.990134914
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+24
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.012005527719280217
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.635727686023404
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2',6'-dichloro-[1,1'-biphenyl]-2,3-diol
+
+> <ALOGPS_LOGP>
+4.23
+
+> <JCHEM_LOGP>
+4.221429887333333
+
+> <ALOGPS_LOGS>
+-3.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.37732079222319
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.91559314554045
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.306919951615971
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+64.7656
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.84e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03259
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00743
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2',6'-Dichloro-Biphenyl-2,6-Diol
+
+$$$$

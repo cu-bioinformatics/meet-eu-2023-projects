@@ -1,0 +1,178 @@
+
+  Mrv0541 05041400372D          
+
+ 27 30  0  0  0  0            999 V2000
+   -3.0536    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3391   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3391    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0536    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6246    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6246    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7680    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3551    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4825    0.8250    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -3.7680    2.0625    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.4223   -0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8400   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8400    1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+  7  1  1  0  0  0  0
+  7  5  2  0  0  0  0
+  8  2  1  0  0  0  0
+  8  6  2  0  0  0  0
+  9  3  1  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  5  1  0  0  0  0
+ 11  9  2  0  0  0  0
+ 12  6  1  0  0  0  0
+ 12 10  2  0  0  0  0
+ 13  7  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 17 15  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 18 13  2  0  0  0  0
+ 19 13  1  0  0  0  0
+ 20 14  2  0  0  0  0
+ 21 14  1  0  0  0  0
+ 22  9  1  0  0  0  0
+ 22 15  2  0  0  0  0
+ 23 10  1  0  0  0  0
+ 23 16  2  0  0  0  0
+ 24 11  1  0  0  0  0
+ 24 15  1  0  0  0  0
+ 25 12  1  0  0  0  0
+ 25 16  1  0  0  0  0
+ 26 17  1  0  0  0  0
+ 27 17  1  0  0  0  0
+M  CHG  2  18   1  19   1
+M  END
+> <DATABASE_ID>
+DB04301
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=N)C1=CC2=C(C=C1)N=C(N2)C(O)(O)C1=NC2=C(N1)C=C(C=C2)C([NH3+])=[NH2+]
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H16N8O2/c18-13(19)7-1-3-9-11(5-7)24-15(22-9)17(26,27)16-23-10-4-2-8(14(20)21)6-12(10)25-16/h1-6,26-27H,(H3,18,19)(H3,20,21)(H,22,24)(H,23,25)/p+2
+
+> <INCHI_KEY>
+ZLAHDRAQCSQPOC-UHFFFAOYSA-P
+
+> <FORMULA>
+C17H18N8O2
+
+> <MOLECULAR_WEIGHT>
+366.3772
+
+> <EXACT_MASS>
+366.15527186
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9711635914077823
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.77769435388946
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+8
+
+> <JCHEM_FORMAL_CHARGE>
+2
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[azaniumyl({2-[(6-carbamimidoyl-1H-1,3-benzodiazol-2-yl)dihydroxymethyl]-1H-1,3-benzodiazol-6-yl})methylidene]azanium
+
+> <ALOGPS_LOGP>
+0.25
+
+> <JCHEM_LOGP>
+-2.555930621541996
+
+> <ALOGPS_LOGS>
+-4.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA>
+9.644144026458193
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.55491399673275
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.463274184253128
+
+> <JCHEM_POLAR_SURFACE_AREA>
+200.91999999999996
+
+> <JCHEM_REFRACTIVITY>
+130.83720000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.57e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04301
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00621
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Bis(5-Amidino-2-Benzimidazolyl)Methane Ketone Hydrate
+
+$$$$

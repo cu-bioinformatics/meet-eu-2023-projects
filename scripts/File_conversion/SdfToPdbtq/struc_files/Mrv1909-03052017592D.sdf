@@ -1,0 +1,176 @@
+
+  Mrv1909 03052017592D          
+
+ 27 29  0  0  0  0            999 V2000
+   -3.6719    1.1628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6719    1.9920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9563    2.4107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2408    1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2408    1.1618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9563    0.7523    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4511    0.9051    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9631    1.5769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4511    2.2484    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1964    0.1210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6831   -0.5444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1981   -1.2126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4120   -0.9597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4112   -0.1314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2540   -1.4454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0077   -1.1115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6738   -1.5974    0.0000 W   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1597   -0.9314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1879   -2.2635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3399   -2.0833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0059   -2.5691    0.0000 W   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6719   -3.0550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4918   -1.9031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5201   -3.2352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4542   -1.9961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5075   -0.5428    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9563    3.2352    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 11 26  1  0  0  0  0
+  3 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02183
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=C2N=CN(C3OC(CO[W](O)(=O)O[W](O)(O)=O)C(O)C3O)C2=NC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N5O4.3H2O.3O.2W/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(18)6(17)4(1-16)19-10;;;;;;;;/h2-4,6-7,10,17-18H,1H2,(H2,11,12,13);3*1H2;;;;;/q-1;;;;;;;2*+2/p-3
+
+> <INCHI_KEY>
+OIACDJFRUAAXOT-UHFFFAOYSA-K
+
+> <FORMULA>
+C10H15N5O10W2
+
+> <MOLECULAR_WEIGHT>
+732.94
+
+> <EXACT_MASS>
+732.983754
+
+> <JCHEM_ACCEPTOR_COUNT>
+12
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.08245993670628
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.22135600818508
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-[5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]-1,3-dioxo-2,4-dioxa-1,3-ditungstapentane-1,1,3-triol
+
+> <ALOGPS_LOGP>
+-1.15
+
+> <JCHEM_LOGP>
+-5.541647628231578
+
+> <ALOGPS_LOGS>
+-1.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+2.506613139493194
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.2023811787175114
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.928671593071307
+
+> <JCHEM_POLAR_SURFACE_AREA>
+232.59999999999997
+
+> <JCHEM_REFRACTIVITY>
+73.911
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.04e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S,3S,4S,5R)-6-({2-[(benzenesulfonyl)methyl]-6-bromo-3-(ethoxycarbonyl)-1-methyl-4-[(methylamino)methyl]indol-5-yl}oxy)-3,4,5-trihydroxyoxane-2-carboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02183
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00440
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Adenosine-5'-ditungstate
+
+$$$$

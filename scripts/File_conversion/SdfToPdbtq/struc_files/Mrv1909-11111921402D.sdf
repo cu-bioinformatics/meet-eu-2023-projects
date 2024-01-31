@@ -1,0 +1,148 @@
+
+  Mrv1909 11111921402D          
+
+ 18 19  0  0  0  0            999 V2000
+   -1.6305   -2.7756    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3450   -1.5381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2015    0.5243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5128    0.9368    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9253    3.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1003    3.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9649    1.9918    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9392    1.9918    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2015   -0.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9161   -0.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9161   -1.5381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5128   -0.7131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2015   -1.9506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5128   -1.5381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5128    1.7618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1802    2.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1545    2.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6305   -1.9506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2 18  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 17  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08668
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)C1=CC(NN=C2C(=N)N=NC2=N)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H8N6O2/c11-8-7(9(12)16-15-8)14-13-6-3-1-2-5(4-6)10(17)18/h1-4,11-13H,(H,17,18)
+
+> <INCHI_KEY>
+MBYHOWWAJOLPNG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H8N6O2
+
+> <MOLECULAR_WEIGHT>
+244.214
+
+> <EXACT_MASS>
+244.070873522
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+26
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.66585442218538
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[2-(3,5-diimino-4,5-dihydro-3H-pyrazol-4-ylidene)hydrazin-1-yl]benzoic acid
+
+> <ALOGPS_LOGP>
+0.45
+
+> <JCHEM_LOGP>
+0.9298850842581831
+
+> <ALOGPS_LOGS>
+-3.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.226372184182015
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.840026309764461
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.3632404689061515
+
+> <JCHEM_POLAR_SURFACE_AREA>
+134.10999999999999
+
+> <JCHEM_REFRACTIVITY>
+84.56689999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.13e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biib021
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08668
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(5-Amino-3-imino-3H-pyrazol-4-ylazo)-benzoic acid
+
+$$$$

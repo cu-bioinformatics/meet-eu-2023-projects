@@ -1,0 +1,159 @@
+
+  Mrv0541 02231216322D          
+
+ 19 20  0  0  1  0            999 V2000
+    0.7145    6.7661    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    5.9411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    5.5286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    4.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    4.2911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    4.2911    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    4.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    5.5286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.4661    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3819    2.9812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    2.1965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020    2.1965    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1830    1.5291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0034    1.6153    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4884    0.9479    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9733    0.2804    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1558    1.4328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8209    0.4630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470    2.9812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  9  6  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 12 19  1  0  0  0  0
+  9 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02883
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@H]1CC[C@@H](COP(O)(O)=O)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H14N3O6P/c10-7-3-4-12(9(13)11-7)8-2-1-6(18-8)5-17-19(14,15)16/h3-4,6,8H,1-2,5H2,(H2,10,11,13)(H2,14,15,16)/t6-,8+/m0/s1
+
+> <INCHI_KEY>
+RAJMXAZJKUGYGW-POYBYMJQSA-N
+
+> <FORMULA>
+C9H14N3O6P
+
+> <MOLECULAR_WEIGHT>
+291.1977
+
+> <EXACT_MASS>
+291.062021707
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.899369728230268
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.172148416832858
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2S,5R)-5-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)oxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.72
+
+> <JCHEM_LOGP>
+-1.275063012357918
+
+> <ALOGPS_LOGS>
+-1.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.343773673629712
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2282092907041942
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.4097932634498065
+
+> <JCHEM_POLAR_SURFACE_AREA>
+134.68
+
+> <JCHEM_REFRACTIVITY>
+63.1131
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02883
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01242
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2',3'-Dideoxycytidine-5'-Monophosphate
+
+$$$$

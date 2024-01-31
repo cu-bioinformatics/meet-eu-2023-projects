@@ -1,0 +1,173 @@
+
+  Mrv1909 01032021502D          
+
+ 29 30  0  0  0  0            999 V2000
+    1.1399   -2.2083    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4453   -2.7894    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3954   -0.1749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9604   -1.6271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6550   -1.5408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4920    1.1349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6249   -2.8757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1165   -0.7871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8073   -1.7234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0629    3.6100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4724   -2.6932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5316   -3.6100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2658   -2.7032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3591   -1.9689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0629    1.1349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7774    2.3724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4755   -0.9595    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6504   -0.9595    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7304   -0.1749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0629    0.3099    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1654   -1.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3484    1.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7774    1.5475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3484    2.3724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7809   -1.5408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0629    2.7850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3659    2.7850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2658   -2.2083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2204    2.6283    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  6  0  0  0
+  1 11  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3 18  1  0  0  0  0
+  3 20  1  0  0  0  0
+ 17  4  1  1  0  0  0
+  4 25  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6 23  2  0  0  0  0
+  8 25  2  0  0  0  0
+ 10 26  2  0  0  0  0
+ 20 15  1  6  0  0  0
+ 15 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 23  1  0  0  0  0
+ 16 26  1  0  0  0  0
+ 16 29  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 21  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02549
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N1C(=O)N(C=C(C)C1=O)[C@H]1C[C@H](OC(C)=O)[C@@H](COP(O)(=O)OP(O)(O)=O)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H18N2O12P2/c1-6-4-14(12(17)13-11(6)16)10-3-8(24-7(2)15)9(25-10)5-23-28(21,22)26-27(18,19)20/h4,8-10H,3,5H2,1-2H3,(H,21,22)(H,13,16,17)(H2,18,19,20)/t8-,9+,10+/m0/s1
+
+> <INCHI_KEY>
+UWSIAAWKEICIJY-IVZWLZJFSA-N
+
+> <FORMULA>
+C12H18N2O12P2
+
+> <MOLECULAR_WEIGHT>
+444.225
+
+> <EXACT_MASS>
+444.033497074
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_ATOM_COUNT>
+46
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.431474488113458
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.20122620115173
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[({[(2R,3S,5R)-3-(acetyloxy)-5-(5-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)oxolan-2-yl]methoxy}(hydroxy)phosphoryl)oxy]phosphonic acid
+
+> <JCHEM_LOGP>
+-1.223292689333333
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.2104032698561817
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7717466279696292
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.195686506228634
+
+> <JCHEM_POLAR_SURFACE_AREA>
+198.23
+
+> <JCHEM_REFRACTIVITY>
+86.30930000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2S)-2-({4-[(2E)-N-({2-amino-4-oxo-1H-pyrido[3,2-d]pyrimidin-6-yl}methyl)-3-{5-carbamoyl-3-[(2R,3R,4S,5R)-3,4-dihydroxy-5-[(phosphonooxy)methyl]oxolan-2-yl]imidazol-4-yl}prop-2-enamido]phenyl}formamido)pentanedioic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02549
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00591
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3'-O-Acetylthymidine-5'-diphosphate
+
+> <SYNONYMS>
+3'-O-Acetylthymidine 5'-(trihydrogen diphosphate)
+
+$$$$

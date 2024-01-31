@@ -1,0 +1,168 @@
+
+  Mrv1909 11212216082D          
+
+ 24 26  0  0  0  0            999 V2000
+   -0.4948   -0.8266    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+    0.1682   -1.3188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9247   -2.0859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1005   -2.0975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1675   -1.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3509   -2.8002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3053   -2.8232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9446   -3.5219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1207   -3.5333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4512   -0.0023    0.0000 Ru  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0340    0.5804    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1311   -0.5848    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.1311    0.5804    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0340   -0.5848    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4535    0.8223    0.0000 N   0  0  0  0  0  4  0  0  0  0  0  0
+   -1.1277    1.2877    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0747    2.0980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8986    2.0763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1993    1.3223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3226    2.8285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3291    2.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1121    3.5333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9361    3.5120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3509   -0.0064    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  3  5  1  0  0  0  0
+  4  2  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14 10  1  0  0  0  0
+  5  1  2  0  0  0  0
+  6  3  2  0  0  0  0
+  7  4  2  0  0  0  0
+  8  6  1  0  0  0  0
+  9  7  1  0  0  0  0
+  4  3  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 16  1  0  0  0  0
+ 19 15  2  0  0  0  0
+ 20 17  2  0  0  0  0
+ 21 18  2  0  0  0  0
+ 22 20  1  0  0  0  0
+ 23 21  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 10 15  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  1  1  0  0  0  0
+M  CHG  1  24   1
+M  END
+> <DATABASE_ID>
+DB17145
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Na+].Cl[Ru](Cl)(Cl)(Cl)([N]1=CC2=CC=CC=C2N1)[N]1=CC2=CC=CC=C2N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/2C7H6N2.4ClH.Na.Ru/c2*1-2-4-7-6(3-1)5-8-9-7;;;;;;/h2*1-5H,(H,8,9);4*1H;;/q;;;;;;+1;+4/p-4
+
+> <INCHI_KEY>
+YGDDGJPSWMFECS-UHFFFAOYSA-J
+
+> <FORMULA>
+C14H12Cl4N4NaRu
+
+> <MOLECULAR_WEIGHT>
+502.14
+
+> <EXACT_MASS>
+500.875172
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.981503696649714e-09
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.846352863720284
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+sodium tetrachlorobis(1H-2lambda4-indazol-2-yl)ruthenium
+
+> <ALOGPS_LOGP>
+4.61
+
+> <JCHEM_LOGP>
+6.1518
+
+> <ALOGPS_LOGS>
+-5.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.428429704719207
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.793545816657227
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.44
+
+> <JCHEM_REFRACTIVITY>
+137.0166
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.93e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ruthenium(3+) sodium bis(indazole) tetrachloride
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB17145
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+IT-139
+
+> <SYNONYMS>
+Ruthenate(1-), tetrachlorobis(1h-indazole-.kappa.n2)-, sodium (1:1), (oc-6-11)-; Sodium hydride; tetrachloro-bis(1h-indazol-2-yl)ruthenium; Sodium Trans-[Tetrachlorobis(1H-Indazole)Ruthenate(iii)]
+
+$$$$

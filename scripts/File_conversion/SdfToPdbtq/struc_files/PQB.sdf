@@ -1,0 +1,175 @@
+PQB
+  Mrv0541 02241214052D          
+
+ 28 30  0  0  0  0            999 V2000
+   -1.6234   -0.1983    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4519   -1.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6982   -1.3408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7844   -2.1613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5914   -2.3328    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0039   -1.6183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8244   -1.5321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3093   -2.1995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1298   -2.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4653   -1.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2858   -1.2734    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9804   -0.6922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1599   -0.7784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0163   -0.9283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7307   -1.3408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0163   -0.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6982    0.3092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6982    1.1342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0163    1.5467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7307    1.1342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4452    1.5467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1597    1.1342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8742    1.5467    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.8742    2.3717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5886    1.1342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3031    1.5467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7307    0.3092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3685    1.8387    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 27  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  1  0  0  0
+ 23 25  1  0  0  0  0
+ 23 28  1  6  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08424
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](O)(CO)COC1=CC(=CC=C1)C(=O)C1=C(N)N(N=C1)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H18FN3O4/c20-13-4-6-14(7-5-13)23-19(21)17(9-22-23)18(26)12-2-1-3-16(8-12)27-11-15(25)10-24/h1-9,15,24-25H,10-11,21H2/t15-/m0/s1
+
+> <INCHI_KEY>
+IJDQETGUEUJVTB-HNNXBMFYSA-N
+
+> <FORMULA>
+C19H18FN3O4
+
+> <MOLECULAR_WEIGHT>
+371.3623
+
+> <EXACT_MASS>
+371.128134284
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.533018600499344e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.60949784282844
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-3-{3-[5-amino-1-(4-fluorophenyl)-1H-pyrazole-4-carbonyl]phenoxy}propane-1,2-diol
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+2.0933761309999994
+
+> <ALOGPS_LOGS>
+-3.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.562425936840443
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.624307301399394
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.1923076033351907
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+97.8833
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.90e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08424
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL](3-{[(2R)-2,3-DIHYDROXYPROPYL]OXY}PHENYL)METHANONE
+
+$$$$

@@ -1,0 +1,179 @@
+
+  Mrv1909 10081919472D          
+
+ 31 34  0  0  0  0            999 V2000
+    1.1270   -5.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -4.7118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -3.8868    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -3.8868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -3.8868    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -3.0618    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -2.6493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -1.8243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.4118    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -1.8243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.6493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.5868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020   -0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3020    0.6507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.0632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.8882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    3.1257    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    3.5382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    3.1257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704    3.5382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704    4.3632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9849    3.1257    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704    1.8882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2704    1.0632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6829    0.3487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.3487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414    1.8882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270    0.6507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -0.1743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 24 29  2  0  0  0  0
+ 17 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 12 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15499
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCS(=O)(=O)N1CCN(CC1)C1=CC=C(NC2=NC=C(C(N)=O)C(NC3CC3)=N2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H27N7O3S/c1-2-31(29,30)27-11-9-26(10-12-27)16-7-5-15(6-8-16)24-20-22-13-17(18(21)28)19(25-20)23-14-3-4-14/h5-8,13-14H,2-4,9-12H2,1H3,(H2,21,28)(H2,22,23,24,25)
+
+> <INCHI_KEY>
+BGLPECHZZQDNCD-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H27N7O3S
+
+> <MOLECULAR_WEIGHT>
+445.54
+
+> <EXACT_MASS>
+445.189608931
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+58
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.74458815010516
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(cyclopropylamino)-2-({4-[4-(ethanesulfonyl)piperazin-1-yl]phenyl}amino)pyrimidine-5-carboxamide
+
+> <ALOGPS_LOGP>
+2.08
+
+> <JCHEM_LOGP>
+1.3879815013333334
+
+> <ALOGPS_LOGS>
+-3.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.453935030983649
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.39064304805746
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.332915245623114
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.55
+
+> <JCHEM_REFRACTIVITY>
+121.1747
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.82e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methyl-[1,2,4]triazino[3,4-a]phthalazin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB15499
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Cerdulatinib
+
+> <SYNONYMS>
+4-(cyclopropylamino)-2-((4-(4-(ethanesulfonyl)piperazin-1-yl)phenyl)amino)pyrimidine-5-carboxamide; 5-pyrimidinecarboxamide, 4-(cyclopropylamino)-2-((4-(4-(ethylsulfonyl)-1-piperazinyl)phenyl)amino)-; Cerdulatinib
+
+$$$$

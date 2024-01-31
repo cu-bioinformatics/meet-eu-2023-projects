@@ -1,0 +1,162 @@
+RF3
+  Mrv0541 02241214072D          
+
+ 24 27  0  0  0  0            999 V2000
+   -1.6242    3.0278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2917    3.5127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9591    3.0278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7042    2.2432    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8792    2.2432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3942    1.5757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5738    1.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2382    2.4156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0888    0.9945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7316    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2166    0.4133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4244    0.2409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0605   -0.4266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8810   -0.3403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3659   -1.0078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1110   -1.7924    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1909   -1.0078    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4459   -1.7924    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7784   -2.2773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7784   -3.1023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4459   -3.5873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1909   -4.3719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3659   -4.3719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1110   -3.5873    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  1  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12  9  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 11  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 15  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 18  2  0  0  0  0
+ 20 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 21  1  0  0  0  0
+ 23 22  2  0  0  0  0
+ 24 20  1  0  0  0  0
+ 24 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08471
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O=C(CC1=CC=CS1)N1CCC(CC1)C1=NC(=NO1)C1=CC=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17N3O2S2/c21-15(11-13-3-1-9-23-13)20-7-5-12(6-8-20)17-18-16(19-22-17)14-4-2-10-24-14/h1-4,9-10,12H,5-8,11H2
+
+> <INCHI_KEY>
+SJEVDMFUHCVNPM-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H17N3O2S2
+
+> <MOLECULAR_WEIGHT>
+359.466
+
+> <EXACT_MASS>
+359.076218183
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0410912482230303e-09
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.33236944057212
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(thiophen-2-yl)-1-{4-[3-(thiophen-2-yl)-1,2,4-oxadiazol-5-yl]piperidin-1-yl}ethan-1-one
+
+> <ALOGPS_LOGP>
+3.58
+
+> <JCHEM_LOGP>
+3.4510870513333325
+
+> <ALOGPS_LOGS>
+-3.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9787957516628958
+
+> <JCHEM_POLAR_SURFACE_AREA>
+59.230000000000004
+
+> <JCHEM_REFRACTIVITY>
+105.02510000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08471
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-(thiophen-2-ylacetyl)-4-(3-thiophen-2-yl-1,2,4-oxadiazol-5-yl)piperidine
+
+$$$$

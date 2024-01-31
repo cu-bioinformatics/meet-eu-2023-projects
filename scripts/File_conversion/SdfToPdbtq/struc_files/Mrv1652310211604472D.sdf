@@ -1,0 +1,174 @@
+
+  Mrv1652310211604472D          
+
+ 27 30  0  0  0  0            999 V2000
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    0.0709    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4087    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8212    2.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4087    3.6664    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837    3.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    2.9519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8212    4.3808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6462    4.3808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0587    3.6664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0587    5.0953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8837    5.0953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2962    5.8098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8837    6.5242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0587    6.5242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6462    5.8098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2962    7.2387    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 21 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13080
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+FC1=CC=C(C=C1)C(=O)CN1CCC(CN2CC3=CC=CC=C3C2=O)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H23FN2O2/c23-19-7-5-17(6-8-19)21(26)15-24-11-9-16(10-12-24)13-25-14-18-3-1-2-4-20(18)22(25)27/h1-8,16H,9-15H2
+
+> <INCHI_KEY>
+RNRYULFRLCBRQS-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H23FN2O2
+
+> <MOLECULAR_WEIGHT>
+366.436
+
+> <EXACT_MASS>
+366.174356152
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.62128659482173
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-({1-[2-(4-fluorophenyl)-2-oxoethyl]piperidin-4-yl}methyl)-2,3-dihydro-1H-isoindol-1-one
+
+> <ALOGPS_LOGP>
+2.96
+
+> <JCHEM_LOGP>
+2.884796712333334
+
+> <ALOGPS_LOGS>
+-3.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.09496444319247
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.190337700653025
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.445176811822137
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.620000000000005
+
+> <JCHEM_REFRACTIVITY>
+103.8716
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.26e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-({1-[2-(4-fluorophenyl)-2-oxoethyl]piperidin-4-yl}methyl)-3H-isoindol-1-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13080
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Roluperidone
+
+> <SYNONYMS>
+Roluperidone
+
+> <SALTS>
+Roluperidone hydrochloride
+
+$$$$

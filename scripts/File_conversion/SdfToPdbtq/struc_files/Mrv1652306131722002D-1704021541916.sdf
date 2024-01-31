@@ -1,0 +1,170 @@
+
+  Mrv1652306131722002D          
+
+ 24 26  0  0  1  0            999 V2000
+   -0.1712    0.7310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4087    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712   -0.6979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838   -2.1500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3687   -2.8174    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8838   -3.4849    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0992   -3.2299    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0992   -2.4049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5683   -3.7149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3220   -3.3793    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -4.2695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1937   -2.8174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    0.1271    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  5 13  1  0  0  0  0
+ 14 13  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 17 19  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 16 21  1  1  0  0  0
+ 15 22  1  1  0  0  0
+ 10 23  1  0  0  0  0
+  9 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06234
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)NC1=NC2=CC(Cl)=C(Cl)C=C2N1[C@H]1O[C@@H](CO)[C@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H19Cl2N3O4/c1-6(2)18-15-19-9-3-7(16)8(17)4-10(9)20(15)14-13(23)12(22)11(5-21)24-14/h3-4,6,11-14,21-23H,5H2,1-2H3,(H,18,19)/t11-,12-,13-,14-/m0/s1
+
+> <INCHI_KEY>
+KJFBVJALEQWJBS-XUXIUFHCSA-N
+
+> <FORMULA>
+C15H19Cl2N3O4
+
+> <MOLECULAR_WEIGHT>
+376.23
+
+> <EXACT_MASS>
+375.0752615
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.49292871584087
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3S,4R,5S)-2-{5,6-dichloro-2-[(propan-2-yl)amino]-1H-1,3-benzodiazol-1-yl}-5-(hydroxymethyl)oxolane-3,4-diol
+
+> <ALOGPS_LOGP>
+2.15
+
+> <JCHEM_LOGP>
+1.8380533216666675
+
+> <ALOGPS_LOGS>
+-2.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.891191656112099
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.453910276889925
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.380091447976197
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.77000000000001
+
+> <JCHEM_REFRACTIVITY>
+90.00889999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.20e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+maribavir
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06234
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Maribavir
+
+> <SYNONYMS>
+Maribavir
+
+> <PRODUCTS>
+Livtencity
+
+> <INTERNATIONAL_BRANDS>
+Camvia; Livtencity
+
+$$$$

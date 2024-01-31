@@ -1,0 +1,178 @@
+
+  Mrv1652310201622572D          
+
+ 30 34  0  0  0  0            999 V2000
+   -4.2380    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4130    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9280    0.9826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9280    2.3174    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1027   -3.5195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2902   -3.6627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1027   -2.2555    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  4 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 25 28  1  0  0  0  0
+ 20 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11885
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COC1=CC2=C(OC3=CC=C4NC(C)=CC4=C3F)C=CN=C2C=C1OCC1(N)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C23H22FN3O3/c1-13-9-15-16(27-13)3-4-19(22(15)24)30-18-5-8-26-17-11-21(20(28-2)10-14(17)18)29-12-23(25)6-7-23/h3-5,8-11,27H,6-7,12,25H2,1-2H3
+
+> <INCHI_KEY>
+KSMZEXLVHXZPEF-UHFFFAOYSA-N
+
+> <FORMULA>
+C23H22FN3O3
+
+> <MOLECULAR_WEIGHT>
+407.445
+
+> <EXACT_MASS>
+407.164519743
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.94772541318282
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[({4-[(4-fluoro-2-methyl-1H-indol-5-yl)oxy]-6-methoxyquinolin-7-yl}oxy)methyl]cyclopropan-1-amine
+
+> <ALOGPS_LOGP>
+3.70
+
+> <JCHEM_LOGP>
+3.349219817
+
+> <ALOGPS_LOGS>
+-5.23
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.647487393771506
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.394561630122324
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.39
+
+> <JCHEM_REFRACTIVITY>
+110.6497
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.38e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[({4-[(4-fluoro-2-methyl-1H-indol-5-yl)oxy]-6-methoxyquinolin-7-yl}oxy)methyl]cyclopropan-1-amine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11885
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Anlotinib
+
+> <SYNONYMS>
+1-((4-(4-fluoro-2-methyl-1h-indol-5-yloxy)-6-methoxyquinolin-7-yloxy)methyl)cyclopropan-amine; Catequentinib
+
+> <SALTS>
+Anlotinib hydrochloride
+
+$$$$

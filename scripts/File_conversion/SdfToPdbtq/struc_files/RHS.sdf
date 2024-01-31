@@ -1,0 +1,152 @@
+RHS
+  Mrv0541 02241214072D          
+
+ 18 17  0  0  0  0            999 V2000
+   -2.6966   -0.3403    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9822   -0.7528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9822   -1.5778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2677   -0.3403    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.2677    0.4847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2677    1.3097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0927    0.4847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4427    0.4847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5532   -0.7528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1612   -0.3403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1612    0.4847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8757   -0.7528    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5902   -0.3403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -0.7528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0191   -0.3403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5902    0.4847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047    0.8972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7734   -0.0484    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  6  0  0  0
+  4 18  1  6  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08474
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](CC(=O)NC(CC)CC)(C(N)=O)C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H26N2O2/c1-6-9(7-2)15-11(16)8-10(12(14)17)13(3,4)5/h9-10H,6-8H2,1-5H3,(H2,14,17)(H,15,16)/t10-/m0/s1
+
+> <INCHI_KEY>
+UVHRROJQACYJNP-JTQLQIEISA-N
+
+> <FORMULA>
+C13H26N2O2
+
+> <MOLECULAR_WEIGHT>
+242.3577
+
+> <EXACT_MASS>
+242.199428086
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.043744415783013e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.782885509799776
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R)-2-tert-butyl-N'-(pentan-3-yl)butanediamide
+
+> <ALOGPS_LOGP>
+2.10
+
+> <JCHEM_LOGP>
+1.6043567999999997
+
+> <ALOGPS_LOGS>
+-3.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.74754343628519
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.0537594037339
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.48999862209541983
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.19
+
+> <JCHEM_REFRACTIVITY>
+68.4927
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08474
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(CARBOXYAMIDE(2-CARBOXYAMIDE-2-TERTBUTYLETHYL))PENTAN
+
+$$$$

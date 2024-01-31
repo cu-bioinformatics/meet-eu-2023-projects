@@ -1,0 +1,185 @@
+
+  Mrv1572004111621082D          
+
+ 31 34  0  0  0  0            999 V2000
+    1.4289    2.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    2.0142    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7144    1.1892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.7767    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    1.1892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144    2.0142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4267    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3873    3.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4448    3.9781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2118    3.1839    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3873    3.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2118    3.1839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5991    3.9123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1619    4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3374    4.5832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0498    3.8548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0482    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7144   -0.4607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7144   -1.2857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6982    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7144   -1.2857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144   -0.4607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3873   -2.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7746   -3.1551    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3873   -2.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2118   -2.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5991   -3.1839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1619   -3.8835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5492   -4.6120    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3374   -3.8548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0498   -3.1264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  7 11  1  6  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 17  4  1  1  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 20 23  1  1  0  0  0
+ 23 24  3  0  0  0  0
+ 20 25  1  6  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 25 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01106
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H]1CN(CC[C@]1(C(O)=O)C1=CC=CC=C1)[C@H]1CC[C@](CC1)(C#N)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C26H29FN2O2/c1-19-17-29(16-15-26(19,24(30)31)21-5-3-2-4-6-21)23-11-13-25(18-28,14-12-23)20-7-9-22(27)10-8-20/h2-10,19,23H,11-17H2,1H3,(H,30,31)/t19-,23-,25-,26-/m1/s1
+
+> <INCHI_KEY>
+ZCGOMHNNNFPNMX-KYTRFIICSA-N
+
+> <FORMULA>
+C26H29FN2O2
+
+> <MOLECULAR_WEIGHT>
+420.528
+
+> <EXACT_MASS>
+420.221306345
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+60
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.58351133797778
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S,4R)-3-methyl-4-phenyl-1-[(1s,4s)-4-cyano-4-(4-fluorophenyl)cyclohexyl]piperidine-4-carboxylic acid
+
+> <ALOGPS_LOGP>
+4.56
+
+> <JCHEM_LOGP>
+2.4994275769920513
+
+> <ALOGPS_LOGS>
+-5.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7128965649869827
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.322655960647666
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.33000000000001
+
+> <JCHEM_REFRACTIVITY>
+118.48339999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.47e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levocabastine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01106
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01069
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Levocabastine
+
+> <SYNONYMS>
+Levocabastina; Levocabastine; Levocabastinum
+
+> <PRODUCTS>
+Livostin; Livostin Eye Drops; Livostin Sus Nas 0.5mg/ml
+
+> <SALTS>
+Levocabastine hydrochloride
+
+$$$$

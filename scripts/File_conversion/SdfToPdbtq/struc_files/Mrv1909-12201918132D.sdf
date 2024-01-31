@@ -1,0 +1,181 @@
+
+  Mrv1909 12201918132D          
+
+ 29 32  0  0  0  0            999 V2000
+    3.3565   -1.2078    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6419   -1.6203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6419   -2.4453    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9275   -2.8578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9275   -3.6828    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2129   -2.4453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4283   -2.7003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0565   -2.0328    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4283   -1.3654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2129   -1.6203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9275   -1.2078    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8815   -2.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2940   -2.7473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1190   -2.7473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5315   -2.0328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1190   -1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2940   -1.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5315   -0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3565   -0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1190    0.1105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5315    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1190    1.5394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5315    2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1190    2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5315    3.6828    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2940    2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8815    2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0565    2.2539    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2940    1.5394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  2  0  0  0  0
+  4  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+ 10  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 12  8  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 21 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 29  2  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03571
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=NN(N=C2C(O)=N1)C1=CC(=CC=C1)C(=O)NCC1=CC(Cl)=CC(Cl)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H13Cl2N7O2/c19-11-4-9(5-12(20)7-11)8-22-16(28)10-2-1-3-13(6-10)27-25-14-15(26-27)23-18(21)24-17(14)29/h1-7H,8H2,(H,22,28)(H3,21,23,24,26,29)
+
+> <INCHI_KEY>
+JMQTXEWNXSPEKX-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H13Cl2N7O2
+
+> <MOLECULAR_WEIGHT>
+430.248
+
+> <EXACT_MASS>
+429.050778109
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00026605716575207926
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.537714717436614
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-{5-amino-7-hydroxy-2H-[1,2,3]triazolo[4,5-d]pyrimidin-2-yl}-N-[(3,5-dichlorophenyl)methyl]benzamide
+
+> <ALOGPS_LOGP>
+3.04
+
+> <JCHEM_LOGP>
+3.357999999999999
+
+> <ALOGPS_LOGS>
+-4.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.912054290640661
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.574916768422002
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.0862418521383497
+
+> <JCHEM_POLAR_SURFACE_AREA>
+131.84
+
+> <JCHEM_REFRACTIVITY>
+122.74899999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.90e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-{3-[4-(3-aminopropyl)piperazin-1-yl]propyl}-3-[2-(thiophen-2-yl)acetamido]-5-{[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}benzamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03571
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00198
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+3-(5-amino-7-hydroxy-[1,2,3]triazolo[4,5-d]pyrimidin-2-yl)-N-(3,5-dichlorobenzyl)-benzamide
+
+$$$$

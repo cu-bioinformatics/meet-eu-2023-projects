@@ -1,0 +1,158 @@
+
+  Mrv1909 03042003462D          
+
+ 20 21  0  0  0  0            999 V2000
+   -1.3737   -3.5062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3737   -2.6812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6592   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6592   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3737   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0881   -1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0881   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3737   -0.2062    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5487   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1986   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3737    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6592    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0552    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6592    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7697    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7697    1.0312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0552    2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842    2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4842    3.0937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1986    3.5062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 13  2  0  0  0  0
+ 17 14  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 12  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11462
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC1=CC=C(NS(=O)(=O)C2=CC=C(N)C=C2)N=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14N4O3S/c1-2-19-12-8-7-11(14-15-12)16-20(17,18)10-5-3-9(13)4-6-10/h3-8H,2,13H2,1H3,(H,14,16)
+
+> <INCHI_KEY>
+FFJIWWBSBCOKLS-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H14N4O3S
+
+> <MOLECULAR_WEIGHT>
+294.33
+
+> <EXACT_MASS>
+294.078661501
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+34
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.5908159453018205
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.428699420073464
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(6-ethoxypyridazin-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.85
+
+> <JCHEM_LOGP>
+0.822594516333333
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.84047993442262
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.016038821568398
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.2
+
+> <JCHEM_REFRACTIVITY>
+77.13579999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.21e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4,4'-dihydroxy-10,10'-dioxo-5,5'-bis({[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy})-9H,9'H-[9,9'-bianthracene]-2,2'-dicarboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11462
+
+> <DRUG_GROUPS>
+vet_approved
+
+> <GENERIC_NAME>
+Sulfaethoxypyridazine
+
+> <SYNONYMS>
+4-amino-N-(6-ethoxy-3-pyridazinyl)benzenesulfonamide; N1-(6-ethoxy-3-pyridazinyl)sulfanilamide; N1-(6-ethoxypyridazin-3-yl)sulphanilamide
+
+$$$$

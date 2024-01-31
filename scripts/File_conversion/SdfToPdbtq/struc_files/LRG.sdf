@@ -1,0 +1,166 @@
+LRG
+  Mrv0541 02241213522D          
+
+ 25 27  0  0  0  0            999 V2000
+   -3.1111    1.0225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8256    0.6100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8256   -0.2150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1111   -0.6275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3967   -0.2150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3967    0.6100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6822    1.0225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9677    0.6100    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9677   -0.2150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6822   -0.6275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2533   -0.6275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2533    1.0225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4612    0.6100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1757    1.0225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8902    0.6100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4612   -0.2150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1757   -0.6275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8902   -0.2150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6046   -0.6275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6046   -1.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3191   -1.8650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0336   -1.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0336   -0.6275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3191   -0.2150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4734    0.3180    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  1  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 25  1  1  0  0  0
+  9 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  8 12  1  1  0  0  0
+ 13 14  2  0  0  0  0
+ 15 14  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 15  2  0  0  0  0
+ 19 24  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 20  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08121
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC1=CC=CC=C1)(OC1=CC=C(C=C1)C1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H18O3/c22-21(23)20(15-16-7-3-1-4-8-16)24-19-13-11-18(12-14-19)17-9-5-2-6-10-17/h1-14,20H,15H2,(H,22,23)/t20-/m0/s1
+
+> <INCHI_KEY>
+TZTPJJNNACUQQR-FQEVSTJZSA-N
+
+> <FORMULA>
+C21H18O3
+
+> <MOLECULAR_WEIGHT>
+318.3658
+
+> <EXACT_MASS>
+318.125594442
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.999002830762618
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.71444033622659
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-{[1,1'-biphenyl]-4-yloxy}-3-phenylpropanoic acid
+
+> <ALOGPS_LOGP>
+4.50
+
+> <JCHEM_LOGP>
+5.165873830666667
+
+> <ALOGPS_LOGS>
+-5.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.999202158345989
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.907660124513045
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+92.85490000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.12e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08121
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+
+$$$$

@@ -1,0 +1,156 @@
+CLI
+  Mrv0541 02231217292D          
+
+ 19 20  0  0  0  0            999 V2000
+   -2.2637   -2.0084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4567   -1.8369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9047   -2.4500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2018   -1.0523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3948   -0.8807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1399   -0.0961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6447    0.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6248    0.5713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4498    0.5713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8623    1.2858    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8623   -0.1431    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1399    1.2388    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6447    0.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3592    1.3963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0737    0.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7881    1.3963    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.0737    0.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3592   -0.2537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3592   -1.0787    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 13  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04175
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC(=O)CCC1=C(NC2=C1C(Cl)=CC(Cl)=C2)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H9Cl2NO4/c13-5-3-7(14)10-6(1-2-9(16)17)11(12(18)19)15-8(10)4-5/h3-4,15H,1-2H2,(H,16,17)(H,18,19)
+
+> <INCHI_KEY>
+KNBSYZNKEAWABY-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H9Cl2NO4
+
+> <MOLECULAR_WEIGHT>
+302.11
+
+> <EXACT_MASS>
+300.990863195
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.9988869276780314
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.62081615313454
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(2-carboxyethyl)-4,6-dichloro-1H-indole-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.46
+
+> <JCHEM_LOGP>
+2.9399981476666666
+
+> <ALOGPS_LOGS>
+-3.85
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.988264616707232
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3651134589863103
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.38999999999999
+
+> <JCHEM_REFRACTIVITY>
+69.79639999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04175
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00939
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Mdl-29951
+
+$$$$

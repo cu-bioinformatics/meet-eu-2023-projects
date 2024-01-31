@@ -1,0 +1,153 @@
+397
+  Mrv0541 02241213092D          
+
+ 17 19  0  0  0  0            999 V2000
+    2.5142   -0.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7998   -0.9124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0853   -0.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0853    0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7998    0.7376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5142    0.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3007   -0.7548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1843   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3007    0.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0093   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4218   -0.8018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2468   -0.8018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6593   -0.0874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2468    0.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4218    0.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2287    0.7376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4843   -0.0874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07032
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=CC2=C(O1)C=CC(O)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H10O3/c15-11-3-1-9(2-4-11)14-8-10-7-12(16)5-6-13(10)17-14/h1-8,15-16H
+
+> <INCHI_KEY>
+SNNNDCMXZYWCCI-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H10O3
+
+> <MOLECULAR_WEIGHT>
+226.2274
+
+> <EXACT_MASS>
+226.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.009179329021316098
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.135527125546417
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-hydroxyphenyl)-1-benzofuran-5-ol
+
+> <ALOGPS_LOGP>
+3.19
+
+> <JCHEM_LOGP>
+3.0924650589999993
+
+> <ALOGPS_LOGS>
+-3.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.734682411824156
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.13106883683453
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.90101179180164
+
+> <JCHEM_POLAR_SURFACE_AREA>
+53.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+63.8746
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07032
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(4-HYDROXY-PHENYL)BENZOFURAN-5-OL
+
+$$$$

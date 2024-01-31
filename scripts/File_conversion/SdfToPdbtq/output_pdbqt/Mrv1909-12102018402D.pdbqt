@@ -1,0 +1,69 @@
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CG_3
+REMARK    2  A    between atoms: CB_1  and  CA_4
+REMARK    3  A    between atoms: C_2  and  CA_4
+REMARK    4  A    between atoms: C_11  and  CA_15
+REMARK    5  A    between atoms: NE_14  and  CD_19
+REMARK    6  A    between atoms: CA_15  and  CB_20
+REMARK    7  A    between atoms: CD_19  and  CG_21
+REMARK    8  A    between atoms: CB_20  and  CG_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ASP A   1       3.396  -0.211   0.000  0.00  0.00    +0.000 C 
+ATOM      2  N   ASP A   1       3.396  -1.049   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      3  C   ASP A   1       2.666   0.211   0.000  0.00  0.00    +0.000 C 
+ATOM      4  O   ASP A   1       2.666   1.026   0.000  0.00  0.00    +0.000 OA
+ATOM      5  OXT ASP A   1       1.960  -0.201   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CB  ASP A   1       4.103   0.201   0.000  0.00  0.00    +0.000 C 
+BRANCH   6   7
+ATOM      7  CG  ASP A   1       4.817  -0.201   0.000  0.00  0.00    +0.000 C 
+ATOM      8  OD1 ASP A   1       5.536   0.224   0.000  0.00  0.00    +0.000 OA
+ATOM      9  OD2 ASP A   1       4.830  -1.026   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   6   7
+ENDBRANCH   1   6
+TORSDOF 3
+REMARK  Name = 
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CG_3
+REMARK    2  A    between atoms: CB_1  and  CA_4
+REMARK    3  A    between atoms: C_2  and  CA_4
+REMARK    4  A    between atoms: C_11  and  CA_15
+REMARK    5  A    between atoms: NE_14  and  CD_19
+REMARK    6  A    between atoms: CA_15  and  CB_20
+REMARK    7  A    between atoms: CD_19  and  CG_21
+REMARK    8  A    between atoms: CB_20  and  CG_21
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ARG A   1      -3.399   0.216   0.000  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  CA  ARG A   1      -4.097  -0.219   0.000  0.00  0.00    +0.000 C 
+ATOM      3  N   ARG A   1      -4.105  -1.016   0.000  0.00  0.00    +0.000 NA
+BRANCH   2   4
+ATOM      4  C   ARG A   1      -4.798   0.216   0.000  0.00  0.00    +0.000 C 
+ATOM      5  O   ARG A   1      -4.811   1.031   0.000  0.00  0.00    +0.000 OA
+ATOM      6  OXT ARG A   1      -5.536  -0.201   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   2   4
+ENDBRANCH   1   2
+BRANCH   1   7
+ATOM      7  CG  ARG A   1      -2.669  -0.201   0.000  0.00  0.00    +0.000 C 
+BRANCH   7   8
+ATOM      8  CD  ARG A   1      -1.950   0.216   0.000  0.00  0.00    +0.000 C 
+BRANCH   8  11
+ATOM      9  CZ  ARG A   1      -0.519   0.216   0.000  0.00  0.00    +0.000 C 
+ATOM     10  NH1 ARG A   1      -0.519   1.049   0.000  0.00  0.00    +0.000 NA
+ATOM     11  NE  ARG A   1      -1.233  -0.188   0.000  0.00  0.00    +0.000 NA
+ATOM     12  NH2 ARG A   1       0.201  -0.201   0.000  0.00  0.00    +0.000 NA
+ENDBRANCH   8  11
+ENDBRANCH   7   8
+ENDBRANCH   1   7
+TORSDOF 5

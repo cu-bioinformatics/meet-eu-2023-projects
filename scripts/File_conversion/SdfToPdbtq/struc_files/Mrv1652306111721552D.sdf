@@ -1,0 +1,158 @@
+
+  Mrv1652306111721552D          
+
+ 21 23  0  0  0  0            999 V2000
+    0.3555   -0.4242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3525   -0.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3555    1.2098    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0664    0.8112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0664   -0.0200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3525    0.8112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0722   -0.4242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0029   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0722    1.2098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7918    1.2241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7803   -0.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0235   -0.9230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7803    0.8112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5027   -0.4358    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4157   -1.7517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7918    2.0526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5027    2.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0029   -2.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2270   -1.7775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8227   -2.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  2  2  0  0  0  0
+  8  1  1  0  0  0  0
+  9  6  2  0  0  0  0
+ 10  4  1  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12  1  1  0  0  0  0
+ 13 11  2  0  0  0  0
+ 14 11  1  0  0  0  0
+ 15  8  2  0  0  0  0
+ 16  8  1  0  0  0  0
+ 17 10  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 16  2  0  0  0  0
+ 20 15  1  0  0  0  0
+ 21 19  1  0  0  0  0
+  6  3  1  0  0  0  0
+ 20 21  2  0  0  0  0
+  9 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08986
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCNC1=NC2=CC=C(Cl)C=C2C(C)(O1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H17ClN2O/c1-3-19-16-20-15-10-9-13(18)11-14(15)17(2,21-16)12-7-5-4-6-8-12/h4-11H,3H2,1-2H3,(H,19,20)
+
+> <INCHI_KEY>
+IBYCYJFUEJQSMK-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H17ClN2O
+
+> <MOLECULAR_WEIGHT>
+300.79
+
+> <EXACT_MASS>
+300.1029409
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.25148854510429
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-chloro-N-ethyl-4-methyl-4-phenyl-4H-3,1-benzoxazin-2-amine
+
+> <ALOGPS_LOGP>
+4.52
+
+> <JCHEM_LOGP>
+4.590647957666667
+
+> <ALOGPS_LOGS>
+-5.14
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.179179486548087
+
+> <JCHEM_POLAR_SURFACE_AREA>
+33.62
+
+> <JCHEM_REFRACTIVITY>
+87.2307
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.16e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+etifoxine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08986
+
+> <DRUG_GROUPS>
+investigational; withdrawn
+
+> <GENERIC_NAME>
+Etifoxine
+
+> <SYNONYMS>
+Etifoxina; Etifoxine; Etifoxinum
+
+> <INTERNATIONAL_BRANDS>
+Exsist; Stresam
+
+> <SALTS>
+Etifoxine hydrochloride
+
+$$$$

@@ -1,0 +1,158 @@
+219
+  Mrv0541 02231216422D          
+
+ 20 21  0  0  0  0            999 V2000
+   -2.3169   -0.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0314   -0.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0314    0.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3169    0.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6024    0.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6024   -0.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3169    1.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8879    0.7725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1735    0.3600    0.0000 P   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5410   -0.0525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5860   -0.3544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2555    0.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6024    2.0100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2390    1.0745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9699   -0.0525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6844    0.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3989   -0.0525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3989   -0.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6844   -1.2900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9699   -0.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  9  8  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 14  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03114
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[P@@](=O)(OCC1CCCCC1)OC1=C(C=O)C=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H19O5P/c15-10-13-8-4-5-9-14(13)19-20(16,17)18-11-12-6-2-1-3-7-12/h4-5,8-10,12H,1-3,6-7,11H2,(H,16,17)
+
+> <INCHI_KEY>
+YBEVTZVQKMYQPM-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H19O5P
+
+> <MOLECULAR_WEIGHT>
+298.2714
+
+> <EXACT_MASS>
+298.09701023
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9999976656026806
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+29.556507454847978
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(cyclohexylmethoxy)(2-formylphenoxy)phosphinic acid
+
+> <ALOGPS_LOGP>
+2.34
+
+> <JCHEM_LOGP>
+3.220561684333333
+
+> <ALOGPS_LOGS>
+-2.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.3681757907105012
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.300561487310526
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.83
+
+> <JCHEM_REFRACTIVITY>
+75.7231
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.50e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03114
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00088
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+PAS219
+
+$$$$

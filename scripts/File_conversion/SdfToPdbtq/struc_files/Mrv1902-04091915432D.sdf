@@ -1,0 +1,167 @@
+
+  Mrv1902 04091915432D          
+
+ 25 28  0  0  0  0            999 V2000
+   -2.0578   -0.1019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0578   -0.9280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3448   -1.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3448    0.3152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6319   -0.1019    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6309   -0.9280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0810   -1.3379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7963   -0.9262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0789    0.3142    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7910   -0.1024    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7989    1.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797    1.1370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5109    1.1281    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5074    0.3073    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.2871    0.0500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7725    0.7121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2929    1.3784    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3450   -2.1629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7725   -1.3421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6393    0.7240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7832    0.7240    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0740   -0.5108    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5007   -0.5149    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5049    1.9547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5518    2.1629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  5  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 13  1  0  0  0  0
+  3 18  1  0  0  0  0
+  2 19  2  0  0  0  0
+  5 20  1  1  0  0  0
+ 10 21  1  1  0  0  0
+  9 22  1  6  0  0  0
+ 14 23  1  6  0  0  0
+ 13 24  1  1  0  0  0
+ 17 25  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB01485
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=C(O)C(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28O3/c1-18-10-8-15(20)17(22)14(18)4-3-11-12-5-6-16(21)19(12,2)9-7-13(11)18/h11-13,16,21-22H,3-10H2,1-2H3/t11-,12-,13-,16-,18+,19-/m0/s1
+
+> <INCHI_KEY>
+BQOIJSIMMIDHMO-FBPKJDBXSA-N
+
+> <FORMULA>
+C19H28O3
+
+> <MOLECULAR_WEIGHT>
+304.43
+
+> <EXACT_MASS>
+304.203844762
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.733044491892144
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,3aS,3bR,9aR,9bS,11aS)-1,6-dihydroxy-9a,11a-dimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+> <ALOGPS_LOGP>
+2.48
+
+> <JCHEM_LOGP>
+2.846765616333334
+
+> <ALOGPS_LOGS>
+-3.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.377705208100718
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.283947715347164
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8839907302035628
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+86.39719999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.80e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxytestosterone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01485
+
+> <DRUG_GROUPS>
+experimental; illicit
+
+> <GENERIC_NAME>
+4-Hydroxytestosterone
+
+> <SYNONYMS>
+4-Androstene-7alpha-17beta-diol-3-one; 4,17beta-Dihydroxy-4-androstene-3-one; 7alpha-Hydroxytestosterone
+
+$$$$

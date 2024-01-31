@@ -1,0 +1,157 @@
+CDU
+  Mrv0541 02231217062D          
+
+ 20 20  0  0  0  0            999 V2000
+   -4.1910   -1.2165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9055   -0.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9055    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1910    0.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4767    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4767   -0.8040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7622    0.4334    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0478    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0478   -0.8040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3332    0.4334    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6188    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0956    0.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8101    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5244    0.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2389    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9533    0.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6679    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3822    0.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0967    0.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8111    0.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03677
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCCCCCCCCNC(=O)NC1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H34N2O/c1-2-3-4-5-6-7-8-12-15-18-17(20)19-16-13-10-9-11-14-16/h16H,2-15H2,1H3,(H2,18,19,20)
+
+> <INCHI_KEY>
+LPXYBLIRYGCMPQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H34N2O
+
+> <MOLECULAR_WEIGHT>
+282.4647
+
+> <EXACT_MASS>
+282.26711372
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+54
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.1407927298594154e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.01635056722344
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-cyclohexyl-3-decylurea
+
+> <ALOGPS_LOGP>
+5.76
+
+> <JCHEM_LOGP>
+4.874099805999999
+
+> <ALOGPS_LOGS>
+-4.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.552578861695393
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6160119429020419
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.13
+
+> <JCHEM_REFRACTIVITY>
+85.4298
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.89e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03677
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00878
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Cyclohexyl-N'-Decylurea
+
+$$$$

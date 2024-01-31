@@ -1,0 +1,180 @@
+1607
+  Mrv0541 02231215352D          
+
+ 26 28  0  0  1  0            999 V2000
+    7.3584    0.3193    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8619    0.0884    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1597   -1.3486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0613   -2.4133    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4203   -1.9718    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1472   -0.3560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4132    2.4060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7928    2.0333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5737   -0.7607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1597    0.6523    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5737    0.0644    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.8433   -0.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3584   -1.0156    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.7419    0.0677    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.7419   -0.7641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5107   -0.8331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5107    0.1368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6133   -1.8002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3624    0.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7803    1.0250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9829    0.8131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9954    1.8214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3428    1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6857    0.0435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.8857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4718    0.7164    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2 24  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 19  2  0  0  0  0
+  7 22  1  0  0  0  0
+  8 22  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 14 10  1  1  0  0  0
+ 10 19  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 26  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 20 19  1  1  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 23 25  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01607
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](C(O)=O)C1=CSC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H16N2O6S2/c1-15(2)9(14(22)23)17-11(19)8(12(17)25-15)16-10(18)7(13(20)21)6-3-4-24-5-6/h3-5,7-9,12H,1-2H3,(H,16,18)(H,20,21)(H,22,23)/t7-,8-,9+,12-/m1/s1
+
+> <INCHI_KEY>
+OHKOGUYZJXTSFX-KZFFXBSXSA-N
+
+> <FORMULA>
+C15H16N2O6S2
+
+> <MOLECULAR_WEIGHT>
+384.427
+
+> <EXACT_MASS>
+384.044977634
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.998750624377309
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.142698201040275
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-[(2R)-2-carboxy-2-(thiophen-3-yl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.99
+
+> <JCHEM_LOGP>
+0.5957987833333339
+
+> <ALOGPS_LOGS>
+-3.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.122551213407442
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.092058497194068
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.32850787734463
+
+> <JCHEM_POLAR_SURFACE_AREA>
+124.01
+
+> <JCHEM_REFRACTIVITY>
+87.92530000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.16e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01607
+
+> <DRUG_GROUPS>
+approved; investigational; vet_approved
+
+> <GENERIC_NAME>
+Ticarcillin
+
+> <SYNONYMS>
+(2S,5R,6R)-6-{[(2R)-2-carboxy-2-thiophen-3-ylacetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; Ticarcilina; Ticarcillin; Ticarcilline; Ticarcillinum; α-carboxy-3-thienylmethylpenicillin
+
+> <PRODUCTS>
+Ticar; Ticar Inj Pws 1gm/vial; Ticar Inj Pws 3gm/vial; Timentin
+
+> <SALTS>
+Ticarcillin disodium
+
+$$$$

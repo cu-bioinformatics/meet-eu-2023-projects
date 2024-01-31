@@ -1,0 +1,155 @@
+APF
+  Mrv0541 02241213232D          
+
+ 19 19  0  0  0  0            999 V2000
+   -1.7226   -1.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0081   -1.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2936   -1.7600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0081   -0.5225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2936   -0.1100    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4208   -0.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4208   -1.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2936    0.7150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1353   -0.1100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4042   -1.3475    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2458   -1.3475    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4208   -2.1725    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4208    1.1275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4208    1.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1353    2.3650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8498    1.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8498    1.1275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1353    0.7150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2936   -0.6939    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 19  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07380
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](CC1=CC=CC=C1)(NC(C)=O)C(=O)C(F)(F)F
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12F3NO2/c1-8(17)16-10(11(18)12(13,14)15)7-9-5-3-2-4-6-9/h2-6,10H,7H2,1H3,(H,16,17)/t10-/m0/s1
+
+> <INCHI_KEY>
+JTIIYPHJIDENCW-JTQLQIEISA-N
+
+> <FORMULA>
+C12H12F3NO2
+
+> <MOLECULAR_WEIGHT>
+259.2244
+
+> <EXACT_MASS>
+259.082013248
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-9.85933852269511e-06
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.456488813028137
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-[(2S)-4,4,4-trifluoro-3-oxo-1-phenylbutan-2-yl]acetamide
+
+> <ALOGPS_LOGP>
+1.94
+
+> <JCHEM_LOGP>
+2.358415817
+
+> <ALOGPS_LOGS>
+-3.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.018560400985418
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.006098491771306
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9141980838019912
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.17
+
+> <JCHEM_REFRACTIVITY>
+59.12140000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.70e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07380
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1,1,1-TRIFLUORO-3-ACETAMIDO-4-PHENYL BUTAN-2-ONE(N-ACETYL-L-PHENYLALANYL TRIFLUOROMETHYL KETONE)
+
+$$$$

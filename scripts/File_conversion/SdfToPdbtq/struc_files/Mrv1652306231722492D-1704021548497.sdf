@@ -1,0 +1,149 @@
+
+  Mrv1652306231722492D          
+
+ 19 22  0  0  1  0            999 V2000
+    4.7791    1.5503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1170    1.0582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2121    0.2387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5499   -0.2534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8196   -0.1578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6976    0.8935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1279    1.3587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0508    1.4057    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7782    1.7950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4790    1.3597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4525    0.5351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7251    0.1459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0243    0.5811    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4609   -0.6678    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2804   -0.5727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8142   -0.1556    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7191    0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2313    1.3106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0935   -0.5571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  8  6  1  6  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 12  1  6  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  5 15  1  0  0  0  0
+ 14 16  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13810
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC1=CC=C(C)C=C31
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H25N/c1-13-6-7-14-12-17-15-5-3-4-8-18(15,16(14)11-13)9-10-19(17)2/h6-7,11,15,17H,3-5,8-10,12H2,1-2H3/t15-,17+,18+/m1/s1
+
+> <INCHI_KEY>
+KBEZZLAAKIIPFK-NJAFHUGGSA-N
+
+> <FORMULA>
+C18H25N
+
+> <MOLECULAR_WEIGHT>
+255.405
+
+> <EXACT_MASS>
+255.198699809
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.916276215350372
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,9S,10S)-4,17-dimethyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2,4,6-triene
+
+> <ALOGPS_LOGP>
+4.02
+
+> <JCHEM_LOGP>
+4.164867005666667
+
+> <ALOGPS_LOGS>
+-5.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.039474030491405
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+81.1412
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.54e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(1S,9S,10S)-4,17-dimethyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2,4,6-triene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB13810
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Dimemorfan
+
+> <SYNONYMS>
+Dimemorfan; Dimemorfano
+
+$$$$

@@ -1,0 +1,174 @@
+462
+  Mrv0541 02241213112D          
+
+ 29 31  0  0  0  0            999 V2000
+   -2.4618    3.9722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6772    3.7173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5057    2.9103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7211    2.6554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5495    1.8484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2351    1.5935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4066    0.7865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2065    0.2345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9911    0.4894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1626    1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0350   -0.5725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5870   -1.1856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1745   -1.9001    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6325   -1.7286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7187   -0.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4332   -0.4956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4332    0.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7187    0.7419    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1477    0.7419    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8621    0.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8621   -0.4956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5766    0.7419    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2456   -2.2806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0302   -2.0257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6433   -2.5777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4718   -3.3847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6871   -3.6396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0741   -3.0876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2894   -3.3425    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 17  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 22 20  1  0  0  0  0
+ 23 14  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 24  1  0  0  0  0
+ 26 25  2  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 26  1  0  0  0  0
+ 28 23  1  0  0  0  0
+ 29 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07089
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCOC1=CC=C(C=C1)C1=CSC(=C1CC(=O)NC(N)=N)C1=CC=CC=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H22ClN3O2S/c1-2-11-28-15-9-7-14(8-10-15)18-13-29-21(16-5-3-4-6-19(16)23)17(18)12-20(27)26-22(24)25/h3-10,13H,2,11-12H2,1H3,(H4,24,25,26,27)
+
+> <INCHI_KEY>
+VZSMTBLDWPKVRW-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H22ClN3O2S
+
+> <MOLECULAR_WEIGHT>
+427.947
+
+> <EXACT_MASS>
+427.11212536
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9802790785491776
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.66555833323498
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-carbamimidoyl-2-[2-(2-chlorophenyl)-4-(4-propoxyphenyl)thiophen-3-yl]acetamide
+
+> <ALOGPS_LOGP>
+5.16
+
+> <JCHEM_LOGP>
+4.926244967666666
+
+> <ALOGPS_LOGS>
+-5.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.587901215989707
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.69700325202543
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.2
+
+> <JCHEM_REFRACTIVITY>
+127.7274
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.83e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07089
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-[amino(imino)methyl]-2-[2-(2-chlorophenyl)-4-(4-propoxyphenyl)-3-thienyl]acetamide
+
+$$$$

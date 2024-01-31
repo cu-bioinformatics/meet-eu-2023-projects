@@ -1,0 +1,26 @@
+REMARK  Name = TZB
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_5
+REMARK    2  A    between atoms: C_8  and  C_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -0.118  -0.104   0.000  0.00  0.00    +0.000 C 
+ATOM      2  S   UNK     1      -0.944  -0.104   0.000  0.00  0.00    +0.000 S 
+ATOM      3  C   UNK     1      -1.198   0.681   0.000  0.00  0.00    +0.000 C 
+ATOM      4  C   UNK     1      -0.531   1.166   0.000  0.00  0.00    +0.000 C 
+ATOM      5  N   UNK     1       0.137   0.681   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   8
+ATOM      6  C   UNK     1       0.031  -1.525   0.000  0.00  0.00    +0.000 C 
+ATOM      7  C   UNK     1       0.516  -2.192   0.000  0.00  0.00    +0.000 C 
+ATOM      8  C   UNK     1       0.366  -0.771   0.000  0.00  0.00    +0.000 C 
+ATOM      9  N   UNK     1       1.187  -0.685   0.000  0.00  0.00    +0.000 NA
+ENDBRANCH   1   8
+BRANCH   4  11
+ATOM     10  O   UNK     1      -1.245   2.403   0.000  0.00  0.00    +0.000 OA
+ATOM     11  C   UNK     1      -0.531   1.991   0.000  0.00  0.00    +0.000 C 
+ATOM     12  O   UNK     1       0.183   2.403   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   4  11
+TORSDOF 2

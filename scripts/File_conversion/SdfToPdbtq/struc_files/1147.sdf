@@ -1,0 +1,195 @@
+1147
+  Mrv0541 02231215172D          
+
+ 30 33  0  0  1  0            999 V2000
+    3.0617    3.1935    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.4193    0.0256    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2207   -1.6423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1222   -2.7070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4812   -2.2655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2082   -0.6497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6531    1.3398    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -1.0544    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2207    0.3586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2376    1.9219    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6347   -0.2294    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.9042   -0.6419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4193   -1.3093    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.8029   -0.2259    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8029   -1.0577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5717   -0.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5717   -1.1268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6742   -2.0939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4234    0.1468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8412    0.7313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9719    1.5459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0261    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7077    1.9190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.1304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7526    2.7427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3988    1.4682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4885    3.1157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1346    1.8413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    2.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5327    0.4227    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 25  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 19  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 22  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 14  9  1  1  0  0  0
+  9 19  1  0  0  0  0
+ 10 21  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 30  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 23 26  2  0  0  0  0
+ 25 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 28 29  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01147
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(C)ON=C1C1=CC=CC=C1Cl)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H18ClN3O5S/c1-8-11(12(22-28-8)9-6-4-5-7-10(9)20)15(24)21-13-16(25)23-14(18(26)27)19(2,3)29-17(13)23/h4-7,13-14,17H,1-3H3,(H,21,24)(H,26,27)/t13-,14+,17-/m1/s1
+
+> <INCHI_KEY>
+LQOLIRLGBULYKD-JKIFEVAISA-N
+
+> <FORMULA>
+C19H18ClN3O5S
+
+> <MOLECULAR_WEIGHT>
+435.881
+
+> <EXACT_MASS>
+435.065569098
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9994387015622813
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.637534363969586
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-[3-(2-chlorophenyl)-5-methyl-1,2-oxazole-4-amido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+2.61
+
+> <JCHEM_LOGP>
+2.301739658333334
+
+> <ALOGPS_LOGS>
+-3.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.646550253028195
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.749784586466144
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.4127229030250082
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.74
+
+> <JCHEM_REFRACTIVITY>
+106.6371
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.32e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01147
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00882; EXPT01068
+
+> <DRUG_GROUPS>
+approved; investigational; vet_approved
+
+> <GENERIC_NAME>
+Cloxacillin
+
+> <SYNONYMS>
+(2S,5R,6R)-6-({[3-(2-chlorophenyl)-5-methylisoxazol-4-yl]carbonyl}amino)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; (3-(o-chlorophenyl)-5-methyl-4-isoxazolyl)penicillin; 6-(3-(o-chlorophenyl)-5-methyl-4-isoxazolecarboxamido)penicillanic acid; Cloxacilina; Cloxacillin; Cloxacilline; Cloxacillinum
+
+> <PRODUCTS>
+Apo Cloxi Cap 250mg; Apo Cloxi Cap 500mg; Apo Cloxi for Oral Soln 125mg/5ml; Cloxacillin; Cloxacillin Sodium Sterile Inj 250mg/vial; Cloxacillin Sodium for Injection; Cloxacillin for Injection; Cloxacillin-250 Cap; Jamp Cloxacillin; Nu-cloxi Capsules 250mg; Nu-cloxi Capsules 500mg; Nu-cloxi Solution 125mg/5ml; Orbenin 500 Cap 500mg; Orbenin Cap 250mg; Orbenin Cap 500mg; Orbenin Inj 2000mg; Orbenin Inj 250mg; Orbenin Inj 500mg; Orbenin Pwr 125mg/5ml; Orbenin Pws 125mg/5ml; Riva-cloxacillin 250 Mg Capsules; Riva-cloxacillin 500 Mg Capsules; Taro-cloxacillin Cap 250mg; Taro-cloxacillin Cap 500mg; Tegopen Inj 2000mg/vial; Tegopen Inj 250mg/vial; Tegopen Inj 500mg/vial; Teva-cloxacillin
+
+> <INTERNATIONAL_BRANDS>
+Aclox; Apo-Cloxi; Auropen Inj.; Cloxacil; Cloxam; Orbenin; Vaclox; Vamcloxil
+
+> <SALTS>
+Cloxacillin benzathine; Cloxacillin sodium; Cloxacillin sodium hydrate
+
+$$$$

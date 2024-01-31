@@ -1,0 +1,133 @@
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ASP A   1      -1.643   1.427   0.000  0.00  0.00    +0.000 C 
+ATOM      2  N   ASP A   1      -1.643   0.602   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      3  C   ASP A   1      -0.928   1.840   0.000  0.00  0.00    +0.000 C 
+ATOM      4  O   ASP A   1      -0.214   1.427   0.000  0.00  0.00    +0.000 OA
+ATOM      5  OXT ASP A   1      -0.928   2.665   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CB  ASP A   1      -2.357   1.840   0.000  0.00  0.00    +0.000 C 
+BRANCH   6   8
+ATOM      7  OD1 ASP A   1      -3.786   1.840   0.000  0.00  0.00    +0.000 OA
+ATOM      8  CG  ASP A   1      -3.072   1.427   0.000  0.00  0.00    +0.000 C 
+ATOM      9  OD2 ASP A   1      -3.072   0.602   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   6   8
+ENDBRANCH   1   6
+TORSDOF 3
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CA  ASP A   1      -1.082  -1.840   0.000  0.00  0.00    +0.000 C 
+ATOM      2  N   ASP A   1      -1.082  -2.665   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   3
+ATOM      3  C   ASP A   1      -0.367  -1.427   0.000  0.00  0.00    +0.000 C 
+ATOM      4  O   ASP A   1       0.347  -1.840   0.000  0.00  0.00    +0.000 OA
+ATOM      5  OXT ASP A   1      -0.367  -0.602   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6  CB  ASP A   1      -1.796  -1.427   0.000  0.00  0.00    +0.000 C 
+BRANCH   6   8
+ATOM      7  OD1 ASP A   1      -3.225  -1.427   0.000  0.00  0.00    +0.000 OA
+ATOM      8  CG  ASP A   1      -2.511  -1.840   0.000  0.00  0.00    +0.000 C 
+ATOM      9  OD2 ASP A   1      -2.511  -2.665   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   6   8
+ENDBRANCH   1   6
+TORSDOF 3
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       3.727   0.432   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       3.786  -0.363   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 MG   UNL     1       1.665   0.167   0.000  0.00  0.00    +0.000 Mg
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       3.698   1.110   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CG_2  and  CB_3
+REMARK    2  A    between atoms: CB_3  and  CA_4
+REMARK    3  A    between atoms: CA_4  and  C_5
+REMARK    4  A    between atoms: CG_11  and  CB_12
+REMARK    5  A    between atoms: CB_12  and  CA_13
+REMARK    6  A    between atoms: CA_13  and  C_14
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       3.609   1.728   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0

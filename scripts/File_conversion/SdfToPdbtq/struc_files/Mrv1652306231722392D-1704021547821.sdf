@@ -1,0 +1,164 @@
+
+  Mrv1652306231722392D          
+
+ 24 26  0  0  1  0            999 V2000
+    2.5600    1.8968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9469    1.3448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4620    0.6773    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6773    0.9323    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6773    1.7573    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4620    2.0122    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1477    1.7573    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1477    0.9323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7310    0.3489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7310    2.3406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5279    2.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7414    1.3302    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1113    2.7105    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.9082    2.4970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1217    1.7001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9186    1.4865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5019    2.0699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2884    2.8668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4915    3.0803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8977    3.5074    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7169   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5239   -0.2788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1649   -0.7204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5600    0.7927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  7 10  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 13 20  1  1  0  0  0
+  3 21  1  6  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+  2 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13300
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CCC=CC3)C(=O)N2[C@H]1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H21N3O4S/c1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h3-4,7,9-11,14H,5-6,17H2,1-2H3,(H,18,20)(H,22,23)/t9-,10-,11+,14-/m1/s1
+
+> <INCHI_KEY>
+RPBAFSBGYDKNRG-NJBDSQKTSA-N
+
+> <FORMULA>
+C16H21N3O4S
+
+> <MOLECULAR_WEIGHT>
+351.42
+
+> <EXACT_MASS>
+351.125277342
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.644506128046125
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-[(2R)-2-amino-2-(cyclohexa-1,4-dien-1-yl)acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+-2.3075160687749023
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.051768056111065
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.2508891373711712
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+7.595397569330475
+
+> <JCHEM_POLAR_SURFACE_AREA>
+112.73
+
+> <JCHEM_REFRACTIVITY>
+90.5455
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.92e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+epicillin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13300
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Epicillin
+
+> <SYNONYMS>
+Epicillin
+
+$$$$

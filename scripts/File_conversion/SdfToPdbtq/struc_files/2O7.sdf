@@ -1,0 +1,170 @@
+2O7
+  Mrv0541 02241213062D          
+
+ 28 31  0  0  0  0            999 V2000
+    0.2620    2.7485    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5227    3.8284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5227    2.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0466    3.8284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5315    3.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0466    2.4936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3015    1.7089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5940    2.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0065    3.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7690    3.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3015    4.6131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4525    1.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1670    1.9235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8815    1.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2620    3.5735    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0076    3.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5565    0.9243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3565    3.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7690    2.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5940    3.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0065    4.5899    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.0065    1.7321    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    0.2620    1.9235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8815    0.6860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1670    0.2735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4525    0.6860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5959    0.2735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3104   -0.1390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  4  1  0  0  0  0
+  6  1  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15  2  1  0  0  0  0
+ 17  7  3  0  0  0  0
+ 18  5  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 10  2  0  0  0  0
+ 20  9  1  0  0  0  0
+ 21 20  1  0  0  0  0
+  1 23  1  6  0  0  0
+ 24 14  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 12  1  0  0  0  0
+ 27 24  1  0  0  0  0
+ 28 27  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06972
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC(=CC(Cl)=C1)C1=C(C#N)[C@@]2(CC3=CC=C(C=C3)C#N)CCCN2C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H15Cl2N3O/c23-17-8-16(9-18(24)10-17)20-19(13-26)22(6-1-7-27(22)21(20)28)11-14-2-4-15(12-25)5-3-14/h2-5,8-10H,1,6-7,11H2/t22-/m0/s1
+
+> <INCHI_KEY>
+TZCXQSNBTXDAJG-QFIPXVFZSA-N
+
+> <FORMULA>
+C22H15Cl2N3O
+
+> <MOLECULAR_WEIGHT>
+408.28
+
+> <EXACT_MASS>
+407.059217531
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+3.438704150148487e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.14329149069038
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(7aS)-7a-[(4-cyanophenyl)methyl]-6-(3,5-dichlorophenyl)-5-oxo-2,3,5,7a-tetrahydro-1H-pyrrolizine-7-carbonitrile
+
+> <ALOGPS_LOGP>
+4.30
+
+> <JCHEM_LOGP>
+4.59220803
+
+> <ALOGPS_LOGS>
+-4.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.4636051722811002
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.89
+
+> <JCHEM_REFRACTIVITY>
+109.3241
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.05e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06972
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+7A-[(4-cyanophenyl)methyl]-6-(3,5-dichlorophenyl)-5-oxo-2,3,5,7A-tetrahydro-1H-pyrrolo[1,2-A]pyrrole-7-carbonitrile
+
+$$$$

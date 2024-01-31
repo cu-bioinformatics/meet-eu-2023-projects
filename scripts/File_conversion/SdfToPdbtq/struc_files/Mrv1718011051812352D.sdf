@@ -1,0 +1,155 @@
+
+  Mrv1718011051812352D          
+
+ 17 18  0  0  0  0            999 V2000
+   -0.6340   -0.5232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6340   -1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3484   -1.7608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0629   -1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0629   -0.5232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3484   -0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0804   -0.1107    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7774   -1.7608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7950   -0.5232    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5104   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3320    0.6037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4930    0.6037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5050    0.7144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2967   -0.3603    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2879    0.9745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7774    0.3103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5378    1.7608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  2  0  0  0  0
+  1  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 11  7  2  0  0  0  0
+ 12  7  2  0  0  0  0
+ 13 10  1  0  0  0  0
+ 14 10  2  0  0  0  0
+ 15 13  2  0  0  0  0
+ 16 14  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01015
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11N3O3S/c1-7-6-10(12-16-7)13-17(14,15)9-4-2-8(11)3-5-9/h2-6H,11H2,1H3,(H,12,13)
+
+> <INCHI_KEY>
+JLKIGFTWXXRPMT-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11N3O3S
+
+> <MOLECULAR_WEIGHT>
+253.278
+
+> <EXACT_MASS>
+253.052111923
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.986434546096792
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzene-1-sulfonamide
+
+> <ALOGPS_LOGP>
+0.79
+
+> <JCHEM_LOGP>
+0.7905493986666665
+
+> <ALOGPS_LOGS>
+-2.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.160732177952278
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9717819962605514
+
+> <JCHEM_POLAR_SURFACE_AREA>
+98.22
+
+> <JCHEM_REFRACTIVITY>
+64.4958
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.59e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sulfamethoxazole
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01015
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00076
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Sulfamethoxazole
+
+> <SYNONYMS>
+3-(p-Aminophenylsulfonamido)-5-methylisoxazole; 3-Sulfanilamido-5-methylisoxazole; 4-Amino-N-(5-methyl-3-isoxazolyl)benzenesulfonamide; SMX; Sulfamethoxazole; Sulfametoxazol; Sulphamethoxazole
+
+> <PRODUCTS>
+Apo Sulfamethoxazole Tab 500mg; Apo-sulfatrim Oral Suspension; Bactrim; Bactrim DS; Bactrim DS Roche Tab; Bactrim Roche Inj; Bactrim Roche Suspension Paediatric; Bactrim Roche Tab; Nu-cotrimox Sus 40/8mg/ml; Nu-cotrimox Tab 400/80mg; Nu-cotrimox-DS Tab 800/160mg; Protrin Df Tab; Protrin Tab; Riva-sep DS; Roubac Tab 160/800; Roubac Tab 80/400; SULFAMETHOXAZOLE AND TRIMETHOPRIM double strength; SULFAMETHOXAZOLE and TRIMETHOPRIM; Septra; Septra DS; Septra DS Tablets; Septra Grape; Septra Injection; Septra Pediatric Suspension; Sulfameth/Trimeth-DS; Sulfamethox-TMP DS; Sulfamethoxazole; Sulfamethoxazole Tab 500mg; Sulfamethoxazole and Trimethoprim; Sulfamethoxazole and Trimethoprim (Double Strength); Sulfamethoxazole and Trimethoprim DS; Sulfamethoxazole and Trimethoprim Double Strength; Sulfamethoxazole and Trimethoprim Injection, BP; Sulfamethoxazole and Trimethoprim Tablets; Sulfamethoxazole and Trimethoprim for Injection, USP; Sulfatrim; Sulfatrim DS; Sulfatrim Pediatric; Teva-trimel; Teva-trimel DS; Trisulfa DS Tab; Trisulfa S Suspension; Trisulfa Tab; sulfamethoxazole-trimethoprim (SMZ)
+
+> <INTERNATIONAL_BRANDS>
+Gantanol; Sinomin; Urobak
+
+$$$$

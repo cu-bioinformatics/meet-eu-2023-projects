@@ -1,0 +1,177 @@
+
+  Mrv1909 09292022342D          
+
+ 23 25  0  0  0  0            999 V2000
+   -1.3596    1.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3596    0.6320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6450    0.2195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0693    0.6320    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0693    1.4570    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6450    1.8695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0740    0.2195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7786    0.6264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7783    1.4344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0740   -0.6053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7780    2.2594    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7948    1.8760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7948    0.2131    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5051    0.6230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7946   -0.6053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0732   -1.0218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0730   -1.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7875   -2.2594    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5090   -1.8430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5091   -1.0180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2936   -2.0980    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7786   -1.4307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2938   -0.7631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  9 11  3  0  0  0  0
+  5 12  1  1  0  0  0
+  4 13  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 20 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08895
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@@H]1CCN(C[C@@H]1N(C)C1=NC=NC2=C1C=CN2)C(=O)CC#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H20N6O/c1-11-5-8-22(14(23)3-6-17)9-13(11)21(2)16-12-4-7-18-15(12)19-10-20-16/h4,7,10-11,13H,3,5,8-9H2,1-2H3,(H,18,19,20)/t11-,13+/m1/s1
+
+> <INCHI_KEY>
+UJLAWZDWDVHWOW-YPMHNXCESA-N
+
+> <FORMULA>
+C16H20N6O
+
+> <MOLECULAR_WEIGHT>
+312.3696
+
+> <EXACT_MASS>
+312.169859292
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.003871421125834
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.379974851240846
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(3R,4R)-4-methyl-3-[methyl({7H-pyrrolo[2,3-d]pyrimidin-4-yl})amino]piperidin-1-yl]-3-oxopropanenitrile
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+1.2447144283333336
+
+> <ALOGPS_LOGS>
+-3.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+13.56206063558976
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.151513842738336
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.438639328270864
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.91
+
+> <JCHEM_REFRACTIVITY>
+87.8
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.99e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tofacitinib
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08895
+
+> <SECONDARY_ACCESSION_NUMBERS>
+DB08183
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Tofacitinib
+
+> <SYNONYMS>
+Tasocitinib; Tofacitinib; Tofacitinibum
+
+> <PRODUCTS>
+Auro-tofacitinib; Jamp Tofacitinib; PMS-tofacitinib; Taro-tofacitinib; Xeljanz; Xeljanz XR
+
+> <SALTS>
+Tofacitinib citrate
+
+$$$$

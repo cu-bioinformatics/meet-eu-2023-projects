@@ -1,0 +1,177 @@
+MSD
+  Mrv0541 02241213562D          
+
+ 29 31  0  0  0  0            999 V2000
+   -1.1983    3.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4838    3.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2306    3.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2306    2.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4838    2.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1983    2.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9451    2.0125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9451    1.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2306    0.7750    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6596    0.7750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6596   -0.0500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0721   -0.7644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2471   -0.7644    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5326   -1.1769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5326   -2.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1819   -2.4144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8963   -2.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8963   -1.1769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1819   -0.7644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1819    0.0606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6108   -0.7644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3253   -1.1769    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6108    0.0606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2471   -2.4144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9128    3.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6272    4.0750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2471   -3.2394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2236    0.1012    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8342   -0.3515    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 25  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 10  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 28  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 13 29  1  1  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 24 27  1  0  0  0  0
+ 25 26  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08212
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(C[C@]1([H])C1=C(OC)C=CC(C(C)=O)=C1O)NC(=S)NC1=NC=C(C=C1)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H18N4O3S/c1-10(24)12-4-5-15(26-2)17(18(12)25)13-7-14(13)22-19(27)23-16-6-3-11(8-20)9-21-16/h3-6,9,13-14,25H,7H2,1-2H3,(H2,21,22,23,27)/t13-,14+/m0/s1
+
+> <INCHI_KEY>
+FSRLCMRWYUJTNT-UONOGXRCSA-N
+
+> <FORMULA>
+C19H18N4O3S
+
+> <MOLECULAR_WEIGHT>
+382.436
+
+> <EXACT_MASS>
+382.109961152
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.01362589362471196
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.65250757275238
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(1R,2R)-2-(3-acetyl-2-hydroxy-6-methoxyphenyl)cyclopropyl]-1-(5-cyanopyridin-2-yl)thiourea
+
+> <ALOGPS_LOGP>
+2.07
+
+> <JCHEM_LOGP>
+2.934589858
+
+> <ALOGPS_LOGS>
+-4.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.09635760256036
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.859701961438375
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.852910162576944
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.27000000000001
+
+> <JCHEM_REFRACTIVITY>
+106.9882
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08212
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[2-(3-ACETYL-2-HYDROXY-6-METHOXY-PHENYL)-CYCLOPROPYL]-3-(5-CYANO-PYRIDIN-2-YL)-THIOUREA
+
+$$$$

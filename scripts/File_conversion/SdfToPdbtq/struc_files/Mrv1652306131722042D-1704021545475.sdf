@@ -1,0 +1,156 @@
+
+  Mrv1652306131722042D          
+
+ 20 19  0  0  1  0            999 V2000
+    4.7586    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4730    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1875    3.5724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9020    4.8099    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6164    3.5724    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.6164    2.7474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    2.3349    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3309    3.9849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0454    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7599    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4743    3.5724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1888    3.9849    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.1888    4.8099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9033    5.2224    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9033    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9033    2.7474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6177    3.9849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3322    3.5724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0467    3.9849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 12  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11164
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOC(=O)[C@H](CS)NCCN[C@@H](CS)C(=O)OCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H24N2O4S2/c1-3-17-11(15)9(7-19)13-5-6-14-10(8-20)12(16)18-4-2/h9-10,13-14,19-20H,3-8H2,1-2H3/t9-,10-/m0/s1
+
+> <INCHI_KEY>
+RZQNBTMGBODDSK-UWVGGRQHSA-N
+
+> <FORMULA>
+C12H24N2O4S2
+
+> <MOLECULAR_WEIGHT>
+324.45
+
+> <EXACT_MASS>
+324.117749609
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.49772331123815
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethyl (2R)-2-[(2-{[(2R)-1-ethoxy-1-oxo-3-sulfanylpropan-2-yl]amino}ethyl)amino]-3-sulfanylpropanoate
+
+> <ALOGPS_LOGP>
+1.28
+
+> <JCHEM_LOGP>
+0.6387211746666658
+
+> <ALOGPS_LOGS>
+-3.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.25660695179505
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.654574718227979
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.761209157378915
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.66000000000001
+
+> <JCHEM_REFRACTIVITY>
+83.06280000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.67e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl (2R)-2-[(2-{[(2R)-1-ethoxy-1-oxo-3-sulfanylpropan-2-yl]amino}ethyl)amino]-3-sulfanylpropanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11164
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Bicisate
+
+> <PRODUCTS>
+Bicisate; Neurolite
+
+> <SALTS>
+Bicisate dihydrochloride
+
+$$$$

@@ -1,0 +1,161 @@
+T98
+  Mrv0541 02231217552D          
+
+ 21 23  0  0  0  0            999 V2000
+   -2.0708    0.7757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5405    0.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8260   -0.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1115    0.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6029   -0.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6029   -1.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1115   -1.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8260   -1.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5405   -1.5063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2549   -1.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9694   -1.5063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2549   -0.2688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3174    0.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4037    0.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2106    1.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6231    0.4212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0711   -0.1919    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2426   -0.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4436    0.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2641    0.2487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0102    0.7757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04787
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN1C(=CC=C1C1=CC=C2NC(=S)OC(C)(C)C2=C1)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H15N3OS/c1-16(2)12-8-10(4-6-13(12)18-15(21)20-16)14-7-5-11(9-17)19(14)3/h4-8H,1-3H3,(H,18,21)
+
+> <INCHI_KEY>
+PYVFWTPEBMRKSR-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H15N3OS
+
+> <MOLECULAR_WEIGHT>
+297.375
+
+> <EXACT_MASS>
+297.093582807
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9996775763513892
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.32711254663854
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(4,4-dimethyl-2-sulfanylidene-2,4-dihydro-1H-3,1-benzoxazin-6-yl)-1-methyl-1H-pyrrole-2-carbonitrile
+
+> <ALOGPS_LOGP>
+3.72
+
+> <JCHEM_LOGP>
+3.8153798739999996
+
+> <ALOGPS_LOGS>
+-3.98
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5085657929989864
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.0708347060722474
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.98
+
+> <JCHEM_REFRACTIVITY>
+88.4154
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.11e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04787
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Tanaproget
+
+> <SYNONYMS>
+Tanaproget
+
+$$$$

@@ -1,0 +1,176 @@
+
+  Mrv1533004241504112D          
+
+ 30 31  0  0  0  0            999 V2000
+   -0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5395   -7.0125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -6.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -5.0605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -4.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.1250    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    7.5572   -4.8395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7322   -3.4105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8592   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2881   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0026   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0026   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2881   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5737   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 23 28  1  0  0  0  0
+ 12 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+  9 30  1  0  0  0  0
+M  CHG  1  19   1
+M  END
+> <DATABASE_ID>
+DB11125
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(C)CC(C)(C)C1=CC=C(OCCOCC[N+](C)(C)CC2=CC=CC=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C27H42NO2/c1-26(2,3)22-27(4,5)24-13-15-25(16-14-24)30-20-19-29-18-17-28(6,7)21-23-11-9-8-10-12-23/h8-16H,17-22H2,1-7H3/q+1
+
+> <INCHI_KEY>
+SIYLLGKDQZGJHK-UHFFFAOYSA-N
+
+> <FORMULA>
+C27H42NO2
+
+> <MOLECULAR_WEIGHT>
+412.637
+
+> <EXACT_MASS>
+412.321006017
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+72
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+50.78346668453166
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+benzyldimethyl(2-{2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy}ethyl)azanium
+
+> <ALOGPS_LOGP>
+3.13
+
+> <JCHEM_LOGP>
+2.3706398821949213
+
+> <ALOGPS_LOGS>
+-7.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.312348232791052
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.098198611709336
+
+> <JCHEM_POLAR_SURFACE_AREA>
+18.46
+
+> <JCHEM_REFRACTIVITY>
+139.0016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.49e-06 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+benzyldimethyl(2-{2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy}ethyl)azanium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11125
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Benzethonium
+
+> <PRODUCTS>
+(Qiqing) Skin Disinfectant; 3 in 1 First Aid Wound Care; 4125 First Aid Kit; 4129 First Aid Kit; 4142 First Aid Kit; 4209 First Aid Kit; 4211 First Aid Kit; 4215 First Aid Kit; 4217 First Aid Kit; 4221 First Aid Kit; 4230 First Aid Kit; 4232 First Aid Kit; 4240 First Aid Kit; 4241 First Aid Kit; 4242 First Aid Kit; 4243 First Aid Kit; 4248 First Aid Kit; 4249 First Aid Kit; 4272 First Aid Kit; 4329 First Aid Kit; 4338 First Aid Kit; 4339 First Aid Kit; 4345 First Aid Kit; 4355 First Aid Kit; 4356 First Aid Kit; 4357 First Aid Kit; 75% Alcohol Wipes; 99 Plus Hand Sanitizer; AMERFRESH Antibacterial; ANTIBACTERIAL MINI WIPES Blue Raspberry; ANTIBACTERIAL MINI WIPES Candy Apple; ANTIBACTERIAL MINI WIPES Fresh Aloe; ANTIBACTERIAL MINI WIPES Lemon Drop; ANTIBACTERIAL WIPES Blue Raspberry; ANTIBACTERIAL WIPES Candy Apple; ANTIBACTERIAL WIPES Fresh Aloe; ANTIBACTERIAL WIPES Lemon Drop; Acclaym; Aeroaid Antiseptic First Aid; Aeroburn Burn First Aid; Aerowound Blood Clotting First Aid; Aiweier Alcohol Wipes; Aiweier Disinfecttant Wipes; Alcohol wipes; Alpha Foaming E-2; Amerfresh Antibacterial Deodorant; Amerfresh Antibacterial Unwrapped; Anchor Foaming Hand Sanitizer; Anti-bacterial 3pk; Antibacterial; Antibacterial Benzethonium Chloride Hand Wipes; Antibacterial Wet Wipes; Antibacterial Wipes; Antimicrobial Face Body Wash; Antimicrobial Foaming Falling Rain; Antimicrobial Foaming Sanitizer; Antimicrobial cleansing gel; Antisepation; Antiseptic; Antiseptic Cleanser Liq 0.14%; Antiseptic Skin Cream; Antiseptic Skin Cream - 1mg/g; Antiseptic Wound Care MediCleanse Healing; Aplicare Antiseptic Perineal Wash II; Aramark Blood Clotting; Aramark Medi-Band; Aspiera Wound Care and Antiseptic; Assure; Avance Cure Antibacterial Perineal Wash; Avance Cure Foaming Body Cleanser; Avance Incontinence Care; Avon Clearskin Facial Cleansing Scrub; Avon Clearskin Invigorating Cleansing Scrub; Bedside-Care; Bedside-Care Foam (Alcohol Free); Bedside-Care Perineal Wash; Ben E. Keith Foam Sanitizer; Benzethonium Chloride; Benzethonium Chloride Solution; Benzethonium Chloride and Dyclonine Hydrochloride; Benzethonium chloride Plus Dyclonine hydrochloride; Benzethonium chloride and Dyclonine hydrochloride; Benzocaine and Benzethonium; BerbereX Wound Cleanser; Berberex Wound Gel; Blood Clotting First Aid; Bob Barker Antibacterial Unwrapped Body; Bob Barker Antibacterial Wrapped Body; Bob Barker Antibacterial un-wrapped body; Bob Barker Antibacterial unwrapped body; Bob Barker Antibacterial wrapped body; BobBarker antibacterial wrapped body; Burn Water Soluble; Buro Sol Antiseptic Powder; Buro-sol Otic Solution; CLEAR S Suds; CPAP Mask cleaning wipes; CVS Antiseptic Wound Wash; Ca-rezz - Long Term Care - Incontinent Cleanser; Ca-rezz - Norisc - Incontinent Wash; Ca-rezz Norisc Antibacterial Skin Care; Callington Anti-Bacterial Hand Sanitiser; Candy Apple Anti Bacterial Hand Sanitizer; Careone Antimicrobial Foaming Hand Sp Falling Rain; Caribbean Escape Anti Bacterial Hand Sanitizer; Certus Secure Hand Sanitizer; Charm Tex 3 IN 1 Antibacterial Shave Gel Body Wash; Charm Tex Lightly Scented Antibacterial; Charm-Tex Antibacterial; Claires Ear Care Solution 0.13%; Clean; Clean Drops Hand sanitizer; Clean Hands Instant Hand Sanitizer; Cotton Candy Anti Bacterial Hand Sanitizer; Cranberry Cherry Scented Antibac; Curad Germ Shield; Deodorant; DermaCen Antimicrobial-B Hand; Dermal Wound Cleanser; Dermatize; Dermoplast First Aid; Dermoplast Pain Relieving Antibacterial; Dial Antibacterial Hand Wash; Dial Foaming Hand Wash; Disinfectant Wet Wipes; Dr. Numb; ECOLAB Blood Clotting; Ecological Hand Sanitizer With Conditioning Aloe; Edens Hand Sanitizing Wipes; EnrichedFoam Alcohol-Free Hand Sanitizer; Family Dollar Antibacterial Hand; Family Dollar antibacterial; Fastrin Infection Control Skin Repair; Finipil; Finipil 4 Men Only; Finipil Pro/elec; First Aid Antiseptic Water Soluble; First Mark Foaming Hand Cleaner; FloraSeptic Wound Gel; Foam Magic Instant Hand Sanitizer; Foam Sanitizer; Foaming Hand Sanitizer; Foaming Instant Hand Sanitizer; Foaming Instant Hand Sanitizer with Aloe and Vitamin E; Foamy Sanz; Forticept Antimicrobial Gel; Forticept Antimicrobial Hydrogel Wound Dressing; Forticept Wounds and Burns Hydrogel; Fresh Picked Strawberries Anti Bacterial Hand Sanitizer; Gentle Fresh Sanitizer; Germ Crusher Hand Sanitizer Wipes Germ Crusher; Gold Bond Pain and Itch; Gold Bond Ultimate Hand Sanitizer Moisturizer; Gold Bond Ultimate Hand Sanitizer Sheer Moisture; Green Guard Antiseptic First Aid; Green Guard Burn First Aid; Green Guard Super Stat Blood Clotting First Aid; Hand Body Wipe; Hand Kleen Foaming Instant Hand Sanitizer; Hand Sanitizer; Hand Sanitizer Non-Alcohol; Hand Sanitizer Spray; Hand Sanitizing Moisturizer; Hand Sanitizing Sheer Moisturizer; Hand Therape Sanitizer; Hand Wipes; Hand-E-foam; Hand-Giene E-2; Handi-San; Happy Hands Foaming Hand Sanitizer; Health Smart Antibacterial Wet Wipes; Herpecin Pain Relief; High Five; I.C. Barrier; I.C. Hand Sanitizer; Industrial Sanitizing; Ino-F-san Instant Hand Sanitizer; Instant Hand Sanitizer; Instant Hand Sanitizing Wipes; Insti-Foam Sanitizer; Japanese Blossom Scented Antibac; Kleen-san; Kontakt Hand Sanitizer; LYSOL Healthy Touch; LYSOL Healthy Touch Aloe Vera And Vitamin E with Moisturizers; LYSOL Healthy Touch Cleansing Green Tea and Ginger; LYSOL Healthy Touch Refreshing Grapefruit Essence; LYSOL Healthy Touch Soothing Cucumber Splash; Lanacane Anti Itch Maximum Strength; Lanacane Anti Itch Original Strength; Lanacane Anti-bacterial First Aid Spray; Lanacane First Aid; Lanacane Maximum Strength Anti Bacterial First Aid; Lanacane Maximum Strength Anti-Itch; Leader Liquid Bandage; Lipsorex; Lipsorex - Gel; Lipsorex Plus; Lipsorex-gel; Liquid Bandage; Loesch Original Kleer-Plex Antimicrobial Face and Body Wash; Lynx LX0869 Alcohol Free Hand Sanitizer; Lysol Healthy Touch Antibacterial Foaming Hand Soap; Lysol Healthy Touch Antibacterial Hand Soap; Lysol Healthy Touch Antibacterial Hand Soap With Refreshing Aloe Vera & Vitamin E; Lysol No Touch; Mada Medical Foam Sanitizer; Made for Men; Magnolia Blossom Scented Hand Sanitizer Anti-Bacterial; Mango Madness Anti Bacterial Hand Sanitizer; Marcorodex; Mckesson Antibacterial Soap; Mckesson Foaming Antibacterial Soap; Medi-first Antiseptic First Aid; Medi-first Burn First Aid; Medi-first Ivy-Rid First Aid; Medi-first Protective Coating Bandage; MicroKlenz Antimicrobial; MicroMousse II Alcohol Free Hand Sanitizing Foam; Modesa Moisturizing Hand ANTIBACTERIAL; Moisturizing Hand Sanitizer; Monk Hand Sanitizing Wipes; Moussant Foaming Hand Sanitizer; Mousse Instant; Mrx Liq; Neutrogel; Neutrogena Alcohol-free Antiseptic Cleanser; New Skin Bandage; North Burn; North First Aid Antiseptic; North First Aid Antiseptic Water Soluble; Novana Wash Perineal Skin Cleanser; NuNature First Aid Gel; Numb Skin; Ocean Mist Scented Hand Sanitizer Anti-Bacterial; Oti-sol; Ovation Instant Hand Sanitizer; Peach Sensation Scented Hand Sanitizer Anti-Bacterial; Peri-wash II Antiseptic Cleanser; Perifoam; Personal Care; Pharmassist Soothenel Gel; Pink Grapefruit Scented Hand Sanitizer Anti-Bacterial; Piranha Brand Alcohol Free Foaming Instant Hand Sanitizer with Aloe and Vitamin E; Premier Solutions Liquid Bandage; ProStat Antiseptic First Aid; ProStat Blood Clotting First Aid; ProStat Burn First Aid; ProStat Protective Coating Bandage First Aid; Protecto Barrier Cream; Purgerm 75% alcohol wipes; Puri-San Plus; Puri-San Plus Instant Hand Sanitizer; Pyrocaine Burn; QS Plus; QS Plus Hand Sanitizing Wipes; QS Plus Instant Hand Sanitizer; QuickMend; Quik San; Quik San Instant Hand Sanitizer; Refreshed Traveler Foaming Hand Sanitizer; SCRUBS Foaming Hand Sanitizer SCRUBS; SCRUBS Lemon Hand Sanitizer Wipes; SKILCRAFT Anti-bacterial Wipes SKILCRAFT; Salicylic Acid; Saline Wound Wash; Saline Wound Wash Signature Care; Sani Guard Alcohol Free; Sani Select Foaming Instant Hand Sanitizer; Sani-Foam Instant Hand Sanitizer; SaniSuds F-7250; Sanitary Wet Wipes; Sanitizing Hand; Secura EPC Skin Care Starter Kit; Secura Moisturizing Cleanser; Secura Personal Cleanser; Secura Personal Skin Care Kit; Secura Starter Kit; Secura Total Body Foam Cleanser; Secura Two Step Kit; Secure; Securo Hand Sanitizer; Septicare; Sierra Soft Non-Alcohol Hand Sanitizer Foam; Simply Saline Plus Wound Wash Antibacterial First Aid Antiseptic; Simply Saline Wound Care; Simply Saline Wound Wash; Skin Cleanser & Deodorizer Liq .1%; Skin Shield; Skin Shield Liquid Bandage; Skintegrity Foaming Hand Sanitizer Alcohol Free; Soapy Hands; Soft Care Foaming Instant Hand Sanitizer; Spray Bandage; Sproam; StaphAseptic; Sterile Antibacterial Wound Wash; Suds Hand Sanitizer; Super-Stop BloodClotter; TC Alcohol-Free Hand Sanitizer; TC Enriched Foam Alcohol-Free Plus Hand Sanitizer; TN Dickinsons Witch Hazel Antibacterial; Tecnu Calagel; Tecnu First Aid; Terrasil Skin Repair; Terrasil Skin Repair MAX; Terrasil Wound Care; Terrasil Wound Care MAX; TotalDry Medicated Soothing; TotalDry Sensitive Wash; Touch Free Hand; Tough Guy Hand Sanitizer Wipes Tough Guy; Unicowipes; Vanilla Brown Sugar Scented Antibac; Vanilla Cupcake Anti Bacterial Hand Sanitizer; Veti-Foam; Vi-medin; Vinda Antibacterial Wipes; Vinda Antiseptic Wipes; Walgreens Antiseptic Wound Wash; Wet Ones; Wet Ones Antibacterial (towelettes); Wet Ones Lunchkins (wipes); Wet Wipes; Wet Wipes Antibacterial Hand Wipes; WhiskCare 357; Whiz Hand Sanitizer Gel; Whiz Hand Sanitizer Spray; Winning Hands Alcohol Free Hand Sanitizer; Wound Cleanser; XtraCare Wet Wipes; Your Label Here Blood Clotting First Aid; Your Logo Here Antiseptic First Aid; Your Logo Here Bandage Aid; Your Logo Here Burn First Aid; Your Logo Here Poison Ivy First Aid; Zee Blood Clotting Antiseptic; Zep Foam San; Zep Non Alcohol Foam Sanitizer; Ziva Perfumed Wipes Bakhoor; Ziva Perfumed Wipes Gardenia; Zylast XP Antiseptic; Zylast XP Antiseptic Foaming; ZylastXP Antiseptic; ZylastXP Antiseptic Foaming; charm-tex Antibacterial; finipil Lait 50
+
+> <SALTS>
+Benzethonium chloride
+
+$$$$

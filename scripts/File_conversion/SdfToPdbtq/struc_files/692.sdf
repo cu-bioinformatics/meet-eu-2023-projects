@@ -1,0 +1,173 @@
+692
+  Mrv0541 02231214562D          
+
+ 21 23  0  0  0  0            999 V2000
+    2.0894   -2.2353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5185    0.2398    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1365    1.9622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4714    1.9622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040    0.6523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040    1.4773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3915    2.7468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2165    2.7468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2329    0.6523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5185   -0.5853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9474    0.2398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2329    1.4773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040   -0.9978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2329   -0.9978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6619    1.4773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6619    0.6523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9474    1.8898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8040   -1.8228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2329   -1.8228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5185   -2.2353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3764    1.8898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00692
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C(C=C1)N(CC1=NCCN1)C1=CC(O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19N3O/c1-13-5-7-14(8-6-13)20(12-17-18-9-10-19-17)15-3-2-4-16(21)11-15/h2-8,11,21H,9-10,12H2,1H3,(H,18,19)
+
+> <INCHI_KEY>
+MRBDMNSDAVCSSF-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H19N3O
+
+> <MOLECULAR_WEIGHT>
+281.3523
+
+> <EXACT_MASS>
+281.152812245
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9883674734533755
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.366165054874983
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-{[(4,5-dihydro-1H-imidazol-2-yl)methyl](4-methylphenyl)amino}phenol
+
+> <ALOGPS_LOGP>
+2.91
+
+> <JCHEM_LOGP>
+2.5151081762943854
+
+> <ALOGPS_LOGS>
+-3.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.779238140625477
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.018893958878193
+
+> <JCHEM_POLAR_SURFACE_AREA>
+47.86
+
+> <JCHEM_REFRACTIVITY>
+84.25130000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.72e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00692
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00615
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Phentolamine
+
+> <SYNONYMS>
+2-(N-(m-hydroxyphenyl)-p-toluidinomethyl)imidazoline; Fentolamina; Phentolamin; Phentolamine; Phentolaminum
+
+> <PRODUCTS>
+OraVerse; Oraverse; Phentolamine Mesylate; Phentolamine Mesylate Injection Sandoz Standard; Regitine; Rogitine; Rogitine 5mg/vial
+
+> <INTERNATIONAL_BRANDS>
+Regitin; Regitina; Vigamed
+
+> <SALTS>
+Phentolamine mesylate
+
+$$$$

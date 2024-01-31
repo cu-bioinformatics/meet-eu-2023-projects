@@ -1,0 +1,163 @@
+1616
+  Mrv0541 02231215362D          
+
+ 21 22  0  0  0  0            999 V2000
+    3.7935    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6515    3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.9188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 21  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01616
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCN(CCCC1=CC=CC=C1)CCCC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H27N/c1-2-21(17-9-15-19-11-5-3-6-12-19)18-10-16-20-13-7-4-8-14-20/h3-8,11-14H,2,9-10,15-18H2,1H3
+
+> <INCHI_KEY>
+ZPFXAOWNKLFJDN-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H27N
+
+> <MOLECULAR_WEIGHT>
+281.4351
+
+> <EXACT_MASS>
+281.214349869
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9996382587798084
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.416027678755306
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+ethylbis(3-phenylpropyl)amine
+
+> <ALOGPS_LOGP>
+5.73
+
+> <JCHEM_LOGP>
+5.462383394999999
+
+> <ALOGPS_LOGS>
+-5.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.441444870189164
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+92.67390000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+9.60e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB01616
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Alverine
+
+> <SYNONYMS>
+Alverina; Alverine; Alverinum; Bis(gamma-phenylpropyl)ethylamine; Di(phenylpropyl)ethylamine; N-Ethyl-3-phenyl-N-(3-phenylpropyl)-1-propanamine; N-Ethyl-3,3'-diphenyldipropylamine; N-Ethyl-N-(3-phenylpropyl)benzenepropanamine; N,N-Bis(3-phenylpropyl)ethylamine; Phenopropamine; Phenpropamine
+
+> <INTERNATIONAL_BRANDS>
+Audmonal; Profenil; Spasmaverine; Spasmonal
+
+> <SALTS>
+Alverine citrate
+
+$$$$

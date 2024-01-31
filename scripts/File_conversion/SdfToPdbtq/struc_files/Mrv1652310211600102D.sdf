@@ -1,0 +1,146 @@
+
+  Mrv1652310211600102D          
+
+ 17 18  0  0  1  0            999 V2000
+    2.0367    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0367    2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    2.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    2.0009    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656    1.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1801    0.7634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    0.7634    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512   -0.0616    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4186   -0.5465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1637   -1.3312    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3387   -1.3312    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0837   -0.5465    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8538   -1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1893   -2.7523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6486   -1.9986    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7512    3.2384    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222    2.4134    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  1  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 11 13  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 10 15  1  6  0  0  0
+  3 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB12383
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC(=O)N(C=C1Cl)[C@H]1C[C@H](O)[C@@H](CO)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12ClN3O4/c10-4-2-13(9(16)12-8(4)11)7-1-5(15)6(3-14)17-7/h2,5-7,14-15H,1,3H2,(H2,11,12,16)/t5-,6+,7+/m0/s1
+
+> <INCHI_KEY>
+NGGRGTWYSXYVDK-RRKCRQDMSA-N
+
+> <FORMULA>
+C9H12ClN3O4
+
+> <MOLECULAR_WEIGHT>
+261.66
+
+> <EXACT_MASS>
+261.0516336
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.653064898089916
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-5-chloro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.23
+
+> <JCHEM_LOGP>
+-1.236093571333333
+
+> <ALOGPS_LOGS>
+-1.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.787514982956775
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.89489561433734
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.2689439126222464
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+57.8254
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-amino-5-chloro-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB12383
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Cytochlor
+
+$$$$

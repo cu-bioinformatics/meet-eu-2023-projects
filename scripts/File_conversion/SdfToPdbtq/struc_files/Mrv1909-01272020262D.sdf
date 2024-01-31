@@ -1,0 +1,178 @@
+
+  Mrv1909 01272020262D          
+
+ 28 30  0  0  0  0            999 V2000
+    3.1564    0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3314    0.0553    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9189   -0.6592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3314   -1.3736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1564   -1.3736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5689   -0.6592    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9189    0.7698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0939    0.7698    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0939   -0.6592    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0939   -1.4842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0939    0.1657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2689   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435   -1.3736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9685   -1.3736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3810   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9685    0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2060   -0.6592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6185    1.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2060    0.7698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6185    0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4435    0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8560    0.7698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4435    1.4842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6814    1.4842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8561    0.4924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1852    0.8798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3314    1.4842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 19 24  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 15 18  1  0  0  0  0
+  9 12  1  0  0  0  0
+  3  9  1  0  0  0  0
+  8 25  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  7  1  1  0  0  0
+  1 26  1  0  0  0  0
+  1 27  1  0  0  0  0
+  7 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB05100
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1(C)SCCN([C@H]1C(=O)NO)S(=O)(=O)C1=CC=C(OC2=CC=NC=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H21N3O5S2/c1-18(2)16(17(22)20-23)21(11-12-27-18)28(24,25)15-5-3-13(4-6-15)26-14-7-9-19-10-8-14/h3-10,16,23H,11-12H2,1-2H3,(H,20,22)/t16-/m0/s1
+
+> <INCHI_KEY>
+YKPYIPVDTNNYCN-INIZCTEOSA-N
+
+> <FORMULA>
+C18H21N3O5S2
+
+> <MOLECULAR_WEIGHT>
+423.506
+
+> <EXACT_MASS>
+423.092262177
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.0001818940095288
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.18989003013938
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3S)-N-hydroxy-2,2-dimethyl-4-[4-(pyridin-4-yloxy)benzenesulfonyl]thiomorpholine-3-carboxamide
+
+> <ALOGPS_LOGP>
+1.88
+
+> <JCHEM_LOGP>
+1.195720718666666
+
+> <ALOGPS_LOGS>
+-3.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.726376097469576
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.700281538423186
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.9405372665641245
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+105.87140000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.86e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+prinomastat
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB05100
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Prinomastat
+
+> <SYNONYMS>
+Prinomastat; Prinomastatum
+
+$$$$

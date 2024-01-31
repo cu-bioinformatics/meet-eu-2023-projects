@@ -1,0 +1,177 @@
+
+  Mrv1909 05212117512D          
+
+ 29 31  0  0  0  0            999 V2000
+   -1.8111   -0.1837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5183    0.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0658    0.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8111   -1.0572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5183    1.0536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2461   -0.1837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3621   -0.1837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0658    1.0536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1074   -1.4177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5286   -1.4177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8077    1.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2289    1.4557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9567    0.2356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3587    0.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3621    1.4765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1074   -2.2739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5286   -2.2739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8077    2.2773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2322    2.2739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3587    1.0536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8354   -2.6933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3899   -2.6898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5183    2.6933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0866    1.4973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8215    1.0814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5425    1.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2565    1.1022    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9567    1.4973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2565    0.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 16 22  1  0  0  0  0
+ 18 23  2  0  0  0  0
+ 20 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 17 21  2  0  0  0  0
+ 19 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB15641
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC\C(=C(\C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC(O)=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C26H29NO2/c1-4-25(20-9-6-5-7-10-20)26(22-11-8-12-23(28)19-22)21-13-15-24(16-14-21)29-18-17-27(2)3/h5-16,19,28H,4,17-18H2,1-3H3/b26-25+
+
+> <INCHI_KEY>
+ZQZFYGIXNQKOAV-OCEACIFDSA-N
+
+> <FORMULA>
+C26H29NO2
+
+> <MOLECULAR_WEIGHT>
+387.523
+
+> <EXACT_MASS>
+387.219829178
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+58
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.953862331608261
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.338194640349954
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[(1E)-1-{4-[2-(dimethylamino)ethoxy]phenyl}-2-phenylbut-1-en-1-yl]phenol
+
+> <ALOGPS_LOGP>
+5.43
+
+> <JCHEM_LOGP>
+5.467312349922966
+
+> <ALOGPS_LOGS>
+-5.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.094866145275432
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.490900773800139
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.7
+
+> <JCHEM_REFRACTIVITY>
+130.41170000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.10e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+zoptarelin doxorubicin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB15641
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Droloxifene
+
+> <SYNONYMS>
+Droloxifene; Droloxifeno; Droloxifenum
+
+$$$$

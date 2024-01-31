@@ -1,0 +1,168 @@
+277
+  Mrv0541 02241213052D          
+
+ 28 29  0  0  0  0            999 V2000
+    2.3808   -0.4343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2093   -1.2412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4247   -1.4962    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8116   -0.9441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9831   -0.1372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7677    0.1178    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2531   -2.3031    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.4685   -2.5581    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2970   -3.3651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4876   -3.6200    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9392    0.9247    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3261    1.4768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7239    1.1797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4977    2.2837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5415    1.2218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9101   -3.9171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1446   -2.0061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8662   -2.8552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7426   -4.4046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5676   -4.4046    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8225   -3.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1551   -3.1351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0525   -5.0721    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8586   -1.8869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3231    0.2982    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7117   -2.0844    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3872   -1.9798    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3025   -4.9249    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3 24  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 11  1  6  0  0  0
+  6 25  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  1  0  0  0
+  7 26  1  1  0  0  0
+  8 17  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 27  1  6  0  0  0
+  9 10  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  1  1  0  0  0
+ 20 28  1  6  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06939
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](N)(C(=O)N1CC[C@]([H])(F)C1)[C@@]([H])(C)[C@@]1([H])CC[C@@]([H])(CC1)N(C)C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H30FN3O2/c1-11(16(19)17(23)21-9-8-14(18)10-21)13-4-6-15(7-5-13)20(3)12(2)22/h11,13-16H,4-10,19H2,1-3H3/t11-,13-,14-,15-,16-/m0/s1
+
+> <INCHI_KEY>
+BZFQBRSDORUYAB-YDMUCJKGSA-N
+
+> <FORMULA>
+C17H30FN3O2
+
+> <MOLECULAR_WEIGHT>
+327.4374
+
+> <EXACT_MASS>
+327.232205424
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9687069660416308
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.00374094678975
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-methyl-N-[(1S,4r)-4-[(2S,3S)-3-amino-4-[(3S)-3-fluoropyrrolidin-1-yl]-4-oxobutan-2-yl]cyclohexyl]acetamide
+
+> <ALOGPS_LOGP>
+1.15
+
+> <JCHEM_LOGP>
+0.2488752506666669
+
+> <ALOGPS_LOGS>
+-2.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.490744637696272
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.64
+
+> <JCHEM_REFRACTIVITY>
+87.0932
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.22e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06939
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(TRANS-4-{(1S,2S)-2-AMINO-3-[(3S)-3-FLUOROPYRROLIDIN-1-YL]-1-METHYL-3-OXOPROPYL}CYCLOHEXYL)-N-METHYLACETAMIDE
+
+$$$$

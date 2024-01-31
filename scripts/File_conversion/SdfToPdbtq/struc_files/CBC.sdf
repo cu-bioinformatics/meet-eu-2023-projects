@@ -1,0 +1,173 @@
+CBC
+  Mrv0541 02241213292D          
+
+ 27 29  0  0  0  0            999 V2000
+   -2.7701    1.8460    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7701    1.0210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9451    1.0210    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5951    1.0210    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7701    0.1960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4845   -0.2165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4845   -1.0415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7701   -1.4540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0556   -1.0415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0556   -0.2165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3411    0.1960    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9286   -0.5185    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5126    1.0030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6267    0.6085    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0878    0.1960    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8023    0.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8023    1.4335    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5168    0.1960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2704    0.5316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6030   -0.6245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4100   -0.7960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8225   -0.0815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6475   -0.0815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8225   -1.5105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6475   -1.5105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0600   -0.7960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8850   -0.7960    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 22 23  2  0  0  0  0
+ 23 26  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07544
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+FC(F)(F)C1=CC=CC=C1S(=O)(=O)NNC(=O)C1=CC2=CC(Cl)=CC=C2O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H10ClF3N2O4S/c17-10-5-6-12-9(7-10)8-13(26-12)15(23)21-22-27(24,25)14-4-2-1-3-11(14)16(18,19)20/h1-8,22H,(H,21,23)
+
+> <INCHI_KEY>
+ZLQBZYKAQQWOTK-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H10ClF3N2O4S
+
+> <MOLECULAR_WEIGHT>
+418.775
+
+> <EXACT_MASS>
+418.00018983
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.5442621218812564
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.715517714532155
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-chloro-N'-[2-(trifluoromethyl)benzenesulfonyl]-1-benzofuran-2-carbohydrazide
+
+> <ALOGPS_LOGP>
+3.70
+
+> <JCHEM_LOGP>
+3.405019337666667
+
+> <ALOGPS_LOGS>
+-4.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.923283362064888
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.033032112263394
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.0939597677132804
+
+> <JCHEM_POLAR_SURFACE_AREA>
+88.41000000000001
+
+> <JCHEM_REFRACTIVITY>
+91.2494
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.52e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07544
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N'-(5-CHLOROBENZOFURAN-2-CARBONYL)-2-(TRIFLUOROMETHYL)BENZENESULFONOHYDRAZIDE
+
+$$$$

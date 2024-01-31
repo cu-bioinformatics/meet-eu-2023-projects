@@ -1,0 +1,163 @@
+NR2
+  Mrv0541 02241214002D          
+
+ 24 25  0  0  0  0            999 V2000
+   -3.5149   -0.3873    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2294   -0.7998    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1024   -1.1017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9274    0.3272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8004    0.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8004    0.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0860    1.2627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3715    0.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6570    1.2627    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0575    0.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0575    0.0252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7719    1.2627    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4864    0.8502    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0739    0.1358    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8989    1.5647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2009    0.4377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9153    0.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6298    0.4377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6298   -0.3873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3443   -0.7998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9153   -0.7998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2009   -0.3873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3715    0.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0860   -0.3873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 24  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 23  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 22  2  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 23 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08301
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1=CC=C(C=C1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H15N3O5S2/c1-10-2-6-13(7-3-10)24(21,22)17-14(18)16-11-4-8-12(9-5-11)23(15,19)20/h2-9H,1H3,(H2,15,19,20)(H2,16,17,18)
+
+> <INCHI_KEY>
+HDCXQTPVTAIPNZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H15N3O5S2
+
+> <MOLECULAR_WEIGHT>
+369.416
+
+> <EXACT_MASS>
+369.045311985
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+39
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.0000222587398317
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.6915651738876
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(4-methylbenzenesulfonyl)-3-(4-sulfamoylphenyl)urea
+
+> <ALOGPS_LOGP>
+1.12
+
+> <JCHEM_LOGP>
+1.5950360279999998
+
+> <ALOGPS_LOGS>
+-3.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.375309694012989
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6011030167085107
+
+> <JCHEM_POLAR_SURFACE_AREA>
+135.42999999999998
+
+> <JCHEM_REFRACTIVITY>
+90.11270000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.55e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08301
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-({[4-(AMINOSULFONYL)PHENYL]AMINO}CARBONYL)-4-METHYLBENZENESULFONAMIDE
+
+$$$$

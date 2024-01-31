@@ -1,0 +1,184 @@
+417
+  Mrv0541 02231214402D          
+
+ 25 27  0  0  1  0            999 V2000
+    7.9871    0.3798    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7885   -1.2881    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6900   -2.3527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0491   -1.9112    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7760   -0.2954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6117    0.8737    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2025   -0.7001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7885    0.7129    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2025    0.1249    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.4721   -0.2876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9871   -0.9550    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.3707    0.1283    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.3707   -0.7036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1395   -0.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1395    0.1973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2420   -1.7397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9912    0.5010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4090    1.0855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0295    1.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2322    1.2463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2447    2.2547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    1.8309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625    2.8393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8652    2.6274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1006    0.7770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 17  2  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 12  8  1  1  0  0  0
+  8 17  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 25  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  6  0  0  0
+ 12 13  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 24  2  0  0  0  0
+ 23 24  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00417
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)COC1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H18N2O5S/c1-16(2)12(15(21)22)18-13(20)11(14(18)24-16)17-10(19)8-23-9-6-4-3-5-7-9/h3-7,11-12,14H,8H2,1-2H3,(H,17,19)(H,21,22)/t11-,12+,14-/m1/s1
+
+> <INCHI_KEY>
+BPLBGHOLXOTWMN-MBNYWOFBSA-N
+
+> <FORMULA>
+C16H18N2O5S
+
+> <MOLECULAR_WEIGHT>
+350.39
+
+> <EXACT_MASS>
+350.093642386
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.999772605366915
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.37043857627532
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-3,3-dimethyl-7-oxo-6-(2-phenoxyacetamido)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+1.78
+
+> <JCHEM_LOGP>
+0.7632417063333333
+
+> <ALOGPS_LOGS>
+-2.89
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.741506321839815
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.390268054489988
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.869023346985543
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.94
+
+> <JCHEM_REFRACTIVITY>
+85.76800000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.54e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00417
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00423; DB08415
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Phenoxymethylpenicillin
+
+> <SYNONYMS>
+(2S,5R,6R)-3,3-DIMETHYL-7-OXO-6-(2-PHENOXYACETAMIDO)-4-THIA-1- AZABICYCLO(3.2.0)HEPTANE-2-CARBOXYLIC ACID; (2S,5R,6R)-3,3-dimethyl-7-oxo-6-[(phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 6-phenoxyacetamidopenicillanic acid; Fenoximetilpenicilina; Oracillin; Penicillin Phenoxymethyl; Penicillin V; Phenoxomethylpenicillin; Phenoxymethyl Penicillin; Phenoxymethylenepenicillinic acid; Phenoxymethylpenicillin; Phénoxyméthylpénicilline; Phenoxymethylpenicillinum; PV
+
+> <PRODUCTS>
+Apo Pen Vk; Beepen-VK; Ledercillin Vk - Tab 400000 Unit; Ledercillin Vk - Tab 800000units; Ledercillin Vk Tab 400000unit; Ledercillin Vk Tab 800000unit; Nadopen V 200; Nadopen V 400; Nadopen V Tab 500000iu; Novo-pen Vk Syr 500000/5ml; Novo-pen-VK 500 Tab; Nu-pen-VK Tablets 300mg; Pen Vee Sus 180mg; Pen Vk-125 Sus 200000unit/5ml; Pen Vk-300 Sus 500000unit/5ml; Pen-VK; Pen-vee Oral Tablets 300 mg; Pen-vee Suspension 180 mg; Pen-vee Suspension 180mg/5ml; Pen-vee Suspension 300 mg; Pen-vee Suspension 300mg/5ml; Pen-vee-oral Tablets 300mg; Penicillin V Potasium; Penicillin V Potassium; Penicilline V 300 Tab; Pvf 250sus; Pvf 500sus; Pvf K500tab; Pvf-K 500 Tablets; V Cillin K 1831 Tablet 250mg
+
+> <INTERNATIONAL_BRANDS>
+Apo-Pen-VK; Betapen-VK; Crystapen V; Distaquaine V; Fenospen; Fenoxypen; Ledercillin VK; Oratren; Ospen; Pen-Oral; Pen-V; Pen-Vee; Pen-Vee K; Penicillin VK; Pfizerpen VK; Phenocillin; Robicillin VK; Rocilin; Uticillin VK; V-Cillin; Veetids
+
+> <SALTS>
+Phenoxymethylpenicillin benzathine; Phenoxymethylpenicillin potassium
+
+$$$$

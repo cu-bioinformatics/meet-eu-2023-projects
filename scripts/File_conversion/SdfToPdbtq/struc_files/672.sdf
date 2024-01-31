@@ -1,0 +1,160 @@
+672
+  Mrv0541 02231214552D          
+
+ 17 17  0  0  0  0            999 V2000
+    2.4751   -3.5063    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3001   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751    0.6188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8563    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9041    3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185    3.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7606   -2.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4751   -2.6813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00672
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCCNC(=O)NS(=O)(=O)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13ClN2O3S/c1-2-7-12-10(14)13-17(15,16)9-5-3-8(11)4-6-9/h3-6H,2,7H2,1H3,(H2,12,13,14)
+
+> <INCHI_KEY>
+RKWGIWYCVPQPMF-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H13ClN2O3S
+
+> <MOLECULAR_WEIGHT>
+276.74
+
+> <EXACT_MASS>
+276.033540689
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.999786659129283
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.057077096869495
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-(4-chlorobenzenesulfonyl)-3-propylurea
+
+> <ALOGPS_LOGP>
+2.15
+
+> <JCHEM_LOGP>
+1.941390449333333
+
+> <ALOGPS_LOGS>
+-3.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+17.470932276511157
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3291667947251957
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+65.43260000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.57e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00672
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00029
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Chlorpropamide
+
+> <SYNONYMS>
+1-(p-chlorobenzenesulfonyl)-3-propylurea; 1-(p-chlorophenylsulfonyl)-3-propylurea; 1-propyl-3-(p-chlorobenzenesulfonyl)urea; 4-chloro-N-((propylamino)carbonyl)benzenesulfonamide; 4-chloro-N-[(propylamino)carbonyl]benzenesulfonamide; Chlorpropamid; Chlorpropamide; Chlorpropamidum; Clorpropamida; N-(4-chlorophenylsulfonyl)-N'-propylurea; N-(p-chlorobenzenesulfonyl)-N'-propylurea; n-propyl-N'-(p-chlorobenzenesulfonyl)urea; n-propyl-N'-p-chlorophenylsulfonylcarbamide
+
+> <PRODUCTS>
+Apo Chlorpropamide Tab 100mg; Apo Chlorpropamide Tab 250mg; Chlorpropamide; Chlorpropamide 100 Tab USP; Chlorpropamide Tab 250mg; Diabinese; Diabinese Tab 100mg; Diabinese Tab 250mg; Novo-propamide 250mg
+
+> <INTERNATIONAL_BRANDS>
+Abemide; Chloronase; Dabinese; Diabeedol; Diabemide; Diabezin; Diabitex; Dibecon; Glycemin; Hypomide; Litangen; Propamide; Trane
+
+$$$$

@@ -1,0 +1,151 @@
+
+  Mrv0541 05041405272D          
+
+ 17 17  0  0  1  0            999 V2000
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    4.5375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0164    5.6645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414    4.2355    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    4.9500    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 S   0  0  2  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  3  1  0  0  0  0
+  8  4  1  0  0  0  0
+  9  5  2  0  0  0  0
+ 10  6  2  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 16  7  1  0  0  0  0
+ 16 12  1  0  0  0  0
+ 16 13  1  0  0  0  0
+ 16 14  2  0  0  0  0
+ 17  8  1  0  0  0  0
+ 17 10  1  1  0  0  0
+ 17 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07925
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=CC=C1[S@](=O)CCCCP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15O5PS/c11-9-5-1-2-6-10(9)17(15)8-4-3-7-16(12,13)14/h1-2,5-6,11H,3-4,7-8H2,(H2,12,13,14)/t17-/m1/s1
+
+> <INCHI_KEY>
+FFIGWLBWBXCVHW-QGZVFWFLSA-N
+
+> <FORMULA>
+C10H15O5PS
+
+> <MOLECULAR_WEIGHT>
+278.262
+
+> <EXACT_MASS>
+278.037780792
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.4822704998367322
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.424903840462893
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+{4-[(R)-2-hydroxybenzenesulfinyl]butyl}phosphonic acid
+
+> <ALOGPS_LOGP>
+0.74
+
+> <JCHEM_LOGP>
+0.4604851150000003
+
+> <ALOGPS_LOGS>
+-1.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+7.230883124042536
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8105572840191382
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.897998914195547
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.82999999999998
+
+> <JCHEM_REFRACTIVITY>
+67.2155
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.54e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07925
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-(2-HYDROXYPHENYLSULFINYL)-BUTYLPHOSPHONIC ACID
+
+$$$$

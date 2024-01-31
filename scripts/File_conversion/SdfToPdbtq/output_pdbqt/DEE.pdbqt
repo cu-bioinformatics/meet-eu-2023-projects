@@ -1,0 +1,29 @@
+REMARK  Name = DEE
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_3
+REMARK    2  A    between atoms: C_2  and  C_6
+REMARK    3  A    between atoms: O_3  and  C_4
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      -0.405  -0.573   0.000  0.00  0.00    +0.000 A 
+ATOM      2  C   UNL     1      -0.660  -1.357   0.000  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -0.175  -2.025   0.000  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1      -1.072  -0.088   0.000  0.00  0.00    +0.000 A 
+ATOM      5  C   UNL     1      -1.072   0.737   0.000  0.00  0.00    +0.000 C 
+ATOM      6  N   UNL     1      -1.740  -0.573   0.000  0.00  0.00    +0.000 NA
+ATOM      7  N   UNL     1      -1.485  -1.357   0.000  0.00  0.00    +0.000 NA
+ENDROOT
+BRANCH   1   9
+ATOM      8  O   UNL     1       0.993  -0.870   0.000  0.00  0.00    +0.000 OA
+ATOM      9  C   UNL     1       0.380  -0.318   0.000  0.00  0.00    +0.000 C 
+BRANCH   9  10
+ATOM     10  O   UNL     1       0.551   0.489   0.000  0.00  0.00    +0.000 OA
+BRANCH  10  11
+ATOM     11  C   UNL     1       1.336   0.744   0.000  0.00  0.00    +0.000 C 
+ATOM     12  C   UNL     1       1.508   1.551   0.000  0.00  0.00    +0.000 C 
+ENDBRANCH  10  11
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 3

@@ -1,0 +1,173 @@
+1214
+  Mrv0541 02231215192D          
+
+ 22 22  0  0  1  0            999 V2000
+    3.0791   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.8876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.8876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.8876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370   -2.8876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    3.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    4.1251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4 21  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01214
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)NCC(O)COC1=C(C)C(C)=C(OC(C)=O)C(C)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H27NO4/c1-10(2)18-8-15(20)9-21-16-7-11(3)17(22-14(6)19)13(5)12(16)4/h7,10,15,18,20H,8-9H2,1-6H3
+
+> <INCHI_KEY>
+BQIPXWYNLPYNHW-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H27NO4
+
+> <MOLECULAR_WEIGHT>
+309.4006
+
+> <EXACT_MASS>
+309.194008357
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9978476432725362
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.84650508167989
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-{2-hydroxy-3-[(propan-2-yl)amino]propoxy}-2,3,6-trimethylphenyl acetate
+
+> <ALOGPS_LOGP>
+2.13
+
+> <JCHEM_LOGP>
+2.741744315000001
+
+> <ALOGPS_LOGS>
+-3.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.087952066865654
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.666166510571989
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.78999999999999
+
+> <JCHEM_REFRACTIVITY>
+86.6315
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.73e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01214
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00668
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Metipranolol
+
+> <SYNONYMS>
+(±)-metipranolol; Acetic acid 4-(2-hydroxy-3-isopropylamino-propoxy)-2,3,6-trimethyl-phenyl ester; Metipranolol; Metipranololum
+
+> <PRODUCTS>
+Metipranolol; OptiPranolol
+
+> <INTERNATIONAL_BRANDS>
+Betanol; Disorat; Trimepranol
+
+> <SALTS>
+Metipranolol hydrochloride
+
+$$$$

@@ -1,0 +1,177 @@
+
+  Mrv0541 05031423472D          
+
+ 27 30  0  0  0  0            999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447    2.4750    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    1.6500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  6  1  0  0  0  0
+ 11  9  1  0  0  0  0
+ 12 10  2  0  0  0  0
+ 13  5  1  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14  9  2  0  0  0  0
+ 14 10  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 15  7  1  0  0  0  0
+ 15  8  1  0  0  0  0
+ 16 11  2  0  0  0  0
+ 16 12  1  0  0  0  0
+ 17  3  2  0  0  0  0
+ 18  4  2  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 15  2  0  0  0  0
+ 20 17  1  0  0  0  0
+ 20 19  1  0  0  0  0
+ 21 18  1  0  0  0  0
+ 22 19  1  0  0  0  0
+ 22 21  2  0  0  0  0
+ 23 16  1  0  0  0  0
+ 24 20  2  0  0  0  0
+ 25 21  1  0  0  0  0
+ 26 22  1  0  0  0  0
+ 13 27  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+DB04281
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]C1(CCC(CC1)=C1C(O)=C(O)C2=CC=CC=C2C1=O)C1=CC=C(Cl)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H19ClO3/c23-16-11-9-14(10-12-16)13-5-7-15(8-6-13)19-20(24)17-3-1-2-4-18(17)21(25)22(19)26/h1-4,9-13,25-26H,5-8H2/b19-15-/t13-/m0/s1
+
+> <INCHI_KEY>
+HKIDMHSZRQSXJE-XEMYWUMJSA-N
+
+> <FORMULA>
+C22H19ClO3
+
+> <MOLECULAR_WEIGHT>
+366.837
+
+> <EXACT_MASS>
+366.102272181
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.3004968953857915
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+39.496611122573434
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[4-(4-chlorophenyl)cyclohexylidene]-3,4-dihydroxy-1,2-dihydronaphthalen-1-one
+
+> <ALOGPS_LOGP>
+4.14
+
+> <JCHEM_LOGP>
+4.553660967
+
+> <ALOGPS_LOGS>
+-5.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.023387189916644
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.367193651302962
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.829376977086888
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+105.01049999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.27e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04281
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00451
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-[4-(4-Chlorophenyl)Cyclohexylidene]-3,4-Dihydroxy-1(2h)-Naphthalenone
+
+$$$$

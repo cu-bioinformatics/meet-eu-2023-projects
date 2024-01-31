@@ -1,0 +1,152 @@
+
+  Mrv1909 02122004332D          
+
+ 17 18  0  0  0  0            999 V2000
+   -3.0992    0.3555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8581    1.0738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8581   -0.3555    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0354   -0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6240   -0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6170   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6170    0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2056   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2056    0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2765   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4467   -0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2765    0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8651    0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8651   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6879    0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6879   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0992   -0.3555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  6  0  0  0
+  3 12  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02047
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H](C(O)=O)C1=CC=C(C=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H14O2/c1-11(15(16)17)12-7-9-14(10-8-12)13-5-3-2-4-6-13/h2-11H,1H3,(H,16,17)/t11-/m0/s1
+
+> <INCHI_KEY>
+JALUUBQFLPUJMY-NSHDSACASA-N
+
+> <FORMULA>
+C15H14O2
+
+> <MOLECULAR_WEIGHT>
+226.2705
+
+> <EXACT_MASS>
+226.099379692
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+31
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9948710662255009
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.21584190971197
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-{[1,1'-biphenyl]-4-yl}propanoic acid
+
+> <ALOGPS_LOGP>
+3.38
+
+> <JCHEM_LOGP>
+3.8012057456666666
+
+> <ALOGPS_LOGS>
+-3.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.712260290942298
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+67.0763
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.85e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-D-glucose 6-phosphate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB02047
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00679
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(+)-2-(4-biphenyl)propionic acid
+
+> <SYNONYMS>
+(2S)-2-(4-Biphenylyl)propanoic acid; 2-(1,1'-biphenyl-4-yl)propanoic acid
+
+$$$$

@@ -1,0 +1,180 @@
+
+  Mrv1718005161822042D          
+
+ 29 31  0  0  0  0            999 V2000
+    1.7836    0.0024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7800    0.8278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0630    1.2328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3537    0.8188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3571   -0.0101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0748   -0.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7948   -1.6523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7886   -2.4776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5009   -2.8912    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2199   -2.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2214   -1.6565    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5085   -1.2424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3698   -2.4698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0836   -2.8861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0796   -1.2417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3692   -1.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5030   -0.4185    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0561    2.0638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0561    2.8912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3470   -1.2362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0680   -1.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3470   -2.8765    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0680   -2.4605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7842   -2.8719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5052   -2.4605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2214   -2.8670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7842   -1.2314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5052   -1.6379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2214   -1.2265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  2  0  0  0  0
+  7 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 17  1  1  0  0  0  0
+  8  9  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+ 18 19  3  0  0  0  0
+  9 10  2  0  0  0  0
+ 16 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 22  1  0  0  0  0
+  5  6  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 12  7  1  0  0  0  0
+ 24 25  1  0  0  0  0
+  6  1  1  0  0  0  0
+ 25 26  1  0  0  0  0
+  1  2  2  0  0  0  0
+ 21 27  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 14  8  1  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00530
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+COCCOC1=CC2=C(C=C1OCCOC)C(NC1=CC(=CC=C1)C#C)=NC=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H23N3O4/c1-4-16-6-5-7-17(12-16)25-22-18-13-20(28-10-8-26-2)21(29-11-9-27-3)14-19(18)23-15-24-22/h1,5-7,12-15H,8-11H2,2-3H3,(H,23,24,25)
+
+> <INCHI_KEY>
+AAKJLRGGTJKAMG-UHFFFAOYSA-N
+
+> <FORMULA>
+C22H23N3O4
+
+> <MOLECULAR_WEIGHT>
+393.4357
+
+> <EXACT_MASS>
+393.168856239
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+52
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.481984981392074
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)quinazolin-4-amine
+
+> <ALOGPS_LOGP>
+3.13
+
+> <JCHEM_LOGP>
+3.2009875863333344
+
+> <ALOGPS_LOGS>
+-4.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.143808891275818
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.624280230433007
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.73
+
+> <JCHEM_REFRACTIVITY>
+107.78590000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.91e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+erlotinib
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00530
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00951
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Erlotinib
+
+> <SYNONYMS>
+[6,7-Bis-(2-methoxy-ethoxy)-quinazolin-4-yl]-(3-ethynyl-phenyl)-amine; Erlotinib
+
+> <PRODUCTS>
+Apo-erlotinib; Erlotinib; Erlotinib Hydrochloride; Nat-erlotinib; PMS-erlotinib; Tarceva; Teva-erlotinib
+
+> <SALTS>
+Erlotinib hydrochloride
+
+$$$$

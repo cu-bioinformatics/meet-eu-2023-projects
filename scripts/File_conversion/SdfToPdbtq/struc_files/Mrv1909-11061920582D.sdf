@@ -1,0 +1,172 @@
+
+  Mrv1909 11061920582D          
+
+ 29 29  0  0  0  0            999 V2000
+   -0.8427   -1.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2284   -1.4173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0364    0.9476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8902   -0.0782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0110    1.9196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1088   -2.9196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0839   -0.0242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7659   -1.4173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4971   -2.7632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5702   -1.6009    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0846   -0.9559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9097   -0.9559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4241   -1.6009    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.5247    0.3429    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2815   -0.4454    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3290    0.5265    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.2404   -2.4052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7538   -2.4052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5722    1.3149    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5227   -0.6289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4241    2.4704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3765    1.4984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6197    2.2868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2284    2.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2405    3.2747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6076    1.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6470   -0.8665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4180   -1.7923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4971   -3.2747    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 15  1  1  6  0  0  0
+  1 27  1  0  0  0  0
+ 13  2  1  1  0  0  0
+ 14  3  1  1  0  0  0
+ 16  4  1  1  0  0  0
+ 19  5  1  1  0  0  0
+  6 18  2  0  0  0  0
+  7 20  2  0  0  0  0
+ 10  8  1  1  0  0  0
+  8 20  1  0  0  0  0
+  8 28  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 29  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 21 26  1  0  0  0  0
+ 22 23  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03396
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]N([C@H]1CC[C@@H](O)CN([H])C1=O)C(=O)[C@H](OC)[C@H](O)[C@@H](O)[C@H](O)\C=C\C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H32N2O7/c1-18(2,3)8-7-12(22)13(23)14(24)15(27-4)17(26)20-11-6-5-10(21)9-19-16(11)25/h7-8,10-15,21-24H,5-6,9H2,1-4H3,(H,19,25)(H,20,26)/b8-7+/t10-,11+,12-,13+,14-,15-/m1/s1
+
+> <INCHI_KEY>
+FVBBTOIQETYGOA-SDNORSGYSA-N
+
+> <FORMULA>
+C18H32N2O7
+
+> <MOLECULAR_WEIGHT>
+388.4559
+
+> <EXACT_MASS>
+388.220951388
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+59
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+41.335626878575376
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R,4S,5R,6E)-3,4,5-trihydroxy-N-[(3S,6R)-6-hydroxy-2-oxoazepan-3-yl]-2-methoxy-8,8-dimethylnon-6-enamide
+
+> <ALOGPS_LOGP>
+-0.69
+
+> <JCHEM_LOGP>
+-1.6281270709999998
+
+> <ALOGPS_LOGS>
+-1.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.86000244049052
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.15163223674482
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8533535134317614
+
+> <JCHEM_POLAR_SURFACE_AREA>
+148.35
+
+> <JCHEM_REFRACTIVITY>
+97.96200000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.09e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-carbamoyl-1-[(2R,3R,4S,5R)-5-[({[(2R,3S,4R,5R)-3,4-dihydroxy-5-{imidazo[2,1-f]purin-3-yl}oxolan-2-yl]methoxy(hydroxy)phosphoryl phosphonato}oxy)methyl]-3,4-dihydroxyoxolan-2-yl]-1lambda5-pyridin-1-ylium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03396
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT03029
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2R,3R,4S,5R,6E)-3,4,5-Trihydroxy-N-[(3S,6R)-6-hydroxy-2-oxo-3-azepanyl]-2-methoxy-8,8-dimethyl-6-nonenamide
+
+$$$$

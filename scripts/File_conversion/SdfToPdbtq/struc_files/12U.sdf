@@ -1,0 +1,176 @@
+12U
+  Mrv0541 02241213022D          
+
+ 30 32  0  0  0  0            999 V2000
+   -0.5114    0.4582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2030    0.0457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9175    0.4582    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9175    1.2832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6320    1.6957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6320    2.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3464    2.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0609    2.5207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7754    2.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4899    2.5207    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7754    3.7582    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0609    1.6957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3464    1.2832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2030   -0.7793    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8705   -1.2642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6155   -2.0488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2095   -2.0488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4644   -1.2642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2490   -1.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8621   -1.5613    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4206   -0.2023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2052    0.0526    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8183   -0.4994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5869   -1.2913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0618   -1.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8853   -2.0153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4374   -1.4022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3022   -0.5883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5817   -0.1865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7233   -0.5142    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+ 14  2  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 30  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 29  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06853
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CCCN1C(=O)CNC1CCCCCC1)C(=O)NCC1=CC=C(C=C1)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H33N5O2/c23-21(24)17-11-9-16(10-12-17)14-26-22(29)19-8-5-13-27(19)20(28)15-25-18-6-3-1-2-4-7-18/h9-12,18-19,25H,1-8,13-15H2,(H3,23,24)(H,26,29)/t19-/m0/s1
+
+> <INCHI_KEY>
+BYTJPDBCLWUEBU-IBGZPJMESA-N
+
+> <FORMULA>
+C22H33N5O2
+
+> <MOLECULAR_WEIGHT>
+399.5297
+
+> <EXACT_MASS>
+399.263425325
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+62
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9912013070678007
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+45.48461493809582
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-N-[(4-carbamimidoylphenyl)methyl]-1-[2-(cycloheptylamino)acetyl]pyrrolidine-2-carboxamide
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.3267656573333335
+
+> <ALOGPS_LOGS>
+-3.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.3748614934685
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.485249498465869
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.31
+
+> <JCHEM_REFRACTIVITY>
+124.38369999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.93e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06853
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-cycloheptylglycyl-N-(4-carbamimidoylbenzyl)-L-prolinamide
+
+$$$$

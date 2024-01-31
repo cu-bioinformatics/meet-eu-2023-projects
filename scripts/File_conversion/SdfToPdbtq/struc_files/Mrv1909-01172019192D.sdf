@@ -1,0 +1,167 @@
+
+  Mrv1909 01172019192D          
+
+ 21 23  0  0  0  0            999 V2000
+   -0.6899    0.1902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6899   -1.4597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4044   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0244   -1.0472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0244   -0.2222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8090   -1.3022    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4392   -2.6824    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0226   -2.0990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8195   -2.3126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4044   -0.2222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1189    0.1902    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    1.2939   -0.6347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1189   -0.6347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8090    0.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4392    1.4129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0267    2.6824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6406    2.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3857    1.4129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0226    0.8295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8194    1.0430    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6941    2.1974    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  2  0  0  0  0
+  4  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3 10  1  0  0  0  0
+  6  4  1  0  0  0  0
+  5  4  2  0  0  0  0
+ 14  5  1  0  0  0  0
+ 14 12  1  0  0  0  0
+ 12  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 19  2  0  0  0  0
+ 19 15  1  0  0  0  0
+ 18 15  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13481
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC(=O)N1C(=O)\C(=C(/O)C2=CC=CS2)C2=C1C=CC(Cl)=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H9ClN2O3S/c15-7-3-4-9-8(6-7)11(13(19)17(9)14(16)20)12(18)10-2-1-5-21-10/h1-6,18H,(H2,16,20)/b12-11-
+
+> <INCHI_KEY>
+LXIKEPCNDFVJKC-QXMHVHEDSA-N
+
+> <FORMULA>
+C14H9ClN2O3S
+
+> <MOLECULAR_WEIGHT>
+320.75
+
+> <EXACT_MASS>
+320.002241
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9933496974316908
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.33191946997048
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3Z)-5-chloro-3-[hydroxy(thiophen-2-yl)methylidene]-2-oxo-2,3-dihydro-1H-indole-1-carboxamide
+
+> <ALOGPS_LOGP>
+2.22
+
+> <JCHEM_LOGP>
+2.3240620623333332
+
+> <ALOGPS_LOGS>
+-4.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.855415555790769
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.825964615839479
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6924156022086443
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.63
+
+> <JCHEM_REFRACTIVITY>
+79.78009999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.47e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+motesanib
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13481
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tenidap
+
+> <SYNONYMS>
+Tenidap; Tenidapum
+
+> <SALTS>
+Tenidap sodium
+
+$$$$

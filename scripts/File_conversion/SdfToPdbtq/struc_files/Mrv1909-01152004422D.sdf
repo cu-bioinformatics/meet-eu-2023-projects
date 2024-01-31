@@ -1,0 +1,188 @@
+
+  Mrv1909 01152004422D          
+
+ 31 31  0  0  0  0            999 V2000
+    0.3574    1.6458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3576    2.0574    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0714    2.0592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3580    0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3586    0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3586   -0.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3575   -0.8253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0696   -0.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0696    0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3585   -1.6503    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7844    0.8243    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0730    0.8252    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7844   -0.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7808   -1.6488    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4922   -2.0637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4885   -2.8872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4997   -0.4136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7735   -3.2958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0711   -0.8253    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7847   -0.4144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4972   -0.8270    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.2070   -1.6551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7857    0.4088    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3586    2.8824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0737    3.2941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3553    3.2958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0704    2.8842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4962   -1.6503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2107   -0.4161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7878    2.8806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2107   -0.8317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  7  8  2  0  0  0  0
+ 19 20  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 20 21  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  9  4  2  0  0  0  0
+ 14 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+ 15 16  1  0  0  0  0
+  7 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+ 13 17  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 20 23  2  0  0  0  0
+  2 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+  4  1  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  6  7  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 21 28  1  1  0  0  0
+  5 12  1  0  0  0  0
+ 21 29  1  0  0  0  0
+  6 19  1  0  0  0  0
+ 25 30  1  0  0  0  0
+ 22 31  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08947
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+C[C@H](O)C(=O)NC1=C(I)C(C(=O)NC(CO)CO)=C(I)C(C(=O)NC(CO)CO)=C1I
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H22I3N3O8/c1-6(28)15(29)23-14-12(19)9(16(30)21-7(2-24)3-25)11(18)10(13(14)20)17(31)22-8(4-26)5-27/h6-8,24-28H,2-5H2,1H3,(H,21,30)(H,22,31)(H,23,29)/t6-/m0/s1
+
+> <INCHI_KEY>
+XQZXYNRDCRIARQ-LURJTMIESA-N
+
+> <FORMULA>
+C17H22I3N3O8
+
+> <MOLECULAR_WEIGHT>
+777.0853
+
+> <EXACT_MASS>
+776.854094955
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_ATOM_COUNT>
+53
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.00011696967206711681
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+54.77765723805161
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+8
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N1,N3-bis(1,3-dihydroxypropan-2-yl)-5-[(2S)-2-hydroxypropanamido]-2,4,6-triiodobenzene-1,3-dicarboxamide
+
+> <ALOGPS_LOGP>
+-2.34
+
+> <JCHEM_LOGP>
+-0.7429353733333335
+
+> <ALOGPS_LOGS>
+-2.99
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.016581105136034
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.004146678468762
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.78581950294158
+
+> <JCHEM_POLAR_SURFACE_AREA>
+188.45
+
+> <JCHEM_REFRACTIVITY>
+139.6644
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.90e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iotroxic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08947
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Iopamidol
+
+> <SYNONYMS>
+Iopamidol; Iopamidolum
+
+> <PRODUCTS>
+Iopamidol Injection USP; Isovue; Isovue 128 Inj 26%; Isovue 128 Injection; Isovue 200; Isovue 200 Inj 41%; Isovue 200 Injection; Isovue 250; Isovue 300; Isovue 300 Inj 61%; Isovue 300 Injection; Isovue 370; Isovue 370 Inj 76%; Isovue 370 Injection; Isovue Multipack-300; Isovue Multipack-370; Isovue-M; Isovue-M 200; Isovue-M 300; PMS-iopamidol
+
+> <INTERNATIONAL_BRANDS>
+Gastromiro; Iopamiro; Iopamiron; Jopamiro; Moiopamin; Oypalomin; Solutrast
+
+$$$$

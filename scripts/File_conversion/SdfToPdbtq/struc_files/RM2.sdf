@@ -1,0 +1,145 @@
+RM2
+  Mrv0541 02241214072D          
+
+ 15 16  0  0  0  0            999 V2000
+   -2.4131    2.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6061    1.8632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3512    1.0786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5442    0.9071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2893    0.1224    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7742   -0.5450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2893   -1.2124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4953   -0.9575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4953   -0.1325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2098    0.2800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2098   -1.3700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9243   -0.9575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9243   -0.1325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2098   -2.1950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8660    0.2138    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 15  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08480
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]1(CCC2=C1C=CC=C2O)\N=C\C=C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H13NO/c1-2-8-13-11-7-6-10-9(11)4-3-5-12(10)14/h2-5,8,11,14H,1,6-7H2/b13-8+/t11-/m1/s1
+
+> <INCHI_KEY>
+OFWOPQIDDNCCLL-KAQJVSAMSA-N
+
+> <FORMULA>
+C12H13NO
+
+> <MOLECULAR_WEIGHT>
+187.2377
+
+> <EXACT_MASS>
+187.099714043
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.19446994452457209
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.17605134729554
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1R)-1-[(E)-(prop-2-en-1-ylidene)amino]-2,3-dihydro-1H-inden-4-ol
+
+> <ALOGPS_LOGP>
+3.05
+
+> <JCHEM_LOGP>
+2.5758006563333327
+
+> <ALOGPS_LOGS>
+-3.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.67621407006979
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.388581651723088
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.59
+
+> <JCHEM_REFRACTIVITY>
+57.4941
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.27e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <DRUGBANK_ID>
+DB08480
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-HYDROXY-N-PROPARGYL-1(R)-AMINOINDAN
+
+$$$$

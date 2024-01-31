@@ -1,0 +1,67 @@
+REMARK  Name = 
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: SI_4  and  O_7
+REMARK    2  A    between atoms: O_7  and  SI_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       0.000   0.000   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: SI_4  and  O_7
+REMARK    2  A    between atoms: O_7  and  SI_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   HOH     1       2.357   0.000   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: SI_4  and  O_7
+REMARK    2  A    between atoms: O_7  and  SI_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -0.175  -2.777   0.000  0.00  0.00    +0.000 OA
+ENDROOT
+BRANCH   1   3
+ATOM      2  O   UNL     1      -0.175  -4.427   0.000  0.00  0.00    +0.000 OA
+ATOM      3 SI   UNL     1      -0.175  -3.602   0.000  0.00  0.00    +0.000 Si
+ATOM      4  O   UNL     1      -1.000  -3.602   0.000  0.00  0.00    +0.000 OA
+ATOM      5  O   UNL     1       0.650  -3.602   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   3
+BRANCH   1   6
+ATOM      6 SI   UNL     1       0.540  -2.365   0.000  0.00  0.00    +0.000 Si
+ATOM      7  O   UNL     1       1.254  -1.952   0.000  0.00  0.00    +0.000 OA
+ATOM      8  O   UNL     1       0.127  -1.650   0.000  0.00  0.00    +0.000 OA
+ATOM      9  O   UNL     1       0.952  -3.079   0.000  0.00  0.00    +0.000 OA
+ENDBRANCH   1   6
+TORSDOF 2
+REMARK  Name = 
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: SI_4  and  O_7
+REMARK    2  A    between atoms: O_7  and  SI_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 AL   UNL     1      -0.175  -5.252   0.000  0.00  0.00    +0.000 Al
+ENDROOT
+TORSDOF 0
+REMARK  Name = 
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: SI_4  and  O_7
+REMARK    2  A    between atoms: O_7  and  SI_8
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1 AL   UNL     1      -1.825  -3.602   0.000  0.00  0.00    +0.000 Al
+ENDROOT
+TORSDOF 0

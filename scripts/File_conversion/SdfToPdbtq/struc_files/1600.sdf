@@ -1,0 +1,160 @@
+1600
+  Mrv0541 02231215352D          
+
+ 18 19  0  0  1  0            999 V2000
+    3.1652    0.9447    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4638    2.7098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.1242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6132    1.2888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3078    1.8699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9722    1.1162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.1242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3847    0.4018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8229    2.5374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8327   -0.2114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.2883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1283    1.9562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -2.3508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.7633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01600
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C(O)=O)C1=CC=C(S1)C(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H12O3S/c1-9(14(16)17)11-7-8-12(18-11)13(15)10-5-3-2-4-6-10/h2-9H,1H3,(H,16,17)
+
+> <INCHI_KEY>
+GUHPRPJDBZHYCJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H12O3S
+
+> <MOLECULAR_WEIGHT>
+260.308
+
+> <EXACT_MASS>
+260.05071494
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.998918974756772
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.777139412206616
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(5-benzoylthiophen-2-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+3.22
+
+> <JCHEM_LOGP>
+3.658654214
+
+> <ALOGPS_LOGS>
+-3.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.0343055726097425
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.824370203912565
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+69.18960000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.24e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01600
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Tiaprofenic acid
+
+> <SYNONYMS>
+2-(5-Benzoyl-thiophen-2-yl)-propionic acid; 2-(5-Benzyl-2-thienyl)propionsäure; 5-benzoyl-α-methyl-2-thiopheneacetic acid; 5-benzoyl-α-methylthiophene-2-acetic acid; Acide tiaprofenique; Acido tiaprofenico; Acidum tiaprofenicum; Tiaprofenic acid; Tiaprofensäure; α-methyl-5-benzoyl-2-thienylacetic acid
+
+> <PRODUCTS>
+Albert Tiafen SR; Albert Tiafen Tab 200mg; Albert Tiafen Tab 300mg; Apo-tiaprofenic Tablets -300mg; Apo-tiaprofenic Tablets-200mg; Dom-tiaprofenic; Nu-tiaprofenic - Tab 200mg; Nu-tiaprofenic - Tab 300mg; PMS-tiaprofenic; Penta-tiaprofenic Tablets; Surgam; Surgam SR; Surgam SR Cap 300mg; Surgam Tab 200mg; Surgam Tab 300mg; Surgam-SR Src 300mg; Teva-tiaprofenic Acid; Tiaprofenic-200 - Tab; Tiaprofenic-300 - Tab
+
+> <INTERNATIONAL_BRANDS>
+Surgamyl
+
+$$$$

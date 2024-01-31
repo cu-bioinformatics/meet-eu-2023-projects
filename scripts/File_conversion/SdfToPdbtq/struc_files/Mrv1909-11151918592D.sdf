@@ -1,0 +1,148 @@
+
+  Mrv1909 11151918592D          
+
+ 21 22  0  0  0  0            999 V2000
+   -1.4563    3.4134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4563    2.5883    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2813    2.5883    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6313    2.5883    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4563    1.7634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7419    1.3508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7419    0.5258    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0744    0.0408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4093    0.0408    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.1939    0.2958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1544   -0.7437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3294   -0.7437    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1554   -1.4111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1800   -2.1648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0005   -2.2510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3048   -2.8322    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1253   -2.7460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6102   -3.4134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4608   -1.9923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9759   -1.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2813   -1.9061    0.0000 Br  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  5  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  6  5  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  9  7  1  0  0  0  0
+ 12  8  1  0  0  0  0
+ 11  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+ 12 11  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 14 13  1  0  0  0  0
+ 20 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 21 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01903
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O[C@H]1C[C@@H](O[C@@H]1COP(O)(O)=O)N1C=C(Br)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12BrN2O8P/c10-4-2-12(9(15)11-8(4)14)7-1-5(13)6(20-7)3-19-21(16,17)18/h2,5-7,13H,1,3H2,(H,11,14,15)(H2,16,17,18)/t5-,6+,7+/m0/s1
+
+> <INCHI_KEY>
+LHLHVDBXXZVYJT-RRKCRQDMSA-N
+
+> <FORMULA>
+C9H12BrN2O8P
+
+> <MOLECULAR_WEIGHT>
+387.078
+
+> <EXACT_MASS>
+385.951464529
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.838589985102033
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-5-(5-bromo-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3-hydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <JCHEM_LOGP>
+-0.8126765109999997
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.255726097010203
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.232757457012042
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.2403443486600287
+
+> <JCHEM_POLAR_SURFACE_AREA>
+145.63
+
+> <JCHEM_REFRACTIVITY>
+69.53710000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-[(2S)-2-{[(3S)-1-{[1,1'-biphenyl]-4-ylmethyl}-2-oxoazepan-3-yl]carbamoyl}-2-acetamidoethyl]-2-phosphonophenoxyacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01903
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00758
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+5-Bromo-2'-deoxyuridine 5'-(dihydrogen phosphate)
+
+$$$$

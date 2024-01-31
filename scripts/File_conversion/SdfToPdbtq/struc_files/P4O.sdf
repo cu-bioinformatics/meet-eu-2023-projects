@@ -1,0 +1,173 @@
+P4O
+  Mrv0541 02241214022D          
+
+ 26 30  0  0  0  0            999 V2000
+   -3.1596    0.9434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5721    1.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3971    1.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8096    2.3723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3971    3.0868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5721    3.0868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1596    2.3723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3346    2.3723    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9221    1.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3346    0.9434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9221    0.2289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0971    0.2289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3346   -0.4856    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9221   -1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0971   -1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6846   -0.4856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1404   -0.4856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6253    0.1819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4099   -0.0731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1244    0.3394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1244    1.1644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8389   -0.0731    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8389   -0.8981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1244   -1.3106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4099   -0.8981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6253   -1.1530    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 26  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 25  2  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08358
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O=C1NCCC2=C1C=C(N2)C1=CC(=NC=C1)C1=CC2=C(C=CC=C2)N=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H16N4O/c26-21-16-11-20(25-18(16)6-8-23-21)14-5-7-22-19(10-14)15-9-13-3-1-2-4-17(13)24-12-15/h1-5,7,9-12,25H,6,8H2,(H,23,26)
+
+> <INCHI_KEY>
+OWFLADWRSCINST-UHFFFAOYSA-N
+
+> <FORMULA>
+C21H16N4O
+
+> <MOLECULAR_WEIGHT>
+340.3779
+
+> <EXACT_MASS>
+340.132411154
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+42
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.0015119801582921426
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.69126150367871
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[2-(quinolin-3-yl)pyridin-4-yl]-1H,4H,5H,6H,7H-pyrrolo[3,2-c]pyridin-4-one
+
+> <ALOGPS_LOGP>
+3.10
+
+> <JCHEM_LOGP>
+2.3989188543333326
+
+> <ALOGPS_LOGS>
+-4.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.773397793857608
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.699154018149196
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.271235596639865
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.67
+
+> <JCHEM_REFRACTIVITY>
+99.63169999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.92e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08358
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(2-QUINOLIN-3-YLPYRIDIN-4-YL)-1,5,6,7-TETRAHYDRO-4H-PYRROLO[3,2-C]PYRIDIN-4-ONE
+
+$$$$

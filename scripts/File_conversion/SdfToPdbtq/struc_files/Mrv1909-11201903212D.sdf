@@ -1,0 +1,156 @@
+
+  Mrv1909 11201903212D          
+
+ 18 18  0  0  0  0            999 V2000
+    0.3652    0.7048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3652   -0.1285    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3528    1.1111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0655    1.1262    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0744   -0.5607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0647    0.6842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7981    0.7273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0744   -1.3879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8159   -0.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8034    1.0817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0647   -0.1105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5314    0.3772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8159   -1.7943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5314   -0.5278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1811    0.3628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4033    1.7943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5314    1.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5314   -1.3666    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  3  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06762
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(N\C(NC#N)=N\C1=CC=NC=C1)C(C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H19N5/c1-10(13(2,3)4)17-12(16-9-14)18-11-5-7-15-8-6-11/h5-8,10H,1-4H3,(H2,15,16,17,18)
+
+> <INCHI_KEY>
+IVVNZDGDKPTYHK-UHFFFAOYSA-N
+
+> <FORMULA>
+C13H19N5
+
+> <MOLECULAR_WEIGHT>
+245.33
+
+> <EXACT_MASS>
+245.164045632
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.30580208942726
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(Z)-N'-cyano-N-(3,3-dimethylbutan-2-yl)-N''-(pyridin-4-yl)guanidine
+
+> <ALOGPS_LOGP>
+2.30
+
+> <JCHEM_LOGP>
+1.9358666239999998
+
+> <ALOGPS_LOGS>
+-3.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+16.794247694497937
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.284053190520932
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.157498314073473
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.1
+
+> <JCHEM_REFRACTIVITY>
+73.0447
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(Z)-N'-cyano-N-(3,3-dimethylbutan-2-yl)-N''-(pyridin-4-yl)guanidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06762
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Pinacidil
+
+> <SYNONYMS>
+Pinacidil; Pinacidil anhydrous; Pinacidilum
+
+> <INTERNATIONAL_BRANDS>
+Pindac
+
+> <SALTS>
+Pinacidil monohydrate
+
+$$$$

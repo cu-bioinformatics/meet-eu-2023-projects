@@ -1,0 +1,168 @@
+
+  Mrv1909 06131922532D          
+
+ 22 23  0  0  0  0            999 V2000
+    1.2167   -1.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2167    1.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4630   -0.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4630    0.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7979   -0.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9580    1.1376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7979    0.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9580   -1.1376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4653    0.4665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6254    1.6225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4653   -0.4665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6254   -1.6225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0442    0.3171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0442   -0.3171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3791    1.2869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3791   -1.2869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3768   -0.1677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3768    0.1677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0465    1.7719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0465   -1.7719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2043   -1.4731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2043    1.4731    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  4  2  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  6  2  0  0  0  0
+ 11  7  1  0  0  0  0
+ 12  8  2  0  0  0  0
+ 13  5  2  0  0  0  0
+ 13  6  1  0  0  0  0
+ 14  7  2  0  0  0  0
+ 14  8  1  0  0  0  0
+ 15  9  2  0  0  0  0
+ 15 10  1  0  0  0  0
+ 16 11  2  0  0  0  0
+ 16 12  1  0  0  0  0
+ 17  3  2  0  0  0  0
+ 17 13  1  0  0  0  0
+ 18  4  2  0  0  0  0
+ 18 14  1  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 15  1  0  0  0  0
+ 20 16  1  0  0  0  0
+ 21  3  1  0  0  0  0
+ 22  4  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00890
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]\C(C)=C(/C(=C(\[H])C)/C1=CC=C(O)C=C1)\C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H18O2/c1-3-17(13-5-9-15(19)10-6-13)18(4-2)14-7-11-16(20)12-8-14/h3-12,19-20H,1-2H3/b17-3+,18-4+
+
+> <INCHI_KEY>
+NFDFQCUYFHCNBW-SCGPFSFSSA-N
+
+> <FORMULA>
+C18H18O2
+
+> <MOLECULAR_WEIGHT>
+266.34
+
+> <EXACT_MASS>
+266.13067982
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_ATOM_COUNT>
+38
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.269300122521248
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-[(2E,4E)-4-(4-hydroxyphenyl)hexa-2,4-dien-3-yl]phenol
+
+> <ALOGPS_LOGP>
+5.18
+
+> <JCHEM_LOGP>
+4.831961091333333
+
+> <ALOGPS_LOGS>
+-4.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.701624901640892
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.099340202888508
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.963491272451224
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+84.3572
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.23e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[1-({2-[({5-[(dimethylamino)methyl]furan-2-yl}methyl)sulfanyl]ethyl}amino)-2-nitroethenyl](methyl)amine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00890
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00917
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Dienestrol
+
+> <SYNONYMS>
+4,4'-Hydroxy-γ,δ-diphenyl-β,δ-hexadiene; alpha-dienestrol diacetate; Cycladiene; Dehydrostilbestrol; Diènestrol; Dienestrol; Dienestrolum; p,p'-(Diethylideneethylene)diphenol
+
+> <PRODUCTS>
+Ortho Dienestrol Crm
+
+> <INTERNATIONAL_BRANDS>
+Estraguard; Estroral; Ortho Dienestrol; Restrol; Retalon; Sexadien; Synestrol
+
+$$$$

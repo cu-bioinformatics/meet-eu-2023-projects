@@ -1,0 +1,145 @@
+
+  Mrv1718010311712362D          
+
+ 17 17  0  0  0  0            999 V2000
+    0.3572    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.8562    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861   -1.8562    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  2  0  0  0  0
+  5  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  2  2  0  0  0  0
+  2 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+ 15  6  1  0  0  0  0
+ 15  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 15  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  3  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB07551
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCNC1=NC(Cl)=NC(NC(C)(CC)C#N)=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H15ClN6/c1-4-10(3,6-12)17-9-15-7(11)14-8(16-9)13-5-2/h4-5H2,1-3H3,(H2,13,14,15,16,17)/t10-/m0/s1
+
+> <INCHI_KEY>
+IUCVBFHDSFSEIK-JTQLQIEISA-N
+
+> <FORMULA>
+C10H15ClN6
+
+> <MOLECULAR_WEIGHT>
+254.719
+
+> <EXACT_MASS>
+254.104672217
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+32
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.00266512580952
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+> <ALOGPS_LOGP>
+2.57
+
+> <JCHEM_LOGP>
+2.484203314
+
+> <ALOGPS_LOGS>
+-2.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.691303571116542
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.3986828844777
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.5659886160050501
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.52000000000001
+
+> <JCHEM_REFRACTIVITY>
+71.8435
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.96e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB07551
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2S)-2-{[4-chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino}-2-methylbutanenitrile
+
+$$$$

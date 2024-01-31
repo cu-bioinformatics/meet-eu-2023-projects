@@ -1,0 +1,146 @@
+
+  Mrv1572001261617232D          
+
+ 19 19  0  0  0  0            999 V2000
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  1  1  0  0  0  0
+  5  4  2  0  0  0  0
+  9  4  1  0  0  0  0
+  9  6  2  0  0  0  0
+  9  7  1  0  0  0  0
+ 10  5  1  0  0  0  0
+ 11  8  2  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13  2  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14  6  1  0  0  0  0
+ 14 10  2  0  0  0  0
+ 15  3  1  0  0  0  0
+ 15  7  1  0  0  0  0
+ 15 11  1  0  0  0  0
+ 16  8  1  0  0  0  0
+ 17 16  2  0  0  0  0
+ 18 16  2  0  0  0  0
+ 19  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB11438
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H]C(=C(NC)N(CC)CC1=CN=C(Cl)C=C1)N(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H15ClN4O2/c1-3-15(11(13-2)8-16(17)18)7-9-4-5-10(12)14-6-9/h4-6,8,13H,3,7H2,1-2H3/b11-8+
+
+> <INCHI_KEY>
+CFRPSFYHXJZSBI-DHZHZOJOSA-N
+
+> <FORMULA>
+C11H15ClN4O2
+
+> <MOLECULAR_WEIGHT>
+270.72
+
+> <EXACT_MASS>
+270.0883534
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+33
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.519883264556956
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(E)-1-{[(6-chloropyridin-3-yl)methyl](ethyl)amino}-2-nitroethenyl](methyl)amine
+
+> <ALOGPS_LOGP>
+0.57
+
+> <JCHEM_LOGP>
+1.8735555403333335
+
+> <ALOGPS_LOGS>
+-2.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.4998041876101573
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.98
+
+> <JCHEM_REFRACTIVITY>
+80.76529999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.17e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nitenpyram
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB11438
+
+> <DRUG_GROUPS>
+experimental; vet_approved
+
+> <GENERIC_NAME>
+Nitenpyram
+
+> <SYNONYMS>
+(1E)-N-((6-chloro-3-pyridinyl)methyl)-N-ethyl-N'-methyl-2-nitro-1,1-ethenediamine; (E)-nitenpyram
+
+$$$$

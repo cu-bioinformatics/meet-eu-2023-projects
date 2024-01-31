@@ -1,0 +1,167 @@
+29U
+  Mrv0541 02241213052D          
+
+ 26 27  0  0  0  0            999 V2000
+    0.6793   -1.2354    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0119   -0.7504    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0119    0.0746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7263    0.4871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7026    0.4871    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7026    1.3121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4171    1.7246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1315    1.3121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8460    1.7246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8460    2.5496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5605    2.9621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5605    3.7871    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2750    2.5496    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1315    2.9621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4171    2.5496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6556   -1.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4006   -2.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4244   -2.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4639   -0.9804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0770   -1.5325    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9055   -2.3394    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8616   -1.2775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4747   -1.8296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6355   -0.1735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5322   -0.4854    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1984   -0.9613    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2 25  1  6  0  0  0
+  2  3  1  1  0  0  0
+  3  5  1  0  0  0  0
+  4  3  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 15 14  2  0  0  0  0
+ 16  2  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18  1  1  0  0  0  0
+ 19 24  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 26  1  6  0  0  0
+ 20 21  1  6  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06947
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@](N)(CC)C(=O)N1CCC[C@@]1([H])C(=O)NCC1=CC=C(C=C1)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H25N5O2/c1-2-13(18)17(24)22-9-3-4-14(22)16(23)21-10-11-5-7-12(8-6-11)15(19)20/h5-8,13-14H,2-4,9-10,18H2,1H3,(H3,19,20)(H,21,23)/t13-,14+/m1/s1
+
+> <INCHI_KEY>
+YHAMQFKGUUSJMU-KGLIPLIRSA-N
+
+> <FORMULA>
+C17H25N5O2
+
+> <MOLECULAR_WEIGHT>
+331.4127
+
+> <EXACT_MASS>
+331.200825069
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.9324120597868955
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.514379753001585
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-1-[(2R)-2-aminobutanoyl]-N-[(4-carbamimidoylphenyl)methyl]pyrrolidine-2-carboxamide
+
+> <ALOGPS_LOGP>
+0.06
+
+> <JCHEM_LOGP>
+-0.2583672956666662
+
+> <ALOGPS_LOGS>
+-3.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+2
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.427794631172029
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+11.483899190134625
+
+> <JCHEM_POLAR_SURFACE_AREA>
+125.30000000000001
+
+> <JCHEM_REFRACTIVITY>
+103.01179999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06947
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+1-[(2R)-2-aminobutanoyl]-N-(4-carbamimidoylbenzyl)-L-prolinamide
+
+$$$$

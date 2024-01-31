@@ -1,0 +1,163 @@
+
+  Mrv1909 07122017122D          
+
+ 20 20  0  0  0  0            999 V2000
+    0.3500   -0.8249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3749   -1.2498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3749   -2.0749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1000   -2.4999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0749   -0.8249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8249   -1.2498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3749    1.2500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3749    0.4251    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3749    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0749    0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0749    1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3749    1.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7999    1.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5250    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7999    2.4999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0749    1.6750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0749    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8249    0.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8249    1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  9  1  1  1  0  0  0
+  5  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  6  5  1  0  0  0  0
+  8  7  1  0  0  0  0
+  7 16  1  1  0  0  0
+ 12  7  1  0  0  0  0
+  8 17  1  6  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 14 13  1  0  0  0  0
+ 15 13  2  0  0  0  0
+ 18 17  1  0  0  0  0
+ 19 18  1  0  0  0  0
+ 20 18  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB02600
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC(CC)O[C@@H]1C=C(C[C@H](N)[C@H]1NC(C)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H24N2O4/c1-4-10(5-2)20-12-7-9(14(18)19)6-11(15)13(12)16-8(3)17/h7,10-13H,4-6,15H2,1-3H3,(H,16,17)(H,18,19)/t11-,12+,13+/m0/s1
+
+> <INCHI_KEY>
+NENPYTRHICXVCS-YNEHKIRRSA-N
+
+> <FORMULA>
+C14H24N2O4
+
+> <MOLECULAR_WEIGHT>
+284.3514
+
+> <EXACT_MASS>
+284.173607266
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+44
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+1.034589081635532
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.33328605122536
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R,4R,5S)-5-amino-4-acetamido-3-(pentan-3-yloxy)cyclohex-1-ene-1-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.33
+
+> <JCHEM_LOGP>
+-1.8378709448790915
+
+> <ALOGPS_LOGS>
+-1.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.034249038178782
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.185171899639336
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.334991063932701
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.65
+
+> <JCHEM_REFRACTIVITY>
+74.6857
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.15e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oseltamivir acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02600
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01528
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Oseltamivir acid
+
+> <SYNONYMS>
+Oseltamivir carboxylate; Oseltamivir free acid
+
+$$$$

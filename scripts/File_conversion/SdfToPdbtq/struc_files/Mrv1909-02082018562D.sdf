@@ -1,0 +1,186 @@
+
+  Mrv1909 02082018562D          
+
+ 31 32  0  0  0  0            999 V2000
+    0.7020   -1.4511    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0117   -1.0373    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6987   -2.2751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4158   -1.0407    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0117   -0.2132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7288   -1.4511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4089   -2.6922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0117   -2.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4191   -0.2166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1295   -1.4580    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7254    0.2005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7288   -2.2751    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1260   -2.2820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4391   -0.2132    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7218    1.0245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4426   -2.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1529    0.2005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4391   -1.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8666   -0.2098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6917   -0.5338    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8351   -1.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491    0.2072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1511    1.0335    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0088    2.2778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7255    2.6890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4387    2.2746    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4366    1.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1599    2.6885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7046    2.6922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0065    1.4528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8666    1.4442    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  6  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  1  1  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  1  6  0  0  0
+ 14 17  1  0  0  0  0
+ 14 18  1  1  0  0  0
+ 17 19  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+  1 20  1  1  0  0  0
+ 10 21  1  1  0  0  0
+  9 22  1  0  0  0  0
+ 23 22  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 26 28  1  6  0  0  0
+ 24 29  1  0  0  0  0
+ 24 30  2  0  0  0  0
+ 23 31  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB03785
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H](O)C[C@@H](O)CC(O)=O)OC(=O)[C@@H](C)CC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H38O6/c1-5-15(3)24(29)30-21-11-14(2)10-17-7-6-16(4)20(23(17)21)9-8-18(25)12-19(26)13-22(27)28/h6-7,10,14-16,18-21,23,25-26H,5,8-9,11-13H2,1-4H3,(H,27,28)/t14-,15-,16-,18+,19+,20-,21-,23-/m0/s1
+
+> <INCHI_KEY>
+QLJODMDSTUBWDW-BXMDZJJMSA-N
+
+> <FORMULA>
+C24H38O6
+
+> <MOLECULAR_WEIGHT>
+422.5549
+
+> <EXACT_MASS>
+422.266838948
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+68
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9983722515439487
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+47.53921620771624
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(3R,5R)-7-[(1S,2S,6R,8S,8aR)-2,6-dimethyl-8-{[(2S)-2-methylbutanoyl]oxy}-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoic acid
+
+> <ALOGPS_LOGP>
+3.74
+
+> <JCHEM_LOGP>
+3.237715789666665
+
+> <ALOGPS_LOGS>
+-3.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.890242521747762
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.212298804304482
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.721465066718528
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.06
+
+> <JCHEM_REFRACTIVITY>
+116.67459999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.41e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+11-[(1S,3aS,3bR,4R,9bS,11aS)-1,7-dihydroxy-11a-methyl-1H,2H,3H,3aH,3bH,4H,5H,9bH,10H,11H-cyclopenta[a]phenanthren-4-yl]-N-butyl-N-methylundecanamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03785
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02067
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Mevinolinic acid
+
+> <SYNONYMS>
+Lovastatin acid
+
+$$$$

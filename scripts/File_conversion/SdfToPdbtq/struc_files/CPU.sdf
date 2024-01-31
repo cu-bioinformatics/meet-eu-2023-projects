@@ -1,0 +1,156 @@
+CPU
+  Mrv0541 02231217312D          
+
+ 19 20  0  0  0  0            999 V2000
+   -3.5898   -0.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3043    0.2700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3043    1.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5898    1.5075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8753    1.0950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8753    0.2700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0175    0.2700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1609   -0.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4464    0.2700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7319   -0.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6970   -0.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6970   -0.9675    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4115    0.2700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1260   -0.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8404    0.2700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5549   -0.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5549   -0.9675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8404   -1.3800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1260   -0.9675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04213
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+O=C(NCCCC1=CC=CC=C1)NC1CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H24N2O/c19-16(18-15-11-5-2-6-12-15)17-13-7-10-14-8-3-1-4-9-14/h1,3-4,8-9,15H,2,5-7,10-13H2,(H2,17,18,19)
+
+> <INCHI_KEY>
+HBTZVNKXMFGOOJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H24N2O
+
+> <MOLECULAR_WEIGHT>
+260.3746
+
+> <EXACT_MASS>
+260.1888634
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+43
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+2.0806607590721657e-08
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.148144466482936
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-cyclohexyl-3-(3-phenylpropyl)urea
+
+> <ALOGPS_LOGP>
+3.37
+
+> <JCHEM_LOGP>
+3.3404917886666663
+
+> <ALOGPS_LOGS>
+-4.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.471505529895893
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.6164840117554327
+
+> <JCHEM_POLAR_SURFACE_AREA>
+41.13
+
+> <JCHEM_REFRACTIVITY>
+77.9188
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.42e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04213
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT01006
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-Cyclohexyl-N'-(Propyl)Phenyl Urea
+
+$$$$

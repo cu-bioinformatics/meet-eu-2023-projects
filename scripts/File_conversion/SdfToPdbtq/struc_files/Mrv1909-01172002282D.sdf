@@ -1,0 +1,177 @@
+
+  Mrv1909 01172002282D          
+
+ 28 29  0  0  0  0            999 V2000
+    0.2887   -1.6572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2887   -2.4822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0031   -2.8947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7176   -2.4822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7176   -1.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0032   -1.2448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4321   -1.2448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4322   -0.4198    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7177   -0.0073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1467   -0.0074    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1467    0.8175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4322   -0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4322    0.5691    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7177    0.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0033    0.5691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0033   -0.2558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7178   -0.6682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1467   -0.6682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2889   -0.6684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7177    1.8066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7211    1.3443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1908    0.4258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0912   -0.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0913    1.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3735    2.2627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1566    2.8947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9691    2.7515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2513    1.9763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  1  2  1  0  0  0  0
+  8  9  1  0  0  0  0
+  1  6  1  0  0  0  0
+  8 10  1  6  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 16 19  2  0  0  0  0
+ 14 20  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 28 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB09001
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CN[C@@H](C)CC1CCCCC1.CCC1(C(=O)NC(=O)NC1=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H12N2O3.C10H21N/c1-2-12(8-6-4-3-5-7-8)9(15)13-11(17)14-10(12)16;1-9(11-2)8-10-6-4-3-5-7-10/h3-7H,2H2,1H3,(H2,13,14,15,16,17);9-11H,3-8H2,1-2H3/t;9-/m.0/s1
+
+> <INCHI_KEY>
+MJCBWPMBFCUHBP-NPULLEENSA-N
+
+> <FORMULA>
+C22H33N3O3
+
+> <MOLECULAR_WEIGHT>
+387.524
+
+> <EXACT_MASS>
+387.252191935
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+61
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.42226011930871177
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.605643769590962
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione; [(2S)-1-cyclohexylpropan-2-yl](methyl)amine
+
+> <ALOGPS_LOGP>
+1.40
+
+> <JCHEM_LOGP>
+1.4063301279999993
+
+> <ALOGPS_LOGS>
+-2.93
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.802575810476359
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.136713113493376
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.27
+
+> <JCHEM_REFRACTIVITY>
+59.74630000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.76e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+edaglitazone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB09001
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Barbexaclone
+
+> <SYNONYMS>
+Barbexaclon; Barbexaclona; Barbexaclone; Barbexaclonum
+
+> <INTERNATIONAL_BRANDS>
+Maliasin
+
+$$$$

@@ -1,0 +1,155 @@
+
+  Mrv1652312051604182D          
+
+ 21 19  0  0  0  0            999 V2000
+   -2.5006    0.4677    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9295    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6440    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3585    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0730    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151    0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9295    0.4677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6440    0.0552    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0565    0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2315   -0.6592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3585   -0.3572    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -6.0730   -0.7697    0.0000 Na  0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  1 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+M  CHG  2  20  -1  21   1
+M  END
+> <DATABASE_ID>
+DB13157
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[Na+].CCCCCCCCCCCCOC(=O)CS([O-])(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H28O5S.Na/c1-2-3-4-5-6-7-8-9-10-11-12-19-14(15)13-20(16,17)18;/h2-13H2,1H3,(H,16,17,18);/q;+1/p-1
+
+> <INCHI_KEY>
+UAJTZZNRJCKXJN-UHFFFAOYSA-M
+
+> <FORMULA>
+C14H27NaO5S
+
+> <MOLECULAR_WEIGHT>
+330.41
+
+> <EXACT_MASS>
+330.14768942
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+48
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.94622356837867
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+sodium 2-(dodecyloxy)-2-oxoethane-1-sulfonate
+
+> <ALOGPS_LOGP>
+4.49
+
+> <JCHEM_LOGP>
+4.0005197830000006
+
+> <ALOGPS_LOGS>
+-4.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.0703414683354397
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.273048046190018
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.5
+
+> <JCHEM_REFRACTIVITY>
+77.31649999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.76e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sodium 2-(dodecyloxy)-2-oxoethanesulfonate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13157
+
+> <DRUG_GROUPS>
+approved; experimental
+
+> <GENERIC_NAME>
+Sodium lauryl sulfoacetate
+
+> <SYNONYMS>
+Lathanol; Lathanol LAL; Sulfoacetic acid dodecyl ester S-sodium salt
+
+> <PRODUCTS>
+Microlax Micro Enema; Microlax Micro-enema
+
+$$$$

@@ -1,0 +1,162 @@
+
+  Mrv1902 01281923362D          
+
+ 22 23  0  0  0  0            999 V2000
+   -0.7145   -0.3846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.3846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7046    1.2596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4883    1.0019    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9747    1.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4915    2.3368    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7063    2.0839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1435   -1.2097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8581   -0.7972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8414   -2.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0166   -2.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4290   -1.6056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1435   -1.2097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8580   -0.7972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8414   -2.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0166   -2.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3 17  2  0  0  0  0
+ 17  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  3  0  0  0  0
+  8 15  1  0  0  0  0
+ 16  8  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  3  0  0  0  0
+ 18 21  1  0  0  0  0
+ 22 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01217
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H19N5/c1-16(2,9-18)14-5-13(8-22-12-20-11-21-22)6-15(7-14)17(3,4)10-19/h5-7,11-12H,8H2,1-4H3
+
+> <INCHI_KEY>
+YBBLVLTVTVSKRW-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H19N5
+
+> <MOLECULAR_WEIGHT>
+293.3663
+
+> <EXACT_MASS>
+293.164045633
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.96544035444743
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-[3-(1-cyano-1-methylethyl)-5-[(1H-1,2,4-triazol-1-yl)methyl]phenyl]-2-methylpropanenitrile
+
+> <ALOGPS_LOGP>
+2.31
+
+> <JCHEM_LOGP>
+3.0284548219999996
+
+> <ALOGPS_LOGS>
+-3.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9978867807338194
+
+> <JCHEM_POLAR_SURFACE_AREA>
+78.29
+
+> <JCHEM_REFRACTIVITY>
+97.4729
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.61e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mitoxantrone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01217
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00016
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Anastrozole
+
+> <SYNONYMS>
+Anastrozol; Anastrozole; α,α,α',α'-Tetramethyl-5-(1H-1,2,4-triazol-1-ylmethyl)-m-benzenediacetonitrile
+
+> <PRODUCTS>
+Accel-anastrozole Tablets; Ach-anastrozole; Anastrozole; Apo-anastrozole; Arimidex; Auro-anastrozole; Bio-anastrozole; Ccp-anastrozole; Dom-anastrozole; Ipg-anastrozole; Jamp-anastrozole; Mar-anastrozole; Med-anastrozole; Mint-anastrozole; Mylan-anastrozole; Nat-anastrozole; PMS-anastrozole; Ran-anastrozole; Riva-anastrozole; Sandoz Anastrozole; Taro-anastrozole; Testosterone / Anastrozole; Testozole; Teva-anastrozole; Van-anastrozole; Zinda-anastrozole
+
+> <INTERNATIONAL_BRANDS>
+Asiolex
+
+$$$$

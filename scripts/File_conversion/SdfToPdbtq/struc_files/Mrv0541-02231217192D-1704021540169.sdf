@@ -1,0 +1,182 @@
+
+  Mrv0541 02231217192D          
+
+ 28 31  0  0  1  0            999 V2000
+    7.2792    0.0584    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4735    0.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9172   -0.3739    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1115   -0.1968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8619    0.5896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0561    0.7666    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4999    0.1573    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7495   -0.6290    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5552   -0.8061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1932   -1.2383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3875   -1.0613    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8312   -1.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0255   -1.4935    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4692   -2.1028    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0870   -2.7121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1401   -1.5466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0785   -2.6590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1379   -0.2749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6941    0.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2865    1.0516    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4784    0.8856    0.0000 Mo  0  0  0  0  0  0  0  0  0  0  0  0
+    1.6974    1.6811    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8691    1.4419    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7062    0.5953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3865    0.0658    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4181    1.1989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1686    1.9852    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2239    1.0218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  1  0  0  0  0
+  8 10  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  7 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+ 21 24  2  0  0  0  0
+ 21 25  1  0  0  0  0
+ 18 25  1  0  0  0  0
+  5 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 26 28  1  0  0  0  0
+  2 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB03983
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+NC1=NC2=C(N[C@@H]3[C@H](N2)O[C@@H](COP(O)(O)=O)C2=C3S[Mo](S)(=O)(=O)S2)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O6PS2.Mo.2O.H2S/c11-10-14-7-4(8(16)15-10)12-3-6(24)5(23)2(21-9(3)13-7)1-20-22(17,18)19;;;;/h2-3,9,12,23-24H,1H2,(H2,17,18,19)(H4,11,13,14,15,16);;;;1H2/q;+3;;;/p-3/t2-,3-,9+;;;;/m0..../s1
+
+> <INCHI_KEY>
+SQVSRPVEMXBYTQ-ZLGQENBPSA-K
+
+> <FORMULA>
+C10H13MoN5O8PS3
+
+> <MOLECULAR_WEIGHT>
+554.35
+
+> <EXACT_MASS>
+555.871793845
+
+> <JCHEM_ACCEPTOR_COUNT>
+11
+
+> <JCHEM_ATOM_COUNT>
+41
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-2.0547203025328016
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.629430243913376
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+7
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(1R,10R,16S)-5-amino-7,13,13-trioxo-13-sulfanyl-17-oxa-12,14-dithia-2,4,6,9-tetraaza-13-molybdatetracyclo[8.7.0.0^{3,8}.0^{11,15}]heptadeca-3(8),4,11(15)-trien-16-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-0.41
+
+> <JCHEM_LOGP>
+-1.598279761839751
+
+> <ALOGPS_LOGS>
+-2.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-2
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.218720198599933
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.234602585817739
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+0.04059334569700184
+
+> <JCHEM_POLAR_SURFACE_AREA>
+201.67
+
+> <JCHEM_REFRACTIVITY>
+106.60989999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.93e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB03983
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02249
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+{[2-Amino-4-oxo-6,7-di(sulfanyl-κS)-3,5,5a,8,9a,10-hexahydro-4H-pyrano[3,2-g]pteridin-8-yl]methyl dihydrogenato(2-) phosphate}(dioxo)sulfanylmolybdenum
+
+> <SYNONYMS>
+(Molybdopterin-S,S)-dioxo-thio-molybdenum(V)
+
+$$$$

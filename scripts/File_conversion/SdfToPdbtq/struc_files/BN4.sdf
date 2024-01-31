@@ -1,0 +1,176 @@
+BN4
+  Mrv0541 02231217492D          
+
+ 29 30  0  0  0  0            999 V2000
+   -4.0090    2.0088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2946    1.5963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2946    0.7713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0090    0.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0090   -0.4662    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7235    0.7713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7235    1.5963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8656    0.7713    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5801    0.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5801   -0.4662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4367    0.7713    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2778    0.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9923    0.7713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7067    0.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7067   -0.4662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4212   -0.8787    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1357   -0.4662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8501   -0.8787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5646   -0.4662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9923   -0.8787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2778   -0.4662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1512    0.3588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1512   -0.4662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4380    2.0088    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4367   -0.8787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2791   -0.8787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9936   -0.4662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2791   -1.7037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9923   -1.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 24  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 26  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 29  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04644
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC1=C(C)C(OCCCC(O)=O)=CC=C1NC(=O)NC(=O)C1=CC=C(Cl)C=C1Cl
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H20Cl2N2O5/c1-11-12(2)17(29-9-3-4-18(25)26)8-7-16(11)23-20(28)24-19(27)14-6-5-13(21)10-15(14)22/h5-8,10H,3-4,9H2,1-2H3,(H,25,26)(H2,23,24,27,28)
+
+> <INCHI_KEY>
+FCEMCUPAYRPTLS-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H20Cl2N2O5
+
+> <MOLECULAR_WEIGHT>
+439.289
+
+> <EXACT_MASS>
+438.074927174
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+49
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9992134560833593
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.50254140307261
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(4-{[(2,4-dichlorobenzoyl)carbamoyl]amino}-2,3-dimethylphenoxy)butanoic acid
+
+> <ALOGPS_LOGP>
+4.02
+
+> <JCHEM_LOGP>
+4.801111509
+
+> <ALOGPS_LOGS>
+-5.36
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.947053538350811
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.282985176261296
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.834393155604564
+
+> <JCHEM_POLAR_SURFACE_AREA>
+104.73000000000002
+
+> <JCHEM_REFRACTIVITY>
+111.52829999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.92e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04644
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+4-{4-[3-(2,4-DICHLORO-BENZOYL)-UREIDO]-2,3-DIMETHYL-PHENOXY}-BUTYRIC ACID
+
+$$$$

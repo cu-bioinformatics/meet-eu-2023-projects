@@ -1,0 +1,168 @@
+
+  Mrv1909 01172001182D          
+
+ 23 25  0  0  0  0            999 V2000
+   -2.5006   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861   -1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -2.2687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -2.2687    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.6187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716    1.8562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7861    2.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7861    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+ 11  5  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 10  1  0  0  0  0
+ 13 12  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 14 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB06530
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCOCC1=NC2=C(N)N=C3C=CC=CC3=C2N1CC(C)(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H22N4O2/c1-4-23-9-13-20-14-15(21(13)10-17(2,3)22)11-7-5-6-8-12(11)19-16(14)18/h5-8,22H,4,9-10H2,1-3H3,(H2,18,19)
+
+> <INCHI_KEY>
+BXNMTOQRYBFHNZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H22N4O2
+
+> <MOLECULAR_WEIGHT>
+314.3822
+
+> <EXACT_MASS>
+314.174275968
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+45
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.006693231234370632
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.008911034714785
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[4-amino-2-(ethoxymethyl)-1H-imidazo[4,5-c]quinolin-1-yl]-2-methylpropan-2-ol
+
+> <ALOGPS_LOGP>
+2.24
+
+> <JCHEM_LOGP>
+1.7191671199999998
+
+> <ALOGPS_LOGS>
+-3.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.881768856409114
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.911488870330752
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.829921934063051
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.19
+
+> <JCHEM_REFRACTIVITY>
+89.79240000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+edaglitazone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB06530
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Resiquimod
+
+> <SYNONYMS>
+Resiquimod
+
+$$$$

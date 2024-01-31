@@ -1,0 +1,159 @@
+
+  Mrv0541 09041212552D          
+
+ 16 17  0  0  0  0            999 V2000
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712    1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    2.9750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    2.7604    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2793    0.7879    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8371    2.7559    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3239    2.3194    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  5  2  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  3  1  0  0  0  0
+  9  4  1  0  0  0  0
+  9  7  1  0  0  0  0
+  5 10  1  6  0  0  0
+  6 11  1  1  0  0  0
+  8 12  1  1  0  0  0
+  5 13  1  1  0  0  0
+  6 14  1  6  0  0  0
+  7 15  1  6  0  0  0
+  8 16  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+DB02034
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@@]1(O)CN2CCC[C@@]([H])(O)[C@]2([H])[C@]1([H])O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO3/c10-5-2-1-3-9-4-6(11)8(12)7(5)9/h5-8,10-12H,1-4H2/t5-,6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+FXUAIOOAOAVCGD-WCTZXXKLSA-N
+
+> <FORMULA>
+C8H15NO3
+
+> <MOLECULAR_WEIGHT>
+173.2096
+
+> <EXACT_MASS>
+173.105193351
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+27
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9966264134121494
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.83899743378
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,2R,8R,8aR)-octahydroindolizine-1,2,8-triol
+
+> <ALOGPS_LOGP>
+-1.52
+
+> <JCHEM_LOGP>
+-1.4067957670000002
+
+> <ALOGPS_LOGS>
+0.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.381898358860454
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.284673320768636
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.470513713136212
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.93000000000001
+
+> <JCHEM_REFRACTIVITY>
+43.117799999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB02034
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT02983; DB06425
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+Tridolgosir
+
+> <SYNONYMS>
+(1S,2R,8R,8AR)-octahydro-1,2,8-indolizinetriol; Swainosine; Tridolgosir
+
+> <SALTS>
+Tridolgosir hydrochloride
+
+$$$$

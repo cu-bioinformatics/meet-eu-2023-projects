@@ -1,0 +1,195 @@
+
+  Mrv1909 02062023102D          
+
+ 30 33  0  0  0  0            999 V2000
+    1.6405   -1.1331    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6405   -0.2902    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8156   -1.1175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8156   -0.2824    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.4316   -1.3674    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4239   -0.0482    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6595   -0.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8975   -0.7195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1054    0.1313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3934    0.1859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6893   -2.1638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3856    1.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1680   -1.5392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1193   -0.2121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6673   -1.0134    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4233   -2.1638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1976   -2.6528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1273    1.4272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8221    0.1884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8170    1.0836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5325   -0.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5325   -1.2738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1116   -1.0629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7376    1.4428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1350    2.3121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8456   -1.4298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7376    2.2444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5325   -1.1331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4558    2.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6328    0.4122    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  1  1  0  0  0  0
+  6  2  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  5  1  0  0  0  0
+  4  9  1  1  0  0  0
+ 10  7  1  0  0  0  0
+  5 11  1  6  0  0  0
+ 12 10  1  0  0  0  0
+ 13  3  2  0  0  0  0
+ 14 10  2  0  0  0  0
+ 15  7  2  0  0  0  0
+ 16 11  1  0  0  0  0
+ 17 11  2  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19 14  1  0  0  0  0
+ 20 19  2  0  0  0  0
+ 21  8  1  0  0  0  0
+ 22  8  1  0  0  0  0
+ 23 14  1  0  0  0  0
+ 24 12  2  0  0  0  0
+ 25 18  2  0  0  0  0
+ 26 23  1  0  0  0  0
+ 27 24  1  0  0  0  0
+ 28 26  1  0  0  0  0
+ 29 27  2  0  0  0  0
+  2 30  1  6  0  0  0
+  6  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 25 29  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00607
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)C1=C(OCC)C=CC2=CC=CC=C12)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H22N2O5S/c1-4-28-13-10-9-11-7-5-6-8-12(11)14(13)17(24)22-15-18(25)23-16(20(26)27)21(2,3)29-19(15)23/h5-10,15-16,19H,4H2,1-3H3,(H,22,24)(H,26,27)/t15-,16+,19-/m1/s1
+
+> <INCHI_KEY>
+GPXLMGHLHQJAGZ-JTDSTZFVSA-N
+
+> <FORMULA>
+C21H22N2O5S
+
+> <MOLECULAR_WEIGHT>
+414.475
+
+> <EXACT_MASS>
+414.124942514
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+51
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.9997962657360288
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+42.22398600842352
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,5R,6R)-6-(2-ethoxynaphthalene-1-amido)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+3.21
+
+> <JCHEM_LOGP>
+2.2891260173333334
+
+> <ALOGPS_LOGS>
+-4.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.984842945392675
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3094089455406515
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8757405625251076
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.94
+
+> <JCHEM_REFRACTIVITY>
+108.13840000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.72e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cefazolin sodium
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00607
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD01130; DB08269
+
+> <DRUG_GROUPS>
+approved; investigational
+
+> <GENERIC_NAME>
+Nafcillin
+
+> <SYNONYMS>
+(2-ethoxy-1-naphthalenyl)penicillin; (2-ethoxy-1-naphthyl)penicillin; (2S,5R,6R)-6-[(2-ethoxy-1-naphthoyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid; 6-(2-ethoxy-1-naphthamido)penicillanic acid; Nafcilina; Nafcillin; Nafcilline; Nafcillinum; Naphcillin
+
+> <PRODUCTS>
+Nafcillin; Nafcillin Sodium; Unipen Injection Pws 500mg/vial
+
+> <INTERNATIONAL_BRANDS>
+Nallpen; Unipen
+
+> <SALTS>
+Nafcillin sodium
+
+$$$$

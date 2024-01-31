@@ -1,0 +1,168 @@
+
+  Mrv1652310211604552D          
+
+ 26 28  0  0  1  0            999 V2000
+   -3.6917   -0.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9772   -0.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9772   -1.5386    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.6917   -1.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4061   -1.5386    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4061   -0.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2627   -1.9511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2627   -2.7761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5483   -1.5386    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8338   -1.9511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1193   -1.5386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1193   -0.7136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5952   -1.9511    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5335   -2.7738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1383   -3.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9541   -3.2120    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8311   -2.2645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2768   -1.4864    0.0000 N   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0652   -1.7295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6263   -1.1248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3666   -2.4975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1893   -2.5592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6540   -1.8775    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1187   -1.1959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3356   -2.3423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9723   -1.4128    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  3  7  1  1  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 11  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  1  0  0  0
+ 18 17  1  1  0  0  0
+ 13 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB13090
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OS(=O)(=O)ON1[C@H]2C[N@]([C@@H](CC2)C(=O)NNC(=O)[C@@H]2CCCNC2)C1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H21N5O7S/c19-11(8-2-1-5-14-6-8)15-16-12(20)10-4-3-9-7-17(10)13(21)18(9)25-26(22,23)24/h8-10,14H,1-7H2,(H,15,19)(H,16,20)(H,22,23,24)/t8-,9-,10+/m1/s1
+
+> <INCHI_KEY>
+YCZPXRQPDCXTIO-BBBLOLIVSA-N
+
+> <FORMULA>
+C13H21N5O7S
+
+> <MOLECULAR_WEIGHT>
+391.4
+
+> <EXACT_MASS>
+391.11616921
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_ATOM_COUNT>
+47
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.22079798439428
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(1R,2S,5R)-7-oxo-2-({[(3R)-piperidin-3-yl]formohydrazido}carbonyl)-1,6-diazabicyclo[3.2.1]octan-6-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+-2.05
+
+> <JCHEM_LOGP>
+-3.310585027910072
+
+> <ALOGPS_LOGS>
+-2.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.10088588704398
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.971985239336262
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.161086948539714
+
+> <JCHEM_POLAR_SURFACE_AREA>
+157.37999999999997
+
+> <JCHEM_REFRACTIVITY>
+85.62689999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.13e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1R,2S,5R)-7-oxo-2-{[(3R)-piperidin-3-ylformohydrazido]carbonyl}-1,6-diazabicyclo[3.2.1]octan-6-yl]oxidanesulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB13090
+
+> <DRUG_GROUPS>
+investigational
+
+> <GENERIC_NAME>
+Zidebactam
+
+> <SYNONYMS>
+Zidebactam
+
+$$$$

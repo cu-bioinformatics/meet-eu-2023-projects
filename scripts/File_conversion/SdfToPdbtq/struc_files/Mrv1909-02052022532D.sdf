@@ -1,0 +1,172 @@
+
+  Mrv1909 02052022532D          
+
+ 20 20  0  0  0  0            999 V2000
+   -0.3602    1.0276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3543    1.4398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3602    0.2021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0749    1.4408    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0688    1.0265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3555    2.2700    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3513   -0.2127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0766   -0.2070    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7902    1.0358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0659    0.1994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7834    1.4388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0348    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4980    1.4455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7944    0.2074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7894   -0.2086    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7834    2.2643    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4980    1.0257    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0700   -1.4450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7802   -1.0338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0694   -2.2700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00271
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CC(=O)NC1=C(I)C(C(O)=O)=C(I)C(NC(C)=O)=C1I
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H9I3N2O4/c1-3(17)15-9-6(12)5(11(19)20)7(13)10(8(9)14)16-4(2)18/h1-2H3,(H,15,17)(H,16,18)(H,19,20)
+
+> <INCHI_KEY>
+YVPYQUNUQOZFHG-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H9I3N2O4
+
+> <MOLECULAR_WEIGHT>
+613.9136
+
+> <EXACT_MASS>
+613.769637046
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.000005929566332
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.42827169751957
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,5-diacetamido-2,4,6-triiodobenzoic acid
+
+> <ALOGPS_LOGP>
+2.27
+
+> <JCHEM_LOGP>
+2.8930828936666666
+
+> <ALOGPS_LOGS>
+-3.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+-1
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.841682571367873
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.167669970099123
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.240460823875686
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.5
+
+> <JCHEM_REFRACTIVITY>
+103.12769999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.07e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cephalexin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00271
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00913
+
+> <DRUG_GROUPS>
+approved; vet_approved
+
+> <GENERIC_NAME>
+Diatrizoate
+
+> <SYNONYMS>
+2,4,6-Triiodo-3,5-diacetamidobenzoic acid; 3,5-Bis(acetylamino)-2,4,6-triiodobenzoic acid; 3,5-diacetamido-2,4,6-triiodobenzoic acid; Acide amidotrizoique; Acidum amidotrizoicum; Acidum diacetylaminotrijodbenzoicum; Amidotrizoate; Amidotrizoic Acid; Amidotrizoic acid (anhydrous); Diatrizoesaure; Diatrizoic acid; Diatrizoic acid (anhydrous); Methalamic acid; Triombrin; Urografin acid; Urogranoic acid
+
+> <PRODUCTS>
+Cystografin; Cystografin Dilute; Diatrizoate Meglumine and Diatrizoate Sodium; Gastrografin; Gastrografin Liq; Hypaque; Hypaque - Cysto; Hypaque Oral Liquid - 50g/120ml; Hypaque Oral Liquid 50gm/120ml; Hypaque Oral Powder; Hypaque Oral Powder 0.9974g/g; Hypaque Pwr 100%; Hypaque Sodium; Hypaque Sodium 50% - Liq IV; Hypaque Sodium 50% Liq; Hypaque Sodium Liq 50%; Hypaque-M 18%; Hypaque-M 18% Liq; Hypaque-M 30%; Hypaque-M 30% Liq; Hypaque-M 60%; Hypaque-M 60% Liq; Hypaque-M 76%; Hypaque-M 76% Liq; Hypaque-M Liq 76% USP; Md Gastroview; Md-60; Md-76; Md-76r; Reno-30; Reno-60; Reno-M-60; Reno-M-dip Liq 30%; Reno-dip; RenoCal-76; Renografin-60; Renografin-60 - Liq IV; Renografin-60 Liq; Renografin-76 - Liq IV; Renografin-76 Liq; Sinografin; Sinografin - Liq Iu
+
+> <INTERNATIONAL_BRANDS>
+Cardiografin; Odiston; Urovison; Urovist
+
+> <SALTS>
+Diatrizoate meglumine; Diatrizoate sodium; Diatrizoic acid dihydrate
+
+$$$$

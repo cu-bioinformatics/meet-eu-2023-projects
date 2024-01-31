@@ -1,0 +1,167 @@
+LOI
+  Mrv0541 02241213522D          
+
+ 24 26  0  0  0  0            999 V2000
+   -1.5222   -0.9666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8578   -0.2129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2168   -0.3854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6504    2.8865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2636   -3.7435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7018   -1.0528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2379    1.6169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0675    1.0357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1025    2.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2235    1.8756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1884   -3.5135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3179    2.4016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3729    0.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5524    0.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8511   -2.4739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9311   -3.2586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0629    1.6169    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6761   -2.4739    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7084    1.2082    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7530    0.9495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5962   -3.2586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4030    1.7894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9830    2.4016    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3662   -1.8065    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4 12  2  0  0  0  0
+  4 23  1  0  0  0  0
+  5 16  2  0  0  0  0
+  5 21  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7 17  2  0  0  0  0
+  7 20  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 22  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 15 21  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08118
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CNC1=C(C=C(SC2=NN=CN2C)C=C1)C(=O)NC1=NC(C)=CS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H16N6OS2/c1-9-7-23-14(18-9)19-13(22)11-6-10(4-5-12(11)16-2)24-15-20-17-8-21(15)3/h4-8,16H,1-3H3,(H,18,19,22)
+
+> <INCHI_KEY>
+XRJAKERBMMBUGR-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H16N6OS2
+
+> <MOLECULAR_WEIGHT>
+360.457
+
+> <EXACT_MASS>
+360.082700544
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+40
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-1.950778507108562e-05
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.23265859816101
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-methyl-1,3-thiazol-2-yl)-5-[(4-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]-2-(methylamino)benzamide
+
+> <ALOGPS_LOGP>
+2.52
+
+> <JCHEM_LOGP>
+2.6800755543333334
+
+> <ALOGPS_LOGS>
+-3.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.224167351276733
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.456980382732942
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.1161933448401844
+
+> <JCHEM_POLAR_SURFACE_AREA>
+84.72999999999999
+
+> <JCHEM_REFRACTIVITY>
+101.28359999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.08e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08118
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+2-(methylamino)-N-(4-methyl-1,3-thiazol-2-yl)-5-[(4-methyl-4H-1,2,4-triazol-3-yl)sulfanyl]benzamide
+
+$$$$

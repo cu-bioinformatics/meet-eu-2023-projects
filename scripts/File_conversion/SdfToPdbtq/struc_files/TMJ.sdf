@@ -1,0 +1,158 @@
+TMJ
+  Mrv0541 02241214132D          
+
+ 21 23  0  0  0  0            999 V2000
+    1.8201   -0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4668    1.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8957    0.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8957    1.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1812    0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1812    1.8260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4668    0.5885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3911   -0.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1056    1.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5345    0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8201    1.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6102    0.1760    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7523    1.8260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0378    1.4135    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4503    0.6990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6253    2.1280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3233    1.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3911    1.4135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3233    0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1056    0.1760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5345    1.0010    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  2  0  0  0  0
+  9 18  2  0  0  0  0
+  9 20  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 21  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB08631
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+ClC1=CC=C(NS(=O)(=O)C2=CC=C3CCNCC3=C2)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H15ClN2O2S/c16-13-2-4-14(5-3-13)18-21(19,20)15-6-1-11-7-8-17-10-12(11)9-15/h1-6,9,17-18H,7-8,10H2
+
+> <INCHI_KEY>
+UVSIFVBCHJEYJP-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H15ClN2O2S
+
+> <MOLECULAR_WEIGHT>
+322.81
+
+> <EXACT_MASS>
+322.054276131
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+36
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.8064975749584018
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+31.655824249104658
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+N-(4-chlorophenyl)-1,2,3,4-tetrahydroisoquinoline-7-sulfonamide
+
+> <ALOGPS_LOGP>
+2.38
+
+> <JCHEM_LOGP>
+1.9252863072377109
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.6937988158574315
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.587949676440171
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+84.2526
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.37e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB08631
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+N-(4-CHLOROPHENYL)-1,2,3,4-TETRAHYDROISOQUINOLINE-7-SULFONAMIDE
+
+$$$$

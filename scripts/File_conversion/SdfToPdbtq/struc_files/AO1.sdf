@@ -1,0 +1,175 @@
+AO1
+  Mrv0541 02231217252D          
+
+ 27 28  0  0  0  0            999 V2000
+   -5.0064   -0.4218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2920   -0.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5775   -0.4218    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8630   -0.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1486   -0.4218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4341   -0.0093    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7196   -0.4218    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0052   -0.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7093   -0.4218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4238   -0.0093    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1383   -0.4218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0052    0.8157    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4238    0.8157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1383   -1.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8527   -1.6593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -1.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -0.4218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8527   -0.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2817   -0.0093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2817    0.8157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672    1.2282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8527    0.8157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7196   -1.2468    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4341    0.8157    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4341   -0.5933    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7196    0.1621    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4238   -0.5933    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 24  1  1  0  0  0
+  6 25  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7 23  1  6  0  0  0
+  7 26  1  6  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  6  0  0  0
+ 10 27  1  6  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB04108
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+[H][C@](N)(CCSCC)[C@]([H])(O)C(=O)N[C@@]([H])(C)C1=C2C=CC=CC2=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H26N2O2S/c1-3-24-12-11-17(20)18(22)19(23)21-13(2)15-10-6-8-14-7-4-5-9-16(14)15/h4-10,13,17-18,22H,3,11-12,20H2,1-2H3,(H,21,23)/t13-,17-,18-/m0/s1
+
+> <INCHI_KEY>
+AIIOXZPEXXZCML-KKXDTOCCSA-N
+
+> <FORMULA>
+C19H26N2O2S
+
+> <MOLECULAR_WEIGHT>
+346.487
+
+> <EXACT_MASS>
+346.171498776
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+50
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.982649160752162
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.964655330783586
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3S)-3-amino-5-(ethylsulfanyl)-2-hydroxy-N-[(1S)-1-(naphthalen-1-yl)ethyl]pentanamide
+
+> <ALOGPS_LOGP>
+2.55
+
+> <JCHEM_LOGP>
+2.242670462666666
+
+> <ALOGPS_LOGS>
+-4.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.978288867354125
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.573602915180862
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.75314620343098
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.35
+
+> <JCHEM_REFRACTIVITY>
+100.5468
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.18e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+biotin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB04108
+
+> <SECONDARY_ACCESSION_NUMBERS>
+EXPT00526
+
+> <DRUG_GROUPS>
+experimental
+
+> <GENERIC_NAME>
+(2s,3r)-3-Amino-2-Hydroxy-5-(Ethylsulfanyl)Pentanoyl-((S)-(-)-(1-Naphthyl)Ethyl)Amide
+
+$$$$

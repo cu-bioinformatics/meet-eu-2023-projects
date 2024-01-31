@@ -1,0 +1,160 @@
+1325
+  Mrv0541 02231215232D          
+
+ 18 19  0  0  1  0            999 V2000
+    6.7049    1.0624    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    6.7049   -0.6272    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -1.4322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1200    0.0856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2896   -1.3400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929    1.0425    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786   -0.1949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4176   -1.0425    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0786    0.6300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073    0.6300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3641    1.0425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5073   -0.1949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7929   -0.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2446   -0.6359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9921   -0.2121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2446    1.0711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9921    0.6472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498    0.6300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 13  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB01325
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+CCC1NC(=O)C2=CC(=C(Cl)C=C2N1)S(N)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12ClN3O3S/c1-2-9-13-7-4-6(11)8(18(12,16)17)3-5(7)10(15)14-9/h3-4,9,13H,2H2,1H3,(H,14,15)(H2,12,16,17)
+
+> <INCHI_KEY>
+AGMMTXLNIQSRCG-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H12ClN3O3S
+
+> <MOLECULAR_WEIGHT>
+289.739
+
+> <EXACT_MASS>
+289.028789662
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+30
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+-0.0027631014189004625
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.298896266392735
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-chloro-2-ethyl-4-oxo-1,2,3,4-tetrahydroquinazoline-6-sulfonamide
+
+> <ALOGPS_LOGP>
+1.60
+
+> <JCHEM_LOGP>
+1.1853977600000003
+
+> <ALOGPS_LOGS>
+-2.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.753212493865133
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.557680443675086
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9681634904036244
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.28999999999999
+
+> <JCHEM_REFRACTIVITY>
+69.34120000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.51e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB01325
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Quinethazone
+
+> <SYNONYMS>
+Chinetazone; Quinetazona; Quinethazon; Quinethazone; Quinethazonum
+
+> <INTERNATIONAL_BRANDS>
+Aquamox; Hydromox; Idrokin
+
+$$$$

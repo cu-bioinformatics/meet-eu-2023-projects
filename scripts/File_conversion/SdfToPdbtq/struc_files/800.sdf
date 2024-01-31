@@ -1,0 +1,173 @@
+800
+  Mrv0541 02231215012D          
+
+ 21 23  0  0  1  0            999 V2000
+    1.6500    0.3114    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.2859   -2.1079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7633   -1.3747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1733   -1.6396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2624    1.8673    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5932    0.4179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8499    0.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7768    1.2223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1066    0.4179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9230    1.2223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4373    1.8673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2382   -0.0965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9273   -0.7959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3892   -0.0552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2210   -1.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0062    0.2049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1153   -0.9123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4467   -0.9126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6512   -0.3095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7603   -1.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5283   -1.1252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4 21  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+DB00800
+
+> <DATABASE_NAME>
+drugbank
+
+> <SMILES>
+OC1=CC=C(C=C1)C1CNCCC2=C(Cl)C(O)=C(O)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H16ClNO3/c17-15-11-5-6-18-8-13(9-1-3-10(19)4-2-9)12(11)7-14(20)16(15)21/h1-4,7,13,18-21H,5-6,8H2
+
+> <INCHI_KEY>
+TVURRHSHRRELCG-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H16ClNO3
+
+> <MOLECULAR_WEIGHT>
+305.756
+
+> <EXACT_MASS>
+305.08187109
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+37
+
+> <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>
+0.9266091060392413
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.89439643043113
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6-chloro-1-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol
+
+> <ALOGPS_LOGP>
+2.39
+
+> <JCHEM_LOGP>
+1.920520197192234
+
+> <ALOGPS_LOGS>
+-3.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NEUTRAL_CHARGE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+9.706175529253164
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.117505370293962
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.404716561658438
+
+> <JCHEM_POLAR_SURFACE_AREA>
+72.72
+
+> <JCHEM_REFRACTIVITY>
+82.68470000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.72e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tetrahydrofolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <DRUGBANK_ID>
+DB00800
+
+> <SECONDARY_ACCESSION_NUMBERS>
+APRD00969
+
+> <DRUG_GROUPS>
+approved
+
+> <GENERIC_NAME>
+Fenoldopam
+
+> <SYNONYMS>
+Fénoldopam; Fenoldopam; Fenoldopamum
+
+> <PRODUCTS>
+Corlopam; Fenoldopam Mesylate
+
+> <SALTS>
+Fenoldopam mesylate
+
+$$$$
