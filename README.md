@@ -13,11 +13,12 @@ Dr. Giulia Paiardi
 ZINC  
 ECBD
 ### Data Preparation
-PDBFixer
+PDBFixer  
+OpenBabel
 ### Binding Pocket Prediction
 Fpocket  
 FTMap   
-P2Rank
+PRankWeb
 ### Molecular Docking
 AutoDock Vina  
 DiffDock  
