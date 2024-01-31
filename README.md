@@ -23,7 +23,7 @@ PRankWeb
 AutoDock Vina  
 DiffDock  
 Glide  
-### Ligand characterization
+### Ligand Characterization
 *e*ToxPred  
 ChemmineR
 ### MD Simulation
