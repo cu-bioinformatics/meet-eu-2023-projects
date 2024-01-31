@@ -21,7 +21,7 @@ Files and folders :
 - 'find_top_scorers' : finds best scorers in folder of docking results
 - 'top_docking_scores' : contains the list of the 29 best scoring compounds along with their score
 - 'Sorbonne5_long_report' : long version of the report
-- 'Sorbonne5_short_report' : chorter version of the report (2 pages)
+- 'Sorbonne5_short_report' : shorter version of the report (2 pages)
 
 ![Team5_flowchart (2)](https://github.com/cu-bioinformatics/meet-eu-2023-projects/assets/148443412/a4ed48b7-4925-4b36-969e-0783498d00bf)
 
