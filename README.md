@@ -16,7 +16,7 @@ Pipeline :
 Files and folders :
 - 'PDB_from_SMILES' : generates 3D conformers from SMILES formula of a ligand and saves them as PDB files
 - 'conformations_ligands_pdb' : folder containing pdb files generated from SMILES formula (outputs of 'PDB_from_SMILES')
-- 'Team5_flowchart' : png file summing up our pipeline
+- 'Sorbonne5_flowchart' : png file summing up our pipeline
 - 'docking_loop' : folder containing the code files to prepare ligands, protein and run and loop for all candidates
 - 'find_top_scorers' : finds best scorers in folder of docking results
 - 'top_docking_scores' : contains the list of the 29 best scoring compounds along with their score
