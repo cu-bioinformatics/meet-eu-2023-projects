@@ -143,7 +143,7 @@ def main() -> int:
             ligand_features = get_ligand_features_df(
                 ligand_features_path, i, step=args.step
             )
-            features = create_features_df(ligand_features, target_features, model)
+            features = create_features_df(ligand_features, target_features.iloc[:len(ligand_features)], model)
             predicted = pd.DataFrame(model.predict(features), index=features.index)
             predicted.to_csv(file, header=False)
 
