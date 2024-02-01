@@ -1,0 +1,50 @@
+[INFO] Console - predicting pockets for proteins from dataset [6zsl.cif]
+[INFO] PredictPocketsRoutine - outdir: ./pockets
+[INFO] FeatureSetup - enabledFeatures: [chem, volsite, protrusion, bfactor, atom_table]
+[INFO] Dataset - processing dataset [6zsl.cif] using 0 threads
+[INFO] Dataset - 
+------------------------------------------------------------------------------------------------------------------------
+processing [6zsl.cif] (1/1)
+------------------------------------------------------------------------------------------------------------------------
+
+[INFO] Console - processing [6zsl.cif] (1/1)
+[INFO] Protein - loading protein [c:\Users\LALIN\Desktop\M2\S1\meetu_\Meet-U-2023-2024\NSP13\6zsl.cif]
+[INFO] PdbUtils - loading file [./NSP13/6zsl.cif]
+[ERROR] Dataset - error processing dataset item [6zsl.cif]
+java.io.FileNotFoundException: .\NSP13\6zsl.cif (Le fichier spécifié est introuvable)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:158) ~[?:?]
+	at cz.siret.prank.utils.Futils.bufferedFileInputStream(Futils.groovy:233) ~[p2rank.jar:?]
+	at cz.siret.prank.utils.Futils.inputStream(Futils.groovy:212) ~[p2rank.jar:?]
+	at cz.siret.prank.utils.Futils.inputStream(Futils.groovy:229) ~[p2rank.jar:?]
+	at cz.siret.prank.utils.PdbUtils.loadFromCifFile(PdbUtils.groovy:85) ~[p2rank.jar:?]
+	at cz.siret.prank.utils.PdbUtils.loadFromFile(PdbUtils.groovy:65) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Protein.loadFile(Protein.groovy:435) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Protein.load(Protein.groovy:418) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.loaders.DatasetItemLoader.loadPredictionPair(DatasetItemLoader.groovy:51) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Dataset$Item.loadPredictionPair(Dataset.groovy:841) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Dataset$Item.getPredictionPair(Dataset.groovy:823) ~[p2rank.jar:?]
+	at cz.siret.prank.program.routines.predict.PredictPocketsRoutine$_execute_closure1.doCall(PredictPocketsRoutine.groovy:92) ~[p2rank.jar:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at org.codehaus.groovy.reflection.CachedMethod.invoke(CachedMethod.java:343) ~[groovy-4.0.16.jar:4.0.16]
+	at groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:328) ~[groovy-4.0.16.jar:4.0.16]
+	at org.codehaus.groovy.runtime.metaclass.ClosureMetaClass.invokeMethod(ClosureMetaClass.java:279) ~[groovy-4.0.16.jar:4.0.16]
+	at groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1008) ~[groovy-4.0.16.jar:4.0.16]
+	at groovy.lang.Closure.call(Closure.java:433) ~[groovy-4.0.16.jar:4.0.16]
+	at groovy.lang.Closure.call(Closure.java:422) ~[groovy-4.0.16.jar:4.0.16]
+	at cz.siret.prank.domain.Dataset$1.processItem(Dataset.groovy:145) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Dataset.processssItem(Dataset.groovy:228) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Dataset.access$0(Dataset.groovy) ~[p2rank.jar:?]
+	at cz.siret.prank.domain.Dataset$2.call(Dataset.groovy:192) ~[p2rank.jar:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) [?:?]
+[INFO] Console - predicting pockets finished in 0 hours 0 minutes 18.489 seconds
+[INFO] Console - results saved to directory [c:\Users\LALIN\Desktop\M2\S1\meetu_\Meet-U-2023-2024\pockets]
+[INFO] Console - ERROR on processing 1 file(s):
+[INFO] Console -     [6zsl.cif]
+[INFO] Console - 
+[INFO] Console - Finished with ERROR in 0 hours 0 minutes 21.450 seconds.
