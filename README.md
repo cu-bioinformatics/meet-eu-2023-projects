@@ -1,7 +1,14 @@
-# NSP13-Ligand Docking Pipeline
+# Meet-EU 2023-2024 - NSP13-Ligand Docking Pipeline
 
 This repository contains a Python script for performing molecular docking of ligands with the NSP13 protein structure. The docking pipeline involves several steps including downloading the NSP13 structure, generating pockets, preparing ligands, and running docking simulations.
 
+## Authors (Sorbonne University Team 4)
+
+- Ekaterina Gaydukova
+- Mouna Ouattara
+- Alexis Constensoux
+- Fatemeh Kazemi
+  
 ## Prerequisites
 
 Make sure to run pip install -r requirements.txt
@@ -53,3 +60,8 @@ The `retrieve_docking_results` function retrieves docking results, calculates sc
 - Make sure to set the correct PDB identifier for the NSP13 structure.
 - Adjust docking parameters in the configuration file generated for AutoDock Vina if needed.
 
+## Data:
+- RCSB Protein Data Bank
+- ZINC20 database 
+- European Chemical Biology Library (ECBL) / Pilot Library
+- PubChem database
