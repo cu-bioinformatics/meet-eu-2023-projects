@@ -33,9 +33,9 @@ Molecular Docking : AutoDock Vina
 - <pre>GCN.py            : the file countaining the functions related to the Graph Convolutional Network</pre>
 
 ### c - Reports :
-- <pre>Report_MEET-U_SORBONNE_6.pdf     : The full report of our project </pre>
-- <pre>Summary_MEET-U_SORBONNE_6.pdf     : A smaller summary of our project. </pre>
-- <pre>Meet_EU_Slides.pdf     : The slides we used for the presentation of our project </pre>
+- <pre>Report_MEET-U_SORBONNE_6.pdf   : The full report of our project </pre>
+- <pre>Summary_MEET-U_SORBONNE_6.pdf  : A smaller summary of our project. </pre>
+- <pre>Meet_EU_Slides.pdf             : The slides we used for the presentation of our project </pre>
 
 
 
