@@ -7,9 +7,9 @@ Lorenzo Ballestra
 Mathys Delattre  
 Quentin Despretz  
 ## Supervisors
-Elodie LAINE
-Juliana SILVA BERNARDES
-Vaitea OPUU
+Elodie LAINE  
+Juliana SILVA BERNARDES  
+Vaitea OPUU  
 ## Approach 
 Creating a Graph Convolutional Network that aims to predict the docking score of inputs ligands on the targeted ATP binding site.
 ## Tools Used in Our Pipeline
