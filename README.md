@@ -7,9 +7,10 @@ Lorenzo Ballestra
 Mathys Delattre  
 Quentin Despretz  
 ## Supervisors
-Prof. Dr. Carl Herrmann  
-Dr. Giulia Paiardi
-##Approach 
+Elodie LAINE
+Juliana SILVA BERNARDES
+Vaitea OPUU
+## Approach 
 Creating a Graph Convolutional Network that aims to predict the docking score of inputs ligands on the targeted ATP binding site.
 ## Tools Used in Our Pipeline
 Molecular Docking : AutoDock Vina
@@ -19,15 +20,24 @@ Molecular Docking : AutoDock Vina
 - Create a dataset
 - Train the model
 - Evaluate the model
-Explain pipeline
-##Files
+- Questionning the results
 ## How to use this repository
-### a - Files and folders :
+### a - Notebook :
+- <pre>Meet_EU_Pipeline.ipynb     : the notebook containing the code to run our experiments. Every information and explanation is inside. </pre>
+
+### b - Files and folders :
 - <pre>Data/datasets     : the folder containing the results of our pre-precessed data put into datasets.csv </pre>
 - <pre>Data/library      : the folder containing the source dataset with pre-selected potential ligands </pre>
-- <pre>Data/train_test   : the folder containing a save of the training and testing sets that were used for the    <pre>                 corresponding models </pre>
+- <pre>Data/train_test   : the folder containing a save of the training and testing sets that were used for the corresponding models </pre>
 - <pre>Models/           : the folder containing a save of every model we trained</pre>
 - <pre>GCN.py            : the file countaining the functions related to the Graph Convolutional Network</pre>
+
+### c - Reports :
+- <pre>Report_MEET-U_SORBONNE_6.pdf     : The full report of our project </pre>
+- <pre>Summary_MEET-U_SORBONNE_6.pdf     : A smaller summary of our project. </pre>
+- <pre>Meet_EU_Slides.pdf     : The slides we used for the presentation of our project </pre>
+
+
 
 # What is Meet-EU 2023
 
