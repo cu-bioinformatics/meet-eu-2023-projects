@@ -23,7 +23,7 @@ Molecular Docking : AutoDock Vina
 - Questionning the results
 ## How to use this repository
 ### a - Notebook :
-- <pre>Meet_EU_Pipeline.ipynb     : the notebook containing the code to run our experiments. Every information and explanation is inside. </pre>
+- <pre>Meet_EU_Pipeline.ipynb     : Every information and explanation is inside this notebook. It contains the code to run our experiments.  </pre>
 
 ### b - Files and folders :
 - <pre>Data/datasets     : the folder containing the results of our pre-precessed data put into datasets.csv </pre>
