@@ -1,4 +1,35 @@
-# Meet-EU 2023
+
+# Meet-EU-2023/2024-Sorbonne6
+
+## Team Members
+Henri Guillon   
+Lorenzo Ballestra  
+Mathys Delattre  
+Quentin Despretz  
+## Supervisors
+Prof. Dr. Carl Herrmann  
+Dr. Giulia Paiardi
+##Approach 
+Creating a Graph Convolutional Network that aims to predict the docking score of inputs ligands on the targeted ATP binding site.
+## Tools Used in Our Pipeline
+Molecular Docking : AutoDock Vina
+## Pipeline
+- Preparation 
+- Docking on Vina
+- Create a dataset
+- Train the model
+- Evaluate the model
+Explain pipeline
+##Files
+## How to use this repository
+### a - Files and folders :
+- <pre>Data/datasets     : the folder containing the results of our pre-precessed data put into datasets.csv </pre>
+- <pre>Data/library      : the folder containing the source dataset with pre-selected potential ligands </pre>
+- <pre>Data/train_test   : the folder containing a save of the training and testing sets that were used for the    <pre>                 corresponding models </pre>
+- <pre>Models/           : the folder containing a save of every model we trained</pre>
+- <pre>GCN.py            : the file countaining the functions related to the Graph Convolutional Network</pre>
+
+# What is Meet-EU 2023
 
 An international team-based course organised by five 4EU+ member universities (Heidelberg, Milan, Paris, Prague, Warsaw) as part of the 4EU+ joint educational offer during the academic year 2023/2024.
 ![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
