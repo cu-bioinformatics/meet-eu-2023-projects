@@ -3,42 +3,29 @@
 An international team-based course organised by five 4EU+ member universities (Heidelberg, Milan, Paris, Prague, Warsaw) as part of the 4EU+ joint educational offer during the academic year 2023/2024.
 ![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
 
-## General
- “Meet-EU” is an international team-based course organised by five 4EU+ member universities (Heidelberg, Milan, Paris, Prague, Warsaw) as part of the 4EU+ joint educational offer during the academic year 2023/2024. Meet-EU has been designed to promote interdisciplinary training through research and welcomes students from different disciplines, from computer science, physics and mathematics to chemistry, biology and biotechnologies. 
+1. **Data Preparation and Feature Extraction**:
+   Converting SMILES strings to RDKit molecule objects and then to MACCS fingerprints, which serve as features for our models.
 
- Students are asked to address and solve a specific research problem under the supervision of tutors at each university. Students organize themselves in small groups of 4-5 students each. Each group works independently to propose a solution to the question. 
+2. **Clustering**:
+    We perform K-means clustering based on the fingerprints, which is a common approach for grouping molecules with similar structural features.
+   
+4. **Dimensionality Reduction**:
+   PCA is attempted on a similarity matrix, which is a valid approach for visualizing high-dimensional data. 
 
- ## Teams
- Each team has a separate branch placed within this repository.
-| Team Name | Link to the Github branch |
-| - | - |
-| Charles | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Charles) |
-| Heidelberg | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Heidelberg) |
-| Milano1 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Milano1) |
-| Milano2 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Milano2) |
-| Sorbonne1 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne1) |
-| Sorbonne2 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne2) |
-| Sorbonne3 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne3) |
-| Sorbonne4 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne4) |
-| Sorbonne5 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne5) |
-| Sorbonne6 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Sorbonne6) |
-| Warsaw1 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw1) |
-| Warsaw2 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw2) |
-| Warsaw3 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw3) |
-| Warsaw4 | [Link to the Team Branch](https://github.com/cu-bioinformatics/meet-eu-2023-projects/tree/Warsaw4) |
-## Team Pairing
-At mid-course, a face-to-face meeting will be held, the activities completed by each group will be discussed and the groups will be paired to implement a joint second step of the project. Paired teams should be preferably belong to different countries. 
+5. **Random Forest Regression**:
+   We use Random forest for predicting molecular properties based on fingerprints. We ensure that our training and test data are properly aligned and that the model's hyperparameters are tuned for optimal performance.
 
-The teams are paired as follows:
-| Pairs |
-| :-: |
-| Warsaw 4 - Paris 1 - Milano 1 |
-| Heidelberg 1 - Warsaw 1 - Sorbonne 5 |
-| Sorbonne 2 - Prag |
-| Warsaw 3 - Milano 2 - Sorbone 4 |
-| Warsaw 2 - Sorbone 3 - Sorbonne 6 |
+6. **Neural Network**:
+   We define a simple neural network architecture for regression. While the architecture is a good starting point, we did try experimenting with different layers, neurons, activation functions, and epochs to improve model performance. 
 
-## Troubleshooting
-GitHub allows me to grant you the access to your repository branch only after you accept the invitation to the repository. Therefore, don't hesitate to reach me out through [raising an Issue](https://github.com/cu-bioinformatics/meet-eu-2023-projects/issues), if it would take me too much time. 
+7. **Model Evaluation**:
+       Implementing metrics such as Mean Squared Error (MSE), R-squared, or Mean Absolute Error (MAE) would be beneficial for assessing model performance.
 
-Also, you can use the [Issues](https://github.com/cu-bioinformatics/meet-eu-2023-projects/issues) for any other problem that might occur.
+8. **Stability and Reproducibility**:
+   We attempt to increase the stability of predictions by averaging results over multiple iterations. This approach can help mitigate variability in predictions but also highlights the potential for model uncertainty.
+   
+9. **Chemical Data Manipulation**:
+   Adding known inhibitors and merging them with clusters for prediction.
+
+10. **Exporting Results**:
+    Saving results to CSV files for documentation and further analysis.
