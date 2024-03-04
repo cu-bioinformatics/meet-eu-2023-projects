@@ -14,7 +14,7 @@ for filename in os.scandir(directory):
   f = open(filename, "r") 		
   lines=list(f.readlines()) 		# list all lines
   f.close()		
-  score = lines[26][13:17] 			# is the score
+  score = lines[26][11:17] 			# is the score
   scoring[str(filename)]= float(score)
 
 # Find maximum
