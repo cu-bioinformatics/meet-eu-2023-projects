@@ -1,6 +1,4 @@
 # Meet-EU 2023
-
-An international team-based course organised by five 4EU+ member universities (Heidelberg, Milan, Paris, Prague, Warsaw) as part of the 4EU+ joint educational offer during the academic year 2023/2024.
 ![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
 
 1. **Data Preparation and Feature Extraction**:
