@@ -1,6 +1,5 @@
 # Meet-EU 2023
-![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png)
-
+![Meet-EU 2023](https://cu-bioinformatics.github.io/meet-eu-2023/assets/img/4eu.png) 
 1. **Data Preparation and Feature Extraction**:
    Converting SMILES strings to RDKit molecule objects and then to MACCS fingerprints, which serve as features for our models.
 
